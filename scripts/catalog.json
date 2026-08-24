@@ -1,0 +1,161 @@
+{
+  "halo": {
+    "steamAppId": 976730,
+    "msId": "9NTM9HXNLSZX",
+    "includeDlc": true
+  },
+  "xboxSteamPublishers": [
+    "Xbox Game Studios",
+    "Bethesda Softworks",
+    "343 Industries",
+    "Playground Games",
+    "Obsidian Entertainment",
+    "Ninja Theory",
+    "Double Fine Productions",
+    "Compulsion Games",
+    "inXile Entertainment",
+    "Rare Ltd",
+    "Mojang Studios",
+    "World's Edge",
+    "id Software"
+  ],
+  "xboxMsQueries": [
+    "Halo Master Chief Collection",
+    "Halo Infinite",
+    "Forza Horizon 5",
+    "Forza Motorsport",
+    "Sea of Thieves",
+    "Microsoft Flight Simulator",
+    "Age of Empires IV",
+    "Age of Empires II Definitive",
+    "Age of Mythology Retold",
+    "Grounded",
+    "Grounded 2",
+    "Hi-Fi RUSH",
+    "Pentiment",
+    "Psychonauts 2",
+    "Senua's Saga Hellblade II",
+    "Hellblade Senua's Sacrifice",
+    "Starfield",
+    "The Elder Scrolls IV Oblivion Remastered",
+    "The Elder Scrolls V Skyrim",
+    "Fallout 4",
+    "Fallout 76",
+    "DOOM Eternal",
+    "DOOM The Dark Ages",
+    "Indiana Jones and the Great Circle",
+    "Avowed",
+    "The Outer Worlds 2",
+    "South of Midnight",
+    "Gears 5",
+    "Gears Tactics",
+    "State of Decay 2",
+    "Ori and the Will of the Wisps",
+    "Cuphead",
+    "Minecraft Dungeons",
+    "As Dusk Falls",
+    "Ara: History Untold"
+  ],
+  "xboxPublisherPattern": "xbox game studios|bethesda|microsoft studios|343 industries|playground games|obsidian|ninja theory|double fine|compulsion|inxile|rare ltd|rare limited|mojang|turn 10|the coalition|world'?s edge|id software|zenimax|microsoft corporation|343",
+  "metaCatalog": [
+    {
+      "name": "Beat Saber",
+      "steamAppId": 620980,
+      "questUrl": "https://www.meta.com/experiences/beat-saber/2448060205267927/"
+    },
+    {
+      "name": "SUPERHOT VR",
+      "steamAppId": 617830,
+      "questUrl": "https://www.meta.com/experiences/superhot-vr/1074053236052088/"
+    },
+    {
+      "name": "Pistol Whip",
+      "steamAppId": 1079800,
+      "questUrl": "https://www.meta.com/experiences/pistol-whip/2652134308194190/"
+    },
+    {
+      "name": "Walkabout Mini Golf VR",
+      "steamAppId": 1408230,
+      "questUrl": "https://www.meta.com/experiences/walkabout-mini-golf/2655738844538476/"
+    },
+    {
+      "name": "Blade and Sorcery",
+      "steamAppId": 629730,
+      "questUrl": "https://www.meta.com/experiences/blade-and-sorcery-nomad/4233612076680997/"
+    },
+    {
+      "name": "BONELAB",
+      "steamAppId": 1592190,
+      "questUrl": "https://www.meta.com/experiences/bonelab/4609488079132065/"
+    },
+    {
+      "name": "BONEWORKS",
+      "steamAppId": 823500
+    },
+    {
+      "name": "The Walking Dead: Saints & Sinners",
+      "steamAppId": 916840,
+      "questUrl": "https://www.meta.com/experiences/the-walking-dead-saints-and-sinners/2564195347017125/"
+    },
+    {
+      "name": "Until You Fall",
+      "steamAppId": 858260,
+      "questUrl": "https://www.meta.com/experiences/until-you-fall/2365872676834098/"
+    },
+    {
+      "name": "Into the Radius VR",
+      "steamAppId": 1012790,
+      "questUrl": "https://www.meta.com/experiences/into-the-radius-vr/3778472758904624/"
+    },
+    {
+      "name": "Into the Radius 2",
+      "steamAppId": 2307350,
+      "questUrl": "https://www.meta.com/experiences/into-the-radius-2/8208479225872285/"
+    },
+    {
+      "name": "Eleven Table Tennis",
+      "steamAppId": 488310,
+      "questUrl": "https://www.meta.com/experiences/eleven-table-tennis/1421615357925116/"
+    },
+    {
+      "name": "Pavlov",
+      "steamAppId": 555160,
+      "questUrl": "https://www.meta.com/experiences/pavlov/1363383767099179/"
+    },
+    {
+      "name": "Half-Life: Alyx",
+      "steamAppId": 546560
+    },
+    {
+      "name": "Asgard's Wrath 2",
+      "questUrl": "https://www.meta.com/experiences/asgards-wrath-2/2532119463756771/"
+    },
+    {
+      "name": "Batman: Arkham Shadow",
+      "questUrl": "https://www.meta.com/experiences/batman-arkham-shadow/8205129262901843/"
+    },
+    {
+      "name": "Resident Evil 4 (Quest)",
+      "questUrl": "https://www.meta.com/experiences/resident-evil-4/7096090387115177/"
+    },
+    {
+      "name": "Resident Evil Village (Quest)",
+      "questUrl": "https://www.meta.com/experiences/resident-evil-village/3380317688710974/"
+    },
+    {
+      "name": "The Light Brigade",
+      "steamAppId": 1579880,
+      "questUrl": "https://www.meta.com/experiences/the-light-brigade/3778600995575526/"
+    },
+    {
+      "name": "Ghosts of Tabor",
+      "steamAppId": 1957780,
+      "questUrl": "https://www.meta.com/experiences/ghosts-of-tabor/6208655612531813/"
+    },
+    {
+      "name": "Contractors",
+      "steamAppId": 963930,
+      "questUrl": "https://www.meta.com/experiences/contractors/2667838503267743/"
+    }
+  ]
+}

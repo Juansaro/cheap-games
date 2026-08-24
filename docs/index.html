@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="dark" />
+    <meta
+      name="description"
+      content="Ofertas verificadas de Halo MCC, Xbox en PC y Meta VR. Precios reales, sin keys de terceros."
+    />
+    <title>SPARTAN INTEL // Ofertas Halo · Xbox PC · Meta VR</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Michroma&family=Orbitron:wght@500;700&family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="noise" aria-hidden="true"></div>
+    <div class="hex-field" aria-hidden="true"></div>
+    <div class="scanlines" aria-hidden="true"></div>
+    <div class="visor-frame" aria-hidden="true">
+      <span class="corner tl"></span>
+      <span class="corner tr"></span>
+      <span class="corner bl"></span>
+      <span class="corner br"></span>
+    </div>
+    <div class="sweep" aria-hidden="true"></div>
+
+    <div id="boot" class="boot" role="status">
+      <div class="boot-inner">
+        <p class="boot-kicker">UNSC // PRICE INTEL UPLINK</p>
+        <h1 class="boot-title">ESTABLISHING VISOR LINK</h1>
+        <div class="boot-bar"><span></span></div>
+        <p class="boot-log" id="boot-log">handshake://store.steampowered.com</p>
+      </div>
+    </div>
+
+    <header class="hud-top">
+      <div class="brand">
+        <svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true">
+          <polygon points="32,4 58,18 58,46 32,60 6,46 6,18" fill="none" stroke="currentColor" stroke-width="2" />
+          <polygon points="32,16 46,24 46,40 32,48 18,40 18,24" fill="currentColor" opacity="0.15" />
+          <path d="M32 22 L40 38 H24 Z" fill="currentColor" />
+        </svg>
+        <div>
+          <p class="brand-kicker">SPARTAN INTEL</p>
+          <h1>Ofertas verificadas</h1>
+        </div>
+      </div>
+      <div class="hud-clocks">
+        <div>
+          <span class="label">Última actualización</span>
+          <strong id="updated-at">—</strong>
+          <span class="tz">(Bogotá)</span>
+        </div>
+        <div>
+          <span class="label">Reloj local Bogotá</span>
+          <strong id="live-clock">--:--:--</strong>
+        </div>
+      </div>
+    </header>
+
+    <nav class="faction-nav" aria-label="Secciones">
+      <a class="faction halo is-active" href="#halo">
+        <span class="dot"></span>
+        Halo TMCC
+      </a>
+      <a class="faction xbox" href="#xbox">
+        <span class="dot"></span>
+        Xbox en PC
+      </a>
+      <a class="faction meta" href="#meta">
+        <span class="dot"></span>
+        Meta VR
+      </a>
+    </nav>
+
+    <main>
+      <section id="halo" class="sector sector-halo" data-faction="halo">
+        <header class="sector-head">
+          <div class="sigil" aria-hidden="true">
+            <svg viewBox="0 0 80 80">
+              <circle cx="40" cy="40" r="28" fill="none" stroke="currentColor" stroke-width="2" />
+              <circle cx="40" cy="40" r="8" />
+              <path d="M40 8 V20 M40 60 V72 M8 40 H20 M60 40 H72" stroke="currentColor" stroke-width="2" />
+            </svg>
+          </div>
+          <div>
+            <p class="sector-kicker">UNSC // 343 INDUSTRIES</p>
+            <h2>Halo: The Master Chief Collection</h2>
+            <p class="sector-lede">
+              Precio vigente en Steam siempre visible. DLC y packs solo si hay descuento real.
+            </p>
+          </div>
+        </header>
+        <div id="halo-current" class="current-price"></div>
+        <div id="halo-grid" class="grid"></div>
+      </section>
+
+      <section id="xbox" class="sector sector-xbox" data-faction="xbox">
+        <header class="sector-head">
+          <div class="sigil" aria-hidden="true">
+            <svg viewBox="0 0 80 80">
+              <circle cx="40" cy="40" r="30" fill="none" stroke="currentColor" stroke-width="3" />
+              <path d="M22 50 Q40 18 58 50 Q40 62 22 50" fill="currentColor" />
+            </svg>
+          </div>
+          <div>
+            <p class="sector-kicker">PLAY ANYWHERE // WINDOWS PC</p>
+            <h2>Xbox en PC</h2>
+            <p class="sector-lede">
+              Microsoft Store / Xbox app para Windows y las mismas IPs en Steam. Nada de consolas sueltas.
+            </p>
+          </div>
+        </header>
+        <div id="xbox-grid" class="grid"></div>
+      </section>
+
+      <section id="meta" class="sector sector-meta" data-faction="meta">
+        <header class="sector-head">
+          <div class="sigil" aria-hidden="true">
+            <svg viewBox="0 0 80 80">
+              <path
+                d="M16 40 C16 24 28 14 40 14 C52 14 64 24 64 40 C64 56 52 66 40 66 C28 66 16 56 16 40 Z"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              />
+              <circle cx="28" cy="40" r="8" fill="none" stroke="currentColor" stroke-width="2" />
+              <circle cx="52" cy="40" r="8" fill="none" stroke="currentColor" stroke-width="2" />
+            </svg>
+          </div>
+          <div>
+            <p class="sector-kicker">HORIZON // QUEST 2 · 3 · 3S · STEAMVR</p>
+            <h2>Meta VR</h2>
+            <p class="sector-lede">
+              Quest Store cuando el precio se puede verificar. Equivalentes SteamVR del catálogo Meta.
+            </p>
+          </div>
+        </header>
+        <div id="meta-grid" class="grid"></div>
+      </section>
+    </main>
+
+    <footer class="hud-foot">
+      <p>
+        Solo tiendas oficiales (Steam, Microsoft/Xbox PC, Meta). Sin G2A ni keys de terceros. Si no hay
+        confirmación de precio, no se inventa la fila.
+      </p>
+      <p class="mono">cheap-games · briefing público · GitHub Pages</p>
+    </footer>
+
+    <noscript>
+      <p class="noscript">Activa JavaScript para el visor, o abre DEALS.md en el repositorio.</p>
+    </noscript>
+    <script src="js/app.js" defer></script>
+  </body>
+</html>

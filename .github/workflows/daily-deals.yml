@@ -1,0 +1,45 @@
+name: Daily deals
+
+on:
+  schedule:
+    # 10:00 America/Bogota = 15:00 UTC (Colombia no usa horario de verano)
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: daily-deals
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch verified store prices
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node scripts/fetch-deals.mjs
+
+      - name: Commit and push if the briefing changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/deals.json data/deals.json data/new-deals.json DEALS.md
+          if git diff --cached --quiet; then
+            echo "No price changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: refresh verified game deals (Bogotá)"
+          git push
