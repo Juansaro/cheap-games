@@ -10,8 +10,11 @@
   "kicker": "STEAMVR // PCVR",
   "blurb": "Ofertas verificadas en SteamVR. Equivalentes PC de títulos Quest cuando existen.",
   "reason": null,
-  "updatedAt": "2026-08-24T06:21:32.529Z",
-  "updatedAtBogota": "2026-08-24 01:21",
+  "sources": [
+    "official"
+  ],
+  "updatedAt": "2026-08-24T15:33:09.175Z",
+  "updatedAtBogota": "2026-08-24 10:33",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,

@@ -11,8 +11,11 @@
   "kicker": "NINTENDO // SWITCH 1 · 2",
   "blurb": "Switch 1 y Switch 2 compran en el eShop. Sin API pública estable; no hay filas inventadas.",
   "reason": "Nintendo eShop no ofrece una API de precios pública usable.",
-  "updatedAt": "2026-08-24T06:21:32.529Z",
-  "updatedAtBogota": "2026-08-24 01:21",
+  "sources": [
+    "official"
+  ],
+  "updatedAt": "2026-08-24T15:33:09.175Z",
+  "updatedAtBogota": "2026-08-24 10:33",
   "timezone": "America/Bogota",
   "emptyMessage": "Nintendo eShop no ofrece una API de precios pública usable.",
   "spotlight": null,
