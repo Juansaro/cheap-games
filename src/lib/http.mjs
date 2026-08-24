@@ -11,11 +11,17 @@ export function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+const FETCH_MS = 12000;
+
 export async function fetchText(url, { json = false, retries = 3 } = {}) {
   let lastErr;
   for (let i = 0; i < retries; i++) {
     try {
-      const res = await fetch(url, { headers: UA, redirect: "follow" });
+      const signal =
+        typeof AbortSignal !== "undefined" && typeof AbortSignal.timeout === "function"
+          ? AbortSignal.timeout(FETCH_MS)
+          : undefined;
+      const res = await fetch(url, { headers: UA, redirect: "follow", signal });
       if (res.status === 429 || res.status >= 500) {
         await sleep(1200 * (i + 1));
         lastErr = new Error(`HTTP ${res.status}`);

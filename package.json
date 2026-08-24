@@ -2,9 +2,12 @@
   "name": "cheap-games",
   "private": true,
   "type": "module",
-  "description": "Ofertas verificadas por tienda oficial — GitHub Pages",
+  "description": "Ofertas verificadas por tienda oficial y keys Eneba/G2A — GitHub Pages + API",
   "scripts": {
     "deals": "node scripts/fetch-deals.mjs",
-    "deals:split": "node scripts/fetch-deals.mjs --from-existing"
+    "deals:split": "node scripts/fetch-deals.mjs --from-existing",
+    "seed": "node --experimental-sqlite server/seed.mjs",
+    "ingest": "node --experimental-sqlite scripts/ingest.mjs",
+    "api": "node --experimental-sqlite server/api.mjs"
   }
 }

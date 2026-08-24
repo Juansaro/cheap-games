@@ -77,3 +77,46 @@ function startHudClock() {
   tickClock();
   setInterval(tickClock, 1000);
 }
+
+const SOURCE_KEY = "cheap-games-source";
+
+function currentSource() {
+  return localStorage.getItem(SOURCE_KEY) === "unofficial" ? "unofficial" : "official";
+}
+
+function apiBase() {
+  const override = localStorage.getItem("cheap-games-api");
+  if (override) return override.replace(/\/+$/, "");
+  return String(window.CHEAP_GAMES?.API_BASE || "").replace(/\/+$/, "");
+}
+
+function mountSourceToggle() {
+  const source = currentSource();
+  document.body.dataset.source = source;
+  document.querySelectorAll(".source-toggle [data-source]").forEach((btn) => {
+    btn.classList.toggle("is-active", btn.getAttribute("data-source") === source);
+    btn.addEventListener("click", () => {
+      const next = btn.getAttribute("data-source");
+      if (next === source) return;
+      localStorage.setItem(SOURCE_KEY, next);
+      location.reload();
+    });
+  });
+  const note = $("#source-note");
+  if (note) note.hidden = source !== "unofficial";
+  const foot = $("#hud-foot-copy");
+  if (foot) {
+    foot.textContent =
+      source === "unofficial"
+        ? "Carril Keys: solo Eneba y G2A. No son tiendas oficiales. Si el precio no se verifica, no hay fila."
+        : "Carril oficial: Steam, Xbox PC, SteamVR y Quest. Sin keys de terceros. Si no hay confirmación, no se inventa la fila.";
+  }
+}
+
+async function fetchApi(path) {
+  const base = apiBase();
+  if (!base) return null;
+  const res = await fetch(`${base}${path}`);
+  if (!res.ok) throw new Error(`API ${res.status}`);
+  return res.json();
+}

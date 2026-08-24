@@ -17,6 +17,7 @@
   --switch: #e60012;
   --play: #3ddc84;
   --apple: #d0d0d5;
+  --keys: #ffb020;
   --danger: #ff5d4a;
   --card: rgba(10, 16, 14, 0.72);
   --line: rgba(212, 180, 90, 0.28);
@@ -715,6 +716,7 @@ header.hud-top,
 .store-tile.accent-switch { --accent: var(--switch); }
 .store-tile.accent-play { --accent: var(--play); }
 .store-tile.accent-apple { --accent: var(--apple); }
+.store-tile.accent-keys { --accent: var(--keys); }
 
 .store-tile.is-deferred {
   opacity: 0.78;
@@ -809,6 +811,64 @@ header.hud-top,
 .intel-card[data-faction="switch"] { --accent: var(--switch); }
 .intel-card[data-faction="play"] { --accent: var(--play); }
 .intel-card[data-faction="apple"] { --accent: var(--apple); }
+.intel-card[data-faction="keys"] { --accent: var(--keys); }
+
+.source-toggle {
+  display: flex;
+  gap: 0;
+  border: 1px solid var(--line);
+  background: rgba(5, 8, 10, 0.82);
+}
+
+.source-toggle button {
+  font-family: var(--font-mono);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.source-toggle button.is-active {
+  color: #06110c;
+  background: var(--visor);
+}
+
+body[data-source="unofficial"] .source-toggle button.is-active {
+  background: var(--keys);
+}
+
+.source-note {
+  color: var(--keys);
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+}
+
+.store-search {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 12px;
+  max-width: 28rem;
+}
+
+.store-search input {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  color: var(--ink);
+  background: rgba(5, 8, 10, 0.82);
+  border: 1px solid var(--line);
+  padding: 8px 10px;
+}
+
+.store-page[data-accent="keys"] .sector-kicker,
+.store-page[data-accent="keys"] .brand-mark {
+  color: var(--keys);
+}
 
 @media (min-width: 720px) {
   .store-board {

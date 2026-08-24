@@ -16,6 +16,7 @@ import { loadPrevious, writeOutputs, writeStoreOutputs } from "../src/write/page
 
 const STORES = JSON.parse(readFileSync(join(CONFIG_DIR, "stores.json"), "utf8"));
 const CATALOG = JSON.parse(readFileSync(join(CONFIG_DIR, "catalog.json"), "utf8"));
+const OFFICIAL_STORES = STORES.filter((s) => (s.sources || ["official"]).includes("official"));
 
 function sectionsFromStores(storeResults) {
   const steam = storeResults.steam || { deals: [], spotlight: null, sections: {} };
@@ -49,7 +50,7 @@ function sectionsFromStores(storeResults) {
 
 async function collectLiveStores(ctx, previous) {
   const results = {};
-  for (const store of STORES) {
+  for (const store of OFFICIAL_STORES) {
     if (store.status !== "live") {
       results[store.id] = { deals: [], spotlight: null };
       continue;
@@ -79,7 +80,7 @@ async function collectLiveStores(ctx, previous) {
 
 function storesSlice(results) {
   const out = {};
-  for (const store of STORES) {
+  for (const store of OFFICIAL_STORES) {
     const slice = results[store.id] || { deals: [], spotlight: null };
     out[store.id] = { deals: slice.deals || [], spotlight: slice.spotlight || null };
   }
@@ -93,8 +94,8 @@ async function main() {
       throw new Error("No hay deals.json para partir por tienda. Corre npm run deals primero.");
     }
     const payload = JSON.parse(readFileSync(path, "utf8"));
-    const index = writeStoreOutputs(payload, STORES);
-    writeFileSync(DEALS_MD, toMd(payload, STORES));
+    const index = writeStoreOutputs(payload, OFFICIAL_STORES);
+    writeFileSync(DEALS_MD, toMd(payload, OFFICIAL_STORES));
     console.log(
       JSON.stringify(
         {
@@ -133,7 +134,7 @@ async function main() {
     .flatMap((slice) => slice.deals || [])
     .filter((d) => d.discountPercent > 0 && d.isNew);
 
-  const index = writeOutputs(payload, saleDeals, STORES);
+  const index = writeOutputs(payload, saleDeals, OFFICIAL_STORES);
   const issue = await maybeOpenIssue(payload, saleDeals);
   console.log(
     JSON.stringify(

@@ -2,9 +2,9 @@
 
 Briefing público de **ofertas verificadas por tienda oficial**.
 
-El visor vive en GitHub Pages. El hub carga solo `docs/data/index.json`. Cada tienda abre `store.html#steam` (un JSON propio). Si un precio no se puede confirmar, el juego no se inventa.
+El visor vive en GitHub Pages. El hub carga el índice (JSON estático o API). Toggle **Oficial / Keys** (Eneba y G2A). Si un precio no se puede confirmar, el juego no se inventa.
 
-Tiendas en vivo: Steam, Microsoft Store / Xbox PC, SteamVR, Meta Quest Store. PlayStation, Nintendo eShop, Google Play y App Store están en el mapa como fase 2 (sin filas falsas).
+Tiendas oficiales en vivo: Steam, Microsoft Store / Xbox PC, SteamVR, Meta Quest Store. PlayStation, Nintendo eShop, Google Play y App Store siguen sin API pública (sin filas falsas). Keys: solo Eneba y G2A, vía la API en la VM.
 
 ## Cómo se actualiza sin tu PC encendido
 
@@ -41,7 +41,18 @@ Si ya tienes `docs/data/deals.json` y solo quieres partirlo por tienda:
 npm run deals:split
 ```
 
-Luego **Actions → Daily deals → Run workflow** en GitHub, o corre la automatización de Cursor con **Run now**.
+```bash
+npm run seed   # SQLite desde los JSON oficiales actuales
+npm run api    # API en :8787
+```
+
+En el visor local (`npx serve docs -l 4173`) puedes apuntar a la API:
+
+```js
+localStorage.setItem("cheap-games-api", "http://127.0.0.1:8787");
+```
+
+En producción, edita `docs/js/config.js` (`API_BASE`) y ver [`deploy/README.md`](./deploy/README.md) para systemd en Oracle (10:00 Bogotá).
 
 ## Estructura
 
@@ -58,14 +69,15 @@ cheap-games/
     index.html               # hub: solo el índice de tiendas
     store.html               # una tienda: #steam | #xbox | #steam/2
     css/styles.css
-    js/hud.js hub.js store.js
-    data/index.json          # lo único que carga el hub
-    data/stores/{id}.json    # ofertas de esa tienda
-    data/deals.json          # agregado (automatización / compat)
-  data/deals.json
-  data/new-deals.json
-  DEALS.md
-  scripts/fetch-deals.mjs    # CLI: orquesta collectors
+    js/config.js hud.js hub.js store.js
+    data/index.json          # fallback oficial si la API no responde
+    data/stores/{id}.json
+    data/deals.json
+  server/                    # API + SQLite (VM Oracle)
+  data/catalog.sqlite        # no se commitea; npm run seed
+  scripts/fetch-deals.mjs    # snapshot oficial → Pages
+  scripts/ingest.mjs         # oficial + keys → SQLite
+  deploy/                    # systemd API + timer 10:00 Bogotá
   .github/workflows/daily-deals.yml
   AUTOMATION.md
 ```
@@ -78,14 +90,13 @@ Halo MCC **siempre** aparece como spotlight en Steam, aunque no esté en oferta.
 
 ## Fuentes
 
-- Steam: `store.steampowered.com/api/appdetails` + búsqueda de specials por publisher.
-- Xbox PC: Microsoft Store search + Display Catalog (`Windows.Desktop` / Play Anywhere).
-- Meta: ficha pública de Quest si responde; si Meta bloquea el bot, la tienda Quest queda vacía y SteamVR sigue aparte.
+- Steam, Xbox PC, Meta: igual que antes.
+- Keys: fichas públicas de Eneba y G2A con precio en JSON-LD. Si bloquean la lectura, el carril queda vacío.
 
-Sin G2A ni keys de terceros. Sin secretos en el repo.
+Oficial y Keys no se mezclan en el mismo grid. Toggle en el header.
 
 ## Ampliar la lista
 
 - **Más ofertas en tiendas vivas:** edita `config/catalog.json`.
 - **Nueva tienda en el mapa:** agrega una entrada en `config/stores.json` (`live` o `deferred`). Si es `live`, añade `src/collectors/{id}.mjs` que exporte `collect(ctx)` y regístralo en `src/collectors/index.mjs`. El writer emite `docs/data/stores/{id}.json` y el hub la pinta sin tocar HTML.
-- **Catálogo completo Android/iOS/PS5/Switch:** fase 2, con backend. No se mezcla en el scroll estático.
+- **Catálogo / Keys:** la API pagina en SQLite. Eneba y G2A son `sources: ["unofficial"]` en `config/stores.json`.

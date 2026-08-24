@@ -65,6 +65,10 @@
           <span class="label">Ofertas vivas</span>
           <strong id="live-count">—</strong>
         </div>
+        <div class="source-toggle" role="group" aria-label="Fuente de precios">
+          <button type="button" data-source="official">Oficial</button>
+          <button type="button" data-source="unofficial">Keys</button>
+        </div>
       </div>
     </header>
 
@@ -79,11 +83,14 @@
             </svg>
           </div>
           <div>
-            <p class="sector-kicker">MAPA // TIENDAS OFICIALES</p>
-            <h2>Elige una tienda</h2>
-            <p class="sector-lede">
-              El hub solo carga el índice. Cada tienda abre su propio JSON. Sin catálogo masivo de
-              Android, iOS, PS5 o Switch en este scroll.
+            <p class="sector-kicker" id="hub-kicker">MAPA // TIENDAS OFICIALES</p>
+            <h2 id="hub-title">Elige una tienda</h2>
+            <p class="sector-lede" id="hub-lede">
+              El hub solo carga el índice. Cada tienda abre su propio JSON o la API. Sin catálogo
+              masivo en este scroll. Toggle Oficial / Keys arriba.
+            </p>
+            <p class="source-note" id="source-note" hidden>
+              Keys de terceros (Eneba, G2A). No son la tienda oficial. Riesgo de región o ban.
             </p>
           </div>
         </header>
@@ -106,9 +113,9 @@
     </main>
 
     <footer class="hud-foot">
-      <p>
-        Solo tiendas oficiales. Sin G2A ni keys de terceros. Si no hay confirmación de precio, no se
-        inventa la fila. Atajos: 1–4 abren las tiendas en vivo.
+      <p id="hud-foot-copy">
+        Carril oficial: Steam, Xbox PC, SteamVR y Quest. Sin keys de terceros. Si no hay confirmación,
+        no se inventa la fila. Atajos: 1–4 abren las tiendas en vivo.
       </p>
       <p class="mono">cheap-games · briefing público · GitHub Pages</p>
     </footer>
@@ -116,6 +123,7 @@
     <noscript>
       <p class="noscript">Activa JavaScript para el visor, o abre DEALS.md en el repositorio.</p>
     </noscript>
+    <script src="js/config.js"></script>
     <script src="js/hud.js" defer></script>
     <script src="js/hub.js" defer></script>
   </body>

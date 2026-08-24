@@ -71,6 +71,7 @@ export function writeStoreOutputs(payload, stores) {
       kicker: store.kicker,
       blurb: store.blurb,
       reason: store.reason || null,
+      sources: store.sources || ["official"],
       updatedAt: payload.updatedAt,
       updatedAtBogota: payload.updatedAtBogota,
       timezone: payload.timezone,

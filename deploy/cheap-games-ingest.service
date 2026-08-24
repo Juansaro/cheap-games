@@ -1,0 +1,9 @@
+[Unit]
+Description=cheap-games ingest (official + Eneba/G2A)
+After=network.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/cheap-games
+Environment=NODE_OPTIONS=--experimental-sqlite
+ExecStart=/usr/bin/node scripts/ingest.mjs

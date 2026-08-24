@@ -58,6 +58,10 @@
           <span class="label">Reloj local Bogotá</span>
           <strong id="live-clock">--:--:--</strong>
         </div>
+        <div class="source-toggle" role="group" aria-label="Fuente de precios">
+          <button type="button" data-source="official">Oficial</button>
+          <button type="button" data-source="unofficial">Keys</button>
+        </div>
       </div>
     </header>
 
@@ -73,6 +77,13 @@
             <p class="sector-kicker" id="store-kicker">STORE</p>
             <h2 id="store-title">Cargando…</h2>
             <p class="sector-lede" id="store-lede"></p>
+            <p class="source-note" id="source-note" hidden>
+              Keys de terceros (Eneba, G2A). No son la tienda oficial.
+            </p>
+            <label class="store-search">
+              <span class="label">Buscar</span>
+              <input id="store-search" type="search" placeholder="Nombre en esta tienda" />
+            </label>
             <p class="store-stats">
               <span id="deal-count">—</span>
               <span id="page-range"></span>
@@ -87,9 +98,9 @@
     </main>
 
     <footer class="hud-foot">
-      <p>
-        Esta página carga un solo archivo JSON de la tienda. El catálogo completo de otras plataformas
-        es otra fase, con backend.
+      <p id="hud-foot-copy">
+        Esta página pagina desde la API (o un JSON de fallback oficial). El catálogo completo no se
+        descarga al visor.
       </p>
       <p class="mono">cheap-games · un JSON por store · GitHub Pages</p>
     </footer>
@@ -97,6 +108,7 @@
     <noscript>
       <p class="noscript">Activa JavaScript para el visor, o abre DEALS.md en el repositorio.</p>
     </noscript>
+    <script src="js/config.js"></script>
     <script src="js/hud.js" defer></script>
     <script src="js/store.js" defer></script>
   </body>
