@@ -38,7 +38,7 @@ REGLAS DE PRECIO
 CÓMO EJECUTAR
 1. Checkout de main.
 2. Corre: node scripts/fetch-deals.mjs
-   Ese script ya habla con Steam appdetails, búsqueda de specials, Microsoft Display Catalog / Store search, y fichas Meta/SteamVR. Escribe:
+   Ese CLI orquesta un collector por tienda (src/collectors) con config/stores.json y config/catalog.json. Escribe:
    - docs/data/index.json (el hub de Pages)
    - docs/data/stores/{id}.json (una tienda por archivo)
    - docs/data/deals.json (agregado)

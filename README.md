@@ -47,6 +47,13 @@ Luego **Actions → Daily deals → Run workflow** en GitHub, o corre la automat
 
 ```
 cheap-games/
+  config/
+    stores.json              # registro de tiendas (live | deferred)
+    catalog.json             # AppIDs / consultas de tiendas en vivo
+  src/
+    collectors/              # un módulo por tienda live
+    lib/                     # http, reloj Bogotá, Deal
+    write/                   # index.json, stores/{id}.json, DEALS.md
   docs/                      # sitio Pages (móvil-first, HUD)
     index.html               # hub: solo el índice de tiendas
     store.html               # una tienda: #steam | #xbox | #steam/2
@@ -58,10 +65,7 @@ cheap-games/
   data/deals.json
   data/new-deals.json
   DEALS.md
-  scripts/
-    fetch-deals.mjs
-    catalog.json             # AppIDs / consultas de tiendas en vivo
-    stores.json              # registro de tiendas (escalable)
+  scripts/fetch-deals.mjs    # CLI: orquesta collectors
   .github/workflows/daily-deals.yml
   AUTOMATION.md
 ```
@@ -82,6 +86,6 @@ Sin G2A ni keys de terceros. Sin secretos en el repo.
 
 ## Ampliar la lista
 
-- **Más ofertas en tiendas vivas:** edita `scripts/catalog.json`.
-- **Nueva tienda en el mapa:** agrega una entrada en `scripts/stores.json` (`live` o `deferred`). El fetcher escribe `docs/data/stores/{id}.json` y el hub la pinta sin tocar HTML.
+- **Más ofertas en tiendas vivas:** edita `config/catalog.json`.
+- **Nueva tienda en el mapa:** agrega una entrada en `config/stores.json` (`live` o `deferred`). Si es `live`, añade `src/collectors/{id}.mjs` que exporte `collect(ctx)` y regístralo en `src/collectors/index.mjs`. El writer emite `docs/data/stores/{id}.json` y el hub la pinta sin tocar HTML.
 - **Catálogo completo Android/iOS/PS5/Switch:** fase 2, con backend. No se mezcla en el scroll estático.

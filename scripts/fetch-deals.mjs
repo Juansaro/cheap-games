@@ -1,680 +1,89 @@
 #!/usr/bin/env node
 /**
  * Fetches verified store prices. Never invents amounts.
- * If a source cannot be confirmed, the game is omitted or marked unconfirmed.
+ * Each live store has its own collector under src/collectors.
  */
-import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from "node:fs";
-import { dirname, join } from "node:path";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { collectors } from "../src/collectors/index.mjs";
+import { BOGOTA, nowBogotaParts } from "../src/lib/clock.mjs";
+import { markNew, uniqueById } from "../src/lib/deal.mjs";
+import { CONFIG_DIR, DEALS_MD, DOCS_JSON, ROOT_JSON } from "../src/lib/paths.mjs";
+import { maybeOpenIssue } from "../src/write/github-issue.mjs";
+import { toMd } from "../src/write/markdown.mjs";
+import { loadPrevious, writeOutputs, writeStoreOutputs } from "../src/write/pages.mjs";
 
-const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const CATALOG = JSON.parse(readFileSync(join(ROOT, "scripts/catalog.json"), "utf8"));
-const STORES = JSON.parse(readFileSync(join(ROOT, "scripts/stores.json"), "utf8"));
-const DOCS_JSON = join(ROOT, "docs/data/deals.json");
-const ROOT_JSON = join(ROOT, "data/deals.json");
-const INDEX_JSON = join(ROOT, "docs/data/index.json");
-const STORES_DIR = join(ROOT, "docs/data/stores");
-const DEALS_MD = join(ROOT, "DEALS.md");
-const NEW_JSON = join(ROOT, "data/new-deals.json");
+const STORES = JSON.parse(readFileSync(join(CONFIG_DIR, "stores.json"), "utf8"));
+const CATALOG = JSON.parse(readFileSync(join(CONFIG_DIR, "catalog.json"), "utf8"));
 
-const UA = {
-  "User-Agent":
-    "cheap-games-deals/1.0 (+https://github.com; public price check; not a scraper farm)",
-  Accept: "application/json,text/html;q=0.9",
-  "Accept-Language": "es-CO,es;q=0.9,en;q=0.8",
-};
-
-const STEAM_CC = "co";
-const MS_MARKET = "CO";
-const DELAY_MS = 700;
-const BOGOTA = "America/Bogota";
-
-const XBOX_PUBLISHER_RE = new RegExp(CATALOG.xboxPublisherPattern, "i");
-
-function sleep(ms) {
-  return new Promise((r) => setTimeout(r, ms));
-}
-
-function nowBogotaParts(date = new Date()) {
-  const fmt = new Intl.DateTimeFormat("en-CA", {
-    timeZone: BOGOTA,
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-    hour: "2-digit",
-    minute: "2-digit",
-    hour12: false,
-  });
-  const parts = Object.fromEntries(fmt.formatToParts(date).map((p) => [p.type, p.value]));
+function sectionsFromStores(storeResults) {
+  const steam = storeResults.steam || { deals: [], spotlight: null, sections: {} };
+  const xbox = storeResults.xbox || { deals: [] };
+  const steamvr = storeResults.steamvr || { deals: [] };
+  const quest = storeResults["meta-quest"] || { deals: [] };
   return {
-    date: `${parts.year}-${parts.month}-${parts.day}`,
-    time: `${parts.hour}:${parts.minute}`,
-    stamp: `${parts.year}-${parts.month}-${parts.day} ${parts.hour}:${parts.minute}`,
+    halo: {
+      title: "Halo: The Master Chief Collection",
+      emptyMessage: "Sin DLC/packs en oferta hoy",
+      currentPrice: steam.spotlight || null,
+      deals: steam.sections?.haloDeals || [],
+    },
+    xboxPc: {
+      title: "Xbox en PC",
+      emptyMessage: "Sin ofertas hoy",
+      deals: xbox.deals || [],
+    },
+    steamPc: {
+      title: "Steam PC",
+      emptyMessage: "Sin ofertas hoy",
+      deals: steam.sections?.steamPcDeals || steam.deals || [],
+    },
+    metaVr: {
+      title: "Meta VR",
+      emptyMessage: "Sin ofertas hoy",
+      deals: [...(steamvr.deals || []), ...(quest.deals || [])],
+    },
   };
 }
 
-function formatBogota(iso) {
-  if (!iso) return null;
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return null;
-  return nowBogotaParts(d).stamp;
-}
-
-function isRealSaleEnd(iso) {
-  if (!iso) return false;
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return false;
-  const year = d.getUTCFullYear();
-  if (year >= 2090) return false;
-  const soon = Date.now() + 1000 * 60 * 60 * 24 * 400;
-  return d.getTime() < soon;
-}
-
-function formatMoney(amount, currency) {
-  if (amount == null || Number.isNaN(Number(amount))) return "—";
-  try {
-    return new Intl.NumberFormat("es-CO", {
-      style: "currency",
-      currency: currency || "COP",
-      maximumFractionDigits: currency === "USD" ? 2 : 0,
-    }).format(amount);
-  } catch {
-    return `${amount} ${currency || ""}`.trim();
-  }
-}
-
-function steamMajor(minorUnits) {
-  if (minorUnits == null) return null;
-  return Number(minorUnits) / 100;
-}
-
-function fingerprint(deal) {
-  return [deal.platform, deal.id, deal.priceCurrent, deal.currency].join("::");
-}
-
-async function fetchText(url, { json = false, retries = 3 } = {}) {
-  let lastErr;
-  for (let i = 0; i < retries; i++) {
-    try {
-      const res = await fetch(url, { headers: UA, redirect: "follow" });
-      if (res.status === 429 || res.status >= 500) {
-        await sleep(1200 * (i + 1));
-        lastErr = new Error(`HTTP ${res.status}`);
-        continue;
-      }
-      const text = await res.text();
-      if (!res.ok) return { ok: false, status: res.status, text, url: res.url };
-      return {
-        ok: true,
-        status: res.status,
-        url: res.url,
-        text,
-        json: json ? JSON.parse(text) : undefined,
-      };
-    } catch (err) {
-      lastErr = err;
-      await sleep(800 * (i + 1));
+async function collectLiveStores(ctx, previous) {
+  const results = {};
+  for (const store of STORES) {
+    if (store.status !== "live") {
+      results[store.id] = { deals: [], spotlight: null };
+      continue;
+    }
+    const collect = collectors[store.id];
+    if (!collect) {
+      results[store.id] = { deals: [], spotlight: null };
+      continue;
+    }
+    const raw = await collect(ctx);
+    const deals = markNew(uniqueById(raw.deals || []), previous);
+    const spotlight = raw.spotlight ? markNew([raw.spotlight], previous)[0] : null;
+    results[store.id] = {
+      deals,
+      spotlight,
+      sections: raw.sections || {},
+    };
+    if (raw.sections?.haloDeals) {
+      results[store.id].sections.haloDeals = markNew(raw.sections.haloDeals, previous);
+    }
+    if (raw.sections?.steamPcDeals) {
+      results[store.id].sections.steamPcDeals = markNew(raw.sections.steamPcDeals, previous);
     }
   }
-  return { ok: false, status: 0, error: String(lastErr?.message || lastErr) };
+  return results;
 }
 
-async function fetchJson(url) {
-  const r = await fetchText(url, { json: true });
-  if (!r.ok) return r;
-  return { ...r, data: r.json };
-}
-
-function uniqueById(deals) {
-  const seen = new Set();
-  return (deals || []).filter((d) => (d?.id && !seen.has(d.id) ? (seen.add(d.id), true) : false));
-}
-
-function previousDeals() {
-  const path = existsSync(DOCS_JSON) ? DOCS_JSON : existsSync(ROOT_JSON) ? ROOT_JSON : null;
-  const all = [];
-  let payload = null;
-  if (path) {
-    try {
-      payload = JSON.parse(readFileSync(path, "utf8"));
-      all.push(
-        ...(payload.sections?.halo?.deals || []),
-        ...(payload.sections?.halo?.currentPrice ? [payload.sections.halo.currentPrice] : []),
-        ...(payload.sections?.xboxPc?.deals || []),
-        ...(payload.sections?.steamPc?.deals || []),
-        ...(payload.sections?.metaVr?.deals || []),
-      );
-    } catch {
-      payload = null;
-    }
-  }
-  if (existsSync(STORES_DIR)) {
-    for (const name of readdirSync(STORES_DIR)) {
-      if (!name.endsWith(".json")) continue;
-      try {
-        const file = JSON.parse(readFileSync(join(STORES_DIR, name), "utf8"));
-        all.push(...(file.deals || []));
-        if (file.spotlight) all.push(file.spotlight);
-      } catch {
-        /* ignore a corrupt store slice */
-      }
-    }
-  }
-  return { fingerprints: new Set(all.filter((d) => d?.id).map(fingerprint)), payload };
-}
-
-function isSteamVrTitle(data) {
-  const cats = data.categories || [];
-  return cats.some(
-    (c) =>
-      c.id === 54 ||
-      c.id === 31 ||
-      /vr|\brv\b|realidad virtual|steamvr/i.test(c.description || ""),
-  );
-}
-
-function kindFromSteamType(type, name = "") {
-  const n = `${type} ${name}`.toLowerCase();
-  if (n.includes("bundle") || n.includes("pack") && n.includes("collection")) return "bundle";
-  if (type === "dlc" || n.includes("dlc") || n.includes("pack") || n.includes("season pass")) return "dlc";
-  return "base";
-}
-
-function steamDealFromApp(appId, data, extra = {}) {
-  const price = data.price_overview;
-  if (!price) return null;
-  const current = steamMajor(price.final);
-  const previous = steamMajor(price.initial);
-  const discount = Number(price.discount_percent) || 0;
-  return {
-    id: `steam-${appId}`,
-    storeId: String(appId),
-    name: data.name,
-    platform: extra.platform || "Steam PC",
-    kind: extra.kind || kindFromSteamType(data.type, data.name),
-    priceCurrent: current,
-    pricePrevious: previous,
-    discountPercent: discount,
-    currency: price.currency || "COP",
-    priceCurrentLabel: price.final_formatted || formatMoney(current, price.currency),
-    pricePreviousLabel: price.initial_formatted || formatMoney(previous, price.currency),
-    dealEndsAt: extra.dealEndsAt || null,
-    dealEndsAtBogota: extra.dealEndsAt ? formatBogota(extra.dealEndsAt) : null,
-    url: `https://store.steampowered.com/app/${appId}/`,
-    image: data.header_image || null,
-    confirmed: true,
-    sources: extra.sources || ["steam-appdetails"],
-    publisher: data.publishers?.[0] || extra.publisher || null,
-  };
-}
-
-async function steamAppDetails(appId) {
-  const url = `https://store.steampowered.com/api/appdetails?appids=${appId}&cc=${STEAM_CC}&l=spanish`;
-  const r = await fetchJson(url);
-  await sleep(DELAY_MS);
-  if (!r.ok) return { appId, ok: false, reason: r.status || r.error };
-  const entry = r.data?.[String(appId)];
-  if (!entry?.success || !entry.data) return { appId, ok: false, reason: "no-data" };
-  return { appId, ok: true, data: entry.data };
-}
-
-async function steamSearchSpecials(params) {
-  const ids = new Set();
-  for (let start = 0; start < 100; start += 50) {
-    const qs = new URLSearchParams({
-      query: "",
-      start: String(start),
-      count: "50",
-      specials: "1",
-      infinite: "1",
-      cc: STEAM_CC,
-      l: "spanish",
-      ...params,
-    });
-    const url = `https://store.steampowered.com/search/results/?${qs}`;
-    const r = await fetchJson(url);
-    await sleep(DELAY_MS);
-    if (!r.ok || !r.data?.results_html) break;
-    const pageIds = [...r.data.results_html.matchAll(/data-ds-appid="(\d+)"/g)].map((m) => m[1]);
-    pageIds.forEach((id) => ids.add(id));
-    if (pageIds.length < 50) break;
-  }
-  return [...ids];
-}
-
-async function collectHalo() {
-  const deals = [];
-  const tmcc = await steamAppDetails(CATALOG.halo.steamAppId);
-  let currentPrice = null;
-  if (tmcc.ok) {
-    const deal = steamDealFromApp(tmcc.appId, tmcc.data, {
-      kind: "base",
-      sources: ["steam-appdetails", "steam-store"],
-    });
-    if (deal) {
-      currentPrice = { ...deal, onSale: deal.discountPercent > 0 };
-      if (deal.discountPercent > 0) deals.push(deal);
-    }
-    if (CATALOG.halo.includeDlc && Array.isArray(tmcc.data.dlc)) {
-      for (const dlcId of tmcc.data.dlc) {
-        const dlc = await steamAppDetails(dlcId);
-        if (!dlc.ok) continue;
-        const row = steamDealFromApp(dlc.appId, dlc.data, {
-          kind: "dlc",
-          sources: ["steam-appdetails", "steam-dlc-list"],
-        });
-        if (row && row.discountPercent > 0) deals.push(row);
-      }
-    }
-  }
-  return { currentPrice, deals };
-}
-
-async function collectSteamPc() {
-  const found = new Set((CATALOG.steamWatchlist || []).map(String));
-  for (const publisher of CATALOG.xboxSteamPublishers) {
-    const ids = await steamSearchSpecials({ publisher });
-    ids.forEach((id) => found.add(id));
-  }
-  const deals = [];
-  for (const appId of found) {
-    if (String(appId) === String(CATALOG.halo.steamAppId)) continue;
-    const app = await steamAppDetails(appId);
-    if (!app.ok) continue;
-    const pubs = (app.data.publishers || []).join(" ");
-    const devs = (app.data.developers || []).join(" ");
-    if (!XBOX_PUBLISHER_RE.test(`${pubs} ${devs}`)) continue;
-    const row = steamDealFromApp(app.appId, app.data, {
-      sources: ["steam-appdetails", "steam-search-specials", "steam-watchlist"],
-      publisher: pubs,
-    });
-    if (row && row.discountPercent > 0) deals.push(row);
-  }
-  deals.sort((a, b) => b.discountPercent - a.discountPercent);
-  const seen = new Set();
-  return deals.filter((d) => (seen.has(d.id) ? false : seen.add(d.id)));
-}
-
-function xboxImage(product) {
-  const images = product.LocalizedProperties?.[0]?.Images || product.Images || [];
-  const preferred =
-    images.find((i) => /superhero|poster|boxart|tiled/i.test(i.ImagePurpose || "")) || images[0];
-  return preferred?.Uri || preferred?.url || null;
-}
-
-function xboxPurchaseCandidates(product) {
-  const rows = [];
-  for (const sku of product.DisplaySkuAvailabilities || []) {
-    const skuName = sku.Sku?.LocalizedProperties?.[0]?.SkuTitle || sku.Sku?.SkuId;
-    for (const avail of sku.Availabilities || []) {
-      const price = avail.OrderManagementData?.Price;
-      const platforms = avail.Conditions?.ClientConditions?.AllowedPlatforms?.map((p) => p.PlatformName) || [];
-      const actions = avail.Actions || [];
-      if (!price || !actions.includes("Purchase")) continue;
-      if (!platforms.includes("Windows.Desktop") && platforms.length) continue;
-      if (!(price.ListPrice > 0)) continue;
-      rows.push({
-        list: price.ListPrice,
-        msrp: price.MSRP,
-        currency: price.CurrencyCode,
-        end: avail.Conditions?.EndDate,
-        platforms,
-        skuName,
-        rank: avail.DisplayRank ?? 99,
-      });
-    }
-  }
-  return rows;
-}
-
-function pickXboxDeal(product, productId) {
-  const loc = product.LocalizedProperties?.[0] || {};
-  const publisher = loc.PublisherName || "";
-  if (publisher && !XBOX_PUBLISHER_RE.test(publisher) && !XBOX_PUBLISHER_RE.test(loc.DeveloperName || "")) {
-    return null;
-  }
-  const paid = xboxPurchaseCandidates(product);
-  if (!paid.length) return null;
-  const discounted = paid.filter((p) => p.msrp > 0 && p.list < p.msrp);
-  if (!discounted.length) return null;
-  discounted.sort((a, b) => a.list - b.list || a.rank - b.rank);
-  const best = discounted[0];
-  const discount = Math.round((1 - best.list / best.msrp) * 100);
-  if (discount <= 0) return null;
-  const title = loc.ProductTitle || productId;
-  const kind = /bundle|pack|edition|deluxe|premium|ultimate/i.test(title) ? "bundle" : "base";
-  if (/dlc|complemento|expans|pass/i.test(title)) {
-    /* keep as dlc when it is clearly not a base game */
-  }
-  const dealEndsAt = isRealSaleEnd(best.end) ? best.end : null;
-  return {
-    id: `xboxpc-${productId}`,
-    storeId: productId,
-    name: title,
-    platform: "Xbox PC",
-    kind: /dlc|complemento|expans/i.test(title) ? "dlc" : kind,
-    priceCurrent: best.list,
-    pricePrevious: best.msrp,
-    discountPercent: discount,
-    currency: best.currency || "COP",
-    priceCurrentLabel: formatMoney(best.list, best.currency),
-    pricePreviousLabel: formatMoney(best.msrp, best.currency),
-    dealEndsAt,
-    dealEndsAtBogota: dealEndsAt ? formatBogota(dealEndsAt) : null,
-    url: `https://www.microsoft.com/store/productId/${productId}?rtc=1`,
-    image: xboxImage(product),
-    confirmed: true,
-    sources: ["ms-display-catalog", "ms-store-search"],
-    publisher,
-    playAnywhere: (best.platforms || []).includes("Windows.Xbox"),
-  };
-}
-
-async function msSearch(query) {
-  const url =
-    "https://storeedgefd.dsx.mp.microsoft.com/v9.0/search?query=" +
-    encodeURIComponent(query) +
-    `&market=${MS_MARKET}&locale=es-CO&deviceFamily=Windows.Desktop`;
-  const r = await fetchJson(url);
-  await sleep(400);
-  if (!r.ok) return [];
-  return r.data?.Payload?.SearchResults || [];
-}
-
-async function msCatalog(ids) {
-  const unique = [...new Set(ids.filter(Boolean))];
-  const out = [];
-  for (let i = 0; i < unique.length; i += 12) {
-    const chunk = unique.slice(i, i + 12);
-    const url = `https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=${chunk.join(",")}&market=${MS_MARKET}&languages=es-CO`;
-    const r = await fetchJson(url);
-    await sleep(DELAY_MS);
-    if (r.ok && Array.isArray(r.data?.Products)) out.push(...r.data.Products);
+function storesSlice(results) {
+  const out = {};
+  for (const store of STORES) {
+    const slice = results[store.id] || { deals: [], spotlight: null };
+    out[store.id] = { deals: slice.deals || [], spotlight: slice.spotlight || null };
   }
   return out;
-}
-
-async function collectXboxMicrosoft() {
-  const ids = new Set();
-  if (CATALOG.halo.msId) ids.add(CATALOG.halo.msId);
-  for (const q of CATALOG.xboxMsQueries) {
-    const cards = await msSearch(q);
-    for (const card of cards.slice(0, 8)) {
-      const publisher = card.PublisherName || "";
-      if (publisher && !XBOX_PUBLISHER_RE.test(publisher)) continue;
-      if (card.ProductId) ids.add(card.ProductId);
-    }
-  }
-  const products = await msCatalog([...ids]);
-  const deals = [];
-  for (const product of products) {
-    const id = product.ProductId || product.AlternateIds?.find((a) => a.IdType === "LegacyXboxProductId")?.Value;
-    const pid = product.ProductId || id;
-    if (!pid) continue;
-    const row = pickXboxDeal(product, pid);
-    if (row) deals.push(row);
-  }
-  deals.sort((a, b) => b.discountPercent - a.discountPercent);
-  const seen = new Set();
-  return deals.filter((d) => (seen.has(d.id) ? false : seen.add(d.id)));
-}
-
-function parseMetaPriceFromHtml(html) {
-  const ldBlocks = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/gi)];
-  for (const block of ldBlocks) {
-    try {
-      const data = JSON.parse(block[1]);
-      const offers = data.offers || data["@graph"]?.find((n) => n.offers)?.offers;
-      const offer = Array.isArray(offers) ? offers[0] : offers;
-      if (offer?.price != null) {
-        const current = Number(offer.price);
-        const currency = offer.priceCurrency || "USD";
-        const previous = offer.highPrice != null ? Number(offer.highPrice) : null;
-        if (!Number.isFinite(current)) continue;
-        return { current, previous, currency, confirmed: true };
-      }
-    } catch {
-      /* ignore malformed json-ld */
-    }
-  }
-  return null;
-}
-
-async function collectMeta() {
-  const deals = [];
-  const steamIds = new Set();
-
-  for (const item of CATALOG.metaCatalog) {
-    if (item.steamAppId) steamIds.add(String(item.steamAppId));
-    if (!item.questUrl) continue;
-    const page = await fetchText(item.questUrl);
-    await sleep(DELAY_MS);
-    if (!page.ok || page.status >= 400) continue;
-    const parsed = parseMetaPriceFromHtml(page.text);
-    if (!parsed || parsed.previous == null || parsed.current >= parsed.previous) continue;
-    const discount = Math.round((1 - parsed.current / parsed.previous) * 100);
-    if (discount <= 0) continue;
-    deals.push({
-      id: `quest-${item.name.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`,
-      storeId: item.questUrl,
-      name: item.name,
-      platform: "Meta Quest",
-      kind: "base",
-      priceCurrent: parsed.current,
-      pricePrevious: parsed.previous,
-      discountPercent: discount,
-      currency: parsed.currency,
-      priceCurrentLabel: formatMoney(parsed.current, parsed.currency),
-      pricePreviousLabel: formatMoney(parsed.previous, parsed.currency),
-      dealEndsAt: null,
-      dealEndsAtBogota: null,
-      url: item.questUrl,
-      image: null,
-      confirmed: true,
-      sources: ["meta-store-page", "json-ld"],
-    });
-  }
-
-  for (const appId of steamIds) {
-    const app = await steamAppDetails(appId);
-    if (!app.ok) continue;
-    if (!isSteamVrTitle(app.data)) continue;
-    const row = steamDealFromApp(app.appId, app.data, {
-      platform: "SteamVR",
-      sources: ["meta-catalog", "steam-appdetails"],
-    });
-    if (row && row.discountPercent > 0) deals.push(row);
-  }
-
-  deals.sort((a, b) => b.discountPercent - a.discountPercent);
-  const seen = new Set();
-  return deals.filter((d) => (seen.has(d.id) ? false : seen.add(d.id)));
-}
-
-function markNew(list, previous) {
-  return (list || []).map((d) => ({
-    ...d,
-    isNew: d.confirmed !== false && !previous.has(fingerprint(d)),
-  }));
-}
-
-function storeDealsFromPayload(payload) {
-  const meta = payload.sections?.metaVr?.deals || [];
-  const haloId = payload.sections?.halo?.currentPrice?.id;
-  return {
-    steam: uniqueById([
-      ...(payload.sections?.steamPc?.deals || []),
-      ...(payload.sections?.halo?.deals || []).filter(
-        (d) => d.discountPercent > 0 && d.id !== haloId,
-      ),
-    ]),
-    xbox: uniqueById(payload.sections?.xboxPc?.deals || []),
-    steamvr: uniqueById(meta.filter((d) => d.platform === "SteamVR")),
-    "meta-quest": uniqueById(meta.filter((d) => d.platform === "Meta Quest")),
-  };
-}
-
-function writeStoreOutputs(payload) {
-  const byStore = storeDealsFromPayload(payload);
-  mkdirSync(STORES_DIR, { recursive: true });
-  mkdirSync(join(ROOT, "docs/data"), { recursive: true });
-
-  const indexStores = [];
-  for (const store of STORES) {
-    const deals = store.status === "live" ? byStore[store.id] || [] : [];
-    const file = {
-      id: store.id,
-      name: store.name,
-      accent: store.accent,
-      status: store.status,
-      officialUrl: store.officialUrl,
-      platforms: store.platforms,
-      kicker: store.kicker,
-      blurb: store.blurb,
-      reason: store.reason || null,
-      updatedAt: payload.updatedAt,
-      updatedAtBogota: payload.updatedAtBogota,
-      timezone: payload.timezone,
-      emptyMessage: store.status === "deferred" ? store.reason : "Sin ofertas hoy",
-      spotlight: store.id === "steam" ? payload.sections?.halo?.currentPrice || null : null,
-      deals,
-    };
-    writeFileSync(join(STORES_DIR, `${store.id}.json`), JSON.stringify(file, null, 2) + "\n");
-    indexStores.push({
-      id: store.id,
-      name: store.name,
-      accent: store.accent,
-      status: store.status,
-      officialUrl: store.officialUrl,
-      platforms: store.platforms,
-      kicker: store.kicker,
-      blurb: store.blurb,
-      reason: store.reason || null,
-      href: `./store.html#${store.id}`,
-      dealCount: deals.length,
-      spotlightLabel:
-        store.id === "steam" && payload.sections?.halo?.currentPrice
-          ? payload.sections.halo.currentPrice.priceCurrentLabel
-          : null,
-    });
-  }
-
-  const index = {
-    updatedAt: payload.updatedAt,
-    updatedAtBogota: payload.updatedAtBogota,
-    updatedAtDate: payload.updatedAtDate,
-    timezone: payload.timezone,
-    liveDealCount: indexStores
-      .filter((s) => s.status === "live")
-      .reduce((n, s) => n + s.dealCount, 0),
-    stores: indexStores,
-  };
-  writeFileSync(INDEX_JSON, JSON.stringify(index, null, 2) + "\n");
-  return index;
-}
-
-function toMd(payload) {
-  const lines = [
-    `# Ofertas — ${payload.updatedAtBogota} (Bogotá)`,
-    "",
-    `Última actualización: **${payload.updatedAtBogota}** (${payload.timezone}).`,
-    "Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.",
-    "",
-  ];
-
-  const haloPrice = payload.sections?.halo?.currentPrice;
-  if (haloPrice) {
-    const tag = haloPrice.onSale ? `-${haloPrice.discountPercent}%` : "sin oferta";
-    lines.push("## Halo: The Master Chief Collection");
-    lines.push(
-      `- Precio actual (${tag}): **${haloPrice.priceCurrentLabel}** · [Steam](${haloPrice.url})`,
-    );
-    lines.push("");
-  }
-
-  for (const store of STORES) {
-    const deals =
-      payload.stores?.[store.id]?.deals ||
-      storeDealsFromPayload(payload)[store.id] ||
-      [];
-    lines.push(`## ${store.name}`);
-    if (store.status === "deferred") {
-      lines.push(`- ${store.reason}`);
-    } else if (!deals.length) {
-      lines.push("- Sin ofertas hoy");
-    }
-    for (const d of deals) {
-      lines.push(
-        `- ${d.isNew ? "🆕 " : ""}**${d.name}** (${d.platform}, ${d.kind}) — ${d.priceCurrentLabel} ~~${d.pricePreviousLabel}~~ (−${d.discountPercent}%) · [Ver oferta](${d.url})`,
-      );
-    }
-    lines.push("");
-  }
-  return lines.join("\n");
-}
-
-async function maybeOpenIssue(payload, newDeals) {
-  const token = process.env.GITHUB_TOKEN;
-  const repo = process.env.GITHUB_REPOSITORY;
-  if (!token || !repo || !newDeals.length) return { opened: false, reason: "skip" };
-  const title = `Ofertas — ${payload.updatedAtDate}`;
-  const listRes = await fetch(
-    `https://api.github.com/repos/${repo}/issues?state=open&per_page=20&labels=ofertas`,
-    { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } },
-  );
-  if (listRes.ok) {
-    const open = await listRes.json();
-    if (Array.isArray(open) && open.some((i) => i.title === title)) {
-      return { opened: false, reason: "exists" };
-    }
-  }
-  const body = [
-    `Nuevas ofertas verificadas vs la corrida anterior (${payload.updatedAtBogota} Bogotá).`,
-    "",
-    ...newDeals.map(
-      (d) =>
-        `- **${d.name}** · ${d.platform} · ${d.priceCurrentLabel} (−${d.discountPercent}%) · [Ver oferta](${d.url})`,
-    ),
-    "",
-    "Fuente pública: GitHub Pages de este repo.",
-  ].join("\n");
-  const created = await fetch(`https://api.github.com/repos/${repo}/issues`, {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${token}`,
-      Accept: "application/vnd.github+json",
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({ title, body, labels: ["ofertas"] }),
-  });
-  if (created.status === 422) {
-    const retry = await fetch(`https://api.github.com/repos/${repo}/issues`, {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${token}`,
-        Accept: "application/vnd.github+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ title, body }),
-    });
-    return { opened: retry.ok, status: retry.status };
-  }
-  return { opened: created.ok, status: created.status };
-}
-
-function writeOutputs(payload, saleDeals) {
-  mkdirSync(join(ROOT, "docs/data"), { recursive: true });
-  mkdirSync(join(ROOT, "data"), { recursive: true });
-  const json = JSON.stringify(payload, null, 2) + "\n";
-  writeFileSync(DOCS_JSON, json);
-  writeFileSync(ROOT_JSON, json);
-  const index = writeStoreOutputs(payload);
-  writeFileSync(DEALS_MD, toMd(payload));
-  writeFileSync(
-    NEW_JSON,
-    JSON.stringify({ generatedAt: payload.updatedAtBogota, deals: saleDeals }, null, 2) + "\n",
-  );
-  return index;
 }
 
 async function main() {
@@ -684,8 +93,8 @@ async function main() {
       throw new Error("No hay deals.json para partir por tienda. Corre npm run deals primero.");
     }
     const payload = JSON.parse(readFileSync(path, "utf8"));
-    const index = writeStoreOutputs(payload);
-    writeFileSync(DEALS_MD, toMd(payload));
+    const index = writeStoreOutputs(payload, STORES);
+    writeFileSync(DEALS_MD, toMd(payload, STORES));
     console.log(
       JSON.stringify(
         {
@@ -701,25 +110,10 @@ async function main() {
   }
 
   console.log("Fetching verified deals (COP / Bogotá)...");
-  const prev = previousDeals();
-  const halo = await collectHalo();
-  const steamPc = await collectSteamPc();
-  const xboxMs = await collectXboxMicrosoft();
-  const metaVr = await collectMeta();
-
+  const prev = loadPrevious();
+  const ctx = { catalog: CATALOG, stores: STORES };
+  const collected = await collectLiveStores(ctx, prev.fingerprints);
   const clock = nowBogotaParts();
-  const haloDeals = markNew(halo.deals, prev.fingerprints);
-  const steamDeals = markNew(steamPc, prev.fingerprints);
-  const xboxDeals = markNew(xboxMs, prev.fingerprints);
-  const metaDeals = markNew(metaVr, prev.fingerprints);
-  if (halo.currentPrice) {
-    halo.currentPrice = markNew([halo.currentPrice], prev.fingerprints)[0];
-  }
-
-  const seenSteam = new Set();
-  const steamPcDeals = steamDeals.filter((d) => (seenSteam.has(d.id) ? false : seenSteam.add(d.id)));
-  const seenXbox = new Set();
-  const xboxPcDeals = xboxDeals.filter((d) => (seenXbox.has(d.id) ? false : seenXbox.add(d.id)));
 
   const payload = {
     updatedAt: new Date().toISOString(),
@@ -729,51 +123,22 @@ async function main() {
     currencyPreference: "COP",
     notes: [
       "Precios tomados de APIs/páginas públicas. Nada inventado.",
-      "Meta Quest Store a menudo bloquea lecturas automáticas; si no hay ficha verificada, la sección queda vacía o solo SteamVR.",
+      "Meta Quest Store a menudo bloquea lecturas automáticas; si no hay ficha verificada, la sección queda vacía.",
     ],
-    sections: {
-      halo: {
-        title: "Halo: The Master Chief Collection",
-        emptyMessage: "Sin DLC/packs en oferta hoy",
-        currentPrice: halo.currentPrice,
-        deals: haloDeals,
-      },
-      xboxPc: {
-        title: "Xbox en PC",
-        emptyMessage: "Sin ofertas hoy",
-        deals: xboxPcDeals,
-      },
-      steamPc: {
-        title: "Steam PC",
-        emptyMessage: "Sin ofertas hoy",
-        deals: steamPcDeals,
-      },
-      metaVr: {
-        title: "Meta VR",
-        emptyMessage: "Sin ofertas hoy",
-        deals: metaDeals,
-      },
-    },
+    stores: storesSlice(collected),
+    sections: sectionsFromStores(collected),
   };
 
-  const saleDeals = [
-    ...haloDeals,
-    ...steamPcDeals,
-    ...xboxPcDeals,
-    ...metaDeals,
-  ].filter((d) => d.discountPercent > 0 && d.isNew);
+  const saleDeals = Object.values(payload.stores)
+    .flatMap((slice) => slice.deals || [])
+    .filter((d) => d.discountPercent > 0 && d.isNew);
 
-  const index = writeOutputs(payload, saleDeals);
-
+  const index = writeOutputs(payload, saleDeals, STORES);
   const issue = await maybeOpenIssue(payload, saleDeals);
   console.log(
     JSON.stringify(
       {
-        haloCurrent: halo.currentPrice?.priceCurrentLabel || null,
-        haloDeals: haloDeals.length,
-        steamPc: steamPcDeals.length,
-        xboxPc: xboxPcDeals.length,
-        metaVr: metaDeals.length,
+        haloCurrent: payload.stores.steam?.spotlight?.priceCurrentLabel || null,
         liveDealCount: index.liveDealCount,
         stores: index.stores.map((s) => ({ id: s.id, dealCount: s.dealCount })),
         newDeals: saleDeals.length,
@@ -785,7 +150,9 @@ async function main() {
   );
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
+  main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
+}

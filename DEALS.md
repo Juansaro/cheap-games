@@ -1,6 +1,6 @@
-# Ofertas — 2026-08-23 23:59 (Bogotá)
+# Ofertas — 2026-08-24 00:58 (Bogotá)
 
-Última actualización: **2026-08-23 23:59** (America/Bogota).
+Última actualización: **2026-08-24 00:58** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
