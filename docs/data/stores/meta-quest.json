@@ -1,0 +1,21 @@
+{
+  "id": "meta-quest",
+  "name": "Meta Quest Store",
+  "accent": "meta",
+  "status": "live",
+  "officialUrl": "https://www.meta.com/experiences/",
+  "platforms": [
+    "Meta Quest 2",
+    "Quest 3",
+    "Quest 3S"
+  ],
+  "kicker": "HORIZON // QUEST",
+  "blurb": "Solo fichas de Quest cuyo precio se pudo verificar. Si Meta bloquea la lectura, esta tienda queda vacía.",
+  "reason": null,
+  "updatedAt": "2026-08-24T04:59:19.801Z",
+  "updatedAtBogota": "2026-08-23 23:59",
+  "timezone": "America/Bogota",
+  "emptyMessage": "Sin ofertas hoy",
+  "spotlight": null,
+  "deals": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "playstation",
+  "name": "PlayStation Store",
+  "accent": "ps",
+  "status": "deferred",
+  "officialUrl": "https://store.playstation.com/",
+  "platforms": [
+    "PS5"
+  ],
+  "kicker": "PLAYSTATION // PS5",
+  "blurb": "Sin API pública estable. No inventamos precios de PS5.",
+  "reason": "PlayStation Store no ofrece una API de precios pública usable.",
+  "updatedAt": "2026-08-24T04:59:19.801Z",
+  "updatedAtBogota": "2026-08-23 23:59",
+  "timezone": "America/Bogota",
+  "emptyMessage": "PlayStation Store no ofrece una API de precios pública usable.",
+  "spotlight": null,
+  "deals": []
+}

@@ -1,15 +1,17 @@
 # cheap-games
 
-Briefing público de **ofertas verificadas**: Halo MCC, Xbox en PC y Meta VR.
+Briefing público de **ofertas verificadas por tienda oficial**.
 
-El visor vive en GitHub Pages. Los precios salen de APIs y fichas oficiales. Si un precio no se puede confirmar, el juego no se inventa: se omite o queda en “sin confirmar”.
+El visor vive en GitHub Pages. El hub carga solo `docs/data/index.json`. Cada tienda abre `store.html#steam` (un JSON propio). Si un precio no se puede confirmar, el juego no se inventa.
+
+Tiendas en vivo: Steam, Microsoft Store / Xbox PC, SteamVR, Meta Quest Store. PlayStation, Nintendo eShop, Google Play y App Store están en el mapa como fase 2 (sin filas falsas).
 
 ## Cómo se actualiza sin tu PC encendido
 
 Hay **dos motores en la nube**. Con uno solo basta; los dos pueden convivir.
 
 1. **GitHub Actions (recomendado para “PC apagado”)**  
-   Cada día a las **10:00 America/Bogota** (`cron` UTC `0 15 * * *`, Colombia no usa DST) corre `scripts/fetch-deals.mjs` en los servidores de GitHub, escribe `docs/data/deals.json` + `DEALS.md`, hace commit a `main` y Pages se refresca solo.  
+   Cada día a las **10:00 America/Bogota** (`cron` UTC `0 15 * * *`, Colombia no usa DST) corre `scripts/fetch-deals.mjs` en los servidores de GitHub, escribe el índice + un JSON por tienda + `DEALS.md`, hace commit a `main` y Pages se refresca solo.  
    Trigger extra: **Actions → Daily deals → Run workflow**.
 
 2. **Cursor Automation (agente en la nube de Cursor)**  
@@ -33,41 +35,53 @@ Hay **dos motores en la nube**. Con uno solo basta; los dos pueden convivir.
 npm run deals
 ```
 
+Si ya tienes `docs/data/deals.json` y solo quieres partirlo por tienda:
+
+```bash
+npm run deals:split
+```
+
 Luego **Actions → Daily deals → Run workflow** en GitHub, o corre la automatización de Cursor con **Run now**.
 
 ## Estructura
 
 ```
 cheap-games/
-  docs/                 # sitio Pages (móvil-first, HUD Halo/Xbox/VR)
-    index.html
+  docs/                      # sitio Pages (móvil-first, HUD)
+    index.html               # hub: solo el índice de tiendas
+    store.html               # una tienda: #steam | #xbox | #steam/2
     css/styles.css
-    js/app.js
-    data/deals.json     # corte que lee la página
-  data/deals.json       # misma foto en la raíz
-  data/new-deals.json   # ofertas nuevas vs la corrida anterior
-  DEALS.md              # el mismo corte en Markdown
+    js/hud.js hub.js store.js
+    data/index.json          # lo único que carga el hub
+    data/stores/{id}.json    # ofertas de esa tienda
+    data/deals.json          # agregado (automatización / compat)
+  data/deals.json
+  data/new-deals.json
+  DEALS.md
   scripts/
-    fetch-deals.mjs     # Steam + Microsoft Store PC + Meta/SteamVR
-    catalog.json        # AppIDs / consultas (fácil de ampliar)
+    fetch-deals.mjs
+    catalog.json             # AppIDs / consultas de tiendas en vivo
+    stores.json              # registro de tiendas (escalable)
   .github/workflows/daily-deals.yml
-  AUTOMATION.md         # prompt para Cursor Automation
+  AUTOMATION.md
 ```
 
 ## Qué captura cada oferta
 
-Nombre, plataforma (`Steam PC` | `Xbox PC` | `Meta Quest` | `SteamVR`), precio actual / anterior, % off, moneda (COP si el store la da), fin de oferta si existe, URL de ficha, si es base / DLC / bundle.
+Nombre, plataforma, precio actual / anterior, % off, moneda (COP si el store la da), fin de oferta si existe, URL de ficha, si es base / DLC / bundle.
 
-Halo MCC **siempre** aparece en “precio actual”, aunque no esté en oferta.
+Halo MCC **siempre** aparece como spotlight en Steam, aunque no esté en oferta.
 
 ## Fuentes
 
 - Steam: `store.steampowered.com/api/appdetails` + búsqueda de specials por publisher.
 - Xbox PC: Microsoft Store search + Display Catalog (`Windows.Desktop` / Play Anywhere).
-- Meta: ficha pública de Quest si responde; si Meta bloquea el bot, solo equivalentes SteamVR del catálogo.
+- Meta: ficha pública de Quest si responde; si Meta bloquea el bot, la tienda Quest queda vacía y SteamVR sigue aparte.
 
 Sin G2A ni keys de terceros. Sin secretos en el repo.
 
 ## Ampliar la lista
 
-Edita `scripts/catalog.json` (publishers Xbox, queries de Microsoft Store, títulos Quest + AppID SteamVR). No hace falta tocar el HTML.
+- **Más ofertas en tiendas vivas:** edita `scripts/catalog.json`.
+- **Nueva tienda en el mapa:** agrega una entrada en `scripts/stores.json` (`live` o `deferred`). El fetcher escribe `docs/data/stores/{id}.json` y el hub la pinta sin tocar HTML.
+- **Catálogo completo Android/iOS/PS5/Switch:** fase 2, con backend. No se mezcla en el scroll estático.

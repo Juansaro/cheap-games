@@ -1,0 +1,20 @@
+{
+  "id": "nintendo-eshop",
+  "name": "Nintendo eShop",
+  "accent": "switch",
+  "status": "deferred",
+  "officialUrl": "https://www.nintendo.com/store/",
+  "platforms": [
+    "Switch",
+    "Switch 2"
+  ],
+  "kicker": "NINTENDO // SWITCH 1 · 2",
+  "blurb": "Switch 1 y Switch 2 compran en el eShop. Sin API pública estable; no hay filas inventadas.",
+  "reason": "Nintendo eShop no ofrece una API de precios pública usable.",
+  "updatedAt": "2026-08-24T04:59:19.801Z",
+  "updatedAtBogota": "2026-08-23 23:59",
+  "timezone": "America/Bogota",
+  "emptyMessage": "Nintendo eShop no ofrece una API de precios pública usable.",
+  "spotlight": null,
+  "deals": []
+}

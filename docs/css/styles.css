@@ -13,6 +13,10 @@
   --meta-2: #9b6cff;
   --steam: #66c0f4;
   --steam-deep: #1b2838;
+  --ps: #0070cc;
+  --switch: #e60012;
+  --play: #3ddc84;
+  --apple: #d0d0d5;
   --danger: #ff5d4a;
   --card: rgba(10, 16, 14, 0.72);
   --line: rgba(212, 180, 90, 0.28);
@@ -151,6 +155,7 @@ body {
 .boot.is-done {
   opacity: 0;
   visibility: hidden;
+  pointer-events: none;
 }
 
 .boot-inner {
@@ -616,6 +621,204 @@ header.hud-top,
   .hud-clocks {
     width: 100%;
     justify-content: space-between;
+  }
+}
+
+.crumb-nav {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 8px;
+}
+
+.crumb {
+  text-decoration: none;
+  color: var(--visor);
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: 1px solid color-mix(in srgb, var(--visor) 35%, transparent);
+  padding: 8px 12px;
+  background: rgba(5, 8, 10, 0.72);
+}
+
+.crumb:hover {
+  box-shadow: inset 0 0 16px color-mix(in srgb, var(--visor) 25%, transparent);
+}
+
+.store-board {
+  display: grid;
+  gap: 14px;
+}
+
+.store-tile {
+  --accent: var(--visor);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-decoration: none;
+  color: inherit;
+  padding: 18px 16px 16px;
+  background: var(--card);
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  clip-path: polygon(16px 0, 100% 0, 100% calc(100% - 16px), calc(100% - 16px) 100%, 0 100%, 0 16px);
+  animation: rise 0.7s ease both;
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.store-tile:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35), 0 0 24px color-mix(in srgb, var(--accent) 28%, transparent);
+}
+
+.store-tile h2 {
+  font-family: var(--font-hud);
+  font-size: clamp(0.95rem, 3.4vw, 1.25rem);
+  letter-spacing: 0.06em;
+  margin: 0;
+}
+
+.tile-kicker {
+  font-family: var(--font-mono);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-size: 0.65rem;
+  color: var(--accent);
+  margin: 0;
+}
+
+.tile-platforms,
+.tile-blurb,
+.tile-spot {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.tile-count {
+  margin-top: auto;
+  font-family: var(--font-mono);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-size: 0.78rem;
+}
+
+.store-tile.accent-steam { --accent: var(--steam); }
+.store-tile.accent-xbox { --accent: var(--xbox); }
+.store-tile.accent-meta { --accent: var(--meta); }
+.store-tile.accent-halo { --accent: var(--halo-gold); }
+.store-tile.accent-ps { --accent: var(--ps); }
+.store-tile.accent-switch { --accent: var(--switch); }
+.store-tile.accent-play { --accent: var(--play); }
+.store-tile.accent-apple { --accent: var(--apple); }
+
+.store-tile.is-deferred {
+  opacity: 0.78;
+}
+
+.store-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 18px;
+  font-family: var(--font-mono);
+  color: var(--visor);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 12px 0 16px;
+}
+
+.pager button {
+  font-family: var(--font-mono);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  color: var(--ink);
+  background: rgba(5, 8, 10, 0.82);
+  border: 1px solid var(--line);
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.pager button:hover:not(:disabled) {
+  color: var(--visor);
+  border-color: var(--visor);
+}
+
+.pager button:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.page-nums {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.page-num.is-active {
+  color: #06110c;
+  background: var(--visor);
+  border-color: var(--visor);
+}
+
+.store-page[data-accent="steam"] .sector-kicker,
+.store-page[data-accent="steam"] .brand-mark {
+  color: var(--steam);
+}
+.store-page[data-accent="xbox"] .sector-kicker,
+.store-page[data-accent="xbox"] .brand-mark {
+  color: var(--xbox);
+}
+.store-page[data-accent="meta"] .sector-kicker,
+.store-page[data-accent="meta"] .brand-mark {
+  color: var(--meta);
+}
+.store-page[data-accent="ps"] .sector-kicker,
+.store-page[data-accent="ps"] .brand-mark {
+  color: var(--ps);
+}
+.store-page[data-accent="switch"] .sector-kicker,
+.store-page[data-accent="switch"] .brand-mark {
+  color: var(--switch);
+}
+.store-page[data-accent="play"] .sector-kicker,
+.store-page[data-accent="play"] .brand-mark {
+  color: var(--play);
+}
+.store-page[data-accent="apple"] .sector-kicker,
+.store-page[data-accent="apple"] .brand-mark {
+  color: var(--apple);
+}
+
+.intel-card[data-faction="xbox"] { --accent: var(--xbox); }
+.intel-card[data-faction="meta"] { --accent: var(--meta); }
+.intel-card[data-faction="ps"] { --accent: var(--ps); }
+.intel-card[data-faction="switch"] { --accent: var(--switch); }
+.intel-card[data-faction="play"] { --accent: var(--play); }
+.intel-card[data-faction="apple"] { --accent: var(--apple); }
+
+@media (min-width: 720px) {
+  .store-board {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1100px) {
+  .store-board {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
 

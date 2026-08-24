@@ -3,14 +3,17 @@
  * Fetches verified store prices. Never invents amounts.
  * If a source cannot be confirmed, the game is omitted or marked unconfirmed.
  */
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const CATALOG = JSON.parse(readFileSync(join(ROOT, "scripts/catalog.json"), "utf8"));
+const STORES = JSON.parse(readFileSync(join(ROOT, "scripts/stores.json"), "utf8"));
 const DOCS_JSON = join(ROOT, "docs/data/deals.json");
 const ROOT_JSON = join(ROOT, "data/deals.json");
+const INDEX_JSON = join(ROOT, "docs/data/index.json");
+const STORES_DIR = join(ROOT, "docs/data/stores");
 const DEALS_MD = join(ROOT, "DEALS.md");
 const NEW_JSON = join(ROOT, "data/new-deals.json");
 
@@ -122,22 +125,42 @@ async function fetchJson(url) {
   return { ...r, data: r.json };
 }
 
+function uniqueById(deals) {
+  const seen = new Set();
+  return (deals || []).filter((d) => (d?.id && !seen.has(d.id) ? (seen.add(d.id), true) : false));
+}
+
 function previousDeals() {
   const path = existsSync(DOCS_JSON) ? DOCS_JSON : existsSync(ROOT_JSON) ? ROOT_JSON : null;
-  if (!path) return { fingerprints: new Set(), payload: null };
-  try {
-    const payload = JSON.parse(readFileSync(path, "utf8"));
-    const all = [
-      ...(payload.sections?.halo?.deals || []),
-      ...(payload.sections?.halo?.currentPrice ? [payload.sections.halo.currentPrice] : []),
-      ...(payload.sections?.xboxPc?.deals || []),
-      ...(payload.sections?.steamPc?.deals || []),
-      ...(payload.sections?.metaVr?.deals || []),
-    ];
-    return { fingerprints: new Set(all.filter((d) => d?.id).map(fingerprint)), payload };
-  } catch {
-    return { fingerprints: new Set(), payload: null };
+  const all = [];
+  let payload = null;
+  if (path) {
+    try {
+      payload = JSON.parse(readFileSync(path, "utf8"));
+      all.push(
+        ...(payload.sections?.halo?.deals || []),
+        ...(payload.sections?.halo?.currentPrice ? [payload.sections.halo.currentPrice] : []),
+        ...(payload.sections?.xboxPc?.deals || []),
+        ...(payload.sections?.steamPc?.deals || []),
+        ...(payload.sections?.metaVr?.deals || []),
+      );
+    } catch {
+      payload = null;
+    }
   }
+  if (existsSync(STORES_DIR)) {
+    for (const name of readdirSync(STORES_DIR)) {
+      if (!name.endsWith(".json")) continue;
+      try {
+        const file = JSON.parse(readFileSync(join(STORES_DIR, name), "utf8"));
+        all.push(...(file.deals || []));
+        if (file.spotlight) all.push(file.spotlight);
+      } catch {
+        /* ignore a corrupt store slice */
+      }
+    }
+  }
+  return { fingerprints: new Set(all.filter((d) => d?.id).map(fingerprint)), payload };
 }
 
 function isSteamVrTitle(data) {
@@ -475,6 +498,81 @@ function markNew(list, previous) {
   }));
 }
 
+function storeDealsFromPayload(payload) {
+  const meta = payload.sections?.metaVr?.deals || [];
+  const haloId = payload.sections?.halo?.currentPrice?.id;
+  return {
+    steam: uniqueById([
+      ...(payload.sections?.steamPc?.deals || []),
+      ...(payload.sections?.halo?.deals || []).filter(
+        (d) => d.discountPercent > 0 && d.id !== haloId,
+      ),
+    ]),
+    xbox: uniqueById(payload.sections?.xboxPc?.deals || []),
+    steamvr: uniqueById(meta.filter((d) => d.platform === "SteamVR")),
+    "meta-quest": uniqueById(meta.filter((d) => d.platform === "Meta Quest")),
+  };
+}
+
+function writeStoreOutputs(payload) {
+  const byStore = storeDealsFromPayload(payload);
+  mkdirSync(STORES_DIR, { recursive: true });
+  mkdirSync(join(ROOT, "docs/data"), { recursive: true });
+
+  const indexStores = [];
+  for (const store of STORES) {
+    const deals = store.status === "live" ? byStore[store.id] || [] : [];
+    const file = {
+      id: store.id,
+      name: store.name,
+      accent: store.accent,
+      status: store.status,
+      officialUrl: store.officialUrl,
+      platforms: store.platforms,
+      kicker: store.kicker,
+      blurb: store.blurb,
+      reason: store.reason || null,
+      updatedAt: payload.updatedAt,
+      updatedAtBogota: payload.updatedAtBogota,
+      timezone: payload.timezone,
+      emptyMessage: store.status === "deferred" ? store.reason : "Sin ofertas hoy",
+      spotlight: store.id === "steam" ? payload.sections?.halo?.currentPrice || null : null,
+      deals,
+    };
+    writeFileSync(join(STORES_DIR, `${store.id}.json`), JSON.stringify(file, null, 2) + "\n");
+    indexStores.push({
+      id: store.id,
+      name: store.name,
+      accent: store.accent,
+      status: store.status,
+      officialUrl: store.officialUrl,
+      platforms: store.platforms,
+      kicker: store.kicker,
+      blurb: store.blurb,
+      reason: store.reason || null,
+      href: `./store.html#${store.id}`,
+      dealCount: deals.length,
+      spotlightLabel:
+        store.id === "steam" && payload.sections?.halo?.currentPrice
+          ? payload.sections.halo.currentPrice.priceCurrentLabel
+          : null,
+    });
+  }
+
+  const index = {
+    updatedAt: payload.updatedAt,
+    updatedAtBogota: payload.updatedAtBogota,
+    updatedAtDate: payload.updatedAtDate,
+    timezone: payload.timezone,
+    liveDealCount: indexStores
+      .filter((s) => s.status === "live")
+      .reduce((n, s) => n + s.dealCount, 0),
+    stores: indexStores,
+  };
+  writeFileSync(INDEX_JSON, JSON.stringify(index, null, 2) + "\n");
+  return index;
+}
+
 function toMd(payload) {
   const lines = [
     `# Ofertas — ${payload.updatedAtBogota} (Bogotá)`,
@@ -484,47 +582,34 @@ function toMd(payload) {
     "",
   ];
 
-  const haloPrice = payload.sections.halo.currentPrice;
-  lines.push("## Halo: The Master Chief Collection");
+  const haloPrice = payload.sections?.halo?.currentPrice;
   if (haloPrice) {
     const tag = haloPrice.onSale ? `-${haloPrice.discountPercent}%` : "sin oferta";
+    lines.push("## Halo: The Master Chief Collection");
     lines.push(
       `- Precio actual (${tag}): **${haloPrice.priceCurrentLabel}** · [Steam](${haloPrice.url})`,
     );
-  } else {
-    lines.push("- Precio actual: sin confirmar");
-  }
-  if (!payload.sections.halo.deals.length) lines.push("- Sin ofertas hoy (DLC/packs).");
-  for (const d of payload.sections.halo.deals) {
-    lines.push(
-      `- ${d.isNew ? "🆕 " : ""}**${d.name}** (${d.platform}, ${d.kind}) — ${d.priceCurrentLabel} ~~${d.pricePreviousLabel}~~ (−${d.discountPercent}%) · [Ver oferta](${d.url})`,
-    );
+    lines.push("");
   }
 
-  lines.push("", "## Steam PC (Xbox / Bethesda / Game Studios)");
-  if (!payload.sections.steamPc?.deals?.length) lines.push("- Sin ofertas hoy");
-  for (const d of payload.sections.steamPc?.deals || []) {
-    lines.push(
-      `- ${d.isNew ? "🆕 " : ""}**${d.name}** (${d.platform}, ${d.kind}) — ${d.priceCurrentLabel} ~~${d.pricePreviousLabel}~~ (−${d.discountPercent}%) · [Ver oferta](${d.url})`,
-    );
+  for (const store of STORES) {
+    const deals =
+      payload.stores?.[store.id]?.deals ||
+      storeDealsFromPayload(payload)[store.id] ||
+      [];
+    lines.push(`## ${store.name}`);
+    if (store.status === "deferred") {
+      lines.push(`- ${store.reason}`);
+    } else if (!deals.length) {
+      lines.push("- Sin ofertas hoy");
+    }
+    for (const d of deals) {
+      lines.push(
+        `- ${d.isNew ? "🆕 " : ""}**${d.name}** (${d.platform}, ${d.kind}) — ${d.priceCurrentLabel} ~~${d.pricePreviousLabel}~~ (−${d.discountPercent}%) · [Ver oferta](${d.url})`,
+      );
+    }
+    lines.push("");
   }
-
-  lines.push("", "## Xbox en PC (Microsoft Store)");
-  if (!payload.sections.xboxPc.deals.length) lines.push("- Sin ofertas hoy");
-  for (const d of payload.sections.xboxPc.deals) {
-    lines.push(
-      `- ${d.isNew ? "🆕 " : ""}**${d.name}** (${d.platform}, ${d.kind}) — ${d.priceCurrentLabel} ~~${d.pricePreviousLabel}~~ (−${d.discountPercent}%) · [Ver oferta](${d.url})`,
-    );
-  }
-
-  lines.push("", "## Meta VR (Quest + SteamVR)");
-  if (!payload.sections.metaVr.deals.length) lines.push("- Sin ofertas hoy");
-  for (const d of payload.sections.metaVr.deals) {
-    lines.push(
-      `- ${d.isNew ? "🆕 " : ""}**${d.name}** (${d.platform}, ${d.kind}) — ${d.priceCurrentLabel} ~~${d.pricePreviousLabel}~~ (−${d.discountPercent}%) · [Ver oferta](${d.url})`,
-    );
-  }
-  lines.push("");
   return lines.join("\n");
 }
 
@@ -577,7 +662,44 @@ async function maybeOpenIssue(payload, newDeals) {
   return { opened: created.ok, status: created.status };
 }
 
+function writeOutputs(payload, saleDeals) {
+  mkdirSync(join(ROOT, "docs/data"), { recursive: true });
+  mkdirSync(join(ROOT, "data"), { recursive: true });
+  const json = JSON.stringify(payload, null, 2) + "\n";
+  writeFileSync(DOCS_JSON, json);
+  writeFileSync(ROOT_JSON, json);
+  const index = writeStoreOutputs(payload);
+  writeFileSync(DEALS_MD, toMd(payload));
+  writeFileSync(
+    NEW_JSON,
+    JSON.stringify({ generatedAt: payload.updatedAtBogota, deals: saleDeals }, null, 2) + "\n",
+  );
+  return index;
+}
+
 async function main() {
+  if (process.argv.includes("--from-existing")) {
+    const path = existsSync(DOCS_JSON) ? DOCS_JSON : existsSync(ROOT_JSON) ? ROOT_JSON : null;
+    if (!path) {
+      throw new Error("No hay deals.json para partir por tienda. Corre npm run deals primero.");
+    }
+    const payload = JSON.parse(readFileSync(path, "utf8"));
+    const index = writeStoreOutputs(payload);
+    writeFileSync(DEALS_MD, toMd(payload));
+    console.log(
+      JSON.stringify(
+        {
+          mode: "from-existing",
+          liveDealCount: index.liveDealCount,
+          stores: index.stores.map((s) => ({ id: s.id, status: s.status, dealCount: s.dealCount })),
+        },
+        null,
+        2,
+      ),
+    );
+    return;
+  }
+
   console.log("Fetching verified deals (COP / Bogotá)...");
   const prev = previousDeals();
   const halo = await collectHalo();
@@ -641,13 +763,7 @@ async function main() {
     ...metaDeals,
   ].filter((d) => d.discountPercent > 0 && d.isNew);
 
-  mkdirSync(join(ROOT, "docs/data"), { recursive: true });
-  mkdirSync(join(ROOT, "data"), { recursive: true });
-  const json = JSON.stringify(payload, null, 2) + "\n";
-  writeFileSync(DOCS_JSON, json);
-  writeFileSync(ROOT_JSON, json);
-  writeFileSync(DEALS_MD, toMd(payload));
-  writeFileSync(NEW_JSON, JSON.stringify({ generatedAt: payload.updatedAtBogota, deals: saleDeals }, null, 2) + "\n");
+  const index = writeOutputs(payload, saleDeals);
 
   const issue = await maybeOpenIssue(payload, saleDeals);
   console.log(
@@ -658,6 +774,8 @@ async function main() {
         steamPc: steamPcDeals.length,
         xboxPc: xboxPcDeals.length,
         metaVr: metaDeals.length,
+        liveDealCount: index.liveDealCount,
+        stores: index.stores.map((s) => ({ id: s.id, dealCount: s.dealCount })),
         newDeals: saleDeals.length,
         issue,
       },

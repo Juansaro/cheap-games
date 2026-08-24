@@ -1,0 +1,19 @@
+{
+  "id": "app-store",
+  "name": "App Store",
+  "accent": "apple",
+  "status": "deferred",
+  "officialUrl": "https://apps.apple.com/",
+  "platforms": [
+    "iOS"
+  ],
+  "kicker": "APPLE // iOS",
+  "blurb": "Igual que Play: catálogo iOS es fase 2. Sin precios inventados.",
+  "reason": "App Store no permite un índice completo de ofertas con API pública.",
+  "updatedAt": "2026-08-24T04:59:19.801Z",
+  "updatedAtBogota": "2026-08-23 23:59",
+  "timezone": "America/Bogota",
+  "emptyMessage": "App Store no permite un índice completo de ofertas con API pública.",
+  "spotlight": null,
+  "deals": []
+}

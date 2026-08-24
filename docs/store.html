@@ -4,11 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="color-scheme" content="dark" />
-    <meta
-      name="description"
-      content="Ofertas verificadas por tienda oficial: Steam, Xbox PC, SteamVR y Meta Quest. Sin keys de terceros."
-    />
-    <title>SPARTAN INTEL // Ofertas por tienda oficial</title>
+    <meta name="description" content="Ofertas verificadas de una tienda oficial. Un JSON, paginado." />
+    <title>Tienda // Ofertas verificadas</title>
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -18,7 +15,7 @@
     />
     <link rel="stylesheet" href="css/styles.css" />
   </head>
-  <body>
+  <body class="store-page">
     <div class="noise" aria-hidden="true"></div>
     <div class="hex-field" aria-hidden="true"></div>
     <div class="scanlines" aria-hidden="true"></div>
@@ -32,10 +29,10 @@
 
     <div id="boot" class="boot" role="status">
       <div class="boot-inner">
-        <p class="boot-kicker">UNSC // PRICE INTEL UPLINK</p>
-        <h1 class="boot-title">ESTABLISHING VISOR LINK</h1>
+        <p class="boot-kicker">UNSC // STORE UPLINK</p>
+        <h1 class="boot-title">LOADING STORE SLICE</h1>
         <div class="boot-bar"><span></span></div>
-        <p class="boot-log" id="boot-log">handshake://docs/data/index.json</p>
+        <p class="boot-log" id="boot-log">handshake://docs/data/stores</p>
       </div>
     </div>
 
@@ -48,7 +45,7 @@
         </svg>
         <div>
           <p class="brand-kicker">SPARTAN INTEL</p>
-          <h1>Ofertas por tienda</h1>
+          <h1>Ofertas verificadas</h1>
         </div>
       </div>
       <div class="hud-clocks">
@@ -61,62 +58,46 @@
           <span class="label">Reloj local Bogotá</span>
           <strong id="live-clock">--:--:--</strong>
         </div>
-        <div>
-          <span class="label">Ofertas vivas</span>
-          <strong id="live-count">—</strong>
-        </div>
       </div>
     </header>
 
-    <main>
-      <section class="sector sector-hub">
-        <header class="sector-head">
-          <div class="sigil" aria-hidden="true">
-            <svg viewBox="0 0 80 80">
-              <circle cx="40" cy="40" r="28" fill="none" stroke="currentColor" stroke-width="2" />
-              <circle cx="40" cy="40" r="8" />
-              <path d="M40 8 V20 M40 60 V72 M8 40 H20 M60 40 H72" stroke="currentColor" stroke-width="2" />
-            </svg>
-          </div>
-          <div>
-            <p class="sector-kicker">MAPA // TIENDAS OFICIALES</p>
-            <h2>Elige una tienda</h2>
-            <p class="sector-lede">
-              El hub solo carga el índice. Cada tienda abre su propio JSON. Sin catálogo masivo de
-              Android, iOS, PS5 o Switch en este scroll.
-            </p>
-          </div>
-        </header>
-        <div id="store-board" class="store-board"></div>
-      </section>
+    <nav class="crumb-nav" aria-label="Navegación">
+      <a class="crumb" href="./">← Mapa de tiendas</a>
+      <a class="crumb" id="official-link" href="#" rel="noopener noreferrer" target="_blank">Tienda oficial ↗</a>
+    </nav>
 
-      <section class="sector sector-deferred">
+    <main>
+      <section class="sector" id="store-sector">
         <header class="sector-head">
           <div>
-            <p class="sector-kicker">FASE 2 // SIN PRECIOS INVENTADOS</p>
-            <h2>Otras tiendas oficiales</h2>
-            <p class="sector-lede">
-              PlayStation, Nintendo eShop, Google Play y App Store no tienen API pública estable.
-              Las fichas existen para escalar después; hoy no hay filas falsas.
+            <p class="sector-kicker" id="store-kicker">STORE</p>
+            <h2 id="store-title">Cargando…</h2>
+            <p class="sector-lede" id="store-lede"></p>
+            <p class="store-stats">
+              <span id="deal-count">—</span>
+              <span id="page-range"></span>
             </p>
           </div>
         </header>
-        <div id="deferred-board" class="store-board"></div>
+        <div id="store-spotlight" class="current-price" hidden></div>
+        <div id="pager-top"></div>
+        <div id="store-grid" class="grid"></div>
+        <div id="pager-bottom"></div>
       </section>
     </main>
 
     <footer class="hud-foot">
       <p>
-        Solo tiendas oficiales. Sin G2A ni keys de terceros. Si no hay confirmación de precio, no se
-        inventa la fila. Atajos: 1–4 abren las tiendas en vivo.
+        Esta página carga un solo archivo JSON de la tienda. El catálogo completo de otras plataformas
+        es otra fase, con backend.
       </p>
-      <p class="mono">cheap-games · briefing público · GitHub Pages</p>
+      <p class="mono">cheap-games · un JSON por store · GitHub Pages</p>
     </footer>
 
     <noscript>
       <p class="noscript">Activa JavaScript para el visor, o abre DEALS.md en el repositorio.</p>
     </noscript>
     <script src="js/hud.js" defer></script>
-    <script src="js/hub.js" defer></script>
+    <script src="js/store.js" defer></script>
   </body>
 </html>

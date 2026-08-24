@@ -1,0 +1,142 @@
+{
+  "updatedAt": "2026-08-24T04:59:19.801Z",
+  "updatedAtBogota": "2026-08-23 23:59",
+  "updatedAtDate": "2026-08-23",
+  "timezone": "America/Bogota",
+  "liveDealCount": 58,
+  "stores": [
+    {
+      "id": "steam",
+      "name": "Steam",
+      "accent": "steam",
+      "status": "live",
+      "officialUrl": "https://store.steampowered.com/",
+      "platforms": [
+        "Windows PC",
+        "Linux PC"
+      ],
+      "kicker": "VALVE // WINDOWS · LINUX",
+      "blurb": "Ofertas oficiales de Steam. Windows y Linux (nativo o Proton). Sin keys de terceros.",
+      "reason": null,
+      "href": "./store.html#steam",
+      "dealCount": 15,
+      "spotlightLabel": "COL$ 159.900"
+    },
+    {
+      "id": "xbox",
+      "name": "Microsoft Store / Xbox PC",
+      "accent": "xbox",
+      "status": "live",
+      "officialUrl": "https://www.microsoft.com/store/games",
+      "platforms": [
+        "Windows PC",
+        "Xbox Play Anywhere"
+      ],
+      "kicker": "XBOX // WINDOWS PC",
+      "blurb": "Microsoft Store y Xbox app para Windows. Play Anywhere si el SKU es de PC.",
+      "reason": null,
+      "href": "./store.html#xbox",
+      "dealCount": 40,
+      "spotlightLabel": null
+    },
+    {
+      "id": "steamvr",
+      "name": "SteamVR",
+      "accent": "meta",
+      "status": "live",
+      "officialUrl": "https://store.steampowered.com/vr/",
+      "platforms": [
+        "SteamVR"
+      ],
+      "kicker": "STEAMVR // PCVR",
+      "blurb": "Ofertas verificadas en SteamVR. Equivalentes PC de títulos Quest cuando existen.",
+      "reason": null,
+      "href": "./store.html#steamvr",
+      "dealCount": 3,
+      "spotlightLabel": null
+    },
+    {
+      "id": "meta-quest",
+      "name": "Meta Quest Store",
+      "accent": "meta",
+      "status": "live",
+      "officialUrl": "https://www.meta.com/experiences/",
+      "platforms": [
+        "Meta Quest 2",
+        "Quest 3",
+        "Quest 3S"
+      ],
+      "kicker": "HORIZON // QUEST",
+      "blurb": "Solo fichas de Quest cuyo precio se pudo verificar. Si Meta bloquea la lectura, esta tienda queda vacía.",
+      "reason": null,
+      "href": "./store.html#meta-quest",
+      "dealCount": 0,
+      "spotlightLabel": null
+    },
+    {
+      "id": "playstation",
+      "name": "PlayStation Store",
+      "accent": "ps",
+      "status": "deferred",
+      "officialUrl": "https://store.playstation.com/",
+      "platforms": [
+        "PS5"
+      ],
+      "kicker": "PLAYSTATION // PS5",
+      "blurb": "Sin API pública estable. No inventamos precios de PS5.",
+      "reason": "PlayStation Store no ofrece una API de precios pública usable.",
+      "href": "./store.html#playstation",
+      "dealCount": 0,
+      "spotlightLabel": null
+    },
+    {
+      "id": "nintendo-eshop",
+      "name": "Nintendo eShop",
+      "accent": "switch",
+      "status": "deferred",
+      "officialUrl": "https://www.nintendo.com/store/",
+      "platforms": [
+        "Switch",
+        "Switch 2"
+      ],
+      "kicker": "NINTENDO // SWITCH 1 · 2",
+      "blurb": "Switch 1 y Switch 2 compran en el eShop. Sin API pública estable; no hay filas inventadas.",
+      "reason": "Nintendo eShop no ofrece una API de precios pública usable.",
+      "href": "./store.html#nintendo-eshop",
+      "dealCount": 0,
+      "spotlightLabel": null
+    },
+    {
+      "id": "google-play",
+      "name": "Google Play",
+      "accent": "play",
+      "status": "deferred",
+      "officialUrl": "https://play.google.com/store/games",
+      "platforms": [
+        "Android"
+      ],
+      "kicker": "GOOGLE // ANDROID",
+      "blurb": "Catálogo móvil completo es fase 2 (backend). Aquí no se listan juegos a ciegas.",
+      "reason": "Google Play no tiene API pública de ofertas de juegos a esta escala.",
+      "href": "./store.html#google-play",
+      "dealCount": 0,
+      "spotlightLabel": null
+    },
+    {
+      "id": "app-store",
+      "name": "App Store",
+      "accent": "apple",
+      "status": "deferred",
+      "officialUrl": "https://apps.apple.com/",
+      "platforms": [
+        "iOS"
+      ],
+      "kicker": "APPLE // iOS",
+      "blurb": "Igual que Play: catálogo iOS es fase 2. Sin precios inventados.",
+      "reason": "App Store no permite un índice completo de ofertas con API pública.",
+      "href": "./store.html#app-store",
+      "dealCount": 0,
+      "spotlightLabel": null
+    }
+  ]
+}

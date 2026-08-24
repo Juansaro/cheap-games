@@ -5,9 +5,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
-- Sin ofertas hoy (DLC/packs).
 
-## Steam PC (Xbox / Bethesda / Game Studios)
+## Steam
 - **Microsoft Flight Simulator X: Steam Edition** (Steam PC, base) — COL$ 10.000 ~~COL$ 50.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/314160/)
 - **Microsoft Flight Simulator (2020) 40th Anniversary Edition** (Steam PC, base) — COL$ 87.465 ~~COL$ 249.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/1250410/)
 - **Minecraft Legends** (Steam PC, base) — COL$ 79.960 ~~COL$ 199.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1928870/)
@@ -24,7 +23,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Microsoft Flight Simulator 2024** (Steam PC, base) — COL$ 195.930 ~~COL$ 279.900~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/2537590/)
 - **Age of Empires III: Definitive Edition - The Baltic Powers** (Steam PC, dlc) — COL$ 50.915 ~~COL$ 59.900~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/4308600/)
 
-## Xbox en PC (Microsoft Store)
+## Microsoft Store / Xbox PC
 - **Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition** (Xbox PC, bundle) — $ 87.465 ~~$ 249.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1)
 - **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 143.465 ~~$ 409.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
 - **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 122.465 ~~$ 349.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
@@ -66,7 +65,22 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 
-## Meta VR (Quest + SteamVR)
+## SteamVR
 - **The Light Brigade: Definitive Edition** (SteamVR, base) — COL$ 23.520 ~~COL$ 58.800~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1579880/)
 - **Into the Radius VR** (SteamVR, base) — COL$ 35.000 ~~COL$ 70.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1012790/)
 - **Into the Radius 2** (SteamVR, base) — COL$ 60.200 ~~COL$ 86.000~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/2307350/)
+
+## Meta Quest Store
+- Sin ofertas hoy
+
+## PlayStation Store
+- PlayStation Store no ofrece una API de precios pública usable.
+
+## Nintendo eShop
+- Nintendo eShop no ofrece una API de precios pública usable.
+
+## Google Play
+- Google Play no tiene API pública de ofertas de juegos a esta escala.
+
+## App Store
+- App Store no permite un índice completo de ofertas con API pública.

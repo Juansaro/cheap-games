@@ -2,8 +2,9 @@
   "name": "cheap-games",
   "private": true,
   "type": "module",
-  "description": "Ofertas verificadas de Halo MCC, Xbox PC y Meta VR — GitHub Pages",
+  "description": "Ofertas verificadas por tienda oficial — GitHub Pages",
   "scripts": {
-    "deals": "node scripts/fetch-deals.mjs"
+    "deals": "node scripts/fetch-deals.mjs",
+    "deals:split": "node scripts/fetch-deals.mjs --from-existing"
   }
 }

@@ -39,7 +39,9 @@ CÓMO EJECUTAR
 1. Checkout de main.
 2. Corre: node scripts/fetch-deals.mjs
    Ese script ya habla con Steam appdetails, búsqueda de specials, Microsoft Display Catalog / Store search, y fichas Meta/SteamVR. Escribe:
-   - docs/data/deals.json (la página Pages lo lee)
+   - docs/data/index.json (el hub de Pages)
+   - docs/data/stores/{id}.json (una tienda por archivo)
+   - docs/data/deals.json (agregado)
    - data/deals.json
    - data/new-deals.json
    - DEALS.md
