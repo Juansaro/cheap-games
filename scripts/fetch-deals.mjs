@@ -131,6 +131,7 @@ function previousDeals() {
       ...(payload.sections?.halo?.deals || []),
       ...(payload.sections?.halo?.currentPrice ? [payload.sections.halo.currentPrice] : []),
       ...(payload.sections?.xboxPc?.deals || []),
+      ...(payload.sections?.steamPc?.deals || []),
       ...(payload.sections?.metaVr?.deals || []),
     ];
     return { fingerprints: new Set(all.filter((d) => d?.id).map(fingerprint)), payload };
@@ -195,23 +196,26 @@ async function steamAppDetails(appId) {
 }
 
 async function steamSearchSpecials(params) {
-  const qs = new URLSearchParams({
-    query: "",
-    start: "0",
-    count: "50",
-    specials: "1",
-    infinite: "1",
-    cc: STEAM_CC,
-    l: "spanish",
-    ...params,
-  });
-  const url = `https://store.steampowered.com/search/results/?${qs}`;
-  const r = await fetchJson(url);
-  await sleep(DELAY_MS);
-  if (!r.ok || !r.data?.results_html) return [];
-  const html = r.data.results_html;
   const ids = new Set();
-  for (const m of html.matchAll(/data-ds-appid="(\d+)"/g)) ids.add(m[1]);
+  for (let start = 0; start < 100; start += 50) {
+    const qs = new URLSearchParams({
+      query: "",
+      start: String(start),
+      count: "50",
+      specials: "1",
+      infinite: "1",
+      cc: STEAM_CC,
+      l: "spanish",
+      ...params,
+    });
+    const url = `https://store.steampowered.com/search/results/?${qs}`;
+    const r = await fetchJson(url);
+    await sleep(DELAY_MS);
+    if (!r.ok || !r.data?.results_html) break;
+    const pageIds = [...r.data.results_html.matchAll(/data-ds-appid="(\d+)"/g)].map((m) => m[1]);
+    pageIds.forEach((id) => ids.add(id));
+    if (pageIds.length < 50) break;
+  }
   return [...ids];
 }
 
@@ -243,8 +247,8 @@ async function collectHalo() {
   return { currentPrice, deals };
 }
 
-async function collectXboxSteam() {
-  const found = new Set();
+async function collectSteamPc() {
+  const found = new Set((CATALOG.steamWatchlist || []).map(String));
   for (const publisher of CATALOG.xboxSteamPublishers) {
     const ids = await steamSearchSpecials({ publisher });
     ids.forEach((id) => found.add(id));
@@ -258,13 +262,14 @@ async function collectXboxSteam() {
     const devs = (app.data.developers || []).join(" ");
     if (!XBOX_PUBLISHER_RE.test(`${pubs} ${devs}`)) continue;
     const row = steamDealFromApp(app.appId, app.data, {
-      sources: ["steam-search-specials", "steam-appdetails"],
+      sources: ["steam-appdetails", "steam-search-specials", "steam-watchlist"],
       publisher: pubs,
     });
     if (row && row.discountPercent > 0) deals.push(row);
   }
   deals.sort((a, b) => b.discountPercent - a.discountPercent);
-  return deals;
+  const seen = new Set();
+  return deals.filter((d) => (seen.has(d.id) ? false : seen.add(d.id)));
 }
 
 function xboxImage(product) {
@@ -496,7 +501,15 @@ function toMd(payload) {
     );
   }
 
-  lines.push("", "## Xbox en PC (Microsoft Store + Steam)");
+  lines.push("", "## Steam PC (Xbox / Bethesda / Game Studios)");
+  if (!payload.sections.steamPc?.deals?.length) lines.push("- Sin ofertas hoy");
+  for (const d of payload.sections.steamPc?.deals || []) {
+    lines.push(
+      `- ${d.isNew ? "🆕 " : ""}**${d.name}** (${d.platform}, ${d.kind}) — ${d.priceCurrentLabel} ~~${d.pricePreviousLabel}~~ (−${d.discountPercent}%) · [Ver oferta](${d.url})`,
+    );
+  }
+
+  lines.push("", "## Xbox en PC (Microsoft Store)");
   if (!payload.sections.xboxPc.deals.length) lines.push("- Sin ofertas hoy");
   for (const d of payload.sections.xboxPc.deals) {
     lines.push(
@@ -568,18 +581,21 @@ async function main() {
   console.log("Fetching verified deals (COP / Bogotá)...");
   const prev = previousDeals();
   const halo = await collectHalo();
-  const xboxSteam = await collectXboxSteam();
+  const steamPc = await collectSteamPc();
   const xboxMs = await collectXboxMicrosoft();
   const metaVr = await collectMeta();
 
   const clock = nowBogotaParts();
   const haloDeals = markNew(halo.deals, prev.fingerprints);
-  const xboxDeals = markNew([...xboxMs, ...xboxSteam], prev.fingerprints);
+  const steamDeals = markNew(steamPc, prev.fingerprints);
+  const xboxDeals = markNew(xboxMs, prev.fingerprints);
   const metaDeals = markNew(metaVr, prev.fingerprints);
   if (halo.currentPrice) {
     halo.currentPrice = markNew([halo.currentPrice], prev.fingerprints)[0];
   }
 
+  const seenSteam = new Set();
+  const steamPcDeals = steamDeals.filter((d) => (seenSteam.has(d.id) ? false : seenSteam.add(d.id)));
   const seenXbox = new Set();
   const xboxPcDeals = xboxDeals.filter((d) => (seenXbox.has(d.id) ? false : seenXbox.add(d.id)));
 
@@ -605,6 +621,11 @@ async function main() {
         emptyMessage: "Sin ofertas hoy",
         deals: xboxPcDeals,
       },
+      steamPc: {
+        title: "Steam PC",
+        emptyMessage: "Sin ofertas hoy",
+        deals: steamPcDeals,
+      },
       metaVr: {
         title: "Meta VR",
         emptyMessage: "Sin ofertas hoy",
@@ -615,6 +636,7 @@ async function main() {
 
   const saleDeals = [
     ...haloDeals,
+    ...steamPcDeals,
     ...xboxPcDeals,
     ...metaDeals,
   ].filter((d) => d.discountPercent > 0 && d.isNew);
@@ -633,6 +655,7 @@ async function main() {
       {
         haloCurrent: halo.currentPrice?.priceCurrentLabel || null,
         haloDeals: haloDeals.length,
+        steamPc: steamPcDeals.length,
         xboxPc: xboxPcDeals.length,
         metaVr: metaDeals.length,
         newDeals: saleDeals.length,

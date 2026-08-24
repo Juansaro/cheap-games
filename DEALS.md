@@ -1,13 +1,30 @@
-# Ofertas — 2026-08-23 23:39 (Bogotá)
+# Ofertas — 2026-08-23 23:59 (Bogotá)
 
-Última actualización: **2026-08-23 23:39** (America/Bogota).
+Última actualización: **2026-08-23 23:59** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 - Sin ofertas hoy (DLC/packs).
 
-## Xbox en PC (Microsoft Store + Steam)
+## Steam PC (Xbox / Bethesda / Game Studios)
+- **Microsoft Flight Simulator X: Steam Edition** (Steam PC, base) — COL$ 10.000 ~~COL$ 50.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/314160/)
+- **Microsoft Flight Simulator (2020) 40th Anniversary Edition** (Steam PC, base) — COL$ 87.465 ~~COL$ 249.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/1250410/)
+- **Minecraft Legends** (Steam PC, base) — COL$ 79.960 ~~COL$ 199.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1928870/)
+- **Minecraft Legends - Deluxe Skin Pack** (Steam PC, dlc) — COL$ 35.960 ~~COL$ 89.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2187940/)
+- **Minecraft Dungeons** (Steam PC, base) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672970/)
+- **Pase de aventura de Minecraft Dungeons: Cuesta nublada** (Steam PC, dlc) — COL$ 6.100 ~~COL$ 12.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1776550/)
+- **Minecraft Dungeons: Vacío resonante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672985/)
+- **Minecraft Dungeons: Las llamas del Inframundo** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672983/)
+- **Minecraft Dungeons: La jungla despierta** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672980/)
+- **Minecraft Dungeons: Invierno espeluznante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672981/)
+- **Minecraft Dungeons: Las cumbres de los aullidos** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672982/)
+- **Minecraft Dungeons: Las profundidades ocultas** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672984/)
+- **Minecraft Dungeons Hero DLC** (Steam PC, dlc) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672986/)
+- **Microsoft Flight Simulator 2024** (Steam PC, base) — COL$ 195.930 ~~COL$ 279.900~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/2537590/)
+- **Age of Empires III: Definitive Edition - The Baltic Powers** (Steam PC, dlc) — COL$ 50.915 ~~COL$ 59.900~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/4308600/)
+
+## Xbox en PC (Microsoft Store)
 - **Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition** (Xbox PC, bundle) — $ 87.465 ~~$ 249.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1)
 - **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 143.465 ~~$ 409.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
 - **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 122.465 ~~$ 349.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
@@ -48,23 +65,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Indiana Jones y el Gran Círculo™: Mejora Prémium Digital** (Xbox PC, base) — $ 148.410 ~~$ 164.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4T0R0HQJ9J?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
-- **Microsoft Flight Simulator X: Steam Edition** (Steam PC, base) — COL$ 10.000 ~~COL$ 50.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/314160/)
-- **Microsoft Flight Simulator (2020) 40th Anniversary Edition** (Steam PC, base) — COL$ 87.465 ~~COL$ 249.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/1250410/)
-- **Minecraft Legends** (Steam PC, base) — COL$ 79.960 ~~COL$ 199.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1928870/)
-- **Minecraft Legends - Deluxe Skin Pack** (Steam PC, dlc) — COL$ 35.960 ~~COL$ 89.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2187940/)
-- **Minecraft Dungeons** (Steam PC, base) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672970/)
-- **Pase de aventura de Minecraft Dungeons: Cuesta nublada** (Steam PC, dlc) — COL$ 6.100 ~~COL$ 12.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1776550/)
-- **Minecraft Dungeons: Vacío resonante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672985/)
-- **Minecraft Dungeons: Las llamas del Inframundo** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672983/)
-- **Minecraft Dungeons: La jungla despierta** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672980/)
-- **Minecraft Dungeons: Invierno espeluznante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672981/)
-- **Minecraft Dungeons: Las cumbres de los aullidos** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672982/)
-- **Minecraft Dungeons: Las profundidades ocultas** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672984/)
-- **Minecraft Dungeons Hero DLC** (Steam PC, dlc) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672986/)
-- **Microsoft Flight Simulator 2024** (Steam PC, base) — COL$ 195.930 ~~COL$ 279.900~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/2537590/)
-- **Age of Empires III: Definitive Edition - The Baltic Powers** (Steam PC, dlc) — COL$ 50.915 ~~COL$ 59.900~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/4308600/)
 
 ## Meta VR (Quest + SteamVR)
-- 🆕 **The Light Brigade: Definitive Edition** (SteamVR, base) — COL$ 23.520 ~~COL$ 58.800~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1579880/)
-- 🆕 **Into the Radius VR** (SteamVR, base) — COL$ 35.000 ~~COL$ 70.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1012790/)
-- 🆕 **Into the Radius 2** (SteamVR, base) — COL$ 60.200 ~~COL$ 86.000~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/2307350/)
+- **The Light Brigade: Definitive Edition** (SteamVR, base) — COL$ 23.520 ~~COL$ 58.800~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1579880/)
+- **Into the Radius VR** (SteamVR, base) — COL$ 35.000 ~~COL$ 70.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1012790/)
+- **Into the Radius 2** (SteamVR, base) — COL$ 60.200 ~~COL$ 86.000~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/2307350/)

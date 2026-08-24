@@ -84,7 +84,7 @@ function tickClock() {
 }
 
 function setActiveNav() {
-  const ids = ["halo", "xbox", "meta"];
+  const ids = ["halo", "steam", "xbox", "meta"];
   const fromTop = window.scrollY + 120;
   let current = "halo";
   for (const id of ids) {
@@ -111,8 +111,9 @@ async function main() {
   window.addEventListener("scroll", setActiveNav, { passive: true });
   window.addEventListener("keydown", (e) => {
     if (e.key === "1") location.hash = "halo";
-    if (e.key === "2") location.hash = "xbox";
-    if (e.key === "3") location.hash = "meta";
+    if (e.key === "2") location.hash = "steam";
+    if (e.key === "3") location.hash = "xbox";
+    if (e.key === "4") location.hash = "meta";
   });
   bootSequence();
 
@@ -135,6 +136,10 @@ async function main() {
         faction: "halo",
       },
     );
+    renderSection($("#steam-grid"), data.sections?.steamPc?.deals, {
+      empty: data.sections?.steamPc?.emptyMessage,
+      faction: "steam",
+    });
     renderSection($("#xbox-grid"), data.sections?.xboxPc?.deals, {
       empty: data.sections?.xboxPc?.emptyMessage,
       faction: "xbox",
@@ -146,6 +151,7 @@ async function main() {
   } catch (err) {
     $("#updated-at").textContent = "sin datos";
     $("#halo-grid").innerHTML =
+      $("#steam-grid").innerHTML =
       $("#xbox-grid").innerHTML =
       $("#meta-grid").innerHTML =
         `<div class="empty">No se pudo leer data/deals.json</div>`;

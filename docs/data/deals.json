@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-24T04:39:06.769Z",
-  "updatedAtBogota": "2026-08-23 23:39",
+  "updatedAt": "2026-08-24T04:59:19.801Z",
+  "updatedAtBogota": "2026-08-23 23:59",
   "updatedAtDate": "2026-08-23",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
@@ -1042,7 +1042,13 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
           "isNew": false
-        },
+        }
+      ]
+    },
+    "steamPc": {
+      "title": "Steam PC",
+      "emptyMessage": "Sin ofertas hoy",
+      "deals": [
         {
           "id": "steam-314160",
           "storeId": "314160",
@@ -1061,8 +1067,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/header.jpg?t=1667504069",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1085,8 +1092,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1777409972",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1109,8 +1117,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928870/header.jpg?t=1746133966",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1133,8 +1142,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2187940/header.jpg?t=1682680345",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1157,8 +1167,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg?t=1787063807",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1181,8 +1192,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1776550/header.jpg?t=1643818328",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1205,8 +1217,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672985/header.jpg?t=1632323736",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1229,8 +1242,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672983/header.jpg?t=1632323495",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1253,8 +1267,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672980/header.jpg?t=1632323294",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1277,8 +1292,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672981/header.jpg?t=1632323371",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1301,8 +1317,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672982/header.jpg?t=1632323436",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1325,8 +1342,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672984/header.jpg?t=1632323609",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1349,8 +1367,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672986/header.jpg?t=1671561250",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1373,8 +1392,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1780854662",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1397,8 +1417,9 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308600/43a767eb85fd07e140ad6de93e6f703519bd522f/header.jpg?t=1786643698",
           "confirmed": true,
           "sources": [
+            "steam-appdetails",
             "steam-search-specials",
-            "steam-appdetails"
+            "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
@@ -1427,11 +1448,10 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1579880/b702306b3c147b041197d838f0ef2e75449eec86/header.jpg?t=1787332700",
           "confirmed": true,
           "sources": [
-            "meta-catalog",
-            "steam-appdetails"
+            "steam-appdetails",
+            "meta-catalog"
           ],
-          "publisher": "Funktronic Labs",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1012790",
@@ -1451,11 +1471,10 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012790/header.jpg?t=1773504670",
           "confirmed": true,
           "sources": [
-            "meta-catalog",
-            "steam-appdetails"
+            "steam-appdetails",
+            "meta-catalog"
           ],
-          "publisher": "CM IMMERSIVE",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2307350",
@@ -1475,11 +1494,10 @@
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2307350/c392da3c356501b682aca2645f990f14d39bfea4/header.jpg?t=1784737193",
           "confirmed": true,
           "sources": [
-            "meta-catalog",
-            "steam-appdetails"
+            "steam-appdetails",
+            "meta-catalog"
           ],
-          "publisher": "CM IMMERSIVE",
-          "isNew": true
+          "isNew": false
         }
       ]
     }

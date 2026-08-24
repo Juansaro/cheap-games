@@ -11,6 +11,8 @@
   --xbox-deep: #107c10;
   --meta: #4cc3ff;
   --meta-2: #9b6cff;
+  --steam: #66c0f4;
+  --steam-deep: #1b2838;
   --danger: #ff5d4a;
   --card: rgba(10, 16, 14, 0.72);
   --line: rgba(212, 180, 90, 0.28);
@@ -257,12 +259,18 @@ header.hud-top,
 
 .faction-nav {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr;
   gap: 8px;
   margin: 16px 0 28px;
   position: sticky;
   top: 8px;
   z-index: 5;
+}
+
+@media (min-width: 720px) {
+  .faction-nav {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
 
 .faction {
@@ -291,6 +299,9 @@ header.hud-top,
 
 .faction.halo {
   color: var(--halo-gold);
+}
+.faction.steam {
+  color: var(--steam);
 }
 .faction.xbox {
   color: var(--xbox);
@@ -325,6 +336,10 @@ header.hud-top,
 .sector-halo .sigil,
 .sector-halo .sector-kicker {
   color: var(--halo-gold);
+}
+.sector-steam .sigil,
+.sector-steam .sector-kicker {
+  color: var(--steam);
 }
 .sector-xbox .sigil,
 .sector-xbox .sector-kicker {
@@ -381,6 +396,9 @@ header.hud-top,
 }
 
 .intel-card[data-platform="Steam PC"],
+.intel-card[data-faction="steam"] {
+  --accent: var(--steam);
+}
 .intel-card[data-faction="halo"] {
   --accent: var(--halo-gold);
 }

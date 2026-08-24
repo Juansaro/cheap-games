@@ -6,9 +6,9 @@
     <meta name="color-scheme" content="dark" />
     <meta
       name="description"
-      content="Ofertas verificadas de Halo MCC, Xbox en PC y Meta VR. Precios reales, sin keys de terceros."
+      content="Ofertas verificadas de Halo MCC, Steam PC, Xbox Store y Meta VR. Precios reales, sin keys de terceros."
     />
-    <title>SPARTAN INTEL // Ofertas Halo · Xbox PC · Meta VR</title>
+    <title>SPARTAN INTEL // Ofertas Halo · Steam · Xbox · Meta VR</title>
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -69,9 +69,13 @@
         <span class="dot"></span>
         Halo TMCC
       </a>
+      <a class="faction steam" href="#steam">
+        <span class="dot"></span>
+        Steam PC
+      </a>
       <a class="faction xbox" href="#xbox">
         <span class="dot"></span>
-        Xbox en PC
+        Xbox Store
       </a>
       <a class="faction meta" href="#meta">
         <span class="dot"></span>
@@ -101,6 +105,28 @@
         <div id="halo-grid" class="grid"></div>
       </section>
 
+      <section id="steam" class="sector sector-steam" data-faction="steam">
+        <header class="sector-head">
+          <div class="sigil" aria-hidden="true">
+            <svg viewBox="0 0 80 80">
+              <circle cx="40" cy="40" r="28" fill="none" stroke="currentColor" stroke-width="3" />
+              <circle cx="32" cy="44" r="10" fill="none" stroke="currentColor" stroke-width="3" />
+              <circle cx="52" cy="28" r="7" fill="currentColor" />
+              <path d="M32 44 L52 28" stroke="currentColor" stroke-width="3" />
+            </svg>
+          </div>
+          <div>
+            <p class="sector-kicker">STEAM // XBOX · BETHESDA · GAME STUDIOS</p>
+            <h2>Steam PC</h2>
+            <p class="sector-lede">
+              Ofertas oficiales en Steam de Halo, Forza, Bethesda, Age of Empires y el resto de IPs Xbox.
+              Enlace directo a la ficha de Steam. Sin keys de terceros.
+            </p>
+          </div>
+        </header>
+        <div id="steam-grid" class="grid"></div>
+      </section>
+
       <section id="xbox" class="sector sector-xbox" data-faction="xbox">
         <header class="sector-head">
           <div class="sigil" aria-hidden="true">
@@ -113,7 +139,7 @@
             <p class="sector-kicker">PLAY ANYWHERE // WINDOWS PC</p>
             <h2>Xbox en PC</h2>
             <p class="sector-lede">
-              Microsoft Store / Xbox app para Windows y las mismas IPs en Steam. Nada de consolas sueltas.
+              Microsoft Store / Xbox app para Windows (Play Anywhere o edición PC). Nada de consolas sueltas.
             </p>
           </div>
         </header>
