@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-24T15:33:09.175Z",
-  "updatedAtBogota": "2026-08-24 10:33",
-  "updatedAtDate": "2026-08-24",
+  "updatedAt": "2026-08-25T15:36:44.376Z",
+  "updatedAtBogota": "2026-08-25 10:36",
+  "updatedAtDate": "2026-08-25",
   "timezone": "America/Bogota",
-  "liveDealCount": 58,
+  "liveDealCount": 87,
   "stores": [
     {
       "id": "steam",
@@ -19,7 +19,7 @@
       "blurb": "Ofertas oficiales de Steam. Windows y Linux (nativo o Proton). Sin keys de terceros.",
       "reason": null,
       "href": "./store.html#steam",
-      "dealCount": 15,
+      "dealCount": 16,
       "spotlightLabel": "COL$ 159.900"
     },
     {
@@ -36,7 +36,7 @@
       "blurb": "Microsoft Store y Xbox app para Windows. Play Anywhere si el SKU es de PC.",
       "reason": null,
       "href": "./store.html#xbox",
-      "dealCount": 40,
+      "dealCount": 71,
       "spotlightLabel": null
     },
     {
@@ -52,7 +52,7 @@
       "blurb": "Ofertas verificadas en SteamVR. Equivalentes PC de títulos Quest cuando existen.",
       "reason": null,
       "href": "./store.html#steamvr",
-      "dealCount": 3,
+      "dealCount": 0,
       "spotlightLabel": null
     },
     {

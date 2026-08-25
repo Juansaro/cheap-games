@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-08-24T15:33:09.175Z",
-  "updatedAtBogota": "2026-08-24 10:33",
+  "updatedAt": "2026-08-25T15:36:44.376Z",
+  "updatedAtBogota": "2026-08-25 10:36",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -44,6 +44,31 @@
     "isNew": false
   },
   "deals": [
+    {
+      "id": "steam-5004030",
+      "storeId": "5004030",
+      "name": "Microsoft Flight Simulator Suite: Themes Reimagined",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 30900,
+      "pricePrevious": 30900,
+      "discountPercent": 100,
+      "currency": "COP",
+      "priceCurrentLabel": "Gratuito",
+      "pricePreviousLabel": "COL$ 30.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/5004030/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004030/5b524d5a89e29e0024420f02778cc18ccc98d35f/header.jpg?t=1787593193",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": true
+    },
     {
       "id": "steam-314160",
       "storeId": "314160",
@@ -84,7 +109,7 @@
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/1250410/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1777409972",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -384,7 +409,7 @@
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/2537590/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1780854662",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
