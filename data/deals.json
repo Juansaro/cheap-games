@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T15:36:44.376Z",
-  "updatedAtBogota": "2026-08-25 10:36",
-  "updatedAtDate": "2026-08-25",
+  "updatedAt": "2026-08-26T16:13:49.301Z",
+  "updatedAtBogota": "2026-08-26 11:13",
+  "updatedAtDate": "2026-08-26",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -27,6 +27,106 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/5004030/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004030/5b524d5a89e29e0024420f02778cc18ccc98d35f/header.jpg?t=1787593193",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-607080",
+          "storeId": "607080",
+          "name": "Psychonauts 2",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 20250,
+          "pricePrevious": 134999,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 20.250",
+          "pricePreviousLabel": "COL$ 134.999",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/607080/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg?t=1787353870",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Double Fine Productions",
+          "isNew": true
+        },
+        {
+          "id": "steam-1726810",
+          "storeId": "1726810",
+          "name": "Psychonauts 2 (Original Soundtrack), Vol. 1",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 2775,
+          "pricePrevious": 18500,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 2.775",
+          "pricePreviousLabel": "COL$ 18.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1726810/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726810/header.jpg?t=1634854648",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1927960",
+          "storeId": "1927960",
+          "name": "Psychonauts 2 (Original Soundtrack), Vol. 2",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 2775,
+          "pricePrevious": 18500,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 2.775",
+          "pricePreviousLabel": "COL$ 18.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1927960/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927960/header.jpg?t=1647385622",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2155510",
+          "storeId": "2155510",
+          "name": "Psychonauts 2 (Original Soundtrack), Vol. 3",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 2775,
+          "pricePrevious": 18500,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 2.775",
+          "pricePreviousLabel": "COL$ 18.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2155510/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2155510/header.jpg?t=1663867230",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -62,6 +162,81 @@
           "isNew": false
         },
         {
+          "id": "steam-288470",
+          "storeId": "288470",
+          "name": "Fable Anniversary",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 20100,
+          "pricePrevious": 67000,
+          "discountPercent": 70,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 20.100",
+          "pricePreviousLabel": "COL$ 67.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/288470/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/header.jpg?t=1742377409",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-315151",
+          "storeId": "315151",
+          "name": "Fable Anniversary - Heroes and Villains Content Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9600,
+          "pricePrevious": 32000,
+          "discountPercent": 70,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.600",
+          "pricePreviousLabel": "COL$ 32.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/315151/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315151/header.jpg?t=1557764011",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-315150",
+          "storeId": "315150",
+          "name": "Fable Anniversary - Scythe Content Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7050,
+          "pricePrevious": 23500,
+          "discountPercent": 70,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.050",
+          "pricePreviousLabel": "COL$ 23.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/315150/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315150/header.jpg?t=1557764234",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
           "id": "steam-1250410",
           "storeId": "1250410",
           "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
@@ -87,21 +262,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1928870",
-          "storeId": "1928870",
-          "name": "Minecraft Legends",
+          "id": "steam-1551360",
+          "storeId": "1551360",
+          "name": "Forza Horizon 5",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 79960,
-          "pricePrevious": 199900,
+          "priceCurrent": 85960,
+          "pricePrevious": 214900,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 79.960",
-          "pricePreviousLabel": "COL$ 199.900",
+          "priceCurrentLabel": "COL$ 85.960",
+          "pricePreviousLabel": "COL$ 214.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1928870/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928870/header.jpg?t=1746133966",
+          "url": "https://store.steampowered.com/app/1551360/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1787677939",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -109,24 +284,24 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
         },
         {
-          "id": "steam-2187940",
-          "storeId": "2187940",
-          "name": "Minecraft Legends - Deluxe Skin Pack",
+          "id": "steam-2440510",
+          "storeId": "2440510",
+          "name": "Forza Motorsport",
           "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 35960,
-          "pricePrevious": 89900,
+          "kind": "base",
+          "priceCurrent": 111960,
+          "pricePrevious": 279900,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 35.960",
-          "pricePreviousLabel": "COL$ 89.900",
+          "priceCurrentLabel": "COL$ 111.960",
+          "pricePreviousLabel": "COL$ 279.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2187940/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2187940/header.jpg?t=1682680345",
+          "url": "https://store.steampowered.com/app/2440510/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440510/header.jpg?t=1747073895",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -134,7 +309,157 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
+        },
+        {
+          "id": "steam-1613280",
+          "storeId": "1613280",
+          "name": "Forza Horizon 5: Hot Wheels",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 31960,
+          "pricePrevious": 79900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 31.960",
+          "pricePreviousLabel": "COL$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1613280/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613280/header.jpg?t=1703992111",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1613281",
+          "storeId": "1613281",
+          "name": "Forza Horizon 5 Rally Adventure",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 31960,
+          "pricePrevious": 79900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 31.960",
+          "pricePreviousLabel": "COL$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1613281/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613281/header.jpg?t=1703992121",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1613284",
+          "storeId": "1613284",
+          "name": "Paquete de bienvenida de Forza Horizon 5",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7960,
+          "pricePrevious": 19900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.960",
+          "pricePreviousLabel": "COL$ 19.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1613284/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613284/header.jpg?t=1703992150",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1613285",
+          "storeId": "1613285",
+          "name": "Forza Horizon 5: Mapa del tesoro",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 5160,
+          "pricePrevious": 12900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.160",
+          "pricePreviousLabel": "COL$ 12.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1613285/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613285/header.jpg?t=1703992154",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1648020",
+          "storeId": "1648020",
+          "name": "Pase de coches de Forza Horizon 5",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 47960,
+          "pricePrevious": 119900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 47.960",
+          "pricePreviousLabel": "COL$ 119.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1648020/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648020/header.jpg?t=1703992049",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2557390",
+          "storeId": "2557390",
+          "name": "Forza Motorsport Car Pass",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 51960,
+          "pricePrevious": 129900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 51.960",
+          "pricePreviousLabel": "COL$ 129.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2557390/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2557390/header.jpg?t=1776349397",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-1672970",
@@ -160,6 +485,81 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
+        },
+        {
+          "id": "steam-2894270",
+          "storeId": "2894270",
+          "name": "Forza Horizon 5 Apex Allstars Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 24950,
+          "pricePrevious": 49900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 24.950",
+          "pricePreviousLabel": "COL$ 49.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2894270/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894270/header.jpg?t=1713891392",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2507010",
+          "storeId": "2507010",
+          "name": "Forza Horizon 5 Italian Exotics Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 24950,
+          "pricePrevious": 49900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 24.950",
+          "pricePreviousLabel": "COL$ 49.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2507010/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-3051730",
+          "storeId": "3051730",
+          "name": "Forza Horizon 5 JDM Jewels Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3051730/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051730/header.jpg?t=1721241176",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-1776550",
@@ -237,21 +637,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1672980",
-          "storeId": "1672980",
-          "name": "Minecraft Dungeons: La jungla despierta",
+          "id": "steam-2738880",
+          "storeId": "2738880",
+          "name": "Forza Horizon 5 Chinese Lucky Stars Car Pack",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 9100,
-          "pricePrevious": 18200,
+          "priceCurrent": 9950,
+          "pricePrevious": 19900,
           "discountPercent": 50,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.100",
-          "pricePreviousLabel": "COL$ 18.200",
+          "priceCurrentLabel": "COL$ 9.950",
+          "pricePreviousLabel": "COL$ 19.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1672980/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672980/header.jpg?t=1632323294",
+          "url": "https://store.steampowered.com/app/2738880/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738880/header.jpg?t=1707777254",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -259,7 +659,32 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
+        },
+        {
+          "id": "steam-2614920",
+          "storeId": "2614920",
+          "name": "Forza Horizon 5 Super Speed Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2614920/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614920/header.jpg?t=1703991599",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-1672981",
@@ -277,6 +702,56 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1672981/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672981/header.jpg?t=1632323371",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2440490",
+          "storeId": "2440490",
+          "name": "Horizon Racing Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2440490/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440490/header.jpg?t=1687805377",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1672980",
+          "storeId": "1672980",
+          "name": "Minecraft Dungeons: La jungla despierta",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9100,
+          "pricePrevious": 18200,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.100",
+          "pricePreviousLabel": "COL$ 18.200",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1672980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672980/header.jpg?t=1632323294",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -337,6 +812,106 @@
           "isNew": false
         },
         {
+          "id": "steam-2868420",
+          "storeId": "2868420",
+          "name": "Forza Horizon 5 Acceleration Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9950,
+          "pricePrevious": 19900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.950",
+          "pricePreviousLabel": "COL$ 19.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2868420/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868420/header.jpg?t=1711472371",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2814020",
+          "storeId": "2814020",
+          "name": "Forza Horizon 5 European Automotive Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9950,
+          "pricePrevious": 19900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.950",
+          "pricePreviousLabel": "COL$ 19.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2814020/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814020/header.jpg?t=1709056860",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-3339980",
+          "storeId": "3339980",
+          "name": "Forza Horizon 5 Nissan Retro Rides Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3339980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339980/a74c72a6a37f065c00faa1e4e052a4861d45bf23/header.jpg?t=1745853258",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2638820",
+          "storeId": "2638820",
+          "name": "Forza Horizon 5 American Automotive Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2638820/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638820/header.jpg?t=1703991597",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
           "id": "steam-1672986",
           "storeId": "1672986",
           "name": "Minecraft Dungeons Hero DLC",
@@ -387,6 +962,31 @@
           "isNew": false
         },
         {
+          "id": "steam-2483190",
+          "storeId": "2483190",
+          "name": "Forza Horizon 6",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 237915,
+          "pricePrevious": 279900,
+          "discountPercent": 15,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 237.915",
+          "pricePreviousLabel": "COL$ 279.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2483190/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787677842",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
           "id": "steam-4308600",
           "storeId": "4308600",
           "name": "Age of Empires III: Definitive Edition - The Baltic Powers",
@@ -410,6 +1010,31 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
+        },
+        {
+          "id": "steam-4520360",
+          "storeId": "4520360",
+          "name": "Forza Horizon 6 Premium Upgrade",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 204000,
+          "pricePrevious": 240000,
+          "discountPercent": 15,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 204.000",
+          "pricePreviousLabel": "COL$ 240.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4520360/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520360/da0a30ab552b49f79a4a7d072f457460effded19/header.jpg?t=1784323031",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         }
       ],
       "spotlight": {
@@ -463,7 +1088,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NJWTJSVGVLJ",
@@ -488,7 +1113,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NT4X7P8B9NB",
@@ -513,7 +1138,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NBR2VXT87SJ",
@@ -538,7 +1163,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NSBJ5G9JJ83",
@@ -563,7 +1188,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NNLBL0T2Z43",
@@ -588,7 +1213,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NBLGGH5WLR0",
@@ -613,7 +1238,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NBLGGH1Z6FB",
@@ -638,7 +1263,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P5MBBFF3RNT",
@@ -663,7 +1288,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NR7XDNVP5SW",
@@ -688,7 +1313,7 @@
           ],
           "publisher": "Xbox Game Studios ",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NF83PRZK6K3",
@@ -713,7 +1338,7 @@
           ],
           "publisher": "Xbox Game Studios ",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NP1P1WFS0LB",
@@ -738,7 +1363,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N8CD0XZKLP4",
@@ -763,7 +1388,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N1WWHGKBX3P",
@@ -788,7 +1413,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MWNNM41MB6D",
@@ -812,81 +1437,6 @@
             "ms-store-search"
           ],
           "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": true
-        },
-        {
-          "id": "xboxpc-9PMQDM08SNK9",
-          "storeId": "9PMQDM08SNK9",
-          "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 87465,
-          "pricePrevious": 249900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 87.465",
-          "pricePreviousLabel": "$ 249.900",
-          "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-08-26 04:59",
-          "url": "https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.37136.14293123921570736.739af26b-0b56-4d3a-8d57-149d26c2cc05.73830409-618c-48cc-a4fc-4f6fbc18b7f9",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9PJ15D3RDXMV",
-          "storeId": "9PJ15D3RDXMV",
-          "name": "Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 143465,
-          "pricePrevious": 409900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 143.465",
-          "pricePreviousLabel": "$ 409.900",
-          "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-08-26 04:59",
-          "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9NH8N0M7CWLN",
-          "storeId": "9NH8N0M7CWLN",
-          "name": "Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 122465,
-          "pricePrevious": 349900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 122.465",
-          "pricePreviousLabel": "$ 349.900",
-          "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-08-26 04:59",
-          "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
         },
@@ -913,7 +1463,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NKX70BBCDRN",
@@ -938,7 +1488,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MTLKM2DJMZ2",
@@ -963,7 +1513,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P1HX37NMJLT",
@@ -988,7 +1538,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MZ0SR207MG8",
@@ -1013,7 +1563,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P8PGC771MLP",
@@ -1038,7 +1588,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PLKVSWR299F",
@@ -1063,7 +1613,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PN4DRJDLZT7",
@@ -1088,7 +1638,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N5MZM3J3LCQ",
@@ -1113,7 +1663,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PDDRVKPF6KG",
@@ -1138,7 +1688,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NTH1K5RT43P",
@@ -1163,7 +1713,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N94NCGM1Q2N",
@@ -1188,7 +1738,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N759W6RB0J7",
@@ -1213,7 +1763,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P20K049MHT5",
@@ -1238,7 +1788,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NQMNQDS4QQL",
@@ -1263,7 +1813,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NPKGVXPFRSX",
@@ -1288,7 +1838,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NN144QSW0T0",
@@ -1313,7 +1863,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PJTHRNVH62H",
@@ -1338,7 +1888,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NX6K9HN4F4K",
@@ -1363,7 +1913,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NB6BVL3MTG4",
@@ -1388,7 +1938,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MSVPJCHHRPR",
@@ -1413,7 +1963,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NFHQ2719J83",
@@ -1438,7 +1988,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P8RMKXRML7D",
@@ -1463,7 +2013,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PPDC1GHF831",
@@ -1488,7 +2038,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PNX7LQ1SB8D",
@@ -1513,7 +2063,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P2VGCTBMM52",
@@ -1689,6 +2239,56 @@
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9PJ15D3RDXMV",
+          "storeId": "9PJ15D3RDXMV",
+          "name": "Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 327920,
+          "pricePrevious": 409900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 327.920",
+          "pricePreviousLabel": "$ 409.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9NH8N0M7CWLN",
+          "storeId": "9NH8N0M7CWLN",
+          "name": "Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 279920,
+          "pricePrevious": 349900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 279.920",
+          "pricePreviousLabel": "$ 349.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9P4S0R97R36S",
@@ -2063,7 +2663,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N9LXX68LKWF",
@@ -2301,7 +2901,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NJWTJSVGVLJ",
@@ -2326,7 +2926,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NT4X7P8B9NB",
@@ -2351,7 +2951,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NBR2VXT87SJ",
@@ -2376,7 +2976,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NSBJ5G9JJ83",
@@ -2401,7 +3001,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NNLBL0T2Z43",
@@ -2426,7 +3026,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NBLGGH5WLR0",
@@ -2451,7 +3051,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NBLGGH1Z6FB",
@@ -2476,7 +3076,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P5MBBFF3RNT",
@@ -2501,7 +3101,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NR7XDNVP5SW",
@@ -2526,7 +3126,7 @@
           ],
           "publisher": "Xbox Game Studios ",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NF83PRZK6K3",
@@ -2551,7 +3151,7 @@
           ],
           "publisher": "Xbox Game Studios ",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NP1P1WFS0LB",
@@ -2576,7 +3176,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N8CD0XZKLP4",
@@ -2601,7 +3201,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N1WWHGKBX3P",
@@ -2626,7 +3226,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MWNNM41MB6D",
@@ -2650,81 +3250,6 @@
             "ms-store-search"
           ],
           "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": true
-        },
-        {
-          "id": "xboxpc-9PMQDM08SNK9",
-          "storeId": "9PMQDM08SNK9",
-          "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 87465,
-          "pricePrevious": 249900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 87.465",
-          "pricePreviousLabel": "$ 249.900",
-          "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-08-26 04:59",
-          "url": "https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.37136.14293123921570736.739af26b-0b56-4d3a-8d57-149d26c2cc05.73830409-618c-48cc-a4fc-4f6fbc18b7f9",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9PJ15D3RDXMV",
-          "storeId": "9PJ15D3RDXMV",
-          "name": "Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 143465,
-          "pricePrevious": 409900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 143.465",
-          "pricePreviousLabel": "$ 409.900",
-          "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-08-26 04:59",
-          "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9NH8N0M7CWLN",
-          "storeId": "9NH8N0M7CWLN",
-          "name": "Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 122465,
-          "pricePrevious": 349900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 122.465",
-          "pricePreviousLabel": "$ 349.900",
-          "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-08-26 04:59",
-          "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
         },
@@ -2751,7 +3276,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NKX70BBCDRN",
@@ -2776,7 +3301,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MTLKM2DJMZ2",
@@ -2801,7 +3326,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P1HX37NMJLT",
@@ -2826,7 +3351,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MZ0SR207MG8",
@@ -2851,7 +3376,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P8PGC771MLP",
@@ -2876,7 +3401,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PLKVSWR299F",
@@ -2901,7 +3426,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PN4DRJDLZT7",
@@ -2926,7 +3451,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N5MZM3J3LCQ",
@@ -2951,7 +3476,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PDDRVKPF6KG",
@@ -2976,7 +3501,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NTH1K5RT43P",
@@ -3001,7 +3526,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N94NCGM1Q2N",
@@ -3026,7 +3551,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N759W6RB0J7",
@@ -3051,7 +3576,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P20K049MHT5",
@@ -3076,7 +3601,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NQMNQDS4QQL",
@@ -3101,7 +3626,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NPKGVXPFRSX",
@@ -3126,7 +3651,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NN144QSW0T0",
@@ -3151,7 +3676,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PJTHRNVH62H",
@@ -3176,7 +3701,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NX6K9HN4F4K",
@@ -3201,7 +3726,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NB6BVL3MTG4",
@@ -3226,7 +3751,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MSVPJCHHRPR",
@@ -3251,7 +3776,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NFHQ2719J83",
@@ -3276,7 +3801,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P8RMKXRML7D",
@@ -3301,7 +3826,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PPDC1GHF831",
@@ -3326,7 +3851,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PNX7LQ1SB8D",
@@ -3351,7 +3876,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P2VGCTBMM52",
@@ -3527,6 +4052,56 @@
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9PJ15D3RDXMV",
+          "storeId": "9PJ15D3RDXMV",
+          "name": "Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 327920,
+          "pricePrevious": 409900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 327.920",
+          "pricePreviousLabel": "$ 409.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9NH8N0M7CWLN",
+          "storeId": "9NH8N0M7CWLN",
+          "name": "Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 279920,
+          "pricePrevious": 349900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 279.920",
+          "pricePreviousLabel": "$ 349.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9P4S0R97R36S",
@@ -3901,7 +4476,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N9LXX68LKWF",
@@ -4082,6 +4657,106 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-607080",
+          "storeId": "607080",
+          "name": "Psychonauts 2",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 20250,
+          "pricePrevious": 134999,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 20.250",
+          "pricePreviousLabel": "COL$ 134.999",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/607080/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg?t=1787353870",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Double Fine Productions",
+          "isNew": true
+        },
+        {
+          "id": "steam-1726810",
+          "storeId": "1726810",
+          "name": "Psychonauts 2 (Original Soundtrack), Vol. 1",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 2775,
+          "pricePrevious": 18500,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 2.775",
+          "pricePreviousLabel": "COL$ 18.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1726810/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726810/header.jpg?t=1634854648",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1927960",
+          "storeId": "1927960",
+          "name": "Psychonauts 2 (Original Soundtrack), Vol. 2",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 2775,
+          "pricePrevious": 18500,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 2.775",
+          "pricePreviousLabel": "COL$ 18.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1927960/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927960/header.jpg?t=1647385622",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2155510",
+          "storeId": "2155510",
+          "name": "Psychonauts 2 (Original Soundtrack), Vol. 3",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 2775,
+          "pricePrevious": 18500,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 2.775",
+          "pricePreviousLabel": "COL$ 18.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2155510/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2155510/header.jpg?t=1663867230",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
           "isNew": true
         },
         {
@@ -4110,6 +4785,81 @@
           "isNew": false
         },
         {
+          "id": "steam-288470",
+          "storeId": "288470",
+          "name": "Fable Anniversary",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 20100,
+          "pricePrevious": 67000,
+          "discountPercent": 70,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 20.100",
+          "pricePreviousLabel": "COL$ 67.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/288470/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/header.jpg?t=1742377409",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-315151",
+          "storeId": "315151",
+          "name": "Fable Anniversary - Heroes and Villains Content Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9600,
+          "pricePrevious": 32000,
+          "discountPercent": 70,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.600",
+          "pricePreviousLabel": "COL$ 32.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/315151/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315151/header.jpg?t=1557764011",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-315150",
+          "storeId": "315150",
+          "name": "Fable Anniversary - Scythe Content Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7050,
+          "pricePrevious": 23500,
+          "discountPercent": 70,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.050",
+          "pricePreviousLabel": "COL$ 23.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/315150/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315150/header.jpg?t=1557764234",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
           "id": "steam-1250410",
           "storeId": "1250410",
           "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
@@ -4135,21 +4885,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1928870",
-          "storeId": "1928870",
-          "name": "Minecraft Legends",
+          "id": "steam-1551360",
+          "storeId": "1551360",
+          "name": "Forza Horizon 5",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 79960,
-          "pricePrevious": 199900,
+          "priceCurrent": 85960,
+          "pricePrevious": 214900,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 79.960",
-          "pricePreviousLabel": "COL$ 199.900",
+          "priceCurrentLabel": "COL$ 85.960",
+          "pricePreviousLabel": "COL$ 214.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1928870/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928870/header.jpg?t=1746133966",
+          "url": "https://store.steampowered.com/app/1551360/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1787677939",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -4157,24 +4907,24 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
         },
         {
-          "id": "steam-2187940",
-          "storeId": "2187940",
-          "name": "Minecraft Legends - Deluxe Skin Pack",
+          "id": "steam-2440510",
+          "storeId": "2440510",
+          "name": "Forza Motorsport",
           "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 35960,
-          "pricePrevious": 89900,
+          "kind": "base",
+          "priceCurrent": 111960,
+          "pricePrevious": 279900,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 35.960",
-          "pricePreviousLabel": "COL$ 89.900",
+          "priceCurrentLabel": "COL$ 111.960",
+          "pricePreviousLabel": "COL$ 279.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2187940/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2187940/header.jpg?t=1682680345",
+          "url": "https://store.steampowered.com/app/2440510/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440510/header.jpg?t=1747073895",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -4182,7 +4932,157 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
+        },
+        {
+          "id": "steam-1613280",
+          "storeId": "1613280",
+          "name": "Forza Horizon 5: Hot Wheels",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 31960,
+          "pricePrevious": 79900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 31.960",
+          "pricePreviousLabel": "COL$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1613280/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613280/header.jpg?t=1703992111",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1613281",
+          "storeId": "1613281",
+          "name": "Forza Horizon 5 Rally Adventure",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 31960,
+          "pricePrevious": 79900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 31.960",
+          "pricePreviousLabel": "COL$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1613281/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613281/header.jpg?t=1703992121",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1613284",
+          "storeId": "1613284",
+          "name": "Paquete de bienvenida de Forza Horizon 5",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7960,
+          "pricePrevious": 19900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.960",
+          "pricePreviousLabel": "COL$ 19.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1613284/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613284/header.jpg?t=1703992150",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1613285",
+          "storeId": "1613285",
+          "name": "Forza Horizon 5: Mapa del tesoro",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 5160,
+          "pricePrevious": 12900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.160",
+          "pricePreviousLabel": "COL$ 12.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1613285/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613285/header.jpg?t=1703992154",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1648020",
+          "storeId": "1648020",
+          "name": "Pase de coches de Forza Horizon 5",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 47960,
+          "pricePrevious": 119900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 47.960",
+          "pricePreviousLabel": "COL$ 119.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1648020/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648020/header.jpg?t=1703992049",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2557390",
+          "storeId": "2557390",
+          "name": "Forza Motorsport Car Pass",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 51960,
+          "pricePrevious": 129900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 51.960",
+          "pricePreviousLabel": "COL$ 129.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2557390/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2557390/header.jpg?t=1776349397",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-1672970",
@@ -4208,6 +5108,81 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
+        },
+        {
+          "id": "steam-2894270",
+          "storeId": "2894270",
+          "name": "Forza Horizon 5 Apex Allstars Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 24950,
+          "pricePrevious": 49900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 24.950",
+          "pricePreviousLabel": "COL$ 49.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2894270/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894270/header.jpg?t=1713891392",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2507010",
+          "storeId": "2507010",
+          "name": "Forza Horizon 5 Italian Exotics Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 24950,
+          "pricePrevious": 49900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 24.950",
+          "pricePreviousLabel": "COL$ 49.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2507010/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-3051730",
+          "storeId": "3051730",
+          "name": "Forza Horizon 5 JDM Jewels Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3051730/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051730/header.jpg?t=1721241176",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-1776550",
@@ -4285,21 +5260,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1672980",
-          "storeId": "1672980",
-          "name": "Minecraft Dungeons: La jungla despierta",
+          "id": "steam-2738880",
+          "storeId": "2738880",
+          "name": "Forza Horizon 5 Chinese Lucky Stars Car Pack",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 9100,
-          "pricePrevious": 18200,
+          "priceCurrent": 9950,
+          "pricePrevious": 19900,
           "discountPercent": 50,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.100",
-          "pricePreviousLabel": "COL$ 18.200",
+          "priceCurrentLabel": "COL$ 9.950",
+          "pricePreviousLabel": "COL$ 19.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1672980/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672980/header.jpg?t=1632323294",
+          "url": "https://store.steampowered.com/app/2738880/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738880/header.jpg?t=1707777254",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -4307,7 +5282,32 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
+        },
+        {
+          "id": "steam-2614920",
+          "storeId": "2614920",
+          "name": "Forza Horizon 5 Super Speed Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2614920/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614920/header.jpg?t=1703991599",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-1672981",
@@ -4325,6 +5325,56 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1672981/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672981/header.jpg?t=1632323371",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2440490",
+          "storeId": "2440490",
+          "name": "Horizon Racing Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2440490/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440490/header.jpg?t=1687805377",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-1672980",
+          "storeId": "1672980",
+          "name": "Minecraft Dungeons: La jungla despierta",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9100,
+          "pricePrevious": 18200,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.100",
+          "pricePreviousLabel": "COL$ 18.200",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1672980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672980/header.jpg?t=1632323294",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -4385,6 +5435,106 @@
           "isNew": false
         },
         {
+          "id": "steam-2868420",
+          "storeId": "2868420",
+          "name": "Forza Horizon 5 Acceleration Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9950,
+          "pricePrevious": 19900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.950",
+          "pricePreviousLabel": "COL$ 19.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2868420/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868420/header.jpg?t=1711472371",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2814020",
+          "storeId": "2814020",
+          "name": "Forza Horizon 5 European Automotive Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9950,
+          "pricePrevious": 19900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.950",
+          "pricePreviousLabel": "COL$ 19.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2814020/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814020/header.jpg?t=1709056860",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-3339980",
+          "storeId": "3339980",
+          "name": "Forza Horizon 5 Nissan Retro Rides Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3339980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339980/a74c72a6a37f065c00faa1e4e052a4861d45bf23/header.jpg?t=1745853258",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
+          "id": "steam-2638820",
+          "storeId": "2638820",
+          "name": "Forza Horizon 5 American Automotive Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2638820/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638820/header.jpg?t=1703991597",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
           "id": "steam-1672986",
           "storeId": "1672986",
           "name": "Minecraft Dungeons Hero DLC",
@@ -4435,6 +5585,31 @@
           "isNew": false
         },
         {
+          "id": "steam-2483190",
+          "storeId": "2483190",
+          "name": "Forza Horizon 6",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 237915,
+          "pricePrevious": 279900,
+          "discountPercent": 15,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 237.915",
+          "pricePreviousLabel": "COL$ 279.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2483190/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787677842",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
           "id": "steam-4308600",
           "storeId": "4308600",
           "name": "Age of Empires III: Definitive Edition - The Baltic Powers",
@@ -4458,6 +5633,31 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
+        },
+        {
+          "id": "steam-4520360",
+          "storeId": "4520360",
+          "name": "Forza Horizon 6 Premium Upgrade",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 204000,
+          "pricePrevious": 240000,
+          "discountPercent": 15,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 204.000",
+          "pricePreviousLabel": "COL$ 240.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4520360/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520360/da0a30ab552b49f79a4a7d072f457460effded19/header.jpg?t=1784323031",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         }
       ]
     },

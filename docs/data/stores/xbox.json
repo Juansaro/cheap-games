@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-08-25T15:36:44.376Z",
-  "updatedAtBogota": "2026-08-25 10:36",
+  "updatedAt": "2026-08-26T16:13:49.301Z",
+  "updatedAtBogota": "2026-08-26 11:13",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -43,7 +43,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NJWTJSVGVLJ",
@@ -68,7 +68,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NT4X7P8B9NB",
@@ -93,7 +93,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NBR2VXT87SJ",
@@ -118,7 +118,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NSBJ5G9JJ83",
@@ -143,7 +143,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NNLBL0T2Z43",
@@ -168,7 +168,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NBLGGH5WLR0",
@@ -193,7 +193,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NBLGGH1Z6FB",
@@ -218,7 +218,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P5MBBFF3RNT",
@@ -243,7 +243,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NR7XDNVP5SW",
@@ -268,7 +268,7 @@
       ],
       "publisher": "Xbox Game Studios ",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NF83PRZK6K3",
@@ -293,7 +293,7 @@
       ],
       "publisher": "Xbox Game Studios ",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NP1P1WFS0LB",
@@ -318,7 +318,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N8CD0XZKLP4",
@@ -343,7 +343,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N1WWHGKBX3P",
@@ -368,7 +368,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MWNNM41MB6D",
@@ -392,81 +392,6 @@
         "ms-store-search"
       ],
       "publisher": "Microsoft Studios",
-      "playAnywhere": true,
-      "isNew": true
-    },
-    {
-      "id": "xboxpc-9PMQDM08SNK9",
-      "storeId": "9PMQDM08SNK9",
-      "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 87465,
-      "pricePrevious": 249900,
-      "discountPercent": 65,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 87.465",
-      "pricePreviousLabel": "$ 249.900",
-      "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-08-26 04:59",
-      "url": "https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.37136.14293123921570736.739af26b-0b56-4d3a-8d57-149d26c2cc05.73830409-618c-48cc-a4fc-4f6fbc18b7f9",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9PJ15D3RDXMV",
-      "storeId": "9PJ15D3RDXMV",
-      "name": "Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 143465,
-      "pricePrevious": 409900,
-      "discountPercent": 65,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 143.465",
-      "pricePreviousLabel": "$ 409.900",
-      "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-08-26 04:59",
-      "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9NH8N0M7CWLN",
-      "storeId": "9NH8N0M7CWLN",
-      "name": "Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 122465,
-      "pricePrevious": 349900,
-      "discountPercent": 65,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 122.465",
-      "pricePreviousLabel": "$ 349.900",
-      "dealEndsAt": "2026-08-26T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-08-26 04:59",
-      "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
       "playAnywhere": true,
       "isNew": false
     },
@@ -493,7 +418,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NKX70BBCDRN",
@@ -518,7 +443,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MTLKM2DJMZ2",
@@ -543,7 +468,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P1HX37NMJLT",
@@ -568,7 +493,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MZ0SR207MG8",
@@ -593,7 +518,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P8PGC771MLP",
@@ -618,7 +543,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PLKVSWR299F",
@@ -643,7 +568,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PN4DRJDLZT7",
@@ -668,7 +593,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N5MZM3J3LCQ",
@@ -693,7 +618,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PDDRVKPF6KG",
@@ -718,7 +643,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NTH1K5RT43P",
@@ -743,7 +668,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N94NCGM1Q2N",
@@ -768,7 +693,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N759W6RB0J7",
@@ -793,7 +718,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P20K049MHT5",
@@ -818,7 +743,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NQMNQDS4QQL",
@@ -843,7 +768,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NPKGVXPFRSX",
@@ -868,7 +793,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NN144QSW0T0",
@@ -893,7 +818,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PJTHRNVH62H",
@@ -918,7 +843,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NX6K9HN4F4K",
@@ -943,7 +868,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NB6BVL3MTG4",
@@ -968,7 +893,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MSVPJCHHRPR",
@@ -993,7 +918,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NFHQ2719J83",
@@ -1018,7 +943,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P8RMKXRML7D",
@@ -1043,7 +968,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PPDC1GHF831",
@@ -1068,7 +993,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PNX7LQ1SB8D",
@@ -1093,7 +1018,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P2VGCTBMM52",
@@ -1269,6 +1194,56 @@
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
       "isNew": false
+    },
+    {
+      "id": "xboxpc-9PJ15D3RDXMV",
+      "storeId": "9PJ15D3RDXMV",
+      "name": "Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 327920,
+      "pricePrevious": 409900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 327.920",
+      "pricePreviousLabel": "$ 409.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9NH8N0M7CWLN",
+      "storeId": "9NH8N0M7CWLN",
+      "name": "Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 279920,
+      "pricePrevious": 349900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 279.920",
+      "pricePreviousLabel": "$ 349.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
     },
     {
       "id": "xboxpc-9P4S0R97R36S",
@@ -1643,7 +1618,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N9LXX68LKWF",
