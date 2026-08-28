@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-08-28T00:13:07.601Z",
-  "updatedAtBogota": "2026-08-27 19:13",
+  "updatedAt": "2026-08-28T23:50:03.491Z",
+  "updatedAtBogota": "2026-08-28 18:50",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -120,31 +120,6 @@
       "isNew": false
     },
     {
-      "id": "steam-1927960",
-      "storeId": "1927960",
-      "name": "Psychonauts 2 (Original Soundtrack), Vol. 2",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 2775,
-      "pricePrevious": 18500,
-      "discountPercent": 85,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 2.775",
-      "pricePreviousLabel": "COL$ 18.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1927960/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927960/header.jpg?t=1647385622",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-2155510",
       "storeId": "2155510",
       "name": "Psychonauts 2 (Original Soundtrack), Vol. 3",
@@ -160,6 +135,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/2155510/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2155510/header.jpg?t=1663867230",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-1927960",
+      "storeId": "1927960",
+      "name": "Psychonauts 2 (Original Soundtrack), Vol. 2",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 2775,
+      "pricePrevious": 18500,
+      "discountPercent": 85,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 2.775",
+      "pricePreviousLabel": "COL$ 18.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1927960/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927960/header.jpg?t=1647385622",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -445,31 +445,6 @@
       "isNew": false
     },
     {
-      "id": "steam-2557390",
-      "storeId": "2557390",
-      "name": "Forza Motorsport Car Pass",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 51960,
-      "pricePrevious": 129900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 51.960",
-      "pricePreviousLabel": "COL$ 129.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2557390/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2557390/header.jpg?t=1776349397",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-1648020",
       "storeId": "1648020",
       "name": "Pase de coches de Forza Horizon 5",
@@ -485,6 +460,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/1648020/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648020/header.jpg?t=1703992049",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-2557390",
+      "storeId": "2557390",
+      "name": "Forza Motorsport Car Pass",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 51960,
+      "pricePrevious": 129900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 51.960",
+      "pricePreviousLabel": "COL$ 129.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/2557390/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2557390/header.jpg?t=1776349397",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -545,6 +545,31 @@
       "isNew": false
     },
     {
+      "id": "steam-2507010",
+      "storeId": "2507010",
+      "name": "Forza Horizon 5 Italian Exotics Car Pack",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 24950,
+      "pricePrevious": 49900,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 24.950",
+      "pricePreviousLabel": "COL$ 49.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/2507010/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
       "id": "steam-1776550",
       "storeId": "1776550",
       "name": "Pase de aventura de Minecraft Dungeons: Cuesta nublada",
@@ -585,31 +610,6 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/3051730/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051730/header.jpg?t=1721241176",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-2507010",
-      "storeId": "2507010",
-      "name": "Forza Horizon 5 Italian Exotics Car Pack",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 24950,
-      "pricePrevious": 49900,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 24.950",
-      "pricePreviousLabel": "COL$ 49.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2507010/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -670,31 +670,6 @@
       "isNew": false
     },
     {
-      "id": "steam-1672981",
-      "storeId": "1672981",
-      "name": "Minecraft Dungeons: Invierno espeluznante",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9100,
-      "pricePrevious": 18200,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.100",
-      "pricePreviousLabel": "COL$ 18.200",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1672981/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672981/header.jpg?t=1632323371",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-1672980",
       "storeId": "1672980",
       "name": "Minecraft Dungeons: La jungla despierta",
@@ -710,6 +685,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/1672980/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672980/header.jpg?t=1632323294",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-1672981",
+      "storeId": "1672981",
+      "name": "Minecraft Dungeons: Invierno espeluznante",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9100,
+      "pricePrevious": 18200,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.100",
+      "pricePreviousLabel": "COL$ 18.200",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1672981/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672981/header.jpg?t=1632323371",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -870,31 +870,6 @@
       "isNew": false
     },
     {
-      "id": "steam-2814020",
-      "storeId": "2814020",
-      "name": "Forza Horizon 5 European Automotive Car Pack",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9950,
-      "pricePrevious": 19900,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.950",
-      "pricePreviousLabel": "COL$ 19.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2814020/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814020/header.jpg?t=1709056860",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-1672986",
       "storeId": "1672986",
       "name": "Minecraft Dungeons Hero DLC",
@@ -920,31 +895,6 @@
       "isNew": false
     },
     {
-      "id": "steam-3339980",
-      "storeId": "3339980",
-      "name": "Forza Horizon 5 Nissan Retro Rides Car Pack",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 12450,
-      "pricePrevious": 24900,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 12.450",
-      "pricePreviousLabel": "COL$ 24.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/3339980/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339980/a74c72a6a37f065c00faa1e4e052a4861d45bf23/header.jpg?t=1745853258",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-2638820",
       "storeId": "2638820",
       "name": "Forza Horizon 5 American Automotive Car Pack",
@@ -960,6 +910,56 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/2638820/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638820/header.jpg?t=1703991597",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-2814020",
+      "storeId": "2814020",
+      "name": "Forza Horizon 5 European Automotive Car Pack",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9950,
+      "pricePrevious": 19900,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.950",
+      "pricePreviousLabel": "COL$ 19.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/2814020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814020/header.jpg?t=1709056860",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-3339980",
+      "storeId": "3339980",
+      "name": "Forza Horizon 5 Nissan Retro Rides Car Pack",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 12450,
+      "pricePrevious": 24900,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 12.450",
+      "pricePreviousLabel": "COL$ 24.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/3339980/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339980/a74c72a6a37f065c00faa1e4e052a4861d45bf23/header.jpg?t=1745853258",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
