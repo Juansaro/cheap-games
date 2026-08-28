@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T16:13:49.301Z",
-  "updatedAtBogota": "2026-08-26 11:13",
-  "updatedAtDate": "2026-08-26",
+  "updatedAt": "2026-08-28T00:13:07.601Z",
+  "updatedAtBogota": "2026-08-27 19:13",
+  "updatedAtDate": "2026-08-27",
   "timezone": "America/Bogota",
-  "liveDealCount": 111,
+  "liveDealCount": 112,
   "stores": [
     {
       "id": "steam",
@@ -52,7 +52,7 @@
       "blurb": "Ofertas verificadas en SteamVR. Equivalentes PC de títulos Quest cuando existen.",
       "reason": null,
       "href": "./store.html#steamvr",
-      "dealCount": 0,
+      "dealCount": 1,
       "spotlightLabel": null
     },
     {

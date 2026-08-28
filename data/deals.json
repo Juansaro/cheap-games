@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T16:13:49.301Z",
-  "updatedAtBogota": "2026-08-26 11:13",
-  "updatedAtDate": "2026-08-26",
+  "updatedAt": "2026-08-28T00:13:07.601Z",
+  "updatedAtBogota": "2026-08-27 19:13",
+  "updatedAtDate": "2026-08-27",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -59,7 +59,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1726810",
@@ -84,7 +84,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1927960",
@@ -109,7 +109,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2155510",
@@ -134,7 +134,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-314160",
@@ -184,7 +184,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-315151",
@@ -209,7 +209,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-315150",
@@ -234,7 +234,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1250410",
@@ -284,7 +284,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2440510",
@@ -309,7 +309,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613280",
@@ -334,7 +334,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613281",
@@ -359,7 +359,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613284",
@@ -384,7 +384,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613285",
@@ -409,32 +409,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-1648020",
-          "storeId": "1648020",
-          "name": "Pase de coches de Forza Horizon 5",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 47960,
-          "pricePrevious": 119900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 47.960",
-          "pricePreviousLabel": "COL$ 119.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1648020/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648020/header.jpg?t=1703992049",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2557390",
@@ -459,7 +434,32 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-1648020",
+          "storeId": "1648020",
+          "name": "Pase de coches de Forza Horizon 5",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 47960,
+          "pricePrevious": 119900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 47.960",
+          "pricePreviousLabel": "COL$ 119.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1648020/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648020/header.jpg?t=1703992049",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
         },
         {
           "id": "steam-1672970",
@@ -509,24 +509,24 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
-          "id": "steam-2507010",
-          "storeId": "2507010",
-          "name": "Forza Horizon 5 Italian Exotics Car Pack",
+          "id": "steam-1776550",
+          "storeId": "1776550",
+          "name": "Pase de aventura de Minecraft Dungeons: Cuesta nublada",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 24950,
-          "pricePrevious": 49900,
+          "priceCurrent": 6100,
+          "pricePrevious": 12200,
           "discountPercent": 50,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 24.950",
-          "pricePreviousLabel": "COL$ 49.900",
+          "priceCurrentLabel": "COL$ 6.100",
+          "pricePreviousLabel": "COL$ 12.200",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2507010/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
+          "url": "https://store.steampowered.com/app/1776550/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1776550/header.jpg?t=1643818328",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -534,7 +534,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3051730",
@@ -559,24 +559,24 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
-          "id": "steam-1776550",
-          "storeId": "1776550",
-          "name": "Pase de aventura de Minecraft Dungeons: Cuesta nublada",
+          "id": "steam-2507010",
+          "storeId": "2507010",
+          "name": "Forza Horizon 5 Italian Exotics Car Pack",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 6100,
-          "pricePrevious": 12200,
+          "priceCurrent": 24950,
+          "pricePrevious": 49900,
           "discountPercent": 50,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.100",
-          "pricePreviousLabel": "COL$ 12.200",
+          "priceCurrentLabel": "COL$ 24.950",
+          "pricePreviousLabel": "COL$ 49.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1776550/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1776550/header.jpg?t=1643818328",
+          "url": "https://store.steampowered.com/app/2507010/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -637,56 +637,6 @@
           "isNew": false
         },
         {
-          "id": "steam-2738880",
-          "storeId": "2738880",
-          "name": "Forza Horizon 5 Chinese Lucky Stars Car Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 9950,
-          "pricePrevious": 19900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.950",
-          "pricePreviousLabel": "COL$ 19.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2738880/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738880/header.jpg?t=1707777254",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-2614920",
-          "storeId": "2614920",
-          "name": "Forza Horizon 5 Super Speed Car Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12450,
-          "pricePrevious": 24900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.450",
-          "pricePreviousLabel": "COL$ 24.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2614920/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614920/header.jpg?t=1703991599",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
           "id": "steam-1672981",
           "storeId": "1672981",
           "name": "Minecraft Dungeons: Invierno espeluznante",
@@ -710,31 +660,6 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
-        },
-        {
-          "id": "steam-2440490",
-          "storeId": "2440490",
-          "name": "Horizon Racing Car Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12450,
-          "pricePrevious": 24900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.450",
-          "pricePreviousLabel": "COL$ 24.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2440490/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440490/header.jpg?t=1687805377",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
         },
         {
           "id": "steam-1672980",
@@ -812,6 +737,81 @@
           "isNew": false
         },
         {
+          "id": "steam-2614920",
+          "storeId": "2614920",
+          "name": "Forza Horizon 5 Super Speed Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2614920/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614920/header.jpg?t=1703991599",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2738880",
+          "storeId": "2738880",
+          "name": "Forza Horizon 5 Chinese Lucky Stars Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9950,
+          "pricePrevious": 19900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.950",
+          "pricePreviousLabel": "COL$ 19.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2738880/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738880/header.jpg?t=1707777254",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2440490",
+          "storeId": "2440490",
+          "name": "Horizon Racing Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2440490/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440490/header.jpg?t=1687805377",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
           "id": "steam-2868420",
           "storeId": "2868420",
           "name": "Forza Horizon 5 Acceleration Car Pack",
@@ -834,7 +834,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2814020",
@@ -859,7 +859,32 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-1672986",
+          "storeId": "1672986",
+          "name": "Minecraft Dungeons Hero DLC",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 30450,
+          "pricePrevious": 60900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 30.450",
+          "pricePreviousLabel": "COL$ 60.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1672986/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672986/header.jpg?t=1671561250",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
         },
         {
           "id": "steam-3339980",
@@ -884,7 +909,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2638820",
@@ -902,31 +927,6 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2638820/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638820/header.jpg?t=1703991597",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-1672986",
-          "storeId": "1672986",
-          "name": "Minecraft Dungeons Hero DLC",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 30450,
-          "pricePrevious": 60900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 30.450",
-          "pricePreviousLabel": "COL$ 60.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1672986/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672986/header.jpg?t=1671561250",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -976,7 +976,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2483190/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787677842",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787843145",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -984,7 +984,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4308600",
@@ -1034,7 +1034,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": {
@@ -1389,6 +1389,31 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9NGKMPB3S10P",
+          "storeId": "9NGKMPB3S10P",
+          "name": "Forza Motorsport and Forza Horizon 5 Premium Add-Ons Bundle",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 132930,
+          "pricePrevious": 379800,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 132.930",
+          "pricePreviousLabel": "$ 379.800",
+          "dealEndsAt": "2026-09-01T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-01 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.39261.13643991005139950.e849199a-ceb5-4c25-8ed1-91be53eb04f1.70933050-8a65-46bf-af3d-ad254b31e91e",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9N1WWHGKBX3P",
@@ -2191,31 +2216,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9N03HPMVD65G",
-          "storeId": "9N03HPMVD65G",
-          "name": "Forza Horizon 6 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 320000,
-          "pricePrevious": 400000,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 320.000",
-          "pricePreviousLabel": "$ 400.000",
-          "dealEndsAt": "2026-09-01T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-01 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9NKD5GJTS6FH",
           "storeId": "9NKD5GJTS6FH",
           "name": "Sea of Thieves: 2026 Premium Edition",
@@ -2263,7 +2263,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NH8N0M7CWLN",
@@ -2288,7 +2288,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P4S0R97R36S",
@@ -2819,7 +2819,32 @@
       "spotlight": null
     },
     "steamvr": {
-      "deals": [],
+      "deals": [
+        {
+          "id": "steam-916840",
+          "storeId": "916840",
+          "name": "The Walking Dead: Saints & Sinners",
+          "platform": "SteamVR",
+          "kind": "base",
+          "priceCurrent": 23750,
+          "pricePrevious": 47500,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 23.750",
+          "pricePreviousLabel": "COL$ 47.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/916840/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/header.jpg?t=1744761535",
+          "confirmed": true,
+          "sources": [
+            "meta-catalog",
+            "steam-appdetails"
+          ],
+          "publisher": "Skydance Interactive",
+          "isNew": true
+        }
+      ],
       "spotlight": null
     },
     "meta-quest": {
@@ -3202,6 +3227,31 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9NGKMPB3S10P",
+          "storeId": "9NGKMPB3S10P",
+          "name": "Forza Motorsport and Forza Horizon 5 Premium Add-Ons Bundle",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 132930,
+          "pricePrevious": 379800,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 132.930",
+          "pricePreviousLabel": "$ 379.800",
+          "dealEndsAt": "2026-09-01T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-01 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.39261.13643991005139950.e849199a-ceb5-4c25-8ed1-91be53eb04f1.70933050-8a65-46bf-af3d-ad254b31e91e",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9N1WWHGKBX3P",
@@ -4004,31 +4054,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9N03HPMVD65G",
-          "storeId": "9N03HPMVD65G",
-          "name": "Forza Horizon 6 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 320000,
-          "pricePrevious": 400000,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 320.000",
-          "pricePreviousLabel": "$ 400.000",
-          "dealEndsAt": "2026-09-01T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-01 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9NKD5GJTS6FH",
           "storeId": "9NKD5GJTS6FH",
           "name": "Sea of Thieves: 2026 Premium Edition",
@@ -4076,7 +4101,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NH8N0M7CWLN",
@@ -4101,7 +4126,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P4S0R97R36S",
@@ -4682,7 +4707,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1726810",
@@ -4707,7 +4732,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1927960",
@@ -4732,7 +4757,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2155510",
@@ -4757,7 +4782,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-314160",
@@ -4807,7 +4832,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-315151",
@@ -4832,7 +4857,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-315150",
@@ -4857,7 +4882,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1250410",
@@ -4907,7 +4932,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2440510",
@@ -4932,7 +4957,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613280",
@@ -4957,7 +4982,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613281",
@@ -4982,7 +5007,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613284",
@@ -5007,7 +5032,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613285",
@@ -5032,32 +5057,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-1648020",
-          "storeId": "1648020",
-          "name": "Pase de coches de Forza Horizon 5",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 47960,
-          "pricePrevious": 119900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 47.960",
-          "pricePreviousLabel": "COL$ 119.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1648020/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648020/header.jpg?t=1703992049",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2557390",
@@ -5082,7 +5082,32 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-1648020",
+          "storeId": "1648020",
+          "name": "Pase de coches de Forza Horizon 5",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 47960,
+          "pricePrevious": 119900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 47.960",
+          "pricePreviousLabel": "COL$ 119.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1648020/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648020/header.jpg?t=1703992049",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
         },
         {
           "id": "steam-1672970",
@@ -5132,24 +5157,24 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
-          "id": "steam-2507010",
-          "storeId": "2507010",
-          "name": "Forza Horizon 5 Italian Exotics Car Pack",
+          "id": "steam-1776550",
+          "storeId": "1776550",
+          "name": "Pase de aventura de Minecraft Dungeons: Cuesta nublada",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 24950,
-          "pricePrevious": 49900,
+          "priceCurrent": 6100,
+          "pricePrevious": 12200,
           "discountPercent": 50,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 24.950",
-          "pricePreviousLabel": "COL$ 49.900",
+          "priceCurrentLabel": "COL$ 6.100",
+          "pricePreviousLabel": "COL$ 12.200",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2507010/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
+          "url": "https://store.steampowered.com/app/1776550/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1776550/header.jpg?t=1643818328",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -5157,7 +5182,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3051730",
@@ -5182,24 +5207,24 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
-          "id": "steam-1776550",
-          "storeId": "1776550",
-          "name": "Pase de aventura de Minecraft Dungeons: Cuesta nublada",
+          "id": "steam-2507010",
+          "storeId": "2507010",
+          "name": "Forza Horizon 5 Italian Exotics Car Pack",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 6100,
-          "pricePrevious": 12200,
+          "priceCurrent": 24950,
+          "pricePrevious": 49900,
           "discountPercent": 50,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.100",
-          "pricePreviousLabel": "COL$ 12.200",
+          "priceCurrentLabel": "COL$ 24.950",
+          "pricePreviousLabel": "COL$ 49.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1776550/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1776550/header.jpg?t=1643818328",
+          "url": "https://store.steampowered.com/app/2507010/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -5260,56 +5285,6 @@
           "isNew": false
         },
         {
-          "id": "steam-2738880",
-          "storeId": "2738880",
-          "name": "Forza Horizon 5 Chinese Lucky Stars Car Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 9950,
-          "pricePrevious": 19900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.950",
-          "pricePreviousLabel": "COL$ 19.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2738880/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738880/header.jpg?t=1707777254",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-2614920",
-          "storeId": "2614920",
-          "name": "Forza Horizon 5 Super Speed Car Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12450,
-          "pricePrevious": 24900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.450",
-          "pricePreviousLabel": "COL$ 24.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2614920/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614920/header.jpg?t=1703991599",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
           "id": "steam-1672981",
           "storeId": "1672981",
           "name": "Minecraft Dungeons: Invierno espeluznante",
@@ -5333,31 +5308,6 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
-        },
-        {
-          "id": "steam-2440490",
-          "storeId": "2440490",
-          "name": "Horizon Racing Car Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12450,
-          "pricePrevious": 24900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.450",
-          "pricePreviousLabel": "COL$ 24.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2440490/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440490/header.jpg?t=1687805377",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
         },
         {
           "id": "steam-1672980",
@@ -5435,6 +5385,81 @@
           "isNew": false
         },
         {
+          "id": "steam-2614920",
+          "storeId": "2614920",
+          "name": "Forza Horizon 5 Super Speed Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2614920/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614920/header.jpg?t=1703991599",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2738880",
+          "storeId": "2738880",
+          "name": "Forza Horizon 5 Chinese Lucky Stars Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9950,
+          "pricePrevious": 19900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.950",
+          "pricePreviousLabel": "COL$ 19.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2738880/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738880/header.jpg?t=1707777254",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2440490",
+          "storeId": "2440490",
+          "name": "Horizon Racing Car Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12450,
+          "pricePrevious": 24900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.450",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2440490/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440490/header.jpg?t=1687805377",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
           "id": "steam-2868420",
           "storeId": "2868420",
           "name": "Forza Horizon 5 Acceleration Car Pack",
@@ -5457,7 +5482,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2814020",
@@ -5482,7 +5507,32 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-1672986",
+          "storeId": "1672986",
+          "name": "Minecraft Dungeons Hero DLC",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 30450,
+          "pricePrevious": 60900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 30.450",
+          "pricePreviousLabel": "COL$ 60.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1672986/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672986/header.jpg?t=1671561250",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
         },
         {
           "id": "steam-3339980",
@@ -5507,7 +5557,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2638820",
@@ -5525,31 +5575,6 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2638820/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638820/header.jpg?t=1703991597",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-1672986",
-          "storeId": "1672986",
-          "name": "Minecraft Dungeons Hero DLC",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 30450,
-          "pricePrevious": 60900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 30.450",
-          "pricePreviousLabel": "COL$ 60.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1672986/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672986/header.jpg?t=1671561250",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -5599,7 +5624,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2483190/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787677842",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787843145",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -5607,7 +5632,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4308600",
@@ -5657,14 +5682,39 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
     "metaVr": {
       "title": "Meta VR",
       "emptyMessage": "Sin ofertas hoy",
-      "deals": []
+      "deals": [
+        {
+          "id": "steam-916840",
+          "storeId": "916840",
+          "name": "The Walking Dead: Saints & Sinners",
+          "platform": "SteamVR",
+          "kind": "base",
+          "priceCurrent": 23750,
+          "pricePrevious": 47500,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 23.750",
+          "pricePreviousLabel": "COL$ 47.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/916840/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/header.jpg?t=1744761535",
+          "confirmed": true,
+          "sources": [
+            "meta-catalog",
+            "steam-appdetails"
+          ],
+          "publisher": "Skydance Interactive",
+          "isNew": true
+        }
+      ]
     }
   }
 }
