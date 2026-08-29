@@ -1,6 +1,6 @@
-# Ofertas — 2026-08-28 18:50 (Bogotá)
+# Ofertas — 2026-08-29 13:05 (Bogotá)
 
-Última actualización: **2026-08-28 18:50** (America/Bogota).
+Última actualización: **2026-08-29 13:05** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -10,8 +10,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Microsoft Flight Simulator Suite: Themes Reimagined** (Steam PC, base) — Gratuito ~~COL$ 30.900~~ (−100%) · [Ver oferta](https://store.steampowered.com/app/5004030/)
 - **Psychonauts 2** (Steam PC, base) — COL$ 20.250 ~~COL$ 134.999~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/607080/)
 - **Psychonauts 2 (Original Soundtrack), Vol. 1** (Steam PC, base) — COL$ 2.775 ~~COL$ 18.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/1726810/)
-- **Psychonauts 2 (Original Soundtrack), Vol. 3** (Steam PC, base) — COL$ 2.775 ~~COL$ 18.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/2155510/)
 - **Psychonauts 2 (Original Soundtrack), Vol. 2** (Steam PC, base) — COL$ 2.775 ~~COL$ 18.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/1927960/)
+- **Psychonauts 2 (Original Soundtrack), Vol. 3** (Steam PC, base) — COL$ 2.775 ~~COL$ 18.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/2155510/)
 - **Microsoft Flight Simulator X: Steam Edition** (Steam PC, base) — COL$ 10.000 ~~COL$ 50.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/314160/)
 - **Fable Anniversary** (Steam PC, base) — COL$ 20.100 ~~COL$ 67.000~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/288470/)
 - **Fable Anniversary - Heroes and Villains Content Pack** (Steam PC, dlc) — COL$ 9.600 ~~COL$ 32.000~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/315151/)
@@ -23,8 +23,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Horizon 5 Rally Adventure** (Steam PC, dlc) — COL$ 31.960 ~~COL$ 79.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613281/)
 - **Paquete de bienvenida de Forza Horizon 5** (Steam PC, dlc) — COL$ 7.960 ~~COL$ 19.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613284/)
 - **Forza Horizon 5: Mapa del tesoro** (Steam PC, dlc) — COL$ 5.160 ~~COL$ 12.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613285/)
-- **Pase de coches de Forza Horizon 5** (Steam PC, dlc) — COL$ 47.960 ~~COL$ 119.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1648020/)
 - **Forza Motorsport Car Pass** (Steam PC, dlc) — COL$ 51.960 ~~COL$ 129.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2557390/)
+- **Pase de coches de Forza Horizon 5** (Steam PC, dlc) — COL$ 47.960 ~~COL$ 119.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1648020/)
 - **Minecraft Dungeons** (Steam PC, base) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672970/)
 - **Forza Horizon 5 Apex Allstars Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2894270/)
 - **Forza Horizon 5 Italian Exotics Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2507010/)
@@ -32,17 +32,17 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Horizon 5 JDM Jewels Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3051730/)
 - **Minecraft Dungeons: Vacío resonante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672985/)
 - **Minecraft Dungeons: Las llamas del Inframundo** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672983/)
-- **Minecraft Dungeons: La jungla despierta** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672980/)
 - **Minecraft Dungeons: Invierno espeluznante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672981/)
+- **Minecraft Dungeons: La jungla despierta** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672980/)
 - **Minecraft Dungeons: Las cumbres de los aullidos** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672982/)
 - **Minecraft Dungeons: Las profundidades ocultas** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672984/)
-- **Forza Horizon 5 Super Speed Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2614920/)
 - **Forza Horizon 5 Chinese Lucky Stars Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2738880/)
+- **Forza Horizon 5 Super Speed Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2614920/)
 - **Horizon Racing Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2440490/)
 - **Forza Horizon 5 Acceleration Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2868420/)
 - **Minecraft Dungeons Hero DLC** (Steam PC, dlc) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672986/)
-- **Forza Horizon 5 American Automotive Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2638820/)
 - **Forza Horizon 5 European Automotive Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2814020/)
+- **Forza Horizon 5 American Automotive Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2638820/)
 - **Forza Horizon 5 Nissan Retro Rides Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3339980/)
 - **Microsoft Flight Simulator 2024** (Steam PC, base) — COL$ 195.930 ~~COL$ 279.900~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/2537590/)
 - **Forza Horizon 6** (Steam PC, base) — COL$ 237.915 ~~COL$ 279.900~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/2483190/)
