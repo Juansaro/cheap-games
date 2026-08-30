@@ -1,4 +1,30 @@
 {
-  "generatedAt": "2026-08-29 13:05",
-  "deals": []
+  "generatedAt": "2026-08-30 13:19",
+  "deals": [
+    {
+      "id": "xboxpc-9N61JF5T0T96",
+      "storeId": "9N61JF5T0T96",
+      "name": "NINJA GAIDEN 4 The Two Masters",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 47920,
+      "pricePrevious": 59900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 47.920",
+      "pricePreviousLabel": "$ 59.900",
+      "dealEndsAt": "2026-09-01T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-01 04:59",
+      "url": "https://www.microsoft.com/store/productId/9N61JF5T0T96?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.26858.14022958450285903.cb5a9b8a-316d-48c5-9e9f-50ba95bb7949.ead44ba0-c10b-4763-a132-588e909ce6b0",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    }
+  ]
 }

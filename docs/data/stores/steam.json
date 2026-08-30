@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-08-29T18:05:11.505Z",
-  "updatedAtBogota": "2026-08-29 13:05",
+  "updatedAt": "2026-08-30T18:19:42.195Z",
+  "updatedAtBogota": "2026-08-30 13:19",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -545,31 +545,6 @@
       "isNew": false
     },
     {
-      "id": "steam-2507010",
-      "storeId": "2507010",
-      "name": "Forza Horizon 5 Italian Exotics Car Pack",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 24950,
-      "pricePrevious": 49900,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 24.950",
-      "pricePreviousLabel": "COL$ 49.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2507010/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-1776550",
       "storeId": "1776550",
       "name": "Pase de aventura de Minecraft Dungeons: Cuesta nublada",
@@ -585,6 +560,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/1776550/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1776550/header.jpg?t=1643818328",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-2507010",
+      "storeId": "2507010",
+      "name": "Forza Horizon 5 Italian Exotics Car Pack",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 24950,
+      "pricePrevious": 49900,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 24.950",
+      "pricePreviousLabel": "COL$ 49.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/2507010/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507010/header.jpg?t=1703991602",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -845,31 +845,6 @@
       "isNew": false
     },
     {
-      "id": "steam-2868420",
-      "storeId": "2868420",
-      "name": "Forza Horizon 5 Acceleration Car Pack",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9950,
-      "pricePrevious": 19900,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.950",
-      "pricePreviousLabel": "COL$ 19.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2868420/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868420/header.jpg?t=1711472371",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-1672986",
       "storeId": "1672986",
       "name": "Minecraft Dungeons Hero DLC",
@@ -885,6 +860,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/1672986/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672986/header.jpg?t=1671561250",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-2868420",
+      "storeId": "2868420",
+      "name": "Forza Horizon 5 Acceleration Car Pack",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9950,
+      "pricePrevious": 19900,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.950",
+      "pricePreviousLabel": "COL$ 19.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/2868420/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868420/header.jpg?t=1711472371",
       "confirmed": true,
       "sources": [
         "steam-appdetails",

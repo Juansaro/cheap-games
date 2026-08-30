@@ -1,6 +1,6 @@
-# Ofertas — 2026-08-29 13:05 (Bogotá)
+# Ofertas — 2026-08-30 13:19 (Bogotá)
 
-Última actualización: **2026-08-29 13:05** (America/Bogota).
+Última actualización: **2026-08-30 13:19** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -27,8 +27,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Pase de coches de Forza Horizon 5** (Steam PC, dlc) — COL$ 47.960 ~~COL$ 119.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1648020/)
 - **Minecraft Dungeons** (Steam PC, base) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672970/)
 - **Forza Horizon 5 Apex Allstars Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2894270/)
-- **Forza Horizon 5 Italian Exotics Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2507010/)
 - **Pase de aventura de Minecraft Dungeons: Cuesta nublada** (Steam PC, dlc) — COL$ 6.100 ~~COL$ 12.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1776550/)
+- **Forza Horizon 5 Italian Exotics Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2507010/)
 - **Forza Horizon 5 JDM Jewels Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3051730/)
 - **Minecraft Dungeons: Vacío resonante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672985/)
 - **Minecraft Dungeons: Las llamas del Inframundo** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672983/)
@@ -39,8 +39,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Horizon 5 Chinese Lucky Stars Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2738880/)
 - **Forza Horizon 5 Super Speed Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2614920/)
 - **Horizon Racing Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2440490/)
-- **Forza Horizon 5 Acceleration Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2868420/)
 - **Minecraft Dungeons Hero DLC** (Steam PC, dlc) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672986/)
+- **Forza Horizon 5 Acceleration Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2868420/)
 - **Forza Horizon 5 European Automotive Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2814020/)
 - **Forza Horizon 5 American Automotive Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2638820/)
 - **Forza Horizon 5 Nissan Retro Rides Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3339980/)
@@ -102,6 +102,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Age of Empires: colección definitiva** (Xbox PC, base) — $ 71.920 ~~$ 89.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P4S0R97R36S?rtc=1)
 - **Colección del 25to aniversario de Age of Empires** (Xbox PC, base) — $ 291.920 ~~$ 364.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1)
 - **Age of Empires III: Definitive Edition - The Complete History** (Xbox PC, bundle) — $ 109.520 ~~$ 136.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1)
+- 🆕 **NINJA GAIDEN 4 The Two Masters** (Xbox PC, base) — $ 47.920 ~~$ 59.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N61JF5T0T96?rtc=1)
 - **Starfield Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
@@ -114,9 +115,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Indiana Jones y el Gran Círculo™: Edición Prémium Digital** (Xbox PC, base) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
 - **Forza Horizon 6 Standard Edition** (Xbox PC, bundle) — $ 237.915 ~~$ 279.900~~ (−15%) · [Ver oferta](https://www.microsoft.com/store/productId/9N431PX143P8?rtc=1)
-- **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
+- **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **Indiana Jones y el Gran Círculo™: Mejora Prémium Digital** (Xbox PC, base) — $ 148.410 ~~$ 164.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4T0R0HQJ9J?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)

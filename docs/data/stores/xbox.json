@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-08-29T18:05:11.505Z",
-  "updatedAtBogota": "2026-08-29 13:05",
+  "updatedAt": "2026-08-30T18:19:42.195Z",
+  "updatedAtBogota": "2026-08-30 13:19",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -1321,6 +1321,31 @@
       "isNew": false
     },
     {
+      "id": "xboxpc-9N61JF5T0T96",
+      "storeId": "9N61JF5T0T96",
+      "name": "NINJA GAIDEN 4 The Two Masters",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 47920,
+      "pricePrevious": 59900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 47.920",
+      "pricePreviousLabel": "$ 59.900",
+      "dealEndsAt": "2026-09-01T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-01 04:59",
+      "url": "https://www.microsoft.com/store/productId/9N61JF5T0T96?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.26858.14022958450285903.cb5a9b8a-316d-48c5-9e9f-50ba95bb7949.ead44ba0-c10b-4763-a132-588e909ce6b0",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
       "id": "xboxpc-9PL9P3QZMRBM",
       "storeId": "9PL9P3QZMRBM",
       "name": "Starfield Premium Edition",
@@ -1621,31 +1646,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9N9LXX68LKWF",
-      "storeId": "9N9LXX68LKWF",
-      "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
-      "platform": "Xbox PC",
-      "kind": "base",
-      "priceCurrent": 35820,
-      "pricePrevious": 39800,
-      "discountPercent": 10,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 35.820",
-      "pricePreviousLabel": "$ 39.800",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9N099DG3GHGW",
       "storeId": "9N099DG3GHGW",
       "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
@@ -1686,6 +1686,31 @@
       "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.28578.14450105286512512.cab7ef72-07af-4401-aca5-e8636b61cce0.e691415c-d99e-4a5b-bebd-3d23a3701aab",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9N9LXX68LKWF",
+      "storeId": "9N9LXX68LKWF",
+      "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 35820,
+      "pricePrevious": 39800,
+      "discountPercent": 10,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 35.820",
+      "pricePreviousLabel": "$ 39.800",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
