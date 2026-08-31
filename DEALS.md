@@ -1,6 +1,6 @@
-# Ofertas — 2026-08-30 13:19 (Bogotá)
+# Ofertas — 2026-08-31 15:33 (Bogotá)
 
-Última actualización: **2026-08-30 13:19** (America/Bogota).
+Última actualización: **2026-08-31 15:33** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -13,6 +13,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Psychonauts 2 (Original Soundtrack), Vol. 2** (Steam PC, base) — COL$ 2.775 ~~COL$ 18.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/1927960/)
 - **Psychonauts 2 (Original Soundtrack), Vol. 3** (Steam PC, base) — COL$ 2.775 ~~COL$ 18.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/2155510/)
 - **Microsoft Flight Simulator X: Steam Edition** (Steam PC, base) — COL$ 10.000 ~~COL$ 50.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/314160/)
+- 🆕 **State of Decay: YOSE** (Steam PC, base) — COL$ 6.200 ~~COL$ 31.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/329430/)
+- 🆕 **State of Decay 2: Juggernaut Edition** (Steam PC, base) — COL$ 14.875 ~~COL$ 59.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/495420/)
 - **Fable Anniversary** (Steam PC, base) — COL$ 20.100 ~~COL$ 67.000~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/288470/)
 - **Fable Anniversary - Heroes and Villains Content Pack** (Steam PC, dlc) — COL$ 9.600 ~~COL$ 32.000~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/315151/)
 - **Fable Anniversary - Scythe Content Pack** (Steam PC, dlc) — COL$ 7.050 ~~COL$ 23.500~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/315150/)
@@ -25,21 +27,14 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Horizon 5: Mapa del tesoro** (Steam PC, dlc) — COL$ 5.160 ~~COL$ 12.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613285/)
 - **Forza Motorsport Car Pass** (Steam PC, dlc) — COL$ 51.960 ~~COL$ 129.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2557390/)
 - **Pase de coches de Forza Horizon 5** (Steam PC, dlc) — COL$ 47.960 ~~COL$ 119.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1648020/)
-- **Minecraft Dungeons** (Steam PC, base) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672970/)
+- 🆕 **Grounded** (Steam PC, base) — COL$ 79.950 ~~COL$ 159.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/962130/)
 - **Forza Horizon 5 Apex Allstars Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2894270/)
-- **Pase de aventura de Minecraft Dungeons: Cuesta nublada** (Steam PC, dlc) — COL$ 6.100 ~~COL$ 12.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1776550/)
 - **Forza Horizon 5 Italian Exotics Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2507010/)
 - **Forza Horizon 5 JDM Jewels Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3051730/)
-- **Minecraft Dungeons: Vacío resonante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672985/)
-- **Minecraft Dungeons: Las llamas del Inframundo** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672983/)
-- **Minecraft Dungeons: Invierno espeluznante** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672981/)
-- **Minecraft Dungeons: La jungla despierta** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672980/)
-- **Minecraft Dungeons: Las cumbres de los aullidos** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672982/)
-- **Minecraft Dungeons: Las profundidades ocultas** (Steam PC, dlc) — COL$ 9.100 ~~COL$ 18.200~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672984/)
+- 🆕 **Grounded (Official Soundtrack)** (Steam PC, base) — COL$ 9.250 ~~COL$ 18.500~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2161390/)
 - **Forza Horizon 5 Chinese Lucky Stars Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2738880/)
 - **Forza Horizon 5 Super Speed Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2614920/)
 - **Horizon Racing Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2440490/)
-- **Minecraft Dungeons Hero DLC** (Steam PC, dlc) — COL$ 30.450 ~~COL$ 60.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1672986/)
 - **Forza Horizon 5 Acceleration Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2868420/)
 - **Forza Horizon 5 European Automotive Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2814020/)
 - **Forza Horizon 5 American Automotive Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2638820/)
@@ -102,7 +97,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Age of Empires: colección definitiva** (Xbox PC, base) — $ 71.920 ~~$ 89.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P4S0R97R36S?rtc=1)
 - **Colección del 25to aniversario de Age of Empires** (Xbox PC, base) — $ 291.920 ~~$ 364.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1)
 - **Age of Empires III: Definitive Edition - The Complete History** (Xbox PC, bundle) — $ 109.520 ~~$ 136.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1)
-- 🆕 **NINJA GAIDEN 4 The Two Masters** (Xbox PC, base) — $ 47.920 ~~$ 59.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N61JF5T0T96?rtc=1)
+- **NINJA GAIDEN 4 The Two Masters** (Xbox PC, base) — $ 47.920 ~~$ 59.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N61JF5T0T96?rtc=1)
 - **Starfield Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)

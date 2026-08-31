@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-08-30T18:19:42.195Z",
-  "updatedAtBogota": "2026-08-30 13:19",
+  "updatedAt": "2026-08-31T20:33:35.043Z",
+  "updatedAtBogota": "2026-08-31 15:33",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -1343,7 +1343,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PL9P3QZMRBM",
