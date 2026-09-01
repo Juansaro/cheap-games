@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T20:33:35.043Z",
-  "updatedAtBogota": "2026-08-31 15:33",
-  "updatedAtDate": "2026-08-31",
+  "updatedAt": "2026-09-01T18:06:59.203Z",
+  "updatedAtBogota": "2026-09-01 13:06",
+  "updatedAtDate": "2026-09-01",
   "timezone": "America/Bogota",
-  "liveDealCount": 108,
+  "liveDealCount": 64,
   "stores": [
     {
       "id": "steam",
@@ -19,7 +19,7 @@
       "blurb": "Ofertas oficiales de Steam. Windows y Linux (nativo o Proton). Sin keys de terceros.",
       "reason": null,
       "href": "./store.html#steam",
-      "dealCount": 36,
+      "dealCount": 25,
       "spotlightLabel": "COL$ 159.900"
     },
     {
@@ -36,7 +36,7 @@
       "blurb": "Microsoft Store y Xbox app para Windows. Play Anywhere si el SKU es de PC.",
       "reason": null,
       "href": "./store.html#xbox",
-      "dealCount": 71,
+      "dealCount": 38,
       "spotlightLabel": null
     },
     {

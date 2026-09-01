@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-08-31T20:33:35.043Z",
-  "updatedAtBogota": "2026-08-31 15:33",
+  "updatedAt": "2026-09-01T18:06:59.203Z",
+  "updatedAtBogota": "2026-09-01 13:06",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -45,156 +45,6 @@
   },
   "deals": [
     {
-      "id": "steam-5004030",
-      "storeId": "5004030",
-      "name": "Microsoft Flight Simulator Suite: Themes Reimagined",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 30900,
-      "pricePrevious": 30900,
-      "discountPercent": 100,
-      "currency": "COP",
-      "priceCurrentLabel": "Gratuito",
-      "pricePreviousLabel": "COL$ 30.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/5004030/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004030/5b524d5a89e29e0024420f02778cc18ccc98d35f/header.jpg?t=1787593193",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-607080",
-      "storeId": "607080",
-      "name": "Psychonauts 2",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 20250,
-      "pricePrevious": 134999,
-      "discountPercent": 85,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 20.250",
-      "pricePreviousLabel": "COL$ 134.999",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/607080/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg?t=1787353870",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Double Fine Productions",
-      "isNew": false
-    },
-    {
-      "id": "steam-1726810",
-      "storeId": "1726810",
-      "name": "Psychonauts 2 (Original Soundtrack), Vol. 1",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 2775,
-      "pricePrevious": 18500,
-      "discountPercent": 85,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 2.775",
-      "pricePreviousLabel": "COL$ 18.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1726810/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726810/header.jpg?t=1634854648",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-1927960",
-      "storeId": "1927960",
-      "name": "Psychonauts 2 (Original Soundtrack), Vol. 2",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 2775,
-      "pricePrevious": 18500,
-      "discountPercent": 85,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 2.775",
-      "pricePreviousLabel": "COL$ 18.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1927960/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927960/header.jpg?t=1647385622",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-2155510",
-      "storeId": "2155510",
-      "name": "Psychonauts 2 (Original Soundtrack), Vol. 3",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 2775,
-      "pricePrevious": 18500,
-      "discountPercent": 85,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 2.775",
-      "pricePreviousLabel": "COL$ 18.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2155510/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2155510/header.jpg?t=1663867230",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-314160",
-      "storeId": "314160",
-      "name": "Microsoft Flight Simulator X: Steam Edition",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 10000,
-      "pricePrevious": 50000,
-      "discountPercent": 80,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 10.000",
-      "pricePreviousLabel": "COL$ 50.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/314160/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/header.jpg?t=1667504069",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-329430",
       "storeId": "329430",
       "name": "State of Decay: YOSE",
@@ -217,7 +67,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-495420",
@@ -235,106 +85,6 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/495420/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/header.jpg?t=1741378867",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-288470",
-      "storeId": "288470",
-      "name": "Fable Anniversary",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 20100,
-      "pricePrevious": 67000,
-      "discountPercent": 70,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 20.100",
-      "pricePreviousLabel": "COL$ 67.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/288470/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/header.jpg?t=1742377409",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-315151",
-      "storeId": "315151",
-      "name": "Fable Anniversary - Heroes and Villains Content Pack",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9600,
-      "pricePrevious": 32000,
-      "discountPercent": 70,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.600",
-      "pricePreviousLabel": "COL$ 32.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/315151/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315151/header.jpg?t=1557764011",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-315150",
-      "storeId": "315150",
-      "name": "Fable Anniversary - Scythe Content Pack",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 7050,
-      "pricePrevious": 23500,
-      "discountPercent": 70,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 7.050",
-      "pricePreviousLabel": "COL$ 23.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/315150/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315150/header.jpg?t=1557764234",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-1250410",
-      "storeId": "1250410",
-      "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 87465,
-      "pricePrevious": 249900,
-      "discountPercent": 65,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 87.465",
-      "pricePreviousLabel": "COL$ 249.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1250410/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1787671433",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -567,7 +317,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2894270",
@@ -585,6 +335,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/2894270/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894270/header.jpg?t=1713891392",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-2161390",
+      "storeId": "2161390",
+      "name": "Grounded (Official Soundtrack)",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 9250,
+      "pricePrevious": 18500,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.250",
+      "pricePreviousLabel": "COL$ 18.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/2161390/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161390/header.jpg?t=1768265031",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -643,31 +418,6 @@
       ],
       "publisher": "Xbox Game Studios",
       "isNew": false
-    },
-    {
-      "id": "steam-2161390",
-      "storeId": "2161390",
-      "name": "Grounded (Official Soundtrack)",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 9250,
-      "pricePrevious": 18500,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.250",
-      "pricePreviousLabel": "COL$ 18.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2161390/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161390/header.jpg?t=1768265031",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
     },
     {
       "id": "steam-2738880",
@@ -835,31 +585,6 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/3339980/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339980/a74c72a6a37f065c00faa1e4e052a4861d45bf23/header.jpg?t=1745853258",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
-      "id": "steam-2537590",
-      "storeId": "2537590",
-      "name": "Microsoft Flight Simulator 2024",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 195930,
-      "pricePrevious": 279900,
-      "discountPercent": 30,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 195.930",
-      "pricePreviousLabel": "COL$ 279.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2537590/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg?t=1787591449",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
