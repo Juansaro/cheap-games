@@ -14,112 +14,12 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-01T18:06:59.203Z",
-  "updatedAtBogota": "2026-09-01 13:06",
+  "updatedAt": "2026-09-02T18:17:43.114Z",
+  "updatedAtBogota": "2026-09-02 13:17",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
   "deals": [
-    {
-      "id": "xboxpc-9P2VGCTBMM52",
-      "storeId": "9P2VGCTBMM52",
-      "name": "Microsoft Flight Simulator 2024 - Standard Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 195930,
-      "pricePrevious": 279900,
-      "discountPercent": 30,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 195.930",
-      "pricePreviousLabel": "$ 279.900",
-      "dealEndsAt": "2026-09-02T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-02 04:59",
-      "url": "https://www.microsoft.com/store/productId/9P2VGCTBMM52?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.59000.14550648823552491.458517e5-6b50-4124-b28b-b87004bdb3d1.961d2dcc-23a2-4997-a317-7237e2d47bbc",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9NV2Q5P1L5CC",
-      "storeId": "9NV2Q5P1L5CC",
-      "name": "Microsoft Flight Simulator 2024 - Aviator Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 531860,
-      "pricePrevious": 759800,
-      "discountPercent": 30,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 531.860",
-      "pricePreviousLabel": "$ 759.800",
-      "dealEndsAt": "2026-09-02T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-02 04:59",
-      "url": "https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.51609.14406935353956462.3e5ea973-8477-49b6-97a0-33b4d669d86c.56a5977b-8285-4894-8266-7f400f59dcbd",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9N7J4DKK7V15",
-      "storeId": "9N7J4DKK7V15",
-      "name": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 335930,
-      "pricePrevious": 479900,
-      "discountPercent": 30,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 335.930",
-      "pricePreviousLabel": "$ 479.900",
-      "dealEndsAt": "2026-09-02T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-02 04:59",
-      "url": "https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.39847.14068704152123556.d31c769e-21e4-479a-b5e4-a027fa3af233.d3c9f927-c39d-487a-8bba-e1398c343baa",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9N7MNF1QC3X4",
-      "storeId": "9N7MNF1QC3X4",
-      "name": "Microsoft Flight Simulator 2024 - Deluxe Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 265930,
-      "pricePrevious": 379900,
-      "discountPercent": 30,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 265.930",
-      "pricePreviousLabel": "$ 379.900",
-      "dealEndsAt": "2026-09-02T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-02 04:59",
-      "url": "https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.51634.14061677204079335.ea8cd46e-0327-464c-b53a-4212ba44ea8d.adb44e70-6c91-4aec-b964-18dd95090a73",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
     {
       "id": "xboxpc-9MTLKM2DJMZ2",
       "storeId": "9MTLKM2DJMZ2",
@@ -143,7 +43,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P1HX37NMJLT",
@@ -168,7 +68,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N4XW3N02MNJ",
@@ -218,7 +118,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PN4DRJDLZT7",
@@ -243,7 +143,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N1WWHGKBX3P",
@@ -268,7 +168,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NKD5GJTS6FH",
@@ -317,6 +217,81 @@
         "ms-store-search"
       ],
       "publisher": "Microsoft Studios",
+      "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9NV2Q5P1L5CC",
+      "storeId": "9NV2Q5P1L5CC",
+      "name": "Microsoft Flight Simulator 2024 - Aviator Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 607840,
+      "pricePrevious": 759800,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 607.840",
+      "pricePreviousLabel": "$ 759.800",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.51609.14406935353956462.3e5ea973-8477-49b6-97a0-33b4d669d86c.56a5977b-8285-4894-8266-7f400f59dcbd",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9N7J4DKK7V15",
+      "storeId": "9N7J4DKK7V15",
+      "name": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 383920,
+      "pricePrevious": 479900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 383.920",
+      "pricePreviousLabel": "$ 479.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.39847.14068704152123556.d31c769e-21e4-479a-b5e4-a027fa3af233.d3c9f927-c39d-487a-8bba-e1398c343baa",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9N7MNF1QC3X4",
+      "storeId": "9N7MNF1QC3X4",
+      "name": "Microsoft Flight Simulator 2024 - Deluxe Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 303920,
+      "pricePrevious": 379900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 303.920",
+      "pricePreviousLabel": "$ 379.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.51634.14061677204079335.ea8cd46e-0327-464c-b53a-4212ba44ea8d.adb44e70-6c91-4aec-b964-18dd95090a73",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
       "playAnywhere": true,
       "isNew": true
     },
@@ -468,7 +443,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NSBJ5G9JJ83",
@@ -493,7 +468,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PL9P3QZMRBM",
@@ -768,7 +743,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PNX7LQ1SB8D",
@@ -793,7 +768,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NZ12RV7B7R3",
