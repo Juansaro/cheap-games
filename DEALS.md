@@ -1,6 +1,6 @@
-# Ofertas — 2026-09-02 13:17 (Bogotá)
+# Ofertas — 2026-09-03 13:17 (Bogotá)
 
-Última actualización: **2026-09-02 13:17** (America/Bogota).
+Última actualización: **2026-09-03 13:17** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -9,29 +9,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 ## Steam
 - **State of Decay: YOSE** (Steam PC, base) — COL$ 6.200 ~~COL$ 31.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/329430/)
 - **State of Decay 2: Juggernaut Edition** (Steam PC, base) — COL$ 14.875 ~~COL$ 59.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/495420/)
-- **Forza Horizon 5** (Steam PC, base) — COL$ 85.960 ~~COL$ 214.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1551360/)
-- **Forza Motorsport** (Steam PC, base) — COL$ 111.960 ~~COL$ 279.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2440510/)
-- **Forza Horizon 5: Hot Wheels** (Steam PC, dlc) — COL$ 31.960 ~~COL$ 79.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613280/)
-- **Forza Horizon 5 Rally Adventure** (Steam PC, dlc) — COL$ 31.960 ~~COL$ 79.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613281/)
-- **Paquete de bienvenida de Forza Horizon 5** (Steam PC, dlc) — COL$ 7.960 ~~COL$ 19.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613284/)
-- **Forza Horizon 5: Mapa del tesoro** (Steam PC, dlc) — COL$ 5.160 ~~COL$ 12.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613285/)
-- **Pase de coches de Forza Horizon 5** (Steam PC, dlc) — COL$ 47.960 ~~COL$ 119.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1648020/)
-- **Forza Motorsport Car Pass** (Steam PC, dlc) — COL$ 51.960 ~~COL$ 129.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2557390/)
 - **Grounded** (Steam PC, base) — COL$ 79.950 ~~COL$ 159.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/962130/)
-- **Forza Horizon 5 Apex Allstars Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2894270/)
 - **Grounded (Official Soundtrack)** (Steam PC, base) — COL$ 9.250 ~~COL$ 18.500~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2161390/)
-- **Forza Horizon 5 JDM Jewels Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3051730/)
-- **Forza Horizon 5 Italian Exotics Car Pack** (Steam PC, dlc) — COL$ 24.950 ~~COL$ 49.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2507010/)
-- **Forza Horizon 5 Chinese Lucky Stars Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2738880/)
-- **Forza Horizon 5 Super Speed Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2614920/)
-- **Horizon Racing Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2440490/)
-- **Forza Horizon 5 Acceleration Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2868420/)
-- **Forza Horizon 5 European Automotive Car Pack** (Steam PC, dlc) — COL$ 9.950 ~~COL$ 19.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2814020/)
-- **Forza Horizon 5 Nissan Retro Rides Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3339980/)
-- **Forza Horizon 5 American Automotive Car Pack** (Steam PC, dlc) — COL$ 12.450 ~~COL$ 24.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2638820/)
-- **Forza Horizon 6** (Steam PC, base) — COL$ 237.915 ~~COL$ 279.900~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/2483190/)
 - **Age of Empires III: Definitive Edition - The Baltic Powers** (Steam PC, dlc) — COL$ 50.915 ~~COL$ 59.900~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/4308600/)
-- **Forza Horizon 6 Premium Upgrade** (Steam PC, dlc) — COL$ 204.000 ~~COL$ 240.000~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/4520360/)
 
 ## Microsoft Store / Xbox PC
 - **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
@@ -42,9 +22,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 175.920 ~~$ 219.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
 - **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
 - **Sea of Thieves: X Edition** (Xbox PC, bundle) — $ 255.120 ~~$ 318.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1)
-- 🆕 **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 607.840 ~~$ 759.800~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
-- 🆕 **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
-- 🆕 **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 303.920 ~~$ 379.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
+- **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 607.840 ~~$ 759.800~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
+- **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
+- **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 303.920 ~~$ 379.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
 - **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 327.920 ~~$ 409.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
 - **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 279.920 ~~$ 349.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
 - **Age of Empires: colección definitiva** (Xbox PC, base) — $ 71.920 ~~$ 89.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P4S0R97R36S?rtc=1)

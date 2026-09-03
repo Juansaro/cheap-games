@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-02T18:17:43.114Z",
-  "updatedAtBogota": "2026-09-02 13:17",
+  "updatedAt": "2026-09-03T18:17:36.838Z",
+  "updatedAtBogota": "2026-09-03 13:17",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -182,8 +182,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 207.920",
       "pricePreviousLabel": "$ 259.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
+      "dealEndsAt": "2026-09-16T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-16 18:59",
       "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
       "confirmed": true,
@@ -243,7 +243,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N7J4DKK7V15",
@@ -268,7 +268,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N7MNF1QC3X4",
@@ -293,7 +293,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PJ15D3RDXMV",
