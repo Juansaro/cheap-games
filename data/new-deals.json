@@ -1,30 +1,4 @@
 {
-  "generatedAt": "2026-09-04 12:57",
-  "deals": [
-    {
-      "id": "xboxpc-9N03HPMVD65G",
-      "storeId": "9N03HPMVD65G",
-      "name": "Forza Horizon 6 Deluxe Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 320000,
-      "pricePrevious": 400000,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 320.000",
-      "pricePreviousLabel": "$ 400.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": true
-    }
-  ]
+  "generatedAt": "2026-09-05 12:04",
+  "deals": []
 }

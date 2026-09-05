@@ -1,6 +1,6 @@
-# Ofertas — 2026-09-04 12:57 (Bogotá)
+# Ofertas — 2026-09-05 12:04 (Bogotá)
 
-Última actualización: **2026-09-04 12:57** (America/Bogota).
+Última actualización: **2026-09-05 12:04** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -17,7 +17,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
 - **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 271.920 ~~$ 339.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
 - **Forza Horizon 6 Premium Edition** (Xbox PC, bundle) — $ 383.200 ~~$ 479.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1)
-- 🆕 **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 320.000 ~~$ 400.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
+- **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 320.000 ~~$ 400.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
 - **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 367.920 ~~$ 459.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
 - **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
 - **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 175.920 ~~$ 219.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
