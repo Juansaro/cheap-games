@@ -1,16 +1,12 @@
-# Ofertas — 2026-09-06 12:28 (Bogotá)
+# Ofertas — 2026-09-07 13:58 (Bogotá)
 
-Última actualización: **2026-09-06 12:28** (America/Bogota).
+Última actualización: **2026-09-07 13:58** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- **State of Decay: YOSE** (Steam PC, base) — COL$ 6.200 ~~COL$ 31.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/329430/)
-- **State of Decay 2: Juggernaut Edition** (Steam PC, base) — COL$ 14.875 ~~COL$ 59.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/495420/)
-- **Grounded** (Steam PC, base) — COL$ 79.950 ~~COL$ 159.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/962130/)
-- **Grounded (Official Soundtrack)** (Steam PC, base) — COL$ 9.250 ~~COL$ 18.500~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2161390/)
 - **Age of Empires III: Definitive Edition - The Baltic Powers** (Steam PC, dlc) — COL$ 50.915 ~~COL$ 59.900~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/4308600/)
 
 ## Microsoft Store / Xbox PC
@@ -46,6 +42,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Edición Premium de Avowed** (Xbox PC, bundle) — $ 191.920 ~~$ 239.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFHQ2719J83?rtc=1)
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 111.920 ~~$ 139.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
+- 🆕 **Minecraft Legends Edición Deluxe** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)

@@ -1,4 +1,30 @@
 {
-  "generatedAt": "2026-09-06 12:28",
-  "deals": []
+  "generatedAt": "2026-09-07 13:58",
+  "deals": [
+    {
+      "id": "xboxpc-9MV69L4JSD31",
+      "storeId": "9MV69L4JSD31",
+      "name": "Minecraft Legends Edición Deluxe",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 207920,
+      "pricePrevious": 259900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 207.920",
+      "pricePreviousLabel": "$ 259.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.7120.13799013845909804.d667b16a-f72a-44c6-913e-e9ab0a88905b.19e2302b-ffbb-46eb-bd03-5475765cbdda",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": false,
+      "isNew": true
+    }
+  ]
 }
