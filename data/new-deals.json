@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-09-07 13:58",
+  "generatedAt": "2026-09-08 13:15",
   "deals": [
     {
-      "id": "xboxpc-9MV69L4JSD31",
-      "storeId": "9MV69L4JSD31",
-      "name": "Minecraft Legends Edición Deluxe",
+      "id": "xboxpc-9NHBF6KM0D22",
+      "storeId": "9NHBF6KM0D22",
+      "name": "Age of Empires II: DE - The Viking Sagas",
       "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 207920,
-      "pricePrevious": 259900,
-      "discountPercent": 20,
+      "kind": "base",
+      "priceCurrent": 50915,
+      "pricePrevious": 59900,
+      "discountPercent": 15,
       "currency": "COP",
-      "priceCurrentLabel": "$ 207.920",
-      "pricePreviousLabel": "$ 259.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.7120.13799013845909804.d667b16a-f72a-44c6-913e-e9ab0a88905b.19e2302b-ffbb-46eb-bd03-5475765cbdda",
+      "priceCurrentLabel": "$ 50.915",
+      "pricePreviousLabel": "$ 59.900",
+      "dealEndsAt": "2026-09-22T16:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-22 11:59",
+      "url": "https://www.microsoft.com/store/productId/9NHBF6KM0D22?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.30909.13633233483524889.7b6d55f5-391c-4c60-a07e-80895e61b926.714210a1-3e69-434b-8ff7-d893cc964a39",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
         "ms-store-search"
       ],
       "publisher": "Xbox Game Studios",
-      "playAnywhere": false,
+      "playAnywhere": true,
       "isNew": true
     }
   ]
