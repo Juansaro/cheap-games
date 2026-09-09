@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-08T18:15:09.624Z",
-  "updatedAtBogota": "2026-09-08 13:15",
-  "updatedAtDate": "2026-09-08",
+  "updatedAt": "2026-09-09T18:14:30.586Z",
+  "updatedAtBogota": "2026-09-09 13:14",
+  "updatedAtDate": "2026-09-09",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -141,31 +141,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9N03HPMVD65G",
-          "storeId": "9N03HPMVD65G",
-          "name": "Forza Horizon 6 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 320000,
-          "pricePrevious": 400000,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 320.000",
-          "pricePreviousLabel": "$ 400.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9P8PGC771MLP",
           "storeId": "9P8PGC771MLP",
           "name": "Forza Motorsport Premium Edition",
@@ -891,29 +866,29 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9NHBF6KM0D22",
-          "storeId": "9NHBF6KM0D22",
-          "name": "Age of Empires II: DE - The Viking Sagas",
+          "id": "xboxpc-9N9LXX68LKWF",
+          "storeId": "9N9LXX68LKWF",
+          "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
           "platform": "Xbox PC",
           "kind": "base",
-          "priceCurrent": 50915,
-          "pricePrevious": 59900,
-          "discountPercent": 15,
+          "priceCurrent": 35820,
+          "pricePrevious": 39800,
+          "discountPercent": 10,
           "currency": "COP",
-          "priceCurrentLabel": "$ 50.915",
-          "pricePreviousLabel": "$ 59.900",
-          "dealEndsAt": "2026-09-22T16:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-22 11:59",
-          "url": "https://www.microsoft.com/store/productId/9NHBF6KM0D22?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.30909.13633233483524889.7b6d55f5-391c-4c60-a07e-80895e61b926.714210a1-3e69-434b-8ff7-d893cc964a39",
+          "priceCurrentLabel": "$ 35.820",
+          "pricePreviousLabel": "$ 39.800",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
             "ms-store-search"
           ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": true
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": false
         },
         {
           "id": "xboxpc-9N099DG3GHGW",
@@ -956,31 +931,6 @@
           "dealEndsAtBogota": null,
           "url": "https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.28578.14450105286512512.cab7ef72-07af-4401-aca5-e8636b61cce0.e691415c-d99e-4a5b-bebd-3d23a3701aab",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N9LXX68LKWF",
-          "storeId": "9N9LXX68LKWF",
-          "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 35820,
-          "pricePrevious": 39800,
-          "discountPercent": 10,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 35.820",
-          "pricePreviousLabel": "$ 39.800",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -1069,32 +1019,7 @@
       "spotlight": null
     },
     "steamvr": {
-      "deals": [
-        {
-          "id": "steam-916840",
-          "storeId": "916840",
-          "name": "The Walking Dead: Saints & Sinners",
-          "platform": "SteamVR",
-          "kind": "base",
-          "priceCurrent": 23750,
-          "pricePrevious": 47500,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 23.750",
-          "pricePreviousLabel": "COL$ 47.500",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/916840/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/header.jpg?t=1744761535",
-          "confirmed": true,
-          "sources": [
-            "meta-catalog",
-            "steam-appdetails"
-          ],
-          "publisher": "Skydance Interactive",
-          "isNew": false
-        }
-      ],
+      "deals": [],
       "spotlight": null
     },
     "meta-quest": {
@@ -1229,31 +1154,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9N03HPMVD65G",
-          "storeId": "9N03HPMVD65G",
-          "name": "Forza Horizon 6 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 320000,
-          "pricePrevious": 400000,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 320.000",
-          "pricePreviousLabel": "$ 400.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9P8PGC771MLP",
           "storeId": "9P8PGC771MLP",
           "name": "Forza Motorsport Premium Edition",
@@ -1979,29 +1879,29 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9NHBF6KM0D22",
-          "storeId": "9NHBF6KM0D22",
-          "name": "Age of Empires II: DE - The Viking Sagas",
+          "id": "xboxpc-9N9LXX68LKWF",
+          "storeId": "9N9LXX68LKWF",
+          "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
           "platform": "Xbox PC",
           "kind": "base",
-          "priceCurrent": 50915,
-          "pricePrevious": 59900,
-          "discountPercent": 15,
+          "priceCurrent": 35820,
+          "pricePrevious": 39800,
+          "discountPercent": 10,
           "currency": "COP",
-          "priceCurrentLabel": "$ 50.915",
-          "pricePreviousLabel": "$ 59.900",
-          "dealEndsAt": "2026-09-22T16:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-22 11:59",
-          "url": "https://www.microsoft.com/store/productId/9NHBF6KM0D22?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.30909.13633233483524889.7b6d55f5-391c-4c60-a07e-80895e61b926.714210a1-3e69-434b-8ff7-d893cc964a39",
+          "priceCurrentLabel": "$ 35.820",
+          "pricePreviousLabel": "$ 39.800",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
             "ms-store-search"
           ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": true
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": false
         },
         {
           "id": "xboxpc-9N099DG3GHGW",
@@ -2044,31 +1944,6 @@
           "dealEndsAtBogota": null,
           "url": "https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.28578.14450105286512512.cab7ef72-07af-4401-aca5-e8636b61cce0.e691415c-d99e-4a5b-bebd-3d23a3701aab",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N9LXX68LKWF",
-          "storeId": "9N9LXX68LKWF",
-          "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 35820,
-          "pricePrevious": 39800,
-          "discountPercent": 10,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 35.820",
-          "pricePreviousLabel": "$ 39.800",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -2189,32 +2064,7 @@
     "metaVr": {
       "title": "Meta VR",
       "emptyMessage": "Sin ofertas hoy",
-      "deals": [
-        {
-          "id": "steam-916840",
-          "storeId": "916840",
-          "name": "The Walking Dead: Saints & Sinners",
-          "platform": "SteamVR",
-          "kind": "base",
-          "priceCurrent": 23750,
-          "pricePrevious": 47500,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 23.750",
-          "pricePreviousLabel": "COL$ 47.500",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/916840/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/header.jpg?t=1744761535",
-          "confirmed": true,
-          "sources": [
-            "meta-catalog",
-            "steam-appdetails"
-          ],
-          "publisher": "Skydance Interactive",
-          "isNew": false
-        }
-      ]
+      "deals": []
     }
   }
 }

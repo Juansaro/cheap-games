@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-08T18:15:09.624Z",
-  "updatedAtBogota": "2026-09-08 13:15",
-  "updatedAtDate": "2026-09-08",
+  "updatedAt": "2026-09-09T18:14:30.586Z",
+  "updatedAtBogota": "2026-09-09 13:14",
+  "updatedAtDate": "2026-09-09",
   "timezone": "America/Bogota",
-  "liveDealCount": 42,
+  "liveDealCount": 39,
   "stores": [
     {
       "id": "steam",
@@ -36,7 +36,7 @@
       "blurb": "Microsoft Store y Xbox app para Windows. Play Anywhere si el SKU es de PC.",
       "reason": null,
       "href": "./store.html#xbox",
-      "dealCount": 40,
+      "dealCount": 38,
       "spotlightLabel": null
     },
     {
@@ -52,7 +52,7 @@
       "blurb": "Ofertas verificadas en SteamVR. Equivalentes PC de títulos Quest cuando existen.",
       "reason": null,
       "href": "./store.html#steamvr",
-      "dealCount": 1,
+      "dealCount": 0,
       "spotlightLabel": null
     },
     {
