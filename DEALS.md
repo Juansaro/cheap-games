@@ -1,13 +1,14 @@
-# Ofertas — 2026-09-09 13:14 (Bogotá)
+# Ofertas — 2026-09-10 13:01 (Bogotá)
 
-Última actualización: **2026-09-09 13:14** (America/Bogota).
+Última actualización: **2026-09-10 13:01** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- **Age of Empires III: Definitive Edition - The Baltic Powers** (Steam PC, dlc) — COL$ 50.915 ~~COL$ 59.900~~ (−15%) · [Ver oferta](https://store.steampowered.com/app/4308600/)
+- 🆕 **Hack 'n' Slash** (Steam PC, base) — COL$ 3.000 ~~COL$ 30.000~~ (−90%) · [Ver oferta](https://store.steampowered.com/app/246070/)
+- 🆕 **Spacebase DF-9** (Steam PC, base) — COL$ 3.200 ~~COL$ 32.000~~ (−90%) · [Ver oferta](https://store.steampowered.com/app/246090/)
 
 ## Microsoft Store / Xbox PC
 - **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
@@ -42,9 +43,10 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 111.920 ~~$ 139.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
 - **Minecraft Legends Edición Deluxe** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1)
-- **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
+- 🆕 **Age of Empires II: DE - The Viking Sagas** (Xbox PC, base) — $ 50.915 ~~$ 59.900~~ (−15%) · [Ver oferta](https://www.microsoft.com/store/productId/9NHBF6KM0D22?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
+- **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **Indiana Jones y el Gran Círculo™: Mejora Prémium Digital** (Xbox PC, base) — $ 148.410 ~~$ 164.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4T0R0HQJ9J?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)

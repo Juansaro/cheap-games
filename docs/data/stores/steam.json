@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-09T18:14:30.586Z",
-  "updatedAtBogota": "2026-09-09 13:14",
+  "updatedAt": "2026-09-10T18:01:04.525Z",
+  "updatedAtBogota": "2026-09-10 13:01",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -45,29 +45,54 @@
   },
   "deals": [
     {
-      "id": "steam-4308600",
-      "storeId": "4308600",
-      "name": "Age of Empires III: Definitive Edition - The Baltic Powers",
+      "id": "steam-246070",
+      "storeId": "246070",
+      "name": "Hack 'n' Slash",
       "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 50915,
-      "pricePrevious": 59900,
-      "discountPercent": 15,
+      "kind": "base",
+      "priceCurrent": 3000,
+      "pricePrevious": 30000,
+      "discountPercent": 90,
       "currency": "COP",
-      "priceCurrentLabel": "COL$ 50.915",
-      "pricePreviousLabel": "COL$ 59.900",
+      "priceCurrentLabel": "COL$ 3.000",
+      "pricePreviousLabel": "COL$ 30.000",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/4308600/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308600/43a767eb85fd07e140ad6de93e6f703519bd522f/header.jpg?t=1786643698",
+      "url": "https://store.steampowered.com/app/246070/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246070/header.jpg?t=1776459006",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
         "steam-search-specials",
         "steam-watchlist"
       ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
+      "publisher": "Double Fine Productions",
+      "isNew": true
+    },
+    {
+      "id": "steam-246090",
+      "storeId": "246090",
+      "name": "Spacebase DF-9",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 3200,
+      "pricePrevious": 32000,
+      "discountPercent": 90,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 3.200",
+      "pricePreviousLabel": "COL$ 32.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/246090/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246090/header.jpg?t=1776458941",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Double Fine Productions",
+      "isNew": true
     }
   ]
 }
