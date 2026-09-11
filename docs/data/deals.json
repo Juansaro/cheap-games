@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-10T18:01:04.525Z",
-  "updatedAtBogota": "2026-09-10 13:01",
-  "updatedAtDate": "2026-09-10",
+  "updatedAt": "2026-09-11T18:03:17.860Z",
+  "updatedAtBogota": "2026-09-11 13:03",
+  "updatedAtDate": "2026-09-11",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -34,7 +34,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-246090",
@@ -59,7 +59,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": {
@@ -627,8 +627,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 119.920",
           "pricePreviousLabel": "$ 149.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-23 18:59",
           "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
           "confirmed": true,
@@ -913,7 +913,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N099DG3GHGW",
@@ -1665,8 +1665,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 119.920",
           "pricePreviousLabel": "$ 149.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-23 18:59",
           "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
           "confirmed": true,
@@ -1951,7 +1951,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N099DG3GHGW",
@@ -2132,7 +2132,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-246090",
@@ -2157,7 +2157,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
