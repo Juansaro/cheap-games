@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-12T17:35:02.167Z",
-  "updatedAtBogota": "2026-09-12 12:35",
-  "updatedAtDate": "2026-09-12",
+  "updatedAt": "2026-09-13T17:50:25.426Z",
+  "updatedAtBogota": "2026-09-13 12:50",
+  "updatedAtDate": "2026-09-13",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -1044,7 +1044,32 @@
       "spotlight": null
     },
     "steamvr": {
-      "deals": [],
+      "deals": [
+        {
+          "id": "steam-858260",
+          "storeId": "858260",
+          "name": "Until You Fall",
+          "platform": "SteamVR",
+          "kind": "base",
+          "priceCurrent": 26550,
+          "pricePrevious": 59000,
+          "discountPercent": 55,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 26.550",
+          "pricePreviousLabel": "COL$ 59.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/858260/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858260/header.jpg?t=1767980306",
+          "confirmed": true,
+          "sources": [
+            "meta-catalog",
+            "steam-appdetails"
+          ],
+          "publisher": "Schell Games",
+          "isNew": true
+        }
+      ],
       "spotlight": null
     },
     "meta-quest": {
@@ -2114,7 +2139,32 @@
     "metaVr": {
       "title": "Meta VR",
       "emptyMessage": "Sin ofertas hoy",
-      "deals": []
+      "deals": [
+        {
+          "id": "steam-858260",
+          "storeId": "858260",
+          "name": "Until You Fall",
+          "platform": "SteamVR",
+          "kind": "base",
+          "priceCurrent": 26550,
+          "pricePrevious": 59000,
+          "discountPercent": 55,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 26.550",
+          "pricePreviousLabel": "COL$ 59.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/858260/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858260/header.jpg?t=1767980306",
+          "confirmed": true,
+          "sources": [
+            "meta-catalog",
+            "steam-appdetails"
+          ],
+          "publisher": "Schell Games",
+          "isNew": true
+        }
+      ]
     }
   }
 }
