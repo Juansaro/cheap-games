@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-13T17:50:25.426Z",
-  "updatedAtBogota": "2026-09-13 12:50",
+  "updatedAt": "2026-09-14T19:44:24.283Z",
+  "updatedAtBogota": "2026-09-14 14:44",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -676,14 +676,14 @@
       "name": "DOOM: The Dark Ages Premium Edition",
       "platform": "Xbox PC",
       "kind": "bundle",
-      "priceCurrent": 319920,
-      "pricePrevious": 399900,
+      "priceCurrent": 223120,
+      "pricePrevious": 278900,
       "discountPercent": 20,
       "currency": "COP",
-      "priceCurrentLabel": "$ 319.920",
-      "pricePreviousLabel": "$ 399.900",
-      "dealEndsAt": "2026-09-14T16:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-14 11:59",
+      "priceCurrentLabel": "$ 223.120",
+      "pricePreviousLabel": "$ 278.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9NP0PC87KBTD?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.3479.13728467728881069.7404643f-07f2-4d25-9b69-7abe8564d7a4.b698a66e-f570-4850-b9b9-1a6e68ca5bbd",
       "confirmed": true,
@@ -693,7 +693,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "xboxpc-9P0SWLC2F1XJ",
