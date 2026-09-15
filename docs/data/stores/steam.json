@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-14T19:44:24.283Z",
-  "updatedAtBogota": "2026-09-14 14:44",
+  "updatedAt": "2026-09-15T18:38:31.498Z",
+  "updatedAtBogota": "2026-09-15 13:38",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -67,7 +67,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1091980",
@@ -92,7 +92,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-766320",
@@ -117,7 +117,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-719040",
@@ -142,7 +142,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1382210",
@@ -167,7 +167,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1642320",
@@ -192,7 +192,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1172620",
@@ -217,7 +217,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-4373360",
@@ -242,7 +242,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-4373370",
@@ -267,7 +267,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1522650",
@@ -292,7 +292,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1593330",
@@ -317,7 +317,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1191060",
@@ -342,7 +342,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

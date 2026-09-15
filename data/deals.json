@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-14T19:44:24.283Z",
-  "updatedAtBogota": "2026-09-14 14:44",
-  "updatedAtDate": "2026-09-14",
+  "updatedAt": "2026-09-15T18:38:31.498Z",
+  "updatedAtBogota": "2026-09-15 13:38",
+  "updatedAtDate": "2026-09-15",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -34,7 +34,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1091980",
@@ -59,7 +59,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-766320",
@@ -84,7 +84,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-719040",
@@ -109,7 +109,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1382210",
@@ -134,7 +134,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1642320",
@@ -159,7 +159,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1172620",
@@ -184,7 +184,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4373360",
@@ -209,7 +209,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4373370",
@@ -234,7 +234,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1522650",
@@ -259,7 +259,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1593330",
@@ -284,7 +284,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1191060",
@@ -309,7 +309,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": {
@@ -691,31 +691,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9NBH81H3VB7P",
-          "storeId": "9NBH81H3VB7P",
-          "name": "Colección del 25to aniversario de Age of Empires",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 291920,
-          "pricePrevious": 364900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 291.920",
-          "pricePreviousLabel": "$ 364.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9PD9ZXP630NW",
           "storeId": "9PD9ZXP630NW",
           "name": "Age of Empires III: Definitive Edition - The Complete History",
@@ -731,6 +706,31 @@
           "dealEndsAtBogota": null,
           "url": "https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.43683.14153249993077116.000da79c-91bc-491d-a1ad-2a3020066aad.a7a78217-60cf-4fac-88c5-a5197f644700",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": false,
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-9NBH81H3VB7P",
+          "storeId": "9NBH81H3VB7P",
+          "name": "Colección del 25to aniversario de Age of Empires",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 291920,
+          "pricePrevious": 364900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 291.920",
+          "pricePreviousLabel": "$ 364.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -1013,7 +1013,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P0SWLC2F1XJ",
@@ -1317,7 +1317,7 @@
             "steam-appdetails"
           ],
           "publisher": "Valve",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1079800",
@@ -1341,7 +1341,7 @@
             "steam-appdetails"
           ],
           "publisher": "Cloudhead Games Ltd.",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-858260",
@@ -1382,14 +1382,14 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1408230/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408230/41550e311799d354df465ebce3d7a0885eec4409/header.jpg?t=1787339302",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408230/41550e311799d354df465ebce3d7a0885eec4409/header.jpg?t=1789415559",
           "confirmed": true,
           "sources": [
             "meta-catalog",
             "steam-appdetails"
           ],
           "publisher": "Mighty Coconut",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-629730",
@@ -1413,7 +1413,7 @@
             "steam-appdetails"
           ],
           "publisher": "WarpFrog",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1592190",
@@ -1437,7 +1437,7 @@
             "steam-appdetails"
           ],
           "publisher": "Stress Level Zero",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-823500",
@@ -1461,7 +1461,7 @@
             "steam-appdetails"
           ],
           "publisher": "Stress Level Zero",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": null
@@ -1873,31 +1873,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9NBH81H3VB7P",
-          "storeId": "9NBH81H3VB7P",
-          "name": "Colección del 25to aniversario de Age of Empires",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 291920,
-          "pricePrevious": 364900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 291.920",
-          "pricePreviousLabel": "$ 364.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9PD9ZXP630NW",
           "storeId": "9PD9ZXP630NW",
           "name": "Age of Empires III: Definitive Edition - The Complete History",
@@ -1913,6 +1888,31 @@
           "dealEndsAtBogota": null,
           "url": "https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.43683.14153249993077116.000da79c-91bc-491d-a1ad-2a3020066aad.a7a78217-60cf-4fac-88c5-a5197f644700",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": false,
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-9NBH81H3VB7P",
+          "storeId": "9NBH81H3VB7P",
+          "name": "Colección del 25to aniversario de Age of Empires",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 291920,
+          "pricePrevious": 364900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 291.920",
+          "pricePreviousLabel": "$ 364.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -2195,7 +2195,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P0SWLC2F1XJ",
@@ -2501,7 +2501,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1091980",
@@ -2526,7 +2526,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-766320",
@@ -2551,7 +2551,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-719040",
@@ -2576,7 +2576,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1382210",
@@ -2601,7 +2601,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1642320",
@@ -2626,7 +2626,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1172620",
@@ -2651,7 +2651,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4373360",
@@ -2676,7 +2676,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4373370",
@@ -2701,7 +2701,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1522650",
@@ -2726,7 +2726,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1593330",
@@ -2751,7 +2751,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1191060",
@@ -2776,7 +2776,7 @@
             "steam-watchlist"
           ],
           "publisher": "inXile Entertainment",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -2806,7 +2806,7 @@
             "steam-appdetails"
           ],
           "publisher": "Valve",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1079800",
@@ -2830,7 +2830,7 @@
             "steam-appdetails"
           ],
           "publisher": "Cloudhead Games Ltd.",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-858260",
@@ -2871,14 +2871,14 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1408230/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408230/41550e311799d354df465ebce3d7a0885eec4409/header.jpg?t=1787339302",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408230/41550e311799d354df465ebce3d7a0885eec4409/header.jpg?t=1789415559",
           "confirmed": true,
           "sources": [
             "meta-catalog",
             "steam-appdetails"
           ],
           "publisher": "Mighty Coconut",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-629730",
@@ -2902,7 +2902,7 @@
             "steam-appdetails"
           ],
           "publisher": "WarpFrog",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1592190",
@@ -2926,7 +2926,7 @@
             "steam-appdetails"
           ],
           "publisher": "Stress Level Zero",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-823500",
@@ -2950,7 +2950,7 @@
             "steam-appdetails"
           ],
           "publisher": "Stress Level Zero",
-          "isNew": true
+          "isNew": false
         }
       ]
     }

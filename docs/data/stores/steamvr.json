@@ -13,8 +13,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-14T19:44:24.283Z",
-  "updatedAtBogota": "2026-09-14 14:44",
+  "updatedAt": "2026-09-15T18:38:31.498Z",
+  "updatedAtBogota": "2026-09-15 13:38",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -41,7 +41,7 @@
         "steam-appdetails"
       ],
       "publisher": "Valve",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1079800",
@@ -65,7 +65,7 @@
         "steam-appdetails"
       ],
       "publisher": "Cloudhead Games Ltd.",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-858260",
@@ -106,14 +106,14 @@
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/1408230/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408230/41550e311799d354df465ebce3d7a0885eec4409/header.jpg?t=1787339302",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408230/41550e311799d354df465ebce3d7a0885eec4409/header.jpg?t=1789415559",
       "confirmed": true,
       "sources": [
         "meta-catalog",
         "steam-appdetails"
       ],
       "publisher": "Mighty Coconut",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-629730",
@@ -137,7 +137,7 @@
         "steam-appdetails"
       ],
       "publisher": "WarpFrog",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1592190",
@@ -161,7 +161,7 @@
         "steam-appdetails"
       ],
       "publisher": "Stress Level Zero",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-823500",
@@ -185,7 +185,7 @@
         "steam-appdetails"
       ],
       "publisher": "Stress Level Zero",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
