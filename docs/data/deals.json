@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-16T18:36:31.229Z",
-  "updatedAtBogota": "2026-09-16 13:36",
-  "updatedAtDate": "2026-09-16",
+  "updatedAt": "2026-09-17T18:44:36.247Z",
+  "updatedAtBogota": "2026-09-17 13:44",
+  "updatedAtDate": "2026-09-17",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -176,7 +176,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1172620/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1782135471",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -341,6 +341,81 @@
     "xbox": {
       "deals": [
         {
+          "id": "xboxpc-9NKGNMNK3K3Z",
+          "storeId": "9NKGNMNK3K3Z",
+          "name": "Fallout 76 (PC)",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 37475,
+          "pricePrevious": 149900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 37.475",
+          "pricePreviousLabel": "$ 149.900",
+          "dealEndsAt": "2026-09-24T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-24 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NKGNMNK3K3Z?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.32675.13657086471689364.8f674de7-1bef-4801-8dbc-109dbe27b897.6ce291f2-7d07-44e5-96ff-13d996b0c30c",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9P2N57MC619K",
+          "storeId": "9P2N57MC619K",
+          "name": "Sea of Thieves: 2026 Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 55965,
+          "pricePrevious": 159900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 55.965",
+          "pricePreviousLabel": "$ 159.900",
+          "dealEndsAt": "2026-09-21T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-21 14:59",
+          "url": "https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.29206.14554784103656548.069efce3-9249-4074-a169-183b727043f8.03688f8c-edc0-416b-bebb-9d98a01c25f5",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9NKD5GJTS6FH",
+          "storeId": "9NKD5GJTS6FH",
+          "name": "Sea of Thieves: 2026 Premium Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 90965,
+          "pricePrevious": 259900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 90.965",
+          "pricePreviousLabel": "$ 259.900",
+          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-23 18:59",
+          "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
           "id": "xboxpc-9MTLKM2DJMZ2",
           "storeId": "9MTLKM2DJMZ2",
           "name": "Forza Horizon 5 Premium Edition",
@@ -416,31 +491,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9N03HPMVD65G",
-          "storeId": "9N03HPMVD65G",
-          "name": "Forza Horizon 6 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 320000,
-          "pricePrevious": 400000,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 320.000",
-          "pricePreviousLabel": "$ 400.000",
-          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-23 18:59",
-          "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": true
-        },
-        {
           "id": "xboxpc-9P8PGC771MLP",
           "storeId": "9P8PGC771MLP",
           "name": "Forza Motorsport Premium Edition",
@@ -506,31 +556,6 @@
           "dealEndsAtBogota": null,
           "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9NKD5GJTS6FH",
-          "storeId": "9NKD5GJTS6FH",
-          "name": "Sea of Thieves: 2026 Premium Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 207920,
-          "pricePrevious": 259900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 207.920",
-          "pricePreviousLabel": "$ 259.900",
-          "dealEndsAt": "2026-09-16T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-16 18:59",
-          "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -1548,6 +1573,81 @@
       "emptyMessage": "Sin ofertas hoy",
       "deals": [
         {
+          "id": "xboxpc-9NKGNMNK3K3Z",
+          "storeId": "9NKGNMNK3K3Z",
+          "name": "Fallout 76 (PC)",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 37475,
+          "pricePrevious": 149900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 37.475",
+          "pricePreviousLabel": "$ 149.900",
+          "dealEndsAt": "2026-09-24T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-24 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NKGNMNK3K3Z?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.32675.13657086471689364.8f674de7-1bef-4801-8dbc-109dbe27b897.6ce291f2-7d07-44e5-96ff-13d996b0c30c",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9P2N57MC619K",
+          "storeId": "9P2N57MC619K",
+          "name": "Sea of Thieves: 2026 Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 55965,
+          "pricePrevious": 159900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 55.965",
+          "pricePreviousLabel": "$ 159.900",
+          "dealEndsAt": "2026-09-21T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-21 14:59",
+          "url": "https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.29206.14554784103656548.069efce3-9249-4074-a169-183b727043f8.03688f8c-edc0-416b-bebb-9d98a01c25f5",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9NKD5GJTS6FH",
+          "storeId": "9NKD5GJTS6FH",
+          "name": "Sea of Thieves: 2026 Premium Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 90965,
+          "pricePrevious": 259900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 90.965",
+          "pricePreviousLabel": "$ 259.900",
+          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-23 18:59",
+          "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
           "id": "xboxpc-9MTLKM2DJMZ2",
           "storeId": "9MTLKM2DJMZ2",
           "name": "Forza Horizon 5 Premium Edition",
@@ -1623,31 +1723,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9N03HPMVD65G",
-          "storeId": "9N03HPMVD65G",
-          "name": "Forza Horizon 6 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 320000,
-          "pricePrevious": 400000,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 320.000",
-          "pricePreviousLabel": "$ 400.000",
-          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-23 18:59",
-          "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": true
-        },
-        {
           "id": "xboxpc-9P8PGC771MLP",
           "storeId": "9P8PGC771MLP",
           "name": "Forza Motorsport Premium Edition",
@@ -1713,31 +1788,6 @@
           "dealEndsAtBogota": null,
           "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9NKD5GJTS6FH",
-          "storeId": "9NKD5GJTS6FH",
-          "name": "Sea of Thieves: 2026 Premium Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 207920,
-          "pricePrevious": 259900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 207.920",
-          "pricePreviousLabel": "$ 259.900",
-          "dealEndsAt": "2026-09-16T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-16 18:59",
-          "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -2693,7 +2743,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1172620/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1782135471",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
           "confirmed": true,
           "sources": [
             "steam-appdetails",

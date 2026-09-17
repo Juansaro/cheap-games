@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-16T18:36:31.229Z",
-  "updatedAtBogota": "2026-09-16 13:36",
+  "updatedAt": "2026-09-17T18:44:36.247Z",
+  "updatedAtBogota": "2026-09-17 13:44",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -209,7 +209,7 @@
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/1172620/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1782135471",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
