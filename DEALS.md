@@ -1,6 +1,6 @@
-# Ofertas — 2026-09-17 13:44 (Bogotá)
+# Ofertas — 2026-09-18 13:01 (Bogotá)
 
-Última actualización: **2026-09-17 13:44** (America/Bogota).
+Última actualización: **2026-09-18 13:01** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -9,6 +9,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 ## Steam
 - **Wasteland 2: Director's Cut** (Steam PC, base) — COL$ 7.900 ~~COL$ 39.500~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/240760/)
 - **The Bard's Tale IV: Director's Cut** (Steam PC, base) — COL$ 13.700 ~~COL$ 54.800~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1091980/)
+- 🆕 **Contrast** (Steam PC, base) — COL$ 5.875 ~~COL$ 23.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/224460/)
 - **The Mage's Tale** (Steam PC, base) — COL$ 13.625 ~~COL$ 54.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/766320/)
 - **Wasteland 3** (Steam PC, base) — COL$ 16.350 ~~COL$ 54.500~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/719040/)
 - **Wasteland 3 Digital Deluxe Extras** (Steam PC, dlc) — COL$ 4.125 ~~COL$ 13.750~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/1382210/)
@@ -18,15 +19,17 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Sea of Thieves: 2026 Premium Bundle** (Steam PC, bundle) — COL$ 90.965 ~~COL$ 259.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/4373370/)
 - **Wasteland 3: The Battle of Steeltown** (Steam PC, dlc) — COL$ 9.600 ~~COL$ 24.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1522650/)
 - **Wasteland 3: Cult of the Holy Detonation** (Steam PC, dlc) — COL$ 5.396 ~~COL$ 13.490~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1593330/)
+- 🆕 **Contrast - Original Soundtrack and Art Book** (Steam PC, dlc) — COL$ 7.150 ~~COL$ 14.300~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/224462/)
 - **Wasteland 3 - Colorado Survival Gear** (Steam PC, dlc) — COL$ 1.400 ~~COL$ 2.800~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1191060/)
 
 ## Microsoft Store / Xbox PC
-- 🆕 **Fallout 76 (PC)** (Xbox PC, base) — $ 37.475 ~~$ 149.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKGNMNK3K3Z?rtc=1)
-- 🆕 **Sea of Thieves: 2026 Edition** (Xbox PC, bundle) — $ 55.965 ~~$ 159.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1)
-- 🆕 **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 90.965 ~~$ 259.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
+- **Fallout 76 (PC)** (Xbox PC, base) — $ 37.475 ~~$ 149.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKGNMNK3K3Z?rtc=1)
+- **Sea of Thieves: 2026 Edition** (Xbox PC, bundle) — $ 55.965 ~~$ 159.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1)
+- **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 90.965 ~~$ 259.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
 - **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
 - **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 271.920 ~~$ 339.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
 - **Forza Horizon 6 Premium Edition** (Xbox PC, bundle) — $ 383.200 ~~$ 479.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1)
+- 🆕 **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 320.000 ~~$ 400.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
 - **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 367.920 ~~$ 459.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
 - **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
 - **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 175.920 ~~$ 219.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)

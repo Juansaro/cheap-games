@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-17T18:44:36.247Z",
-  "updatedAtBogota": "2026-09-17 13:44",
-  "updatedAtDate": "2026-09-17",
+  "updatedAt": "2026-09-18T18:01:10.599Z",
+  "updatedAtBogota": "2026-09-18 13:01",
+  "updatedAtDate": "2026-09-18",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -60,6 +60,31 @@
           ],
           "publisher": "inXile Entertainment",
           "isNew": false
+        },
+        {
+          "id": "steam-224460",
+          "storeId": "224460",
+          "name": "Contrast",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 5875,
+          "pricePrevious": 23500,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.875",
+          "pricePreviousLabel": "COL$ 23.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/224460/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224460/header.jpg?t=1786471586",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": true
         },
         {
           "id": "steam-766320",
@@ -287,6 +312,31 @@
           "isNew": false
         },
         {
+          "id": "steam-224462",
+          "storeId": "224462",
+          "name": "Contrast - Original Soundtrack and Art Book",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7150,
+          "pricePrevious": 14300,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.150",
+          "pricePreviousLabel": "COL$ 14.300",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/224462/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224462/header.jpg?t=1786471379",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": true
+        },
+        {
           "id": "steam-1191060",
           "storeId": "1191060",
           "name": "Wasteland 3 - Colorado Survival Gear",
@@ -363,7 +413,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P2N57MC619K",
@@ -388,7 +438,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NKD5GJTS6FH",
@@ -413,7 +463,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MTLKM2DJMZ2",
@@ -491,6 +541,31 @@
           "isNew": false
         },
         {
+          "id": "xboxpc-9N03HPMVD65G",
+          "storeId": "9N03HPMVD65G",
+          "name": "Forza Horizon 6 Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 320000,
+          "pricePrevious": 400000,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 320.000",
+          "pricePreviousLabel": "$ 400.000",
+          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-23 18:59",
+          "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
           "id": "xboxpc-9P8PGC771MLP",
           "storeId": "9P8PGC771MLP",
           "name": "Forza Motorsport Premium Edition",
@@ -502,8 +577,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 367.920",
           "pricePreviousLabel": "$ 459.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
           "confirmed": true,
@@ -527,8 +602,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 335.920",
           "pricePreviousLabel": "$ 419.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
           "confirmed": true,
@@ -1077,8 +1152,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 383.920",
           "pricePreviousLabel": "$ 479.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.41337.14524964047097043.d9c9d5af-d2c8-4c6b-b3b9-a50b9e78a0b1.a270a8c9-fa30-4cce-9a26-757d80ce2965",
           "confirmed": true,
@@ -1277,8 +1352,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 148.410",
           "pricePreviousLabel": "$ 164.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9N4T0R0HQJ9J?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.29897.13980847171137593.0474dc65-e2b7-4b18-a632-90ccc44a5720.e00c3f56-967f-4ab2-959e-6cf83dc3febc",
           "confirmed": true,
@@ -1595,7 +1670,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P2N57MC619K",
@@ -1620,7 +1695,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NKD5GJTS6FH",
@@ -1645,7 +1720,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MTLKM2DJMZ2",
@@ -1723,6 +1798,31 @@
           "isNew": false
         },
         {
+          "id": "xboxpc-9N03HPMVD65G",
+          "storeId": "9N03HPMVD65G",
+          "name": "Forza Horizon 6 Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 320000,
+          "pricePrevious": 400000,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 320.000",
+          "pricePreviousLabel": "$ 400.000",
+          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-23 18:59",
+          "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
           "id": "xboxpc-9P8PGC771MLP",
           "storeId": "9P8PGC771MLP",
           "name": "Forza Motorsport Premium Edition",
@@ -1734,8 +1834,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 367.920",
           "pricePreviousLabel": "$ 459.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
           "confirmed": true,
@@ -1759,8 +1859,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 335.920",
           "pricePreviousLabel": "$ 419.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
           "confirmed": true,
@@ -2309,8 +2409,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 383.920",
           "pricePreviousLabel": "$ 479.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.41337.14524964047097043.d9c9d5af-d2c8-4c6b-b3b9-a50b9e78a0b1.a270a8c9-fa30-4cce-9a26-757d80ce2965",
           "confirmed": true,
@@ -2509,8 +2609,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 148.410",
           "pricePreviousLabel": "$ 164.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9N4T0R0HQJ9J?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.29897.13980847171137593.0474dc65-e2b7-4b18-a632-90ccc44a5720.e00c3f56-967f-4ab2-959e-6cf83dc3febc",
           "confirmed": true,
@@ -2627,6 +2727,31 @@
           ],
           "publisher": "inXile Entertainment",
           "isNew": false
+        },
+        {
+          "id": "steam-224460",
+          "storeId": "224460",
+          "name": "Contrast",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 5875,
+          "pricePrevious": 23500,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.875",
+          "pricePreviousLabel": "COL$ 23.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/224460/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224460/header.jpg?t=1786471586",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": true
         },
         {
           "id": "steam-766320",
@@ -2852,6 +2977,31 @@
           ],
           "publisher": "inXile Entertainment",
           "isNew": false
+        },
+        {
+          "id": "steam-224462",
+          "storeId": "224462",
+          "name": "Contrast - Original Soundtrack and Art Book",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7150,
+          "pricePrevious": 14300,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.150",
+          "pricePreviousLabel": "COL$ 14.300",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/224462/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224462/header.jpg?t=1786471379",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": true
         },
         {
           "id": "steam-1191060",

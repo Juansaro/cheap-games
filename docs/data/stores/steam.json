@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-17T18:44:36.247Z",
-  "updatedAtBogota": "2026-09-17 13:44",
+  "updatedAt": "2026-09-18T18:01:10.599Z",
+  "updatedAtBogota": "2026-09-18 13:01",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -93,6 +93,31 @@
       ],
       "publisher": "inXile Entertainment",
       "isNew": false
+    },
+    {
+      "id": "steam-224460",
+      "storeId": "224460",
+      "name": "Contrast",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 5875,
+      "pricePrevious": 23500,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 5.875",
+      "pricePreviousLabel": "COL$ 23.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/224460/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224460/header.jpg?t=1786471586",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Compulsion Games",
+      "isNew": true
     },
     {
       "id": "steam-766320",
@@ -318,6 +343,31 @@
       ],
       "publisher": "inXile Entertainment",
       "isNew": false
+    },
+    {
+      "id": "steam-224462",
+      "storeId": "224462",
+      "name": "Contrast - Original Soundtrack and Art Book",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 7150,
+      "pricePrevious": 14300,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 7.150",
+      "pricePreviousLabel": "COL$ 14.300",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/224462/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224462/header.jpg?t=1786471379",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Compulsion Games",
+      "isNew": true
     },
     {
       "id": "steam-1191060",
