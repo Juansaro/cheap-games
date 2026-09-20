@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-19T17:39:01.210Z",
-  "updatedAtBogota": "2026-09-19 12:39",
-  "updatedAtDate": "2026-09-19",
+  "updatedAt": "2026-09-20T17:51:27.168Z",
+  "updatedAtBogota": "2026-09-20 12:51",
+  "updatedAtDate": "2026-09-20",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -212,31 +212,6 @@
           "isNew": false
         },
         {
-          "id": "steam-4373370",
-          "storeId": "4373370",
-          "name": "Sea of Thieves: 2026 Premium Bundle",
-          "platform": "Steam PC",
-          "kind": "bundle",
-          "priceCurrent": 90965,
-          "pricePrevious": 259900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 90.965",
-          "pricePreviousLabel": "COL$ 259.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/4373370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-4373360",
           "storeId": "4373360",
           "name": "Sea of Thieves: 2026 Deluxe Bundle",
@@ -252,6 +227,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/4373360/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373360/b90fe466bd7ed2c7342834dfd00bf425e123773d/header.jpg?t=1775748191",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-4373370",
+          "storeId": "4373370",
+          "name": "Sea of Thieves: 2026 Premium Bundle",
+          "platform": "Steam PC",
+          "kind": "bundle",
+          "priceCurrent": 90965,
+          "pricePrevious": 259900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 90.965",
+          "pricePreviousLabel": "COL$ 259.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4373370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1264,31 +1264,6 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
           "isNew": false
-        },
-        {
-          "id": "xboxpc-9NHBF6KM0D22",
-          "storeId": "9NHBF6KM0D22",
-          "name": "Age of Empires II: DE - The Viking Sagas",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 50915,
-          "pricePrevious": 59900,
-          "discountPercent": 15,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 50.915",
-          "pricePreviousLabel": "$ 59.900",
-          "dealEndsAt": "2026-09-22T16:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-22 11:59",
-          "url": "https://www.microsoft.com/store/productId/9NHBF6KM0D22?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.30909.13633233483524889.7b6d55f5-391c-4c60-a07e-80895e61b926.714210a1-3e69-434b-8ff7-d893cc964a39",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": true
         },
         {
           "id": "xboxpc-9N099DG3GHGW",
@@ -2548,31 +2523,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9NHBF6KM0D22",
-          "storeId": "9NHBF6KM0D22",
-          "name": "Age of Empires II: DE - The Viking Sagas",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 50915,
-          "pricePrevious": 59900,
-          "discountPercent": 15,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 50.915",
-          "pricePreviousLabel": "$ 59.900",
-          "dealEndsAt": "2026-09-22T16:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-22 11:59",
-          "url": "https://www.microsoft.com/store/productId/9NHBF6KM0D22?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.30909.13633233483524889.7b6d55f5-391c-4c60-a07e-80895e61b926.714210a1-3e69-434b-8ff7-d893cc964a39",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": true
-        },
-        {
           "id": "xboxpc-9N099DG3GHGW",
           "storeId": "9N099DG3GHGW",
           "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
@@ -2929,31 +2879,6 @@
           "isNew": false
         },
         {
-          "id": "steam-4373370",
-          "storeId": "4373370",
-          "name": "Sea of Thieves: 2026 Premium Bundle",
-          "platform": "Steam PC",
-          "kind": "bundle",
-          "priceCurrent": 90965,
-          "pricePrevious": 259900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 90.965",
-          "pricePreviousLabel": "COL$ 259.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/4373370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-4373360",
           "storeId": "4373360",
           "name": "Sea of Thieves: 2026 Deluxe Bundle",
@@ -2969,6 +2894,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/4373360/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373360/b90fe466bd7ed2c7342834dfd00bf425e123773d/header.jpg?t=1775748191",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-4373370",
+          "storeId": "4373370",
+          "name": "Sea of Thieves: 2026 Premium Bundle",
+          "platform": "Steam PC",
+          "kind": "bundle",
+          "priceCurrent": 90965,
+          "pricePrevious": 259900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 90.965",
+          "pricePreviousLabel": "COL$ 259.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4373370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
           "confirmed": true,
           "sources": [
             "steam-appdetails",

@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-19T17:39:01.210Z",
-  "updatedAtBogota": "2026-09-19 12:39",
+  "updatedAt": "2026-09-20T17:51:27.168Z",
+  "updatedAtBogota": "2026-09-20 12:51",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -245,31 +245,6 @@
       "isNew": false
     },
     {
-      "id": "steam-4373370",
-      "storeId": "4373370",
-      "name": "Sea of Thieves: 2026 Premium Bundle",
-      "platform": "Steam PC",
-      "kind": "bundle",
-      "priceCurrent": 90965,
-      "pricePrevious": 259900,
-      "discountPercent": 65,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 90.965",
-      "pricePreviousLabel": "COL$ 259.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/4373370/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": false
-    },
-    {
       "id": "steam-4373360",
       "storeId": "4373360",
       "name": "Sea of Thieves: 2026 Deluxe Bundle",
@@ -285,6 +260,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/4373360/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373360/b90fe466bd7ed2c7342834dfd00bf425e123773d/header.jpg?t=1775748191",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-4373370",
+      "storeId": "4373370",
+      "name": "Sea of Thieves: 2026 Premium Bundle",
+      "platform": "Steam PC",
+      "kind": "bundle",
+      "priceCurrent": 90965,
+      "pricePrevious": 259900,
+      "discountPercent": 65,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 90.965",
+      "pricePreviousLabel": "COL$ 259.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/4373370/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
       "confirmed": true,
       "sources": [
         "steam-appdetails",

@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-19T17:39:01.210Z",
-  "updatedAtBogota": "2026-09-19 12:39",
-  "updatedAtDate": "2026-09-19",
+  "updatedAt": "2026-09-20T17:51:27.168Z",
+  "updatedAtBogota": "2026-09-20 12:51",
+  "updatedAtDate": "2026-09-20",
   "timezone": "America/Bogota",
-  "liveDealCount": 63,
+  "liveDealCount": 62,
   "stores": [
     {
       "id": "steam",
@@ -36,7 +36,7 @@
       "blurb": "Microsoft Store y Xbox app para Windows. Play Anywhere si el SKU es de PC.",
       "reason": null,
       "href": "./store.html#xbox",
-      "dealCount": 42,
+      "dealCount": 41,
       "spotlightLabel": null
     },
     {

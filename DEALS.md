@@ -1,6 +1,6 @@
-# Ofertas — 2026-09-19 12:39 (Bogotá)
+# Ofertas — 2026-09-20 12:51 (Bogotá)
 
-Última actualización: **2026-09-19 12:39** (America/Bogota).
+Última actualización: **2026-09-20 12:51** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -15,8 +15,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Wasteland 3 Digital Deluxe Extras** (Steam PC, dlc) — COL$ 4.125 ~~COL$ 13.750~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/1382210/)
 - **Wasteland 3 Expansion Pass** (Steam PC, dlc) — COL$ 9.300 ~~COL$ 31.000~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/1642320/)
 - **Sea of Thieves: 2026 Edition** (Steam PC, base) — COL$ 55.965 ~~COL$ 159.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/1172620/)
-- **Sea of Thieves: 2026 Premium Bundle** (Steam PC, bundle) — COL$ 90.965 ~~COL$ 259.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/4373370/)
 - **Sea of Thieves: 2026 Deluxe Bundle** (Steam PC, bundle) — COL$ 76.965 ~~COL$ 219.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/4373360/)
+- **Sea of Thieves: 2026 Premium Bundle** (Steam PC, bundle) — COL$ 90.965 ~~COL$ 259.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/4373370/)
 - **Wasteland 3: The Battle of Steeltown** (Steam PC, dlc) — COL$ 9.600 ~~COL$ 24.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1522650/)
 - **Wasteland 3: Cult of the Holy Detonation** (Steam PC, dlc) — COL$ 5.396 ~~COL$ 13.490~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1593330/)
 - **Contrast - Original Soundtrack and Art Book** (Steam PC, dlc) — COL$ 7.150 ~~COL$ 14.300~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/224462/)
@@ -58,7 +58,6 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 111.920 ~~$ 139.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
 - **Minecraft Legends Edición Deluxe** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1)
-- 🆕 **Age of Empires II: DE - The Viking Sagas** (Xbox PC, base) — $ 50.915 ~~$ 59.900~~ (−15%) · [Ver oferta](https://www.microsoft.com/store/productId/9NHBF6KM0D22?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
