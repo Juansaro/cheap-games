@@ -13,60 +13,12 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-20T17:51:27.168Z",
-  "updatedAtBogota": "2026-09-20 12:51",
+  "updatedAt": "2026-09-21T19:52:08.208Z",
+  "updatedAtBogota": "2026-09-21 14:52",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
   "deals": [
-    {
-      "id": "steam-546560",
-      "storeId": "546560",
-      "name": "Half-Life: Alyx",
-      "platform": "SteamVR",
-      "kind": "base",
-      "priceCurrent": 32500,
-      "pricePrevious": 130000,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 32.500",
-      "pricePreviousLabel": "COL$ 130.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/546560/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/546560/header.jpg?t=1762986588",
-      "confirmed": true,
-      "sources": [
-        "meta-catalog",
-        "steam-appdetails"
-      ],
-      "publisher": "Valve",
-      "isNew": false
-    },
-    {
-      "id": "steam-1079800",
-      "storeId": "1079800",
-      "name": "Pistol Whip",
-      "platform": "SteamVR",
-      "kind": "base",
-      "priceCurrent": 28000,
-      "pricePrevious": 70000,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 28.000",
-      "pricePreviousLabel": "COL$ 70.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1079800/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079800/header.jpg?t=1785259186",
-      "confirmed": true,
-      "sources": [
-        "meta-catalog",
-        "steam-appdetails"
-      ],
-      "publisher": "Cloudhead Games Ltd.",
-      "isNew": false
-    },
     {
       "id": "steam-858260",
       "storeId": "858260",
@@ -82,109 +34,13 @@
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/858260/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858260/header.jpg?t=1767980306",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858260/header.jpg?t=1790018967",
       "confirmed": true,
       "sources": [
         "meta-catalog",
         "steam-appdetails"
       ],
       "publisher": "Schell Games",
-      "isNew": false
-    },
-    {
-      "id": "steam-1408230",
-      "storeId": "1408230",
-      "name": "Walkabout Mini Golf VR",
-      "platform": "SteamVR",
-      "kind": "base",
-      "priceCurrent": 41160,
-      "pricePrevious": 58800,
-      "discountPercent": 30,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 41.160",
-      "pricePreviousLabel": "COL$ 58.800",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1408230/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408230/41550e311799d354df465ebce3d7a0885eec4409/header.jpg?t=1789415559",
-      "confirmed": true,
-      "sources": [
-        "meta-catalog",
-        "steam-appdetails"
-      ],
-      "publisher": "Mighty Coconut",
-      "isNew": false
-    },
-    {
-      "id": "steam-629730",
-      "storeId": "629730",
-      "name": "Blade and Sorcery",
-      "platform": "SteamVR",
-      "kind": "base",
-      "priceCurrent": 57999,
-      "pricePrevious": 72499,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 57.999",
-      "pricePreviousLabel": "COL$ 72.499",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/629730/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/header.jpg?t=1765901841",
-      "confirmed": true,
-      "sources": [
-        "meta-catalog",
-        "steam-appdetails"
-      ],
-      "publisher": "WarpFrog",
-      "isNew": false
-    },
-    {
-      "id": "steam-1592190",
-      "storeId": "1592190",
-      "name": "BONELAB",
-      "platform": "SteamVR",
-      "kind": "base",
-      "priceCurrent": 68800,
-      "pricePrevious": 86000,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 68.800",
-      "pricePreviousLabel": "COL$ 86.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1592190/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/header.jpg?t=1672959398",
-      "confirmed": true,
-      "sources": [
-        "meta-catalog",
-        "steam-appdetails"
-      ],
-      "publisher": "Stress Level Zero",
-      "isNew": false
-    },
-    {
-      "id": "steam-823500",
-      "storeId": "823500",
-      "name": "BONEWORKS",
-      "platform": "SteamVR",
-      "kind": "base",
-      "priceCurrent": 56000,
-      "pricePrevious": 70000,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 56.000",
-      "pricePreviousLabel": "COL$ 70.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/823500/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823500/header.jpg?t=1581381377",
-      "confirmed": true,
-      "sources": [
-        "meta-catalog",
-        "steam-appdetails"
-      ],
-      "publisher": "Stress Level Zero",
       "isNew": false
     }
   ]

@@ -1,33 +1,24 @@
-# Ofertas — 2026-09-20 12:51 (Bogotá)
+# Ofertas — 2026-09-21 14:52 (Bogotá)
 
-Última actualización: **2026-09-20 12:51** (America/Bogota).
+Última actualización: **2026-09-21 14:52** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- **Wasteland 2: Director's Cut** (Steam PC, base) — COL$ 7.900 ~~COL$ 39.500~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/240760/)
-- **The Bard's Tale IV: Director's Cut** (Steam PC, base) — COL$ 13.700 ~~COL$ 54.800~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1091980/)
 - **Contrast** (Steam PC, base) — COL$ 5.875 ~~COL$ 23.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/224460/)
-- **The Mage's Tale** (Steam PC, base) — COL$ 13.625 ~~COL$ 54.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/766320/)
-- **Wasteland 3** (Steam PC, base) — COL$ 16.350 ~~COL$ 54.500~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/719040/)
-- **Wasteland 3 Digital Deluxe Extras** (Steam PC, dlc) — COL$ 4.125 ~~COL$ 13.750~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/1382210/)
-- **Wasteland 3 Expansion Pass** (Steam PC, dlc) — COL$ 9.300 ~~COL$ 31.000~~ (−70%) · [Ver oferta](https://store.steampowered.com/app/1642320/)
 - **Sea of Thieves: 2026 Edition** (Steam PC, base) — COL$ 55.965 ~~COL$ 159.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/1172620/)
 - **Sea of Thieves: 2026 Deluxe Bundle** (Steam PC, bundle) — COL$ 76.965 ~~COL$ 219.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/4373360/)
 - **Sea of Thieves: 2026 Premium Bundle** (Steam PC, bundle) — COL$ 90.965 ~~COL$ 259.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/4373370/)
-- **Wasteland 3: The Battle of Steeltown** (Steam PC, dlc) — COL$ 9.600 ~~COL$ 24.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1522650/)
-- **Wasteland 3: Cult of the Holy Detonation** (Steam PC, dlc) — COL$ 5.396 ~~COL$ 13.490~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1593330/)
 - **Contrast - Original Soundtrack and Art Book** (Steam PC, dlc) — COL$ 7.150 ~~COL$ 14.300~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/224462/)
-- **Wasteland 3 - Colorado Survival Gear** (Steam PC, dlc) — COL$ 1.400 ~~COL$ 2.800~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1191060/)
 
 ## Microsoft Store / Xbox PC
 - **Fallout 76 (PC)** (Xbox PC, base) — $ 37.475 ~~$ 149.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKGNMNK3K3Z?rtc=1)
 - **Sea of Thieves: 2026 Edition** (Xbox PC, bundle) — $ 55.965 ~~$ 159.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1)
 - **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 90.965 ~~$ 259.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
-- **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
 - **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 271.920 ~~$ 339.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
+- **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
 - **Forza Horizon 6 Premium Edition** (Xbox PC, bundle) — $ 383.200 ~~$ 479.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1)
 - **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 320.000 ~~$ 400.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
 - **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 367.920 ~~$ 459.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
@@ -40,39 +31,32 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 327.920 ~~$ 409.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
 - **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 279.920 ~~$ 349.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
 - **Age of Empires: colección definitiva** (Xbox PC, base) — $ 71.920 ~~$ 89.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P4S0R97R36S?rtc=1)
-- **Age of Empires III: Definitive Edition - The Complete History** (Xbox PC, bundle) — $ 109.520 ~~$ 136.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1)
 - **Colección del 25to aniversario de Age of Empires** (Xbox PC, base) — $ 291.920 ~~$ 364.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1)
+- **Age of Empires III: Definitive Edition - The Complete History** (Xbox PC, bundle) — $ 109.520 ~~$ 136.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1)
 - **Age of Mythology Premium Edition** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NN144QSW0T0?rtc=1)
-- **Hellblade II: Senua's Saga Edición Deluxe** (Xbox PC, bundle) — $ 199.920 ~~$ 249.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NSBJ5G9JJ83?rtc=1)
 - **Starfield Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1)
+- **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
-- **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
-- **The Elder Scrolls V: Skyrim Anniversary Edition (PC) + Fallout 4: Anniversary Edition Bundle** (Xbox PC, bundle) — $ 287.920 ~~$ 359.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9Q9VJF4D4Q?rtc=1)
-- **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
+- 🆕 **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
+- **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **DOOM Eternal Deluxe Edition (PC)** (Xbox PC, bundle) — $ 159.120 ~~$ 198.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N8TRM7F6KGC?rtc=1)
 - **DOOM: The Dark Ages Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NP0PC87KBTD?rtc=1)
 - **Indiana Jones y el Gran Círculo™: Edición Prémium Digital** (Xbox PC, base) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1)
 - **Edición Premium de Avowed** (Xbox PC, bundle) — $ 191.920 ~~$ 239.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFHQ2719J83?rtc=1)
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 111.920 ~~$ 139.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
+- 🆕 **Halo Wars 2: edición completa** (Xbox PC, base) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
 - **Minecraft Legends Edición Deluxe** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
-- **Indiana Jones y el Gran Círculo™: Mejora Prémium Digital** (Xbox PC, base) — $ 148.410 ~~$ 164.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4T0R0HQJ9J?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 
 ## SteamVR
-- **Half-Life: Alyx** (SteamVR, base) — COL$ 32.500 ~~COL$ 130.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/546560/)
-- **Pistol Whip** (SteamVR, base) — COL$ 28.000 ~~COL$ 70.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1079800/)
 - **Until You Fall** (SteamVR, base) — COL$ 26.550 ~~COL$ 59.000~~ (−55%) · [Ver oferta](https://store.steampowered.com/app/858260/)
-- **Walkabout Mini Golf VR** (SteamVR, base) — COL$ 41.160 ~~COL$ 58.800~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/1408230/)
-- **Blade and Sorcery** (SteamVR, base) — COL$ 57.999 ~~COL$ 72.499~~ (−20%) · [Ver oferta](https://store.steampowered.com/app/629730/)
-- **BONELAB** (SteamVR, base) — COL$ 68.800 ~~COL$ 86.000~~ (−20%) · [Ver oferta](https://store.steampowered.com/app/1592190/)
-- **BONEWORKS** (SteamVR, base) — COL$ 56.000 ~~COL$ 70.000~~ (−20%) · [Ver oferta](https://store.steampowered.com/app/823500/)
 
 ## Meta Quest Store
 - Sin ofertas hoy

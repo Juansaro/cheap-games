@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-20T17:51:27.168Z",
-  "updatedAtBogota": "2026-09-20 12:51",
+  "updatedAt": "2026-09-21T19:52:08.208Z",
+  "updatedAtBogota": "2026-09-21 14:52",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -96,31 +96,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9MTLKM2DJMZ2",
-      "storeId": "9MTLKM2DJMZ2",
-      "name": "Forza Horizon 5 Premium Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 335920,
-      "pricePrevious": 419900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 335.920",
-      "pricePreviousLabel": "$ 419.900",
-      "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-23 18:59",
-      "url": "https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.33953.13806078025361171.9723cf5e-1e29-4d9d-ad0a-cc37a95bb75d.afabb748-2c30-4a7e-8072-2809a222192d",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9P1HX37NMJLT",
       "storeId": "9P1HX37NMJLT",
       "name": "Forza Horizon 5 Deluxe Edition",
@@ -136,6 +111,31 @@
       "dealEndsAtBogota": "2026-09-23 18:59",
       "url": "https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.30953.14506879174941978.138d3eab-0b06-443b-a252-c99592521394.14d1c0fa-a49d-46bb-b177-7173e55078c7",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9MTLKM2DJMZ2",
+      "storeId": "9MTLKM2DJMZ2",
+      "name": "Forza Horizon 5 Premium Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 335920,
+      "pricePrevious": 419900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 335.920",
+      "pricePreviousLabel": "$ 419.900",
+      "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-23 18:59",
+      "url": "https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.33953.13806078025361171.9723cf5e-1e29-4d9d-ad0a-cc37a95bb75d.afabb748-2c30-4a7e-8072-2809a222192d",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -446,31 +446,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9PD9ZXP630NW",
-      "storeId": "9PD9ZXP630NW",
-      "name": "Age of Empires III: Definitive Edition - The Complete History",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 109520,
-      "pricePrevious": 136900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 109.520",
-      "pricePreviousLabel": "$ 136.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.43683.14153249993077116.000da79c-91bc-491d-a1ad-2a3020066aad.a7a78217-60cf-4fac-88c5-a5197f644700",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9NBH81H3VB7P",
       "storeId": "9NBH81H3VB7P",
       "name": "Colección del 25to aniversario de Age of Empires",
@@ -486,6 +461,31 @@
       "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": false,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9PD9ZXP630NW",
+      "storeId": "9PD9ZXP630NW",
+      "name": "Age of Empires III: Definitive Edition - The Complete History",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 109520,
+      "pricePrevious": 136900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 109.520",
+      "pricePreviousLabel": "$ 136.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.43683.14153249993077116.000da79c-91bc-491d-a1ad-2a3020066aad.a7a78217-60cf-4fac-88c5-a5197f644700",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -521,31 +521,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9NSBJ5G9JJ83",
-      "storeId": "9NSBJ5G9JJ83",
-      "name": "Hellblade II: Senua's Saga Edición Deluxe",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 199920,
-      "pricePrevious": 249900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 199.920",
-      "pricePreviousLabel": "$ 249.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9NSBJ5G9JJ83?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.51126.14371056831246244.1748d833-da67-462c-9624-8d75eb92a7b3.545a837c-984c-4796-a471-b04531622e94",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9PL9P3QZMRBM",
       "storeId": "9PL9P3QZMRBM",
       "name": "Starfield Premium Edition",
@@ -568,6 +543,31 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9NFW7GND3WNZ",
+      "storeId": "9NFW7GND3WNZ",
+      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 119920,
+      "pricePrevious": 149900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 119.920",
+      "pricePreviousLabel": "$ 149.900",
+      "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-23 18:59",
+      "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
       "isNew": false
     },
     {
@@ -621,54 +621,54 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9NFW7GND3WNZ",
-      "storeId": "9NFW7GND3WNZ",
-      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
+      "id": "xboxpc-C24SVX28PNWM",
+      "storeId": "C24SVX28PNWM",
+      "name": "Fallout 4: Game of the Year Edition",
       "platform": "Xbox PC",
       "kind": "bundle",
-      "priceCurrent": 119920,
-      "pricePrevious": 149900,
+      "priceCurrent": 127120,
+      "pricePrevious": 158900,
       "discountPercent": 20,
       "currency": "COP",
-      "priceCurrentLabel": "$ 119.920",
-      "pricePreviousLabel": "$ 149.900",
-      "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-23 18:59",
-      "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
+      "priceCurrentLabel": "$ 127.120",
+      "pricePreviousLabel": "$ 158.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.43525.65812291288120258.78db0a4c-6279-4de9-b89c-0e62cd3d55c7.8c1aabc2-4501-44a1-a9db-5f0de4dcad0a",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
         "ms-store-search"
       ],
       "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
+      "playAnywhere": true,
       "isNew": false
     },
     {
-      "id": "xboxpc-9N9Q9VJF4D4Q",
-      "storeId": "9N9Q9VJF4D4Q",
-      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC) + Fallout 4: Anniversary Edition Bundle",
+      "id": "xboxpc-9P1MLQ9QR8S8",
+      "storeId": "9P1MLQ9QR8S8",
+      "name": "The Elder Scrolls Online: Deluxe Edition",
       "platform": "Xbox PC",
       "kind": "bundle",
-      "priceCurrent": 287920,
-      "pricePrevious": 359900,
+      "priceCurrent": 191120,
+      "pricePrevious": 238900,
       "discountPercent": 20,
       "currency": "COP",
-      "priceCurrentLabel": "$ 287.920",
-      "pricePreviousLabel": "$ 359.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9N9Q9VJF4D4Q?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.61506.14406600042616633.edf9fe4e-27ce-4661-9d55-40afb3857b33.229c49da-fa1a-4821-9def-3e4b81edc0af",
+      "priceCurrentLabel": "$ 191.120",
+      "pricePreviousLabel": "$ 238.900",
+      "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-23 18:59",
+      "url": "https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.50235.14508755531047399.24a89ebe-fb22-4801-b24f-489a0573ddda.f4cb4126-3bc7-45eb-9aca-f6ef2df0ce09",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
         "ms-store-search"
       ],
       "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
-      "isNew": false
+      "playAnywhere": true,
+      "isNew": true
     },
     {
       "id": "xboxpc-9PFRG44XZCFJ",
@@ -686,31 +686,6 @@
       "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.61178.14199495301608061.222a9c4b-4b6c-4b60-bd5a-27c78c53c08a.6505cf67-b346-4060-8922-a83dbf9b9d74",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-C24SVX28PNWM",
-      "storeId": "C24SVX28PNWM",
-      "name": "Fallout 4: Game of the Year Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 127120,
-      "pricePrevious": 158900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 127.120",
-      "pricePreviousLabel": "$ 158.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.43525.65812291288120258.78db0a4c-6279-4de9-b89c-0e62cd3d55c7.8c1aabc2-4501-44a1-a9db-5f0de4dcad0a",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -846,6 +821,31 @@
       "isNew": false
     },
     {
+      "id": "xboxpc-9PLSBTJB87Q7",
+      "storeId": "9PLSBTJB87Q7",
+      "name": "Halo Wars 2: edición completa",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 187920,
+      "pricePrevious": 234900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 187.920",
+      "pricePreviousLabel": "$ 234.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.46821.14307168999728048.1152921504738970858.d4f2c0a6-7d8b-4924-a973-4b6991eab64b",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Microsoft Studios",
+      "playAnywhere": false,
+      "isNew": true
+    },
+    {
       "id": "xboxpc-9NZ12RV7B7R3",
       "storeId": "9NZ12RV7B7R3",
       "name": "Minecraft Dungeons: Edición definitiva para Windows",
@@ -968,31 +968,6 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9N4T0R0HQJ9J",
-      "storeId": "9N4T0R0HQJ9J",
-      "name": "Indiana Jones y el Gran Círculo™: Mejora Prémium Digital",
-      "platform": "Xbox PC",
-      "kind": "base",
-      "priceCurrent": 148410,
-      "pricePrevious": 164900,
-      "discountPercent": 10,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 148.410",
-      "pricePreviousLabel": "$ 164.900",
-      "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-30 18:59",
-      "url": "https://www.microsoft.com/store/productId/9N4T0R0HQJ9J?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.29897.13980847171137593.0474dc65-e2b7-4b18-a632-90ccc44a5720.e00c3f56-967f-4ab2-959e-6cf83dc3febc",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": true,
       "isNew": false
     },
     {

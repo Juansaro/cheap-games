@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-20T17:51:27.168Z",
-  "updatedAtBogota": "2026-09-20 12:51",
+  "updatedAt": "2026-09-21T19:52:08.208Z",
+  "updatedAtBogota": "2026-09-21 14:52",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -45,56 +45,6 @@
   },
   "deals": [
     {
-      "id": "steam-240760",
-      "storeId": "240760",
-      "name": "Wasteland 2: Director's Cut",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 7900,
-      "pricePrevious": 39500,
-      "discountPercent": 80,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 7.900",
-      "pricePreviousLabel": "COL$ 39.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/240760/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240760/header.jpg?t=1788469909",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
-      "isNew": false
-    },
-    {
-      "id": "steam-1091980",
-      "storeId": "1091980",
-      "name": "The Bard's Tale IV: Director's Cut",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 13700,
-      "pricePrevious": 54800,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 13.700",
-      "pricePreviousLabel": "COL$ 54.800",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1091980/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091980/header.jpg?t=1776379974",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
-      "isNew": false
-    },
-    {
       "id": "steam-224460",
       "storeId": "224460",
       "name": "Contrast",
@@ -117,106 +67,6 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": false
-    },
-    {
-      "id": "steam-766320",
-      "storeId": "766320",
-      "name": "The Mage's Tale",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 13625,
-      "pricePrevious": 54500,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 13.625",
-      "pricePreviousLabel": "COL$ 54.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/766320/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766320/header.jpg?t=1721164163",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
-      "isNew": false
-    },
-    {
-      "id": "steam-719040",
-      "storeId": "719040",
-      "name": "Wasteland 3",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 16350,
-      "pricePrevious": 54500,
-      "discountPercent": 70,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 16.350",
-      "pricePreviousLabel": "COL$ 54.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/719040/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719040/header.jpg?t=1788467695",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
-      "isNew": false
-    },
-    {
-      "id": "steam-1382210",
-      "storeId": "1382210",
-      "name": "Wasteland 3 Digital Deluxe Extras",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 4125,
-      "pricePrevious": 13750,
-      "discountPercent": 70,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 4.125",
-      "pricePreviousLabel": "COL$ 13.750",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1382210/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382210/header.jpg?t=1673998080",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
-      "isNew": false
-    },
-    {
-      "id": "steam-1642320",
-      "storeId": "1642320",
-      "name": "Wasteland 3 Expansion Pass",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9300,
-      "pricePrevious": 31000,
-      "discountPercent": 70,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.300",
-      "pricePreviousLabel": "COL$ 31.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1642320/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642320/header.jpg?t=1673998440",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
       "isNew": false
     },
     {
@@ -295,56 +145,6 @@
       "isNew": false
     },
     {
-      "id": "steam-1522650",
-      "storeId": "1522650",
-      "name": "Wasteland 3: The Battle of Steeltown",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9600,
-      "pricePrevious": 24000,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.600",
-      "pricePreviousLabel": "COL$ 24.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1522650/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522650/header.jpg?t=1776379893",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
-      "isNew": false
-    },
-    {
-      "id": "steam-1593330",
-      "storeId": "1593330",
-      "name": "Wasteland 3: Cult of the Holy Detonation",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 5396,
-      "pricePrevious": 13490,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 5.396",
-      "pricePreviousLabel": "COL$ 13.490",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1593330/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593330/header.jpg?t=1776379923",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
-      "isNew": false
-    },
-    {
       "id": "steam-224462",
       "storeId": "224462",
       "name": "Contrast - Original Soundtrack and Art Book",
@@ -367,31 +167,6 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": false
-    },
-    {
-      "id": "steam-1191060",
-      "storeId": "1191060",
-      "name": "Wasteland 3 - Colorado Survival Gear",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 1400,
-      "pricePrevious": 2800,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 1.400",
-      "pricePreviousLabel": "COL$ 2.800",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1191060/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191060/header.jpg?t=1633445418",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
       "isNew": false
     }
   ]
