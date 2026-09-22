@@ -1,54 +1,28 @@
 {
-  "generatedAt": "2026-09-21 14:52",
+  "generatedAt": "2026-09-22 13:28",
   "deals": [
     {
-      "id": "xboxpc-9P1MLQ9QR8S8",
-      "storeId": "9P1MLQ9QR8S8",
-      "name": "The Elder Scrolls Online: Deluxe Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 191120,
-      "pricePrevious": 238900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 191.120",
-      "pricePreviousLabel": "$ 238.900",
-      "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-23 18:59",
-      "url": "https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.50235.14508755531047399.24a89ebe-fb22-4801-b24f-489a0573ddda.f4cb4126-3bc7-45eb-9aca-f6ef2df0ce09",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": true,
-      "isNew": true
-    },
-    {
-      "id": "xboxpc-9PLSBTJB87Q7",
-      "storeId": "9PLSBTJB87Q7",
-      "name": "Halo Wars 2: edición completa",
-      "platform": "Xbox PC",
+      "id": "steam-620980",
+      "storeId": "620980",
+      "name": "Beat Saber",
+      "platform": "SteamVR",
       "kind": "base",
-      "priceCurrent": 187920,
-      "pricePrevious": 234900,
-      "discountPercent": 20,
+      "priceCurrent": 56624,
+      "pricePrevious": 75499,
+      "discountPercent": 25,
       "currency": "COP",
-      "priceCurrentLabel": "$ 187.920",
-      "pricePreviousLabel": "$ 234.900",
+      "priceCurrentLabel": "COL$ 56.624",
+      "pricePreviousLabel": "COL$ 75.499",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.46821.14307168999728048.1152921504738970858.d4f2c0a6-7d8b-4924-a973-4b6991eab64b",
+      "url": "https://store.steampowered.com/app/620980/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg?t=1789636674",
       "confirmed": true,
       "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
+        "meta-catalog",
+        "steam-appdetails"
       ],
-      "publisher": "Microsoft Studios",
-      "playAnywhere": false,
+      "publisher": "Beat Games",
       "isNew": true
     }
   ]

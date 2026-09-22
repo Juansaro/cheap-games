@@ -1,6 +1,6 @@
-# Ofertas — 2026-09-21 14:52 (Bogotá)
+# Ofertas — 2026-09-22 13:28 (Bogotá)
 
-Última actualización: **2026-09-21 14:52** (America/Bogota).
+Última actualización: **2026-09-22 13:28** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -39,24 +39,25 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
 - **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
-- 🆕 **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
+- **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
 - **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **DOOM Eternal Deluxe Edition (PC)** (Xbox PC, bundle) — $ 159.120 ~~$ 198.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N8TRM7F6KGC?rtc=1)
 - **DOOM: The Dark Ages Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NP0PC87KBTD?rtc=1)
 - **Indiana Jones y el Gran Círculo™: Edición Prémium Digital** (Xbox PC, base) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1)
 - **Edición Premium de Avowed** (Xbox PC, bundle) — $ 191.920 ~~$ 239.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFHQ2719J83?rtc=1)
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 111.920 ~~$ 139.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
-- 🆕 **Halo Wars 2: edición completa** (Xbox PC, base) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1)
+- **Halo Wars 2: edición completa** (Xbox PC, base) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
 - **Minecraft Legends Edición Deluxe** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1)
+- **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
-- **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 
 ## SteamVR
 - **Until You Fall** (SteamVR, base) — COL$ 26.550 ~~COL$ 59.000~~ (−55%) · [Ver oferta](https://store.steampowered.com/app/858260/)
+- 🆕 **Beat Saber** (SteamVR, base) — COL$ 56.624 ~~COL$ 75.499~~ (−25%) · [Ver oferta](https://store.steampowered.com/app/620980/)
 
 ## Meta Quest Store
 - Sin ofertas hoy

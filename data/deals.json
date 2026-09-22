@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-21T19:52:08.208Z",
-  "updatedAtBogota": "2026-09-21 14:52",
-  "updatedAtDate": "2026-09-21",
+  "updatedAt": "2026-09-22T18:28:21.796Z",
+  "updatedAtBogota": "2026-09-22 13:28",
+  "updatedAtDate": "2026-09-22",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -202,8 +202,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 55.965",
           "pricePreviousLabel": "$ 159.900",
-          "dealEndsAt": "2026-09-21T19:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-21 14:59",
+          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-23 18:59",
           "url": "https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.29206.14554784103656548.069efce3-9249-4074-a169-183b727043f8.03688f8c-edc0-416b-bebb-9d98a01c25f5",
           "confirmed": true,
@@ -813,7 +813,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PFRG44XZCFJ",
@@ -988,7 +988,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NZ12RV7B7R3",
@@ -1041,6 +1041,31 @@
           "isNew": false
         },
         {
+          "id": "xboxpc-9N9LXX68LKWF",
+          "storeId": "9N9LXX68LKWF",
+          "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 35820,
+          "pricePrevious": 39800,
+          "discountPercent": 10,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 35.820",
+          "pricePreviousLabel": "$ 39.800",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": false
+        },
+        {
           "id": "xboxpc-9N099DG3GHGW",
           "storeId": "9N099DG3GHGW",
           "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
@@ -1081,31 +1106,6 @@
           "dealEndsAtBogota": null,
           "url": "https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.28578.14450105286512512.cab7ef72-07af-4401-aca5-e8636b61cce0.e691415c-d99e-4a5b-bebd-3d23a3701aab",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N9LXX68LKWF",
-          "storeId": "9N9LXX68LKWF",
-          "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 35820,
-          "pricePrevious": 39800,
-          "discountPercent": 10,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 35.820",
-          "pricePreviousLabel": "$ 39.800",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -1193,6 +1193,30 @@
           ],
           "publisher": "Schell Games",
           "isNew": false
+        },
+        {
+          "id": "steam-620980",
+          "storeId": "620980",
+          "name": "Beat Saber",
+          "platform": "SteamVR",
+          "kind": "base",
+          "priceCurrent": 56624,
+          "pricePrevious": 75499,
+          "discountPercent": 25,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 56.624",
+          "pricePreviousLabel": "COL$ 75.499",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/620980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg?t=1789636674",
+          "confirmed": true,
+          "sources": [
+            "meta-catalog",
+            "steam-appdetails"
+          ],
+          "publisher": "Beat Games",
+          "isNew": true
         }
       ],
       "spotlight": null
@@ -1290,8 +1314,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 55.965",
           "pricePreviousLabel": "$ 159.900",
-          "dealEndsAt": "2026-09-21T19:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-21 14:59",
+          "dealEndsAt": "2026-09-23T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-23 18:59",
           "url": "https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.29206.14554784103656548.069efce3-9249-4074-a169-183b727043f8.03688f8c-edc0-416b-bebb-9d98a01c25f5",
           "confirmed": true,
@@ -1901,7 +1925,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PFRG44XZCFJ",
@@ -2076,7 +2100,7 @@
           ],
           "publisher": "Microsoft Studios",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NZ12RV7B7R3",
@@ -2129,6 +2153,31 @@
           "isNew": false
         },
         {
+          "id": "xboxpc-9N9LXX68LKWF",
+          "storeId": "9N9LXX68LKWF",
+          "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 35820,
+          "pricePrevious": 39800,
+          "discountPercent": 10,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 35.820",
+          "pricePreviousLabel": "$ 39.800",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": false
+        },
+        {
           "id": "xboxpc-9N099DG3GHGW",
           "storeId": "9N099DG3GHGW",
           "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
@@ -2169,31 +2218,6 @@
           "dealEndsAtBogota": null,
           "url": "https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.28578.14450105286512512.cab7ef72-07af-4401-aca5-e8636b61cce0.e691415c-d99e-4a5b-bebd-3d23a3701aab",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N9LXX68LKWF",
-          "storeId": "9N9LXX68LKWF",
-          "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 35820,
-          "pricePrevious": 39800,
-          "discountPercent": 10,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 35.820",
-          "pricePreviousLabel": "$ 39.800",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -2413,6 +2437,30 @@
           ],
           "publisher": "Schell Games",
           "isNew": false
+        },
+        {
+          "id": "steam-620980",
+          "storeId": "620980",
+          "name": "Beat Saber",
+          "platform": "SteamVR",
+          "kind": "base",
+          "priceCurrent": 56624,
+          "pricePrevious": 75499,
+          "discountPercent": 25,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 56.624",
+          "pricePreviousLabel": "COL$ 75.499",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/620980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg?t=1789636674",
+          "confirmed": true,
+          "sources": [
+            "meta-catalog",
+            "steam-appdetails"
+          ],
+          "publisher": "Beat Games",
+          "isNew": true
         }
       ]
     }
