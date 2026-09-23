@@ -1,29 +1,4 @@
 {
-  "generatedAt": "2026-09-22 13:28",
-  "deals": [
-    {
-      "id": "steam-620980",
-      "storeId": "620980",
-      "name": "Beat Saber",
-      "platform": "SteamVR",
-      "kind": "base",
-      "priceCurrent": 56624,
-      "pricePrevious": 75499,
-      "discountPercent": 25,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 56.624",
-      "pricePreviousLabel": "COL$ 75.499",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/620980/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg?t=1789636674",
-      "confirmed": true,
-      "sources": [
-        "meta-catalog",
-        "steam-appdetails"
-      ],
-      "publisher": "Beat Games",
-      "isNew": true
-    }
-  ]
+  "generatedAt": "2026-09-23 13:47",
+  "deals": []
 }

@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-22T18:28:21.796Z",
-  "updatedAtBogota": "2026-09-22 13:28",
+  "updatedAt": "2026-09-23T18:47:19.744Z",
+  "updatedAtBogota": "2026-09-23 13:47",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -246,31 +246,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9N1WWHGKBX3P",
-      "storeId": "9N1WWHGKBX3P",
-      "name": "Sea of Thieves: 2026 Deluxe Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 175920,
-      "pricePrevious": 219900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 175.920",
-      "pricePreviousLabel": "$ 219.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Microsoft Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9MWNNM41MB6D",
       "storeId": "9MWNNM41MB6D",
       "name": "Sea of Thieves: X Edition",
@@ -286,6 +261,31 @@
       "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Microsoft Studios",
+      "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9N1WWHGKBX3P",
+      "storeId": "9N1WWHGKBX3P",
+      "name": "Sea of Thieves: 2026 Deluxe Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 175920,
+      "pricePrevious": 219900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 175.920",
+      "pricePreviousLabel": "$ 219.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -446,31 +446,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9NBH81H3VB7P",
-      "storeId": "9NBH81H3VB7P",
-      "name": "Colección del 25to aniversario de Age of Empires",
-      "platform": "Xbox PC",
-      "kind": "base",
-      "priceCurrent": 291920,
-      "pricePrevious": 364900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 291.920",
-      "pricePreviousLabel": "$ 364.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9PD9ZXP630NW",
       "storeId": "9PD9ZXP630NW",
       "name": "Age of Empires III: Definitive Edition - The Complete History",
@@ -486,6 +461,31 @@
       "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.43683.14153249993077116.000da79c-91bc-491d-a1ad-2a3020066aad.a7a78217-60cf-4fac-88c5-a5197f644700",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": false,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9NBH81H3VB7P",
+      "storeId": "9NBH81H3VB7P",
+      "name": "Colección del 25to aniversario de Age of Empires",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 291920,
+      "pricePrevious": 364900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 291.920",
+      "pricePreviousLabel": "$ 364.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -896,31 +896,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9N9LXX68LKWF",
-      "storeId": "9N9LXX68LKWF",
-      "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
-      "platform": "Xbox PC",
-      "kind": "base",
-      "priceCurrent": 35820,
-      "pricePrevious": 39800,
-      "discountPercent": 10,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 35.820",
-      "pricePreviousLabel": "$ 39.800",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9N099DG3GHGW",
       "storeId": "9N099DG3GHGW",
       "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
@@ -961,6 +936,31 @@
       "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.28578.14450105286512512.cab7ef72-07af-4401-aca5-e8636b61cce0.e691415c-d99e-4a5b-bebd-3d23a3701aab",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9N9LXX68LKWF",
+      "storeId": "9N9LXX68LKWF",
+      "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 35820,
+      "pricePrevious": 39800,
+      "discountPercent": 10,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 35.820",
+      "pricePreviousLabel": "$ 39.800",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
