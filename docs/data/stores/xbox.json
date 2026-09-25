@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-24T18:48:38.143Z",
-  "updatedAtBogota": "2026-09-24 13:48",
+  "updatedAt": "2026-09-25T19:05:51.293Z",
+  "updatedAtBogota": "2026-09-25 14:05",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -43,7 +43,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-BRKX5CRMRTC2",
@@ -68,7 +68,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NFW7GND3WNZ",
@@ -93,6 +93,31 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9NGKMPB3S10P",
+      "storeId": "9NGKMPB3S10P",
+      "name": "Forza Motorsport and Forza Horizon 5 Premium Add-Ons Bundle",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 132930,
+      "pricePrevious": 379800,
+      "discountPercent": 65,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 132.930",
+      "pricePreviousLabel": "$ 379.800",
+      "dealEndsAt": "2026-10-01T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-10-01 04:59",
+      "url": "https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.39261.13643991005139950.e849199a-ceb5-4c25-8ed1-91be53eb04f1.70933050-8a65-46bf-af3d-ad254b31e91e",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
       "isNew": true
     },
     {
@@ -111,31 +136,6 @@
       "dealEndsAtBogota": "2026-10-08 04:59",
       "url": "https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.29206.14554784103656548.069efce3-9249-4074-a169-183b727043f8.03688f8c-edc0-416b-bebb-9d98a01c25f5",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Microsoft Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9NKD5GJTS6FH",
-      "storeId": "9NKD5GJTS6FH",
-      "name": "Sea of Thieves: 2026 Premium Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 90965,
-      "pricePrevious": 259900,
-      "discountPercent": 65,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 90.965",
-      "pricePreviousLabel": "$ 259.900",
-      "dealEndsAt": "2026-10-08T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-10-08 04:59",
-      "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -168,7 +168,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P1HX37NMJLT",
@@ -193,7 +193,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MTLKM2DJMZ2",
@@ -218,7 +218,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MZ0SR207MG8",
@@ -236,6 +236,106 @@
       "dealEndsAtBogota": "2026-09-30 18:59",
       "url": "https://www.microsoft.com/store/productId/9MZ0SR207MG8?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.44618.13884136572674855.441b2b11-d00a-46b4-b735-7819ef92da81.9276506d-f3c6-402c-8e39-2238a04bc1c7",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9P8PGC771MLP",
+      "storeId": "9P8PGC771MLP",
+      "name": "Forza Motorsport Premium Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 183960,
+      "pricePrevious": 459900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 183.960",
+      "pricePreviousLabel": "$ 459.900",
+      "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-30 18:59",
+      "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9PLKVSWR299F",
+      "storeId": "9PLKVSWR299F",
+      "name": "Forza Motorsport Standard Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 135960,
+      "pricePrevious": 339900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 135.960",
+      "pricePreviousLabel": "$ 339.900",
+      "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-30 18:59",
+      "url": "https://www.microsoft.com/store/productId/9PLKVSWR299F?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.57449.14311721322459352.08838dcd-1049-42ef-a004-b13ad1d41946.4eeb1f6f-f279-4d5b-83b0-8fb4cc7f9aea",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9PN4DRJDLZT7",
+      "storeId": "9PN4DRJDLZT7",
+      "name": "Forza Motorsport Deluxe Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 167960,
+      "pricePrevious": 419900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 167.960",
+      "pricePreviousLabel": "$ 419.900",
+      "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-30 18:59",
+      "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9N5MZM3J3LCQ",
+      "storeId": "9N5MZM3J3LCQ",
+      "name": "Forza Motorsport Premium Add-Ons Bundle",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 71960,
+      "pricePrevious": 179900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 71.960",
+      "pricePreviousLabel": "$ 179.900",
+      "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-09-30 18:59",
+      "url": "https://www.microsoft.com/store/productId/9N5MZM3J3LCQ?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.3524.14030749327656855.61b4b91b-c27e-4239-9958-16e9994d0ed0.ca660041-c335-48ac-9cad-2723f842c723",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -268,7 +368,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PL9P3QZMRBM",
@@ -293,7 +393,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NCJSXWZTP88",
@@ -318,7 +418,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NNS5CDB6CVM",
@@ -343,7 +443,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N77PDNB7CWZ",
@@ -368,7 +468,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NQR437K7PQH",
@@ -393,7 +493,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NF62X1QH3CM",
@@ -418,7 +518,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PG0T8LFL7LH",
@@ -443,7 +543,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N4XW3N02MNJ",
@@ -486,56 +586,6 @@
       "dealEndsAtBogota": "2026-09-30 18:59",
       "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9P8PGC771MLP",
-      "storeId": "9P8PGC771MLP",
-      "name": "Forza Motorsport Premium Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 367920,
-      "pricePrevious": 459900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 367.920",
-      "pricePreviousLabel": "$ 459.900",
-      "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-30 18:59",
-      "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9PN4DRJDLZT7",
-      "storeId": "9PN4DRJDLZT7",
-      "name": "Forza Motorsport Deluxe Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 335920,
-      "pricePrevious": 419900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 335.920",
-      "pricePreviousLabel": "$ 419.900",
-      "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-09-30 18:59",
-      "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",

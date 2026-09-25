@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-24T18:48:38.143Z",
-  "updatedAtBogota": "2026-09-24 13:48",
+  "updatedAt": "2026-09-25T19:05:51.293Z",
+  "updatedAtBogota": "2026-09-25 14:05",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -43,7 +43,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-255390",
@@ -68,7 +68,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-459220",
@@ -93,7 +93,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-613880",
@@ -118,7 +118,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-630610",
@@ -143,7 +143,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-579490",
@@ -168,32 +168,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-862810",
-      "storeId": "862810",
-      "name": "Hellblade: Senua's Sacrifice Original Soundtrack",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 2975,
-      "pricePrevious": 11900,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 2.975",
-      "pricePreviousLabel": "COL$ 11.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/862810/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Ninja Theory",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3199630",
@@ -218,7 +193,32 @@
         "steam-watchlist"
       ],
       "publisher": "Ninja Theory",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-862810",
+      "storeId": "862810",
+      "name": "Hellblade: Senua's Sacrifice Original Soundtrack",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 2975,
+      "pricePrevious": 11900,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 2.975",
+      "pricePreviousLabel": "COL$ 11.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/862810/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Ninja Theory",
+      "isNew": false
     },
     {
       "id": "steam-324570",
@@ -243,7 +243,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-277430",
@@ -268,7 +268,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1708091",
@@ -286,31 +286,6 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/1708091/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708091/header.jpg?t=1763578010",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-4373370",
-      "storeId": "4373370",
-      "name": "Sea of Thieves: 2026 Premium Bundle",
-      "platform": "Steam PC",
-      "kind": "bundle",
-      "priceCurrent": 90965,
-      "pricePrevious": 259900,
-      "discountPercent": 65,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 90.965",
-      "pricePreviousLabel": "COL$ 259.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/4373370/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -346,6 +321,31 @@
       "isNew": false
     },
     {
+      "id": "steam-4373370",
+      "storeId": "4373370",
+      "name": "Sea of Thieves: 2026 Premium Bundle",
+      "platform": "Steam PC",
+      "kind": "bundle",
+      "priceCurrent": 90965,
+      "pricePrevious": 259900,
+      "discountPercent": 65,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 90.965",
+      "pricePreviousLabel": "COL$ 259.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/4373370/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
       "id": "steam-1920490",
       "storeId": "1920490",
       "name": "The Outer Worlds: Spacer's Choice Edition",
@@ -368,7 +368,7 @@
         "steam-watchlist"
       ],
       "publisher": "Private Division",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-465980",
@@ -393,107 +393,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-821950",
-      "storeId": "821950",
-      "name": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 29960,
-      "pricePrevious": 74900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 29.960",
-      "pricePreviousLabel": "COL$ 74.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/821950/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821950/header.jpg?t=1776383484",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Versus Evil",
-      "isNew": true
-    },
-    {
-      "id": "steam-854290",
-      "storeId": "854290",
-      "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 29960,
-      "pricePrevious": 74900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 29.960",
-      "pricePreviousLabel": "COL$ 74.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/854290/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Versus Evil",
-      "isNew": true
-    },
-    {
-      "id": "steam-373340",
-      "storeId": "373340",
-      "name": "Pillars of Eternity - The White March Part I",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9960,
-      "pricePrevious": 24900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.960",
-      "pricePreviousLabel": "COL$ 24.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/373340/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373340/header.jpg?t=1776349450",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Paradox Interactive",
-      "isNew": true
-    },
-    {
-      "id": "steam-821940",
-      "storeId": "821940",
-      "name": "Pillars of Eternity II: Deadfire - Beast of Winter",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 29960,
-      "pricePrevious": 74900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 29.960",
-      "pricePreviousLabel": "COL$ 74.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/821940/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821940/header.jpg?t=1776383393",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Versus Evil",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3495280",
@@ -518,7 +418,132 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-821950",
+      "storeId": "821950",
+      "name": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 29960,
+      "pricePrevious": 74900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 29.960",
+      "pricePreviousLabel": "COL$ 74.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/821950/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821950/header.jpg?t=1776383484",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Versus Evil",
+      "isNew": false
+    },
+    {
+      "id": "steam-854290",
+      "storeId": "854290",
+      "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 29960,
+      "pricePrevious": 74900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 29.960",
+      "pricePreviousLabel": "COL$ 74.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/854290/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Versus Evil",
+      "isNew": false
+    },
+    {
+      "id": "steam-821940",
+      "storeId": "821940",
+      "name": "Pillars of Eternity II: Deadfire - Beast of Winter",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 29960,
+      "pricePrevious": 74900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 29.960",
+      "pricePreviousLabel": "COL$ 74.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/821940/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821940/header.jpg?t=1776383393",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Versus Evil",
+      "isNew": false
+    },
+    {
+      "id": "steam-373340",
+      "storeId": "373340",
+      "name": "Pillars of Eternity - The White March Part I",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9960,
+      "pricePrevious": 24900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.960",
+      "pricePreviousLabel": "COL$ 24.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/373340/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373340/header.jpg?t=1776349450",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Paradox Interactive",
+      "isNew": false
+    },
+    {
+      "id": "steam-3158790",
+      "storeId": "3158790",
+      "name": "Ara: History Untold, Exclusive Leader Collection",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 5996,
+      "pricePrevious": 14990,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 5.996",
+      "pricePreviousLabel": "COL$ 14.990",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/3158790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3158790/header.jpg?t=1727190810",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
     },
     {
       "id": "steam-3143390",
@@ -543,14 +568,14 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "steam-3158790",
-      "storeId": "3158790",
-      "name": "Ara: History Untold, Exclusive Leader Collection",
+      "id": "steam-3144790",
+      "storeId": "3144790",
+      "name": "Ara: History Untold Official Game Soundtrack",
       "platform": "Steam PC",
-      "kind": "dlc",
+      "kind": "base",
       "priceCurrent": 5996,
       "pricePrevious": 14990,
       "discountPercent": 60,
@@ -559,8 +584,8 @@
       "pricePreviousLabel": "COL$ 14.990",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/3158790/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3158790/header.jpg?t=1727190810",
+      "url": "https://store.steampowered.com/app/3144790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3144790/04cbca279e20f5c98f22547ef044c8ab2ce87b8e/header.jpg?t=1758732402",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -593,7 +618,7 @@
         "steam-watchlist"
       ],
       "publisher": "Microsoft Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-854220",
@@ -618,7 +643,7 @@
         "steam-watchlist"
       ],
       "publisher": "Versus Evil",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-734830",
@@ -643,7 +668,7 @@
         "steam-watchlist"
       ],
       "publisher": "Versus Evil",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1449110",
@@ -668,7 +693,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3729820",
@@ -693,7 +718,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3717100",
@@ -718,7 +743,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-224462",
@@ -746,6 +771,31 @@
       "isNew": false
     },
     {
+      "id": "steam-4174300",
+      "storeId": "4174300",
+      "name": "Towerborne Deluxe Content",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 12000,
+      "pricePrevious": 20000,
+      "discountPercent": 40,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 12.000",
+      "pricePreviousLabel": "COL$ 20.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/4174300/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174300/f3c6a7c579c425daeca3dee5c896e123e3749f75/header.jpg?t=1772128945",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
       "id": "steam-3281800",
       "storeId": "3281800",
       "name": "Avowed Premium Upgrade",
@@ -768,7 +818,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3361640",
@@ -793,32 +843,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-4174300",
-      "storeId": "4174300",
-      "name": "Towerborne Deluxe Content",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 12000,
-      "pricePrevious": 20000,
-      "discountPercent": 40,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 12.000",
-      "pricePreviousLabel": "COL$ 20.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/4174300/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174300/f3c6a7c579c425daeca3dee5c896e123e3749f75/header.jpg?t=1772128945",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-4191490",
@@ -843,7 +868,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-4485640",
@@ -868,7 +893,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

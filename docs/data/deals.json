@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-24T18:48:38.143Z",
-  "updatedAtBogota": "2026-09-24 13:48",
-  "updatedAtDate": "2026-09-24",
+  "updatedAt": "2026-09-25T19:05:51.293Z",
+  "updatedAtBogota": "2026-09-25 14:05",
+  "updatedAtDate": "2026-09-25",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -34,7 +34,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-255390",
@@ -59,7 +59,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-459220",
@@ -84,7 +84,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-613880",
@@ -109,7 +109,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-630610",
@@ -134,7 +134,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-579490",
@@ -159,32 +159,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-862810",
-          "storeId": "862810",
-          "name": "Hellblade: Senua's Sacrifice Original Soundtrack",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 2975,
-          "pricePrevious": 11900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 2.975",
-          "pricePreviousLabel": "COL$ 11.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/862810/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Ninja Theory",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3199630",
@@ -209,7 +184,32 @@
             "steam-watchlist"
           ],
           "publisher": "Ninja Theory",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-862810",
+          "storeId": "862810",
+          "name": "Hellblade: Senua's Sacrifice Original Soundtrack",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 2975,
+          "pricePrevious": 11900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 2.975",
+          "pricePreviousLabel": "COL$ 11.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/862810/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Ninja Theory",
+          "isNew": false
         },
         {
           "id": "steam-324570",
@@ -234,7 +234,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-277430",
@@ -259,7 +259,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1708091",
@@ -277,31 +277,6 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1708091/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708091/header.jpg?t=1763578010",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-4373370",
-          "storeId": "4373370",
-          "name": "Sea of Thieves: 2026 Premium Bundle",
-          "platform": "Steam PC",
-          "kind": "bundle",
-          "priceCurrent": 90965,
-          "pricePrevious": 259900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 90.965",
-          "pricePreviousLabel": "COL$ 259.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/4373370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -337,6 +312,31 @@
           "isNew": false
         },
         {
+          "id": "steam-4373370",
+          "storeId": "4373370",
+          "name": "Sea of Thieves: 2026 Premium Bundle",
+          "platform": "Steam PC",
+          "kind": "bundle",
+          "priceCurrent": 90965,
+          "pricePrevious": 259900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 90.965",
+          "pricePreviousLabel": "COL$ 259.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4373370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
           "id": "steam-1920490",
           "storeId": "1920490",
           "name": "The Outer Worlds: Spacer's Choice Edition",
@@ -359,7 +359,7 @@
             "steam-watchlist"
           ],
           "publisher": "Private Division",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-465980",
@@ -384,107 +384,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-821950",
-          "storeId": "821950",
-          "name": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 29960,
-          "pricePrevious": 74900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 29.960",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/821950/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821950/header.jpg?t=1776383484",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": true
-        },
-        {
-          "id": "steam-854290",
-          "storeId": "854290",
-          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 29960,
-          "pricePrevious": 74900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 29.960",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/854290/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": true
-        },
-        {
-          "id": "steam-373340",
-          "storeId": "373340",
-          "name": "Pillars of Eternity - The White March Part I",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 9960,
-          "pricePrevious": 24900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.960",
-          "pricePreviousLabel": "COL$ 24.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/373340/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373340/header.jpg?t=1776349450",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Paradox Interactive",
-          "isNew": true
-        },
-        {
-          "id": "steam-821940",
-          "storeId": "821940",
-          "name": "Pillars of Eternity II: Deadfire - Beast of Winter",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 29960,
-          "pricePrevious": 74900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 29.960",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/821940/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821940/header.jpg?t=1776383393",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3495280",
@@ -509,7 +409,132 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-821950",
+          "storeId": "821950",
+          "name": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29960,
+          "pricePrevious": 74900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.960",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/821950/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821950/header.jpg?t=1776383484",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-854290",
+          "storeId": "854290",
+          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29960,
+          "pricePrevious": 74900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.960",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/854290/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-821940",
+          "storeId": "821940",
+          "name": "Pillars of Eternity II: Deadfire - Beast of Winter",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29960,
+          "pricePrevious": 74900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.960",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/821940/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821940/header.jpg?t=1776383393",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-373340",
+          "storeId": "373340",
+          "name": "Pillars of Eternity - The White March Part I",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9960,
+          "pricePrevious": 24900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.960",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/373340/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373340/header.jpg?t=1776349450",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Paradox Interactive",
+          "isNew": false
+        },
+        {
+          "id": "steam-3158790",
+          "storeId": "3158790",
+          "name": "Ara: History Untold, Exclusive Leader Collection",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 5996,
+          "pricePrevious": 14990,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.996",
+          "pricePreviousLabel": "COL$ 14.990",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3158790/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3158790/header.jpg?t=1727190810",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
         },
         {
           "id": "steam-3143390",
@@ -534,14 +559,14 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
-          "id": "steam-3158790",
-          "storeId": "3158790",
-          "name": "Ara: History Untold, Exclusive Leader Collection",
+          "id": "steam-3144790",
+          "storeId": "3144790",
+          "name": "Ara: History Untold Official Game Soundtrack",
           "platform": "Steam PC",
-          "kind": "dlc",
+          "kind": "base",
           "priceCurrent": 5996,
           "pricePrevious": 14990,
           "discountPercent": 60,
@@ -550,8 +575,8 @@
           "pricePreviousLabel": "COL$ 14.990",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/3158790/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3158790/header.jpg?t=1727190810",
+          "url": "https://store.steampowered.com/app/3144790/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3144790/04cbca279e20f5c98f22547ef044c8ab2ce87b8e/header.jpg?t=1758732402",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -584,7 +609,7 @@
             "steam-watchlist"
           ],
           "publisher": "Microsoft Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-854220",
@@ -609,7 +634,7 @@
             "steam-watchlist"
           ],
           "publisher": "Versus Evil",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-734830",
@@ -634,7 +659,7 @@
             "steam-watchlist"
           ],
           "publisher": "Versus Evil",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1449110",
@@ -659,7 +684,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3729820",
@@ -684,7 +709,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3717100",
@@ -709,7 +734,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-224462",
@@ -737,6 +762,31 @@
           "isNew": false
         },
         {
+          "id": "steam-4174300",
+          "storeId": "4174300",
+          "name": "Towerborne Deluxe Content",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12000,
+          "pricePrevious": 20000,
+          "discountPercent": 40,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.000",
+          "pricePreviousLabel": "COL$ 20.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4174300/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174300/f3c6a7c579c425daeca3dee5c896e123e3749f75/header.jpg?t=1772128945",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
           "id": "steam-3281800",
           "storeId": "3281800",
           "name": "Avowed Premium Upgrade",
@@ -759,7 +809,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3361640",
@@ -784,32 +834,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-4174300",
-          "storeId": "4174300",
-          "name": "Towerborne Deluxe Content",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12000,
-          "pricePrevious": 20000,
-          "discountPercent": 40,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.000",
-          "pricePreviousLabel": "COL$ 20.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/4174300/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174300/f3c6a7c579c425daeca3dee5c896e123e3749f75/header.jpg?t=1772128945",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4191490",
@@ -834,7 +859,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4485640",
@@ -859,7 +884,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": null
@@ -889,7 +914,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-BRKX5CRMRTC2",
@@ -914,7 +939,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NFW7GND3WNZ",
@@ -939,6 +964,31 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-9NGKMPB3S10P",
+          "storeId": "9NGKMPB3S10P",
+          "name": "Forza Motorsport and Forza Horizon 5 Premium Add-Ons Bundle",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 132930,
+          "pricePrevious": 379800,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 132.930",
+          "pricePreviousLabel": "$ 379.800",
+          "dealEndsAt": "2026-10-01T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-10-01 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.39261.13643991005139950.e849199a-ceb5-4c25-8ed1-91be53eb04f1.70933050-8a65-46bf-af3d-ad254b31e91e",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
           "isNew": true
         },
         {
@@ -957,31 +1007,6 @@
           "dealEndsAtBogota": "2026-10-08 04:59",
           "url": "https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.29206.14554784103656548.069efce3-9249-4074-a169-183b727043f8.03688f8c-edc0-416b-bebb-9d98a01c25f5",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9NKD5GJTS6FH",
-          "storeId": "9NKD5GJTS6FH",
-          "name": "Sea of Thieves: 2026 Premium Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 90965,
-          "pricePrevious": 259900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 90.965",
-          "pricePreviousLabel": "$ 259.900",
-          "dealEndsAt": "2026-10-08T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-08 04:59",
-          "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -1014,7 +1039,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P1HX37NMJLT",
@@ -1039,7 +1064,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MTLKM2DJMZ2",
@@ -1064,7 +1089,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MZ0SR207MG8",
@@ -1082,6 +1107,106 @@
           "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9MZ0SR207MG8?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.44618.13884136572674855.441b2b11-d00a-46b4-b735-7819ef92da81.9276506d-f3c6-402c-8e39-2238a04bc1c7",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-9P8PGC771MLP",
+          "storeId": "9P8PGC771MLP",
+          "name": "Forza Motorsport Premium Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 183960,
+          "pricePrevious": 459900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 183.960",
+          "pricePreviousLabel": "$ 459.900",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
+          "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9PLKVSWR299F",
+          "storeId": "9PLKVSWR299F",
+          "name": "Forza Motorsport Standard Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 135960,
+          "pricePrevious": 339900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 135.960",
+          "pricePreviousLabel": "$ 339.900",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
+          "url": "https://www.microsoft.com/store/productId/9PLKVSWR299F?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.57449.14311721322459352.08838dcd-1049-42ef-a004-b13ad1d41946.4eeb1f6f-f279-4d5b-83b0-8fb4cc7f9aea",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9PN4DRJDLZT7",
+          "storeId": "9PN4DRJDLZT7",
+          "name": "Forza Motorsport Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 167960,
+          "pricePrevious": 419900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 167.960",
+          "pricePreviousLabel": "$ 419.900",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
+          "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N5MZM3J3LCQ",
+          "storeId": "9N5MZM3J3LCQ",
+          "name": "Forza Motorsport Premium Add-Ons Bundle",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 71960,
+          "pricePrevious": 179900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 71.960",
+          "pricePreviousLabel": "$ 179.900",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
+          "url": "https://www.microsoft.com/store/productId/9N5MZM3J3LCQ?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.3524.14030749327656855.61b4b91b-c27e-4239-9958-16e9994d0ed0.ca660041-c335-48ac-9cad-2723f842c723",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -1114,7 +1239,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PL9P3QZMRBM",
@@ -1139,7 +1264,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NCJSXWZTP88",
@@ -1164,7 +1289,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NNS5CDB6CVM",
@@ -1189,7 +1314,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N77PDNB7CWZ",
@@ -1214,7 +1339,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NQR437K7PQH",
@@ -1239,7 +1364,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NF62X1QH3CM",
@@ -1264,7 +1389,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PG0T8LFL7LH",
@@ -1289,7 +1414,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N4XW3N02MNJ",
@@ -1332,56 +1457,6 @@
           "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9P8PGC771MLP",
-          "storeId": "9P8PGC771MLP",
-          "name": "Forza Motorsport Premium Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 367920,
-          "pricePrevious": 459900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 367.920",
-          "pricePreviousLabel": "$ 459.900",
-          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-30 18:59",
-          "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9PN4DRJDLZT7",
-          "storeId": "9PN4DRJDLZT7",
-          "name": "Forza Motorsport Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 335920,
-          "pricePrevious": 419900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 335.920",
-          "pricePreviousLabel": "$ 419.900",
-          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-30 18:59",
-          "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -2068,7 +2143,7 @@
             "steam-appdetails"
           ],
           "publisher": "SUPERHOT Team",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": null
@@ -2128,7 +2203,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-BRKX5CRMRTC2",
@@ -2153,7 +2228,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NFW7GND3WNZ",
@@ -2178,6 +2253,31 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-9NGKMPB3S10P",
+          "storeId": "9NGKMPB3S10P",
+          "name": "Forza Motorsport and Forza Horizon 5 Premium Add-Ons Bundle",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 132930,
+          "pricePrevious": 379800,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 132.930",
+          "pricePreviousLabel": "$ 379.800",
+          "dealEndsAt": "2026-10-01T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-10-01 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.39261.13643991005139950.e849199a-ceb5-4c25-8ed1-91be53eb04f1.70933050-8a65-46bf-af3d-ad254b31e91e",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
           "isNew": true
         },
         {
@@ -2196,31 +2296,6 @@
           "dealEndsAtBogota": "2026-10-08 04:59",
           "url": "https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.29206.14554784103656548.069efce3-9249-4074-a169-183b727043f8.03688f8c-edc0-416b-bebb-9d98a01c25f5",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9NKD5GJTS6FH",
-          "storeId": "9NKD5GJTS6FH",
-          "name": "Sea of Thieves: 2026 Premium Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 90965,
-          "pricePrevious": 259900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 90.965",
-          "pricePreviousLabel": "$ 259.900",
-          "dealEndsAt": "2026-10-08T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-08 04:59",
-          "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -2253,7 +2328,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P1HX37NMJLT",
@@ -2278,7 +2353,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MTLKM2DJMZ2",
@@ -2303,7 +2378,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MZ0SR207MG8",
@@ -2321,6 +2396,106 @@
           "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9MZ0SR207MG8?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.44618.13884136572674855.441b2b11-d00a-46b4-b735-7819ef92da81.9276506d-f3c6-402c-8e39-2238a04bc1c7",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-9P8PGC771MLP",
+          "storeId": "9P8PGC771MLP",
+          "name": "Forza Motorsport Premium Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 183960,
+          "pricePrevious": 459900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 183.960",
+          "pricePreviousLabel": "$ 459.900",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
+          "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9PLKVSWR299F",
+          "storeId": "9PLKVSWR299F",
+          "name": "Forza Motorsport Standard Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 135960,
+          "pricePrevious": 339900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 135.960",
+          "pricePreviousLabel": "$ 339.900",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
+          "url": "https://www.microsoft.com/store/productId/9PLKVSWR299F?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.57449.14311721322459352.08838dcd-1049-42ef-a004-b13ad1d41946.4eeb1f6f-f279-4d5b-83b0-8fb4cc7f9aea",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9PN4DRJDLZT7",
+          "storeId": "9PN4DRJDLZT7",
+          "name": "Forza Motorsport Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 167960,
+          "pricePrevious": 419900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 167.960",
+          "pricePreviousLabel": "$ 419.900",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
+          "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N5MZM3J3LCQ",
+          "storeId": "9N5MZM3J3LCQ",
+          "name": "Forza Motorsport Premium Add-Ons Bundle",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 71960,
+          "pricePrevious": 179900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 71.960",
+          "pricePreviousLabel": "$ 179.900",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
+          "url": "https://www.microsoft.com/store/productId/9N5MZM3J3LCQ?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.3524.14030749327656855.61b4b91b-c27e-4239-9958-16e9994d0ed0.ca660041-c335-48ac-9cad-2723f842c723",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -2353,7 +2528,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PL9P3QZMRBM",
@@ -2378,7 +2553,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NCJSXWZTP88",
@@ -2403,7 +2578,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NNS5CDB6CVM",
@@ -2428,7 +2603,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N77PDNB7CWZ",
@@ -2453,7 +2628,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NQR437K7PQH",
@@ -2478,7 +2653,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NF62X1QH3CM",
@@ -2503,7 +2678,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PG0T8LFL7LH",
@@ -2528,7 +2703,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N4XW3N02MNJ",
@@ -2571,56 +2746,6 @@
           "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9P8PGC771MLP",
-          "storeId": "9P8PGC771MLP",
-          "name": "Forza Motorsport Premium Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 367920,
-          "pricePrevious": 459900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 367.920",
-          "pricePreviousLabel": "$ 459.900",
-          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-30 18:59",
-          "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9PN4DRJDLZT7",
-          "storeId": "9PN4DRJDLZT7",
-          "name": "Forza Motorsport Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 335920,
-          "pricePrevious": 419900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 335.920",
-          "pricePreviousLabel": "$ 419.900",
-          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-09-30 18:59",
-          "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -3309,7 +3434,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-255390",
@@ -3334,7 +3459,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-459220",
@@ -3359,7 +3484,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-613880",
@@ -3384,7 +3509,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-630610",
@@ -3409,7 +3534,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-579490",
@@ -3434,32 +3559,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-862810",
-          "storeId": "862810",
-          "name": "Hellblade: Senua's Sacrifice Original Soundtrack",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 2975,
-          "pricePrevious": 11900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 2.975",
-          "pricePreviousLabel": "COL$ 11.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/862810/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Ninja Theory",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3199630",
@@ -3484,7 +3584,32 @@
             "steam-watchlist"
           ],
           "publisher": "Ninja Theory",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-862810",
+          "storeId": "862810",
+          "name": "Hellblade: Senua's Sacrifice Original Soundtrack",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 2975,
+          "pricePrevious": 11900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 2.975",
+          "pricePreviousLabel": "COL$ 11.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/862810/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Ninja Theory",
+          "isNew": false
         },
         {
           "id": "steam-324570",
@@ -3509,7 +3634,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-277430",
@@ -3534,7 +3659,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1708091",
@@ -3552,31 +3677,6 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1708091/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708091/header.jpg?t=1763578010",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-4373370",
-          "storeId": "4373370",
-          "name": "Sea of Thieves: 2026 Premium Bundle",
-          "platform": "Steam PC",
-          "kind": "bundle",
-          "priceCurrent": 90965,
-          "pricePrevious": 259900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 90.965",
-          "pricePreviousLabel": "COL$ 259.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/4373370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3612,6 +3712,31 @@
           "isNew": false
         },
         {
+          "id": "steam-4373370",
+          "storeId": "4373370",
+          "name": "Sea of Thieves: 2026 Premium Bundle",
+          "platform": "Steam PC",
+          "kind": "bundle",
+          "priceCurrent": 90965,
+          "pricePrevious": 259900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 90.965",
+          "pricePreviousLabel": "COL$ 259.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4373370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373370/8bb7d279a82a8510fd0ea8698859961c317429c5/header.jpg?t=1775816900",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
           "id": "steam-1920490",
           "storeId": "1920490",
           "name": "The Outer Worlds: Spacer's Choice Edition",
@@ -3634,7 +3759,7 @@
             "steam-watchlist"
           ],
           "publisher": "Private Division",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-465980",
@@ -3659,107 +3784,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-821950",
-          "storeId": "821950",
-          "name": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 29960,
-          "pricePrevious": 74900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 29.960",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/821950/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821950/header.jpg?t=1776383484",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": true
-        },
-        {
-          "id": "steam-854290",
-          "storeId": "854290",
-          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 29960,
-          "pricePrevious": 74900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 29.960",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/854290/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": true
-        },
-        {
-          "id": "steam-373340",
-          "storeId": "373340",
-          "name": "Pillars of Eternity - The White March Part I",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 9960,
-          "pricePrevious": 24900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.960",
-          "pricePreviousLabel": "COL$ 24.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/373340/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373340/header.jpg?t=1776349450",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Paradox Interactive",
-          "isNew": true
-        },
-        {
-          "id": "steam-821940",
-          "storeId": "821940",
-          "name": "Pillars of Eternity II: Deadfire - Beast of Winter",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 29960,
-          "pricePrevious": 74900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 29.960",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/821940/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821940/header.jpg?t=1776383393",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3495280",
@@ -3784,7 +3809,132 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-821950",
+          "storeId": "821950",
+          "name": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29960,
+          "pricePrevious": 74900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.960",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/821950/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821950/header.jpg?t=1776383484",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-854290",
+          "storeId": "854290",
+          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29960,
+          "pricePrevious": 74900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.960",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/854290/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-821940",
+          "storeId": "821940",
+          "name": "Pillars of Eternity II: Deadfire - Beast of Winter",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29960,
+          "pricePrevious": 74900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.960",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/821940/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821940/header.jpg?t=1776383393",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-373340",
+          "storeId": "373340",
+          "name": "Pillars of Eternity - The White March Part I",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 9960,
+          "pricePrevious": 24900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.960",
+          "pricePreviousLabel": "COL$ 24.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/373340/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373340/header.jpg?t=1776349450",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Paradox Interactive",
+          "isNew": false
+        },
+        {
+          "id": "steam-3158790",
+          "storeId": "3158790",
+          "name": "Ara: History Untold, Exclusive Leader Collection",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 5996,
+          "pricePrevious": 14990,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.996",
+          "pricePreviousLabel": "COL$ 14.990",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3158790/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3158790/header.jpg?t=1727190810",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
         },
         {
           "id": "steam-3143390",
@@ -3809,14 +3959,14 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
-          "id": "steam-3158790",
-          "storeId": "3158790",
-          "name": "Ara: History Untold, Exclusive Leader Collection",
+          "id": "steam-3144790",
+          "storeId": "3144790",
+          "name": "Ara: History Untold Official Game Soundtrack",
           "platform": "Steam PC",
-          "kind": "dlc",
+          "kind": "base",
           "priceCurrent": 5996,
           "pricePrevious": 14990,
           "discountPercent": 60,
@@ -3825,8 +3975,8 @@
           "pricePreviousLabel": "COL$ 14.990",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/3158790/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3158790/header.jpg?t=1727190810",
+          "url": "https://store.steampowered.com/app/3144790/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3144790/04cbca279e20f5c98f22547ef044c8ab2ce87b8e/header.jpg?t=1758732402",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3859,7 +4009,7 @@
             "steam-watchlist"
           ],
           "publisher": "Microsoft Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-854220",
@@ -3884,7 +4034,7 @@
             "steam-watchlist"
           ],
           "publisher": "Versus Evil",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-734830",
@@ -3909,7 +4059,7 @@
             "steam-watchlist"
           ],
           "publisher": "Versus Evil",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1449110",
@@ -3934,7 +4084,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3729820",
@@ -3959,7 +4109,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3717100",
@@ -3984,7 +4134,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-224462",
@@ -4012,6 +4162,31 @@
           "isNew": false
         },
         {
+          "id": "steam-4174300",
+          "storeId": "4174300",
+          "name": "Towerborne Deluxe Content",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12000,
+          "pricePrevious": 20000,
+          "discountPercent": 40,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.000",
+          "pricePreviousLabel": "COL$ 20.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4174300/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174300/f3c6a7c579c425daeca3dee5c896e123e3749f75/header.jpg?t=1772128945",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
           "id": "steam-3281800",
           "storeId": "3281800",
           "name": "Avowed Premium Upgrade",
@@ -4034,7 +4209,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3361640",
@@ -4059,32 +4234,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-4174300",
-          "storeId": "4174300",
-          "name": "Towerborne Deluxe Content",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12000,
-          "pricePrevious": 20000,
-          "discountPercent": 40,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.000",
-          "pricePreviousLabel": "COL$ 20.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/4174300/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174300/f3c6a7c579c425daeca3dee5c896e123e3749f75/header.jpg?t=1772128945",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4191490",
@@ -4109,7 +4259,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4485640",
@@ -4134,7 +4284,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -4164,7 +4314,7 @@
             "steam-appdetails"
           ],
           "publisher": "SUPERHOT Team",
-          "isNew": true
+          "isNew": false
         }
       ]
     }
