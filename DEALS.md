@@ -1,6 +1,6 @@
-# Ofertas — 2026-09-25 14:05 (Bogotá)
+# Ofertas — 2026-09-26 13:13 (Bogotá)
 
-Última actualización: **2026-09-25 14:05** (America/Bogota).
+Última actualización: **2026-09-26 13:13** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Steam
@@ -24,9 +24,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Pillars of Eternity II: Deadfire - Explorer's Pack** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/854290/)
 - **Pillars of Eternity II: Deadfire - Beast of Winter** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/821940/)
 - **Pillars of Eternity - The White March Part I** (Steam PC, dlc) — COL$ 9.960 ~~COL$ 24.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/373340/)
-- **Ara: History Untold, Exclusive Leader Collection** (Steam PC, dlc) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3158790/)
 - **Ara: History Untold, Modern Leader Skin Pack** (Steam PC, dlc) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3143390/)
-- 🆕 **Ara: History Untold Official Game Soundtrack** (Steam PC, base) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3144790/)
+- **Ara: History Untold Official Game Soundtrack** (Steam PC, base) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3144790/)
+- **Ara: History Untold, Exclusive Leader Collection** (Steam PC, dlc) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3158790/)
 - **Quantum Break - Original Game Soundtrack** (Steam PC, base) — COL$ 9.400 ~~COL$ 23.500~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/514800/)
 - **Pillars of Eternity II: Deadfire - Expansion Pass** (Steam PC, dlc) — COL$ 9.960 ~~COL$ 24.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/854220/)
 - **Pillars of Eternity II: Deadfire - Seeker, Slayer, Survivor** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/734830/)
@@ -34,8 +34,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **The Outer Worlds 2 Soundtrack** (Steam PC, base) — COL$ 39.950 ~~COL$ 79.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3729820/)
 - **Contenido de NINJA GAIDEN 4 Deluxe Edition** (Steam PC, dlc) — COL$ 40.000 ~~COL$ 80.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3717100/)
 - **Contrast - Original Soundtrack and Art Book** (Steam PC, dlc) — COL$ 7.150 ~~COL$ 14.300~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/224462/)
-- **Towerborne Deluxe Content** (Steam PC, dlc) — COL$ 12.000 ~~COL$ 20.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/4174300/)
 - **Avowed Premium Upgrade** (Steam PC, dlc) — COL$ 24.000 ~~COL$ 40.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/3281800/)
+- **Towerborne Deluxe Content** (Steam PC, dlc) — COL$ 12.000 ~~COL$ 20.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/4174300/)
 - **Avowed Original Soundtrack** (Steam PC, base) — COL$ 15.600 ~~COL$ 26.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/3361640/)
 - **NINJA GAIDEN 4 The Two Masters** (Steam PC, dlc) — COL$ 40.133 ~~COL$ 59.900~~ (−33%) · [Ver oferta](https://store.steampowered.com/app/4191490/)
 - **Halo: Campaign Evolved: actualización a la Edición Premium** (Steam PC, dlc) — COL$ 64.000 ~~COL$ 80.000~~ (−20%) · [Ver oferta](https://store.steampowered.com/app/4485640/)
@@ -44,16 +44,16 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **The Elder Scrolls V: Skyrim Special Edition (PC)** (Xbox PC, bundle) — $ 30.225 ~~$ 120.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9P03JGQ4S1GC?rtc=1)
 - **The Elder Scrolls Online: Standard Edition** (Xbox PC, bundle) — $ 12.475 ~~$ 49.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/BRKX5CRMRTC2?rtc=1)
 - **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 49.467 ~~$ 149.900~~ (−67%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
-- 🆕 **Forza Motorsport and Forza Horizon 5 Premium Add-Ons Bundle** (Xbox PC, bundle) — $ 132.930 ~~$ 379.800~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1)
+- **Forza Motorsport and Forza Horizon 5 Premium Add-Ons Bundle** (Xbox PC, bundle) — $ 132.930 ~~$ 379.800~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1)
 - **Sea of Thieves: 2026 Edition** (Xbox PC, bundle) — $ 55.965 ~~$ 159.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9P2N57MC619K?rtc=1)
 - **Forza Horizon 5: Edición Estándar** (Xbox PC, base) — $ 103.960 ~~$ 259.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKX70BBCDRN?rtc=1)
 - **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 135.960 ~~$ 339.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
 - **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 167.960 ~~$ 419.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
 - **Paquete de complementos Premium de Forza Horizon 5** (Xbox PC, dlc) — $ 79.960 ~~$ 199.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MZ0SR207MG8?rtc=1)
-- 🆕 **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 183.960 ~~$ 459.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
-- 🆕 **Forza Motorsport Standard Edition** (Xbox PC, bundle) — $ 135.960 ~~$ 339.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLKVSWR299F?rtc=1)
-- 🆕 **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 167.960 ~~$ 419.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
-- 🆕 **Forza Motorsport Premium Add-Ons Bundle** (Xbox PC, bundle) — $ 71.960 ~~$ 179.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5MZM3J3LCQ?rtc=1)
+- **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 183.960 ~~$ 459.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
+- **Forza Motorsport Standard Edition** (Xbox PC, bundle) — $ 135.960 ~~$ 339.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLKVSWR299F?rtc=1)
+- **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 167.960 ~~$ 419.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
+- **Forza Motorsport Premium Add-Ons Bundle** (Xbox PC, bundle) — $ 71.960 ~~$ 179.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5MZM3J3LCQ?rtc=1)
 - **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 119.450 ~~$ 238.900~~ (−50%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
 - **Starfield Premium Edition** (Xbox PC, bundle) — $ 167.340 ~~$ 278.900~~ (−40%) · [Ver oferta](https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1)
 - **Starfield** (Xbox PC, base) — $ 119.340 ~~$ 198.900~~ (−40%) · [Ver oferta](https://www.microsoft.com/store/productId/9NCJSXWZTP88?rtc=1)
