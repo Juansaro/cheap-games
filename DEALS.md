@@ -1,6 +1,6 @@
-# Ofertas — 2026-09-26 13:13 (Bogotá)
+# Ofertas — 2026-09-27 13:49 (Bogotá)
 
-Última actualización: **2026-09-26 13:13** (America/Bogota).
+Última actualización: **2026-09-27 13:49** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Steam
@@ -15,15 +15,13 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Halo: Spartan Strike** (Steam PC, base) — COL$ 2.214 ~~COL$ 8.200~~ (−73%) · [Ver oferta](https://store.steampowered.com/app/324570/)
 - **Halo: Spartan Assault** (Steam PC, base) — COL$ 2.214 ~~COL$ 8.200~~ (−73%) · [Ver oferta](https://store.steampowered.com/app/277430/)
 - **Halo Infinite (campaña)** (Steam PC, dlc) — COL$ 85.767 ~~COL$ 259.900~~ (−67%) · [Ver oferta](https://store.steampowered.com/app/1708091/)
-- **Sea of Thieves: 2026 Deluxe Bundle** (Steam PC, bundle) — COL$ 76.965 ~~COL$ 219.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/4373360/)
-- **Sea of Thieves: 2026 Premium Bundle** (Steam PC, bundle) — COL$ 90.965 ~~COL$ 259.900~~ (−65%) · [Ver oferta](https://store.steampowered.com/app/4373370/)
 - **The Outer Worlds: Spacer's Choice Edition** (Steam PC, base) — COL$ 71.960 ~~COL$ 179.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1920490/)
 - **Ori and the Blind Forest (Original Soundtrack)** (Steam PC, base) — COL$ 9.400 ~~COL$ 23.500~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/465980/)
 - **Ara: History Untold - Untold Scenarios ** (Steam PC, dlc) — COL$ 11.960 ~~COL$ 29.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3495280/)
 - **Pillars of Eternity II: Deadfire - The Forgotten Sanctum** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/821950/)
 - **Pillars of Eternity II: Deadfire - Explorer's Pack** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/854290/)
-- **Pillars of Eternity II: Deadfire - Beast of Winter** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/821940/)
 - **Pillars of Eternity - The White March Part I** (Steam PC, dlc) — COL$ 9.960 ~~COL$ 24.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/373340/)
+- **Pillars of Eternity II: Deadfire - Beast of Winter** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/821940/)
 - **Ara: History Untold, Modern Leader Skin Pack** (Steam PC, dlc) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3143390/)
 - **Ara: History Untold Official Game Soundtrack** (Steam PC, base) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3144790/)
 - **Ara: History Untold, Exclusive Leader Collection** (Steam PC, dlc) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3158790/)
