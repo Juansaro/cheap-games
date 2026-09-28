@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T18:49:45.298Z",
-  "updatedAtBogota": "2026-09-27 13:49",
-  "updatedAtDate": "2026-09-27",
+  "updatedAt": "2026-09-28T20:59:21.289Z",
+  "updatedAtBogota": "2026-09-28 15:59",
+  "updatedAtDate": "2026-09-28",
   "timezone": "America/Bogota",
-  "liveDealCount": 83,
+  "liveDealCount": 99,
   "stores": [
     {
       "id": "steam",
@@ -19,8 +19,8 @@
       "blurb": "Ofertas oficiales de Steam. Windows y Linux (nativo o Proton). Sin keys de terceros.",
       "reason": null,
       "href": "./store.html#steam",
-      "dealCount": 33,
-      "spotlightLabel": null
+      "dealCount": 48,
+      "spotlightLabel": "COL$ 159.900"
     },
     {
       "id": "xbox",
@@ -52,7 +52,7 @@
       "blurb": "Ofertas verificadas en SteamVR. Equivalentes PC de títulos Quest cuando existen.",
       "reason": null,
       "href": "./store.html#steamvr",
-      "dealCount": 1,
+      "dealCount": 2,
       "spotlightLabel": null
     },
     {
