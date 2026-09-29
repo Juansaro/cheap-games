@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-28T20:59:21.289Z",
-  "updatedAtBogota": "2026-09-28 15:59",
-  "updatedAtDate": "2026-09-28",
+  "updatedAt": "2026-09-29T19:46:13.475Z",
+  "updatedAtBogota": "2026-09-29 14:46",
+  "updatedAtDate": "2026-09-29",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -34,7 +34,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1258740",
@@ -109,7 +109,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-387290",
@@ -134,7 +134,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-474960",
@@ -159,7 +159,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-459220",
@@ -209,7 +209,7 @@
             "steam-watchlist"
           ],
           "publisher": "Ninja Theory",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-613880",
@@ -309,7 +309,7 @@
             "steam-watchlist"
           ],
           "publisher": "Ninja Theory",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3199630",
@@ -384,7 +384,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-324570",
@@ -509,7 +509,7 @@
             "steam-watchlist"
           ],
           "publisher": "Versus Evil",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-291650",
@@ -534,7 +534,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2021880",
@@ -559,7 +559,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-465980",
@@ -884,7 +884,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1449110",
@@ -934,7 +934,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3729820",
@@ -1034,7 +1034,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2458830",
@@ -1059,7 +1059,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3281800",
@@ -1087,31 +1087,6 @@
           "isNew": false
         },
         {
-          "id": "steam-3361640",
-          "storeId": "3361640",
-          "name": "Avowed Original Soundtrack",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 15600,
-          "pricePrevious": 26000,
-          "discountPercent": 40,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 15.600",
-          "pricePreviousLabel": "COL$ 26.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/3361640/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361640/header.jpg?t=1739901578",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-4174300",
           "storeId": "4174300",
           "name": "Towerborne Deluxe Content",
@@ -1127,6 +1102,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/4174300/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174300/f3c6a7c579c425daeca3dee5c896e123e3749f75/header.jpg?t=1772128945",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-3361640",
+          "storeId": "3361640",
+          "name": "Avowed Original Soundtrack",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 15600,
+          "pricePrevious": 26000,
+          "discountPercent": 40,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 15.600",
+          "pricePreviousLabel": "COL$ 26.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3361640/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361640/header.jpg?t=1739901578",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1184,7 +1184,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4485640",
@@ -1235,7 +1235,7 @@
         ],
         "publisher": "Xbox Game Studios",
         "onSale": false,
-        "isNew": true
+        "isNew": false
       }
     },
     "xbox": {
@@ -1327,8 +1327,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 132.930",
           "pricePreviousLabel": "$ 379.800",
-          "dealEndsAt": "2026-10-01T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-01 04:59",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.39261.13643991005139950.e849199a-ceb5-4c25-8ed1-91be53eb04f1.70933050-8a65-46bf-af3d-ad254b31e91e",
           "confirmed": true,
@@ -2316,21 +2316,21 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9MV69L4JSD31",
-          "storeId": "9MV69L4JSD31",
-          "name": "Minecraft Legends Edición Deluxe",
+          "id": "xboxpc-9N57DRSG4HNZ",
+          "storeId": "9N57DRSG4HNZ",
+          "name": "Minecraft: Java & Bedrock Edition Deluxe Collection",
           "platform": "Xbox PC",
           "kind": "bundle",
-          "priceCurrent": 207920,
-          "pricePrevious": 259900,
+          "priceCurrent": 129368,
+          "pricePrevious": 161710,
           "discountPercent": 20,
           "currency": "COP",
-          "priceCurrentLabel": "$ 207.920",
-          "pricePreviousLabel": "$ 259.900",
+          "priceCurrentLabel": "$ 129.368",
+          "pricePreviousLabel": "$ 161.710",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.7120.13799013845909804.d667b16a-f72a-44c6-913e-e9ab0a88905b.19e2302b-ffbb-46eb-bd03-5475765cbdda",
+          "url": "https://www.microsoft.com/store/productId/9N57DRSG4HNZ?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.12847.13968655312829142.ab42d7c7-8ea5-429b-9f78-249fa13f0583.a4d1a72a-db48-4932-9605-7acbcf75c8cb",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -2338,7 +2338,32 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": false
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9NKHWG572L31",
+          "storeId": "9NKHWG572L31",
+          "name": "Minecraft: Java & Bedrock Edition Ultimate Collection",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 161717,
+          "pricePrevious": 202147,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 161.717",
+          "pricePreviousLabel": "$ 202.147",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9NKHWG572L31?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.385.13656245865233924.ebf14550-256f-4664-80ff-ed702db2a15a.8f34f26b-7db1-43c9-8b00-c16c89061077",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": false,
+          "isNew": true
         },
         {
           "id": "xboxpc-9N099DG3GHGW",
@@ -2493,30 +2518,6 @@
           ],
           "publisher": "SUPERHOT Team",
           "isNew": false
-        },
-        {
-          "id": "steam-620980",
-          "storeId": "620980",
-          "name": "Beat Saber",
-          "platform": "SteamVR",
-          "kind": "base",
-          "priceCurrent": 56624,
-          "pricePrevious": 75499,
-          "discountPercent": 25,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 56.624",
-          "pricePreviousLabel": "COL$ 75.499",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/620980/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg?t=1790237971",
-          "confirmed": true,
-          "sources": [
-            "meta-catalog",
-            "steam-appdetails"
-          ],
-          "publisher": "Beat Games",
-          "isNew": true
         }
       ],
       "spotlight": null
@@ -2569,7 +2570,7 @@
         ],
         "publisher": "Xbox Game Studios",
         "onSale": false,
-        "isNew": true
+        "isNew": false
       },
       "deals": []
     },
@@ -2664,8 +2665,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 132.930",
           "pricePreviousLabel": "$ 379.800",
-          "dealEndsAt": "2026-10-01T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-01 04:59",
+          "dealEndsAt": "2026-09-30T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-09-30 18:59",
           "url": "https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.39261.13643991005139950.e849199a-ceb5-4c25-8ed1-91be53eb04f1.70933050-8a65-46bf-af3d-ad254b31e91e",
           "confirmed": true,
@@ -3653,21 +3654,21 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9MV69L4JSD31",
-          "storeId": "9MV69L4JSD31",
-          "name": "Minecraft Legends Edición Deluxe",
+          "id": "xboxpc-9N57DRSG4HNZ",
+          "storeId": "9N57DRSG4HNZ",
+          "name": "Minecraft: Java & Bedrock Edition Deluxe Collection",
           "platform": "Xbox PC",
           "kind": "bundle",
-          "priceCurrent": 207920,
-          "pricePrevious": 259900,
+          "priceCurrent": 129368,
+          "pricePrevious": 161710,
           "discountPercent": 20,
           "currency": "COP",
-          "priceCurrentLabel": "$ 207.920",
-          "pricePreviousLabel": "$ 259.900",
+          "priceCurrentLabel": "$ 129.368",
+          "pricePreviousLabel": "$ 161.710",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.7120.13799013845909804.d667b16a-f72a-44c6-913e-e9ab0a88905b.19e2302b-ffbb-46eb-bd03-5475765cbdda",
+          "url": "https://www.microsoft.com/store/productId/9N57DRSG4HNZ?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.12847.13968655312829142.ab42d7c7-8ea5-429b-9f78-249fa13f0583.a4d1a72a-db48-4932-9605-7acbcf75c8cb",
           "confirmed": true,
           "sources": [
             "ms-display-catalog",
@@ -3675,7 +3676,32 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
-          "isNew": false
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9NKHWG572L31",
+          "storeId": "9NKHWG572L31",
+          "name": "Minecraft: Java & Bedrock Edition Ultimate Collection",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 161717,
+          "pricePrevious": 202147,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 161.717",
+          "pricePreviousLabel": "$ 202.147",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9NKHWG572L31?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.385.13656245865233924.ebf14550-256f-4664-80ff-ed702db2a15a.8f34f26b-7db1-43c9-8b00-c16c89061077",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": false,
+          "isNew": true
         },
         {
           "id": "xboxpc-9N099DG3GHGW",
@@ -3831,7 +3857,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1258740",
@@ -3906,7 +3932,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-387290",
@@ -3931,7 +3957,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-474960",
@@ -3956,7 +3982,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-459220",
@@ -4006,7 +4032,7 @@
             "steam-watchlist"
           ],
           "publisher": "Ninja Theory",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-613880",
@@ -4106,7 +4132,7 @@
             "steam-watchlist"
           ],
           "publisher": "Ninja Theory",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3199630",
@@ -4181,7 +4207,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-324570",
@@ -4306,7 +4332,7 @@
             "steam-watchlist"
           ],
           "publisher": "Versus Evil",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-291650",
@@ -4331,7 +4357,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2021880",
@@ -4356,7 +4382,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-465980",
@@ -4681,7 +4707,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1449110",
@@ -4731,7 +4757,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3729820",
@@ -4831,7 +4857,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2458830",
@@ -4856,7 +4882,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3281800",
@@ -4884,31 +4910,6 @@
           "isNew": false
         },
         {
-          "id": "steam-3361640",
-          "storeId": "3361640",
-          "name": "Avowed Original Soundtrack",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 15600,
-          "pricePrevious": 26000,
-          "discountPercent": 40,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 15.600",
-          "pricePreviousLabel": "COL$ 26.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/3361640/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361640/header.jpg?t=1739901578",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-4174300",
           "storeId": "4174300",
           "name": "Towerborne Deluxe Content",
@@ -4924,6 +4925,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/4174300/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174300/f3c6a7c579c425daeca3dee5c896e123e3749f75/header.jpg?t=1772128945",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-3361640",
+          "storeId": "3361640",
+          "name": "Avowed Original Soundtrack",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 15600,
+          "pricePrevious": 26000,
+          "discountPercent": 40,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 15.600",
+          "pricePreviousLabel": "COL$ 26.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3361640/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361640/header.jpg?t=1739901578",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -4981,7 +5007,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4485640",
@@ -5037,30 +5063,6 @@
           ],
           "publisher": "SUPERHOT Team",
           "isNew": false
-        },
-        {
-          "id": "steam-620980",
-          "storeId": "620980",
-          "name": "Beat Saber",
-          "platform": "SteamVR",
-          "kind": "base",
-          "priceCurrent": 56624,
-          "pricePrevious": 75499,
-          "discountPercent": 25,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 56.624",
-          "pricePreviousLabel": "COL$ 75.499",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/620980/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg?t=1790237971",
-          "confirmed": true,
-          "sources": [
-            "meta-catalog",
-            "steam-appdetails"
-          ],
-          "publisher": "Beat Games",
-          "isNew": true
         }
       ]
     }

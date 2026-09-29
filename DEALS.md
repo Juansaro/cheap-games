@@ -1,34 +1,34 @@
-# Ofertas — 2026-09-28 15:59 (Bogotá)
+# Ofertas — 2026-09-29 14:46 (Bogotá)
 
-Última actualización: **2026-09-28 15:59** (America/Bogota).
+Última actualización: **2026-09-29 14:46** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- 🆕 **Ori and the Will of the Wisps** (Steam PC, base) — COL$ 12.990 ~~COL$ 129.900~~ (−90%) · [Ver oferta](https://store.steampowered.com/app/1057090/)
+- **Ori and the Will of the Wisps** (Steam PC, base) — COL$ 12.990 ~~COL$ 129.900~~ (−90%) · [Ver oferta](https://store.steampowered.com/app/1057090/)
 - **Ori and the Will of the Wisps Soundtrack** (Steam PC, base) — COL$ 2.500 ~~COL$ 25.000~~ (−90%) · [Ver oferta](https://store.steampowered.com/app/1258740/)
 - **Max: The Curse of Brotherhood** (Steam PC, base) — COL$ 6.400 ~~COL$ 32.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/255390/)
-- 🆕 **Hellblade II: Senua’s Saga** (Steam PC, base) — COL$ 54.975 ~~COL$ 219.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/2461850/)
-- 🆕 **Ori and the Blind Forest: Definitive Edition** (Steam PC, base) — COL$ 22.475 ~~COL$ 89.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/387290/)
-- 🆕 **Quantum Break** (Steam PC, base) — COL$ 18.750 ~~COL$ 75.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/474960/)
+- **Hellblade II: Senua’s Saga** (Steam PC, base) — COL$ 54.975 ~~COL$ 219.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/2461850/)
+- **Ori and the Blind Forest: Definitive Edition** (Steam PC, base) — COL$ 22.475 ~~COL$ 89.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/387290/)
+- **Quantum Break** (Steam PC, base) — COL$ 18.750 ~~COL$ 75.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/474960/)
 - **Halo Wars: Definitive Edition** (Steam PC, base) — COL$ 21.225 ~~COL$ 84.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/459220/)
-- 🆕 **Hellblade: Senua's Sacrifice** (Steam PC, base) — COL$ 24.975 ~~COL$ 99.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/414340/)
+- **Hellblade: Senua's Sacrifice** (Steam PC, base) — COL$ 24.975 ~~COL$ 99.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/414340/)
 - **Zoo Tycoon: Ultimate Animal Collection** (Steam PC, base) — COL$ 7.750 ~~COL$ 31.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/613880/)
 - **Disneyland Adventures** (Steam PC, base) — COL$ 7.750 ~~COL$ 31.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/630610/)
 - **RUSH: A Disney • PIXAR Adventure** (Steam PC, base) — COL$ 7.750 ~~COL$ 31.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/579490/)
-- 🆕 **Bleeding Edge** (Steam PC, base) — COL$ 24.975 ~~COL$ 99.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1189800/)
+- **Bleeding Edge** (Steam PC, base) — COL$ 24.975 ~~COL$ 99.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1189800/)
 - **Hellblade II: Senua’s Saga Soundtrack** (Steam PC, base) — COL$ 6.500 ~~COL$ 26.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/3199630/)
 - **Hellblade: Senua's Sacrifice Original Soundtrack** (Steam PC, base) — COL$ 2.975 ~~COL$ 11.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/862810/)
-- 🆕 **Contrast** (Steam PC, base) — COL$ 5.875 ~~COL$ 23.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/224460/)
+- **Contrast** (Steam PC, base) — COL$ 5.875 ~~COL$ 23.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/224460/)
 - **Halo: Spartan Strike** (Steam PC, base) — COL$ 2.214 ~~COL$ 8.200~~ (−73%) · [Ver oferta](https://store.steampowered.com/app/324570/)
 - **Halo: Spartan Assault** (Steam PC, base) — COL$ 2.214 ~~COL$ 8.200~~ (−73%) · [Ver oferta](https://store.steampowered.com/app/277430/)
 - **Halo Infinite (campaña)** (Steam PC, dlc) — COL$ 85.767 ~~COL$ 259.900~~ (−67%) · [Ver oferta](https://store.steampowered.com/app/1708091/)
 - **The Outer Worlds: Spacer's Choice Edition** (Steam PC, base) — COL$ 71.960 ~~COL$ 179.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1920490/)
-- 🆕 **Pillars of Eternity II: Deadfire** (Steam PC, base) — COL$ 19.960 ~~COL$ 49.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/560130/)
-- 🆕 **Pillars of Eternity** (Steam PC, base) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/291650/)
-- 🆕 **Ara History Untold: Anniversary Edition ** (Steam PC, base) — COL$ 59.960 ~~COL$ 149.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2021880/)
+- **Pillars of Eternity II: Deadfire** (Steam PC, base) — COL$ 19.960 ~~COL$ 49.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/560130/)
+- **Pillars of Eternity** (Steam PC, base) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/291650/)
+- **Ara History Untold: Anniversary Edition ** (Steam PC, base) — COL$ 59.960 ~~COL$ 149.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2021880/)
 - **Ori and the Blind Forest (Original Soundtrack)** (Steam PC, base) — COL$ 9.400 ~~COL$ 23.500~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/465980/)
 - **Ara: History Untold - Untold Scenarios ** (Steam PC, dlc) — COL$ 11.960 ~~COL$ 29.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3495280/)
 - **Pillars of Eternity II: Deadfire - The Forgotten Sanctum** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/821950/)
@@ -41,19 +41,19 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Quantum Break - Original Game Soundtrack** (Steam PC, base) — COL$ 9.400 ~~COL$ 23.500~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/514800/)
 - **Pillars of Eternity II: Deadfire - Expansion Pass** (Steam PC, dlc) — COL$ 9.960 ~~COL$ 24.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/854220/)
 - **Pillars of Eternity II: Deadfire - Seeker, Slayer, Survivor** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/734830/)
-- 🆕 **Pentiment** (Steam PC, base) — COL$ 44.950 ~~COL$ 89.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1205520/)
+- **Pentiment** (Steam PC, base) — COL$ 44.950 ~~COL$ 89.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1205520/)
 - **The Outer Worlds 2** (Steam PC, base) — COL$ 139.950 ~~COL$ 279.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1449110/)
-- 🆕 **NINJA GAIDEN 4** (Steam PC, base) — COL$ 139.950 ~~COL$ 279.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2627260/)
+- **NINJA GAIDEN 4** (Steam PC, base) — COL$ 139.950 ~~COL$ 279.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2627260/)
 - **The Outer Worlds 2 Soundtrack** (Steam PC, base) — COL$ 39.950 ~~COL$ 79.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3729820/)
 - **Contenido de NINJA GAIDEN 4 Deluxe Edition** (Steam PC, dlc) — COL$ 40.000 ~~COL$ 80.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/3717100/)
 - **Contrast - Original Soundtrack and Art Book** (Steam PC, dlc) — COL$ 7.150 ~~COL$ 14.300~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/224462/)
-- 🆕 **Avowed** (Steam PC, base) — COL$ 119.940 ~~COL$ 199.900~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/2457220/)
-- 🆕 **Towerborne** (Steam PC, base) — COL$ 42.000 ~~COL$ 70.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/2458830/)
+- **Avowed** (Steam PC, base) — COL$ 119.940 ~~COL$ 199.900~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/2457220/)
+- **Towerborne** (Steam PC, base) — COL$ 42.000 ~~COL$ 70.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/2458830/)
 - **Avowed Premium Upgrade** (Steam PC, dlc) — COL$ 24.000 ~~COL$ 40.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/3281800/)
-- **Avowed Original Soundtrack** (Steam PC, base) — COL$ 15.600 ~~COL$ 26.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/3361640/)
 - **Towerborne Deluxe Content** (Steam PC, dlc) — COL$ 12.000 ~~COL$ 20.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/4174300/)
+- **Avowed Original Soundtrack** (Steam PC, base) — COL$ 15.600 ~~COL$ 26.000~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/3361640/)
 - **NINJA GAIDEN 4 The Two Masters** (Steam PC, dlc) — COL$ 40.133 ~~COL$ 59.900~~ (−33%) · [Ver oferta](https://store.steampowered.com/app/4191490/)
-- 🆕 **Halo: Campaign Evolved** (Steam PC, base) — COL$ 159.920 ~~COL$ 199.900~~ (−20%) · [Ver oferta](https://store.steampowered.com/app/2806050/)
+- **Halo: Campaign Evolved** (Steam PC, base) — COL$ 159.920 ~~COL$ 199.900~~ (−20%) · [Ver oferta](https://store.steampowered.com/app/2806050/)
 - **Halo: Campaign Evolved: actualización a la Edición Premium** (Steam PC, dlc) — COL$ 64.000 ~~COL$ 80.000~~ (−20%) · [Ver oferta](https://store.steampowered.com/app/4485640/)
 
 ## Microsoft Store / Xbox PC
@@ -100,7 +100,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 111.920 ~~$ 139.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
 - **Halo Wars 2: edición completa** (Xbox PC, base) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
-- **Minecraft Legends Edición Deluxe** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1)
+- 🆕 **Minecraft: Java & Bedrock Edition Deluxe Collection** (Xbox PC, bundle) — $ 129.368 ~~$ 161.710~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N57DRSG4HNZ?rtc=1)
+- 🆕 **Minecraft: Java & Bedrock Edition Ultimate Collection** (Xbox PC, bundle) — $ 161.717 ~~$ 202.147~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKHWG572L31?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
@@ -109,7 +110,6 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## SteamVR
 - **SUPERHOT VR** (SteamVR, base) — COL$ 19.999 ~~COL$ 49.999~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/617830/)
-- 🆕 **Beat Saber** (SteamVR, base) — COL$ 56.624 ~~COL$ 75.499~~ (−25%) · [Ver oferta](https://store.steampowered.com/app/620980/)
 
 ## Meta Quest Store
 - Sin ofertas hoy
