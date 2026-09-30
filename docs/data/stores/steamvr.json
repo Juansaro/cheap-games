@@ -13,35 +13,10 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-09-29T19:46:13.475Z",
-  "updatedAtBogota": "2026-09-29 14:46",
+  "updatedAt": "2026-09-30T19:47:27.921Z",
+  "updatedAtBogota": "2026-09-30 14:47",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
-  "deals": [
-    {
-      "id": "steam-617830",
-      "storeId": "617830",
-      "name": "SUPERHOT VR",
-      "platform": "SteamVR",
-      "kind": "base",
-      "priceCurrent": 19999,
-      "pricePrevious": 49999,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 19.999",
-      "pricePreviousLabel": "COL$ 49.999",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/617830/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/header.jpg?t=1789468028",
-      "confirmed": true,
-      "sources": [
-        "meta-catalog",
-        "steam-appdetails"
-      ],
-      "publisher": "SUPERHOT Team",
-      "isNew": false
-    }
-  ]
+  "deals": []
 }

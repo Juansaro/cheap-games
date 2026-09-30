@@ -1,6 +1,6 @@
-# Ofertas — 2026-09-29 14:46 (Bogotá)
+# Ofertas — 2026-09-30 14:47 (Bogotá)
 
-Última actualización: **2026-09-29 14:46** (America/Bogota).
+Última actualización: **2026-09-30 14:47** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -33,8 +33,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Ara: History Untold - Untold Scenarios ** (Steam PC, dlc) — COL$ 11.960 ~~COL$ 29.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3495280/)
 - **Pillars of Eternity II: Deadfire - The Forgotten Sanctum** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/821950/)
 - **Pillars of Eternity II: Deadfire - Explorer's Pack** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/854290/)
-- **Pillars of Eternity II: Deadfire - Beast of Winter** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/821940/)
 - **Pillars of Eternity - The White March Part I** (Steam PC, dlc) — COL$ 9.960 ~~COL$ 24.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/373340/)
+- **Pillars of Eternity II: Deadfire - Beast of Winter** (Steam PC, dlc) — COL$ 29.960 ~~COL$ 74.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/821940/)
 - **Ara: History Untold, Exclusive Leader Collection** (Steam PC, dlc) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3158790/)
 - **Ara: History Untold, Modern Leader Skin Pack** (Steam PC, dlc) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3143390/)
 - **Ara: History Untold Official Game Soundtrack** (Steam PC, base) — COL$ 5.996 ~~COL$ 14.990~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/3144790/)
@@ -100,8 +100,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 111.920 ~~$ 139.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
 - **Halo Wars 2: edición completa** (Xbox PC, base) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
-- 🆕 **Minecraft: Java & Bedrock Edition Deluxe Collection** (Xbox PC, bundle) — $ 129.368 ~~$ 161.710~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N57DRSG4HNZ?rtc=1)
-- 🆕 **Minecraft: Java & Bedrock Edition Ultimate Collection** (Xbox PC, bundle) — $ 161.717 ~~$ 202.147~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKHWG572L31?rtc=1)
+- **Minecraft: Java & Bedrock Edition Deluxe Collection** (Xbox PC, bundle) — $ 129.368 ~~$ 161.710~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N57DRSG4HNZ?rtc=1)
+- **Minecraft: Java & Bedrock Edition Ultimate Collection** (Xbox PC, bundle) — $ 161.717 ~~$ 202.147~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKHWG572L31?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
@@ -109,7 +109,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 
 ## SteamVR
-- **SUPERHOT VR** (SteamVR, base) — COL$ 19.999 ~~COL$ 49.999~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/617830/)
+- Sin ofertas hoy
 
 ## Meta Quest Store
 - Sin ofertas hoy
