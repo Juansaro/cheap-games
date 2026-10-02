@@ -13,8 +13,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-01T20:03:06.508Z",
-  "updatedAtBogota": "2026-10-01 15:03",
+  "updatedAt": "2026-10-02T19:44:41.204Z",
+  "updatedAtBogota": "2026-10-02 14:44",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -41,7 +41,7 @@
         "steam-appdetails"
       ],
       "publisher": "Valve",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-617830",
@@ -65,7 +65,7 @@
         "steam-appdetails"
       ],
       "publisher": "SUPERHOT Team",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1079800",
@@ -89,7 +89,7 @@
         "steam-appdetails"
       ],
       "publisher": "Cloudhead Games Ltd.",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1579880",
@@ -113,7 +113,7 @@
         "steam-appdetails"
       ],
       "publisher": "Funktronic Labs",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-858260",
@@ -137,7 +137,7 @@
         "steam-appdetails"
       ],
       "publisher": "Schell Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1012790",
@@ -161,7 +161,7 @@
         "steam-appdetails"
       ],
       "publisher": "CM IMMERSIVE",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1408230",
@@ -185,7 +185,7 @@
         "steam-appdetails"
       ],
       "publisher": "Mighty Coconut",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-488310",
@@ -209,7 +209,7 @@
         "steam-appdetails"
       ],
       "publisher": "For Fun Labs",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1957780",
@@ -233,7 +233,7 @@
         "steam-appdetails"
       ],
       "publisher": "Neem Interactive",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2307350",
@@ -257,7 +257,7 @@
         "steam-appdetails"
       ],
       "publisher": "CM IMMERSIVE",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-555160",
@@ -281,7 +281,7 @@
         "steam-appdetails"
       ],
       "publisher": "Vankrupt Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1592190",
@@ -305,7 +305,7 @@
         "steam-appdetails"
       ],
       "publisher": "Stress Level Zero",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-823500",
@@ -329,7 +329,7 @@
         "steam-appdetails"
       ],
       "publisher": "Stress Level Zero",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-629730",
@@ -353,7 +353,7 @@
         "steam-appdetails"
       ],
       "publisher": "WarpFrog",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-01T20:03:06.508Z",
-  "updatedAtBogota": "2026-10-01 15:03",
+  "updatedAt": "2026-10-02T19:44:41.204Z",
+  "updatedAtBogota": "2026-10-02 14:44",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -67,7 +67,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1057090",
@@ -117,7 +117,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-259130",
@@ -142,7 +142,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-314160",
@@ -167,7 +167,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-379720",
@@ -192,7 +192,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-607080",
@@ -217,32 +217,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
-    },
-    {
-      "id": "steam-236090",
-      "storeId": "236090",
-      "name": "Dust: An Elysian Tail",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 6400,
-      "pricePrevious": 32000,
-      "discountPercent": 80,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 6.400",
-      "pricePreviousLabel": "COL$ 32.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/236090/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/header.jpg?t=1667838728",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-480490",
@@ -267,7 +242,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-601430",
@@ -292,7 +267,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-403640",
@@ -317,7 +292,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-614570",
@@ -342,7 +317,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1252330",
@@ -367,7 +342,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-548570",
@@ -392,32 +367,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-225260",
-      "storeId": "225260",
-      "name": "Brutal Legend",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 6400,
-      "pricePrevious": 32000,
-      "discountPercent": 80,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 6.400",
-      "pricePreviousLabel": "COL$ 32.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/225260/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/header.jpg?t=1787713082",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-316790",
@@ -442,24 +392,24 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "steam-3830",
-      "storeId": "3830",
-      "name": "Psychonauts",
+      "id": "steam-225260",
+      "storeId": "225260",
+      "name": "Brutal Legend",
       "platform": "Steam PC",
       "kind": "base",
-      "priceCurrent": 4700,
-      "pricePrevious": 23500,
+      "priceCurrent": 6400,
+      "pricePrevious": 32000,
       "discountPercent": 80,
       "currency": "COP",
-      "priceCurrentLabel": "COL$ 4.700",
-      "pricePreviousLabel": "COL$ 23.500",
+      "priceCurrentLabel": "COL$ 6.400",
+      "pricePreviousLabel": "COL$ 32.000",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/3830/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1787713000",
+      "url": "https://store.steampowered.com/app/225260/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/header.jpg?t=1787713082",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -467,7 +417,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-388210",
@@ -492,7 +442,32 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-3830",
+      "storeId": "3830",
+      "name": "Psychonauts",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 4700,
+      "pricePrevious": 23500,
+      "discountPercent": 80,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 4.700",
+      "pricePreviousLabel": "COL$ 23.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/3830/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1787713000",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Double Fine Productions",
+      "isNew": false
     },
     {
       "id": "steam-228360",
@@ -517,7 +492,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-788690",
@@ -542,7 +517,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-232790",
@@ -567,7 +542,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-221810",
@@ -592,32 +567,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
-    },
-    {
-      "id": "steam-115100",
-      "storeId": "115100",
-      "name": "Costume Quest",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 4700,
-      "pricePrevious": 23500,
-      "discountPercent": 80,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 4.700",
-      "pricePreviousLabel": "COL$ 23.500",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/115100/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1787713161",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-115120",
@@ -642,7 +592,32 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-115100",
+      "storeId": "115100",
+      "name": "Costume Quest",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 4700,
+      "pricePrevious": 23500,
+      "discountPercent": 80,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 4.700",
+      "pricePreviousLabel": "COL$ 23.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/115100/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1787713161",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Double Fine Productions",
+      "isNew": false
     },
     {
       "id": "steam-115110",
@@ -667,7 +642,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-246110",
@@ -692,57 +667,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
-    },
-    {
-      "id": "steam-3838",
-      "storeId": "3838",
-      "name": "Psychonauts Original Soundtrack",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 2380,
-      "pricePrevious": 11900,
-      "discountPercent": 80,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 2.380",
-      "pricePreviousLabel": "COL$ 11.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/3838/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838/header.jpg?t=1581625159",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Double Fine Productions",
-      "isNew": true
-    },
-    {
-      "id": "steam-246070",
-      "storeId": "246070",
-      "name": "Hack 'n' Slash",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 6000,
-      "pricePrevious": 30000,
-      "discountPercent": 80,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 6.000",
-      "pricePreviousLabel": "COL$ 30.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/246070/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246070/header.jpg?t=1776459006",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-225270",
@@ -767,7 +692,57 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-3838",
+      "storeId": "3838",
+      "name": "Psychonauts Original Soundtrack",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 2380,
+      "pricePrevious": 11900,
+      "discountPercent": 80,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 2.380",
+      "pricePreviousLabel": "COL$ 11.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/3838/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838/header.jpg?t=1581625159",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Double Fine Productions",
+      "isNew": false
+    },
+    {
+      "id": "steam-246070",
+      "storeId": "246070",
+      "name": "Hack 'n' Slash",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 6000,
+      "pricePrevious": 30000,
+      "discountPercent": 80,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 6.000",
+      "pricePreviousLabel": "COL$ 30.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/246070/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246070/header.jpg?t=1776459006",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Double Fine Productions",
+      "isNew": false
     },
     {
       "id": "steam-246090",
@@ -792,7 +767,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3839",
@@ -817,7 +792,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-240760",
@@ -842,7 +817,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-41900",
@@ -867,7 +842,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-875800",
@@ -892,7 +867,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-596231",
@@ -917,7 +892,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-843260",
@@ -942,7 +917,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1151340",
@@ -967,7 +942,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2461850",
@@ -1017,7 +992,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-387290",
@@ -1095,6 +1070,56 @@
       "isNew": false
     },
     {
+      "id": "steam-847370",
+      "storeId": "847370",
+      "name": "Sunset Overdrive",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 9975,
+      "pricePrevious": 39900,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.975",
+      "pricePreviousLabel": "COL$ 39.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/847370/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-287450",
+      "storeId": "287450",
+      "name": "Rise of Nations: Extended Edition",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 10000,
+      "pricePrevious": 40000,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 10.000",
+      "pricePreviousLabel": "COL$ 40.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/287450/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287450/header.jpg?t=1564604770",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
       "id": "steam-414340",
       "storeId": "414340",
       "name": "Hellblade: Senua's Sacrifice",
@@ -1120,56 +1145,6 @@
       "isNew": false
     },
     {
-      "id": "steam-847370",
-      "storeId": "847370",
-      "name": "Sunset Overdrive",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 9975,
-      "pricePrevious": 39900,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.975",
-      "pricePreviousLabel": "COL$ 39.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/847370/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-287450",
-      "storeId": "287450",
-      "name": "Rise of Nations: Extended Edition",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 10000,
-      "pricePrevious": 40000,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 10.000",
-      "pricePreviousLabel": "COL$ 40.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/287450/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287450/header.jpg?t=1564604770",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
       "id": "steam-2625580",
       "storeId": "2625580",
       "name": "Killer Instinct: Anniversary Edition",
@@ -1192,32 +1167,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-1341820",
-      "storeId": "1341820",
-      "name": "As Dusk Falls",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 32250,
-      "pricePrevious": 129000,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 32.250",
-      "pricePreviousLabel": "COL$ 129.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1341820/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341820/header.jpg?t=1718812917",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-329430",
@@ -1242,7 +1192,32 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-1341820",
+      "storeId": "1341820",
+      "name": "As Dusk Falls",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 32250,
+      "pricePrevious": 129000,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 32.250",
+      "pricePreviousLabel": "COL$ 129.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1341820/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341820/header.jpg?t=1718812917",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
     },
     {
       "id": "steam-306130",
@@ -1267,7 +1242,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-611670",
@@ -1292,7 +1267,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-201810",
@@ -1317,7 +1292,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-268050",
@@ -1342,7 +1317,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-205100",
@@ -1367,57 +1342,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-22330",
-      "storeId": "22330",
-      "name": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 8725,
-      "pricePrevious": 34900,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 8.725",
-      "pricePreviousLabel": "COL$ 34.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/22330/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22330/header.jpg?t=1745343031",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-1475810",
-      "storeId": "1475810",
-      "name": "Ghostwire: Tokyo",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 45000,
-      "pricePrevious": 180000,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 45.000",
-      "pricePreviousLabel": "COL$ 180.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1475810/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg?t=1750779600",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-350080",
@@ -1442,24 +1367,24 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "steam-38420",
-      "storeId": "38420",
-      "name": "Fallout Tactics: Brotherhood of Steel",
+      "id": "steam-22330",
+      "storeId": "22330",
+      "name": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
       "platform": "Steam PC",
       "kind": "base",
-      "priceCurrent": 5875,
-      "pricePrevious": 23500,
+      "priceCurrent": 8725,
+      "pricePrevious": 34900,
       "discountPercent": 75,
       "currency": "COP",
-      "priceCurrentLabel": "COL$ 5.875",
-      "pricePreviousLabel": "COL$ 23.500",
+      "priceCurrentLabel": "COL$ 8.725",
+      "pricePreviousLabel": "COL$ 34.900",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/38420/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38420/header.jpg?t=1572025647",
+      "url": "https://store.steampowered.com/app/22330/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22330/header.jpg?t=1745343031",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -1467,7 +1392,32 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-1475810",
+      "storeId": "1475810",
+      "name": "Ghostwire: Tokyo",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 45000,
+      "pricePrevious": 180000,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 45.000",
+      "pricePreviousLabel": "COL$ 180.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1475810/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg?t=1750779600",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
     },
     {
       "id": "steam-1056960",
@@ -1492,7 +1442,32 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-38420",
+      "storeId": "38420",
+      "name": "Fallout Tactics: Brotherhood of Steel",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 5875,
+      "pricePrevious": 23500,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 5.875",
+      "pricePreviousLabel": "COL$ 23.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/38420/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38420/header.jpg?t=1572025647",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
     },
     {
       "id": "steam-22300",
@@ -1510,6 +1485,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/22300/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
+    },
+    {
+      "id": "steam-38410",
+      "storeId": "38410",
+      "name": "Fallout 2: A Post Nuclear Role Playing Game",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 5875,
+      "pricePrevious": 23500,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 5.875",
+      "pricePreviousLabel": "COL$ 23.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/38410/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/header.jpg?t=1572025546",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -1542,31 +1542,6 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-862810",
-      "storeId": "862810",
-      "name": "Hellblade: Senua's Sacrifice Original Soundtrack",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 2975,
-      "pricePrevious": 11900,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 2.975",
-      "pricePreviousLabel": "COL$ 11.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/862810/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Ninja Theory",
       "isNew": false
     },
     {
@@ -1585,6 +1560,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/3199630/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199630/header.jpg?t=1780855536",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Ninja Theory",
+      "isNew": false
+    },
+    {
+      "id": "steam-862810",
+      "storeId": "862810",
+      "name": "Hellblade: Senua's Sacrifice Original Soundtrack",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 2975,
+      "pricePrevious": 11900,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 2.975",
+      "pricePreviousLabel": "COL$ 11.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/862810/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -1642,7 +1642,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-320240",
@@ -1667,7 +1667,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-224460",
@@ -1717,7 +1717,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-766320",
@@ -1742,7 +1742,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1091980",
@@ -1767,7 +1767,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-596230",
@@ -1792,7 +1792,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1244950",
@@ -1817,7 +1817,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-288470",
@@ -1842,7 +1842,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-719040",
@@ -1867,32 +1867,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
-    },
-    {
-      "id": "steam-1642320",
-      "storeId": "1642320",
-      "name": "Wasteland 3 Expansion Pass",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9300,
-      "pricePrevious": 31000,
-      "discountPercent": 70,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.300",
-      "pricePreviousLabel": "COL$ 31.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1642320/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642320/header.jpg?t=1673998440",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1382210",
@@ -1917,7 +1892,32 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-1642320",
+      "storeId": "1642320",
+      "name": "Wasteland 3 Expansion Pass",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9300,
+      "pricePrevious": 31000,
+      "discountPercent": 70,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.300",
+      "pricePreviousLabel": "COL$ 31.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1642320/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642320/header.jpg?t=1673998440",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "inXile Entertainment",
+      "isNew": false
     },
     {
       "id": "steam-9060",
@@ -1942,7 +1942,7 @@
         "steam-watchlist"
       ],
       "publisher": "id Software",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-782330",
@@ -1967,7 +1967,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-22370",
@@ -1992,7 +1992,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-611660",
@@ -2017,7 +2017,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2210",
@@ -2042,7 +2042,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1172620",
@@ -2067,7 +2067,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1250410",
@@ -2092,7 +2092,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1551360",
@@ -2117,7 +2117,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2440510",
@@ -2142,7 +2142,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-377160",
@@ -2167,7 +2167,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1928870",
@@ -2192,31 +2192,6 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-1920490",
-      "storeId": "1920490",
-      "name": "The Outer Worlds: Spacer's Choice Edition",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 71960,
-      "pricePrevious": 179900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 71.960",
-      "pricePreviousLabel": "COL$ 179.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1920490/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920490/header.jpg?t=1780589157",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Private Division",
       "isNew": false
     },
     {
@@ -2245,6 +2220,31 @@
       "isNew": false
     },
     {
+      "id": "steam-1920490",
+      "storeId": "1920490",
+      "name": "The Outer Worlds: Spacer's Choice Edition",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 71960,
+      "pricePrevious": 179900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 71.960",
+      "pricePreviousLabel": "COL$ 179.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1920490/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920490/header.jpg?t=1780589157",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Private Division",
+      "isNew": false
+    },
+    {
       "id": "steam-291650",
       "storeId": "291650",
       "name": "Pillars of Eternity",
@@ -2270,6 +2270,31 @@
       "isNew": false
     },
     {
+      "id": "steam-1613280",
+      "storeId": "1613280",
+      "name": "Forza Horizon 5: Hot Wheels",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 31960,
+      "pricePrevious": 79900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 31.960",
+      "pricePreviousLabel": "COL$ 79.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1613280/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613280/header.jpg?t=1703992111",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": true
+    },
+    {
       "id": "steam-1258740",
       "storeId": "1258740",
       "name": "Ori and the Will of the Wisps Soundtrack",
@@ -2292,32 +2317,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-2280",
-      "storeId": "2280",
-      "name": "DOOM + DOOM II",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 15999,
-      "pricePrevious": 39999,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 15.999",
-      "pricePreviousLabel": "COL$ 39.999",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2280/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg?t=1790284857",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-22320",
@@ -2342,7 +2342,32 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-2280",
+      "storeId": "2280",
+      "name": "DOOM + DOOM II",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 15999,
+      "pricePrevious": 39999,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 15.999",
+      "pricePreviousLabel": "COL$ 39.999",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/2280/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg?t=1790284857",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
     },
     {
       "id": "steam-208200",
@@ -2367,7 +2392,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2310",
@@ -2392,32 +2417,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-2320",
-      "storeId": "2320",
-      "name": "Quake II",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 12000,
-      "pricePrevious": 30000,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 12.000",
-      "pricePreviousLabel": "COL$ 30.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2320/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1148590",
@@ -2442,24 +2442,24 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "steam-2200",
-      "storeId": "2200",
-      "name": "Quake III Arena",
+      "id": "steam-2320",
+      "storeId": "2320",
+      "name": "Quake II",
       "platform": "Steam PC",
       "kind": "base",
-      "priceCurrent": 13160,
-      "pricePrevious": 32900,
+      "priceCurrent": 12000,
+      "pricePrevious": 30000,
       "discountPercent": 60,
       "currency": "COP",
-      "priceCurrentLabel": "COL$ 13.160",
-      "pricePreviousLabel": "COL$ 32.900",
+      "priceCurrentLabel": "COL$ 12.000",
+      "pricePreviousLabel": "COL$ 30.000",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2200/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg?t=1782164859",
+      "url": "https://store.steampowered.com/app/2320/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -2467,7 +2467,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-514800",
@@ -2520,31 +2520,6 @@
       "isNew": false
     },
     {
-      "id": "steam-854220",
-      "storeId": "854220",
-      "name": "Pillars of Eternity II: Deadfire - Expansion Pass",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 9960,
-      "pricePrevious": 24900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 9.960",
-      "pricePreviousLabel": "COL$ 24.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/854220/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854220/header.jpg?t=1783358009",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Versus Evil",
-      "isNew": false
-    },
-    {
       "id": "steam-854290",
       "storeId": "854290",
       "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
@@ -2560,6 +2535,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/854290/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Versus Evil",
+      "isNew": false
+    },
+    {
+      "id": "steam-854220",
+      "storeId": "854220",
+      "name": "Pillars of Eternity II: Deadfire - Expansion Pass",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9960,
+      "pricePrevious": 24900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.960",
+      "pricePreviousLabel": "COL$ 24.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/854220/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854220/header.jpg?t=1783358009",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -2642,7 +2642,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1593330",
@@ -2667,7 +2667,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1934680",
@@ -2692,7 +2692,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-962130",
@@ -2717,7 +2717,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-22380",
@@ -2742,7 +2742,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3017860",
@@ -2767,7 +2767,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1205520",
@@ -2817,31 +2817,6 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-1449110",
-      "storeId": "1449110",
-      "name": "The Outer Worlds 2",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 139950,
-      "pricePrevious": 279900,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 139.950",
-      "pricePreviousLabel": "COL$ 279.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1449110/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/fe273e39cbaf4997d1c8e53879800f07dba0ee03/header.jpg?t=1761760147",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
       "isNew": false
     },
     {
@@ -2860,6 +2835,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/2627260/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627260/header.jpg?t=1772643576",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-1449110",
+      "storeId": "1449110",
+      "name": "The Outer Worlds 2",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 139950,
+      "pricePrevious": 279900,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 139.950",
+      "pricePreviousLabel": "COL$ 279.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1449110/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/fe273e39cbaf4997d1c8e53879800f07dba0ee03/header.jpg?t=1761760147",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -2892,7 +2892,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2141580",
@@ -2917,7 +2917,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2555420",
@@ -2942,7 +2942,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1746860",
@@ -2967,32 +2967,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-974580",
-      "storeId": "974580",
-      "name": "We Happy Few - Lightbearer",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 12715,
-      "pricePrevious": 25430,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 12.715",
-      "pricePreviousLabel": "COL$ 25.430",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/974580/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1024770",
@@ -3017,7 +2992,32 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-974580",
+      "storeId": "974580",
+      "name": "We Happy Few - Lightbearer",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 12715,
+      "pricePrevious": 25430,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 12.715",
+      "pricePreviousLabel": "COL$ 25.430",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/974580/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Compulsion Games",
+      "isNew": false
     },
     {
       "id": "steam-974570",
@@ -3042,7 +3042,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-224462",
@@ -3092,7 +3092,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-908420",
@@ -3117,7 +3117,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1191060",
@@ -3142,7 +3142,7 @@
         "steam-watchlist"
       ],
       "publisher": "inXile Entertainment",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1716740",
@@ -3167,7 +3167,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2677660",
@@ -3192,7 +3192,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2457220",
@@ -3242,7 +3242,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-813780",
@@ -3267,7 +3267,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1466860",
@@ -3292,32 +3292,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-3144890",
-      "storeId": "3144890",
-      "name": "Age of Empires IV: Knights of Cross and Rose ",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 30753,
-      "pricePrevious": 45900,
-      "discountPercent": 33,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 30.753",
-      "pricePreviousLabel": "COL$ 45.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/3144890/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3144890/00a9c6183dbd43e5579792a37cfd95dcfa321b8f/header.jpg?t=1744752229",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-4197940",
@@ -3342,7 +3317,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3793540",
@@ -3367,7 +3342,32 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-3144890",
+      "storeId": "3144890",
+      "name": "Age of Empires IV: Knights of Cross and Rose ",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 30753,
+      "pricePrevious": 45900,
+      "discountPercent": 33,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 30.753",
+      "pricePreviousLabel": "COL$ 45.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/3144890/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3144890/00a9c6183dbd43e5579792a37cfd95dcfa321b8f/header.jpg?t=1744752229",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
     },
     {
       "id": "steam-2805520",
@@ -3392,7 +3392,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1017900",
@@ -3417,7 +3417,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2537590",
@@ -3442,7 +3442,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2623190",
@@ -3467,7 +3467,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3469450",
@@ -3492,7 +3492,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3043580",
@@ -3517,7 +3517,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1934570",
@@ -3542,7 +3542,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1165990",
@@ -3567,7 +3567,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3558820",
@@ -3592,7 +3592,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2483190",
@@ -3617,7 +3617,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2806050",
@@ -3635,6 +3635,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/2806050/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1786379031",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
+      "id": "steam-3219700",
+      "storeId": "3219700",
+      "name": "Age of Empires II: DE – The Last Chieftains",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 47920,
+      "pricePrevious": 59900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 47.920",
+      "pricePreviousLabel": "COL$ 59.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/3219700/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219700/22e272377fddcf6419874fe8d076690c35eb9896/header.jpg?t=1779961841",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -3667,32 +3692,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-3219700",
-      "storeId": "3219700",
-      "name": "Age of Empires II: DE – The Last Chieftains",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 47920,
-      "pricePrevious": 59900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 47.920",
-      "pricePreviousLabel": "COL$ 59.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/3219700/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219700/22e272377fddcf6419874fe8d076690c35eb9896/header.jpg?t=1779961841",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3067190",
@@ -3717,7 +3717,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-933110",
@@ -3742,7 +3742,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2661300",
@@ -3767,7 +3767,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

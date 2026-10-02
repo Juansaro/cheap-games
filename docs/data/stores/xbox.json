@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-01T20:03:06.508Z",
-  "updatedAtBogota": "2026-10-01 15:03",
+  "updatedAt": "2026-10-02T19:44:41.204Z",
+  "updatedAtBogota": "2026-10-02 14:44",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -368,7 +368,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P0SWLC2F1XJ",
@@ -393,7 +393,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PL9P3QZMRBM",
@@ -468,7 +468,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NNS5CDB6CVM",
@@ -593,7 +593,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PG0T8LFL7LH",
