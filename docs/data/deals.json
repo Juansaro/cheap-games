@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-02T19:44:41.204Z",
-  "updatedAtBogota": "2026-10-02 14:44",
-  "updatedAtDate": "2026-10-02",
+  "updatedAt": "2026-10-03T18:30:59.198Z",
+  "updatedAtBogota": "2026-10-03 13:30",
+  "updatedAtDate": "2026-10-03",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -337,31 +337,6 @@
           "isNew": false
         },
         {
-          "id": "steam-316790",
-          "storeId": "316790",
-          "name": "Grim Fandango Remastered",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 6400,
-          "pricePrevious": 32000,
-          "discountPercent": 80,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.400",
-          "pricePreviousLabel": "COL$ 32.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/316790/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Double Fine Productions",
-          "isNew": false
-        },
-        {
           "id": "steam-225260",
           "storeId": "225260",
           "name": "Brutal Legend",
@@ -377,6 +352,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/225260/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/header.jpg?t=1787713082",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Double Fine Productions",
+          "isNew": false
+        },
+        {
+          "id": "steam-316790",
+          "storeId": "316790",
+          "name": "Grim Fandango Remastered",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 6400,
+          "pricePrevious": 32000,
+          "discountPercent": 80,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.400",
+          "pricePreviousLabel": "COL$ 32.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/316790/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -537,31 +537,6 @@
           "isNew": false
         },
         {
-          "id": "steam-115120",
-          "storeId": "115120",
-          "name": "Iron Brigade",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 6400,
-          "pricePrevious": 32000,
-          "discountPercent": 80,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.400",
-          "pricePreviousLabel": "COL$ 32.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/115120/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115120/header.jpg?t=1776379597",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Double Fine Productions",
-          "isNew": false
-        },
-        {
           "id": "steam-115100",
           "storeId": "115100",
           "name": "Costume Quest",
@@ -577,6 +552,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/115100/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1787713161",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Double Fine Productions",
+          "isNew": false
+        },
+        {
+          "id": "steam-115120",
+          "storeId": "115120",
+          "name": "Iron Brigade",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 6400,
+          "pricePrevious": 32000,
+          "discountPercent": 80,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.400",
+          "pricePreviousLabel": "COL$ 32.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/115120/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115120/header.jpg?t=1776379597",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1037,31 +1037,6 @@
           "isNew": false
         },
         {
-          "id": "steam-847370",
-          "storeId": "847370",
-          "name": "Sunset Overdrive",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 9975,
-          "pricePrevious": 39900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.975",
-          "pricePreviousLabel": "COL$ 39.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/847370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-287450",
           "storeId": "287450",
           "name": "Rise of Nations: Extended Edition",
@@ -1077,6 +1052,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/287450/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287450/header.jpg?t=1564604770",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-847370",
+          "storeId": "847370",
+          "name": "Sunset Overdrive",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 9975,
+          "pricePrevious": 39900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.975",
+          "pricePreviousLabel": "COL$ 39.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/847370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1109,31 +1109,6 @@
             "steam-watchlist"
           ],
           "publisher": "Ninja Theory",
-          "isNew": false
-        },
-        {
-          "id": "steam-2625580",
-          "storeId": "2625580",
-          "name": "Killer Instinct: Anniversary Edition",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 32475,
-          "pricePrevious": 129900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 32.475",
-          "pricePreviousLabel": "COL$ 129.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2625580/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625580/header.jpg?t=1719434531",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
           "isNew": false
         },
         {
@@ -1177,6 +1152,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1341820/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341820/header.jpg?t=1718812917",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2625580",
+          "storeId": "2625580",
+          "name": "Killer Instinct: Anniversary Edition",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 32475,
+          "pricePrevious": 129900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 32.475",
+          "pricePreviousLabel": "COL$ 129.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2625580/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625580/header.jpg?t=1719434531",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1312,21 +1312,21 @@
           "isNew": false
         },
         {
-          "id": "steam-350080",
-          "storeId": "350080",
-          "name": "Wolfenstein: The Old Blood",
+          "id": "steam-1475810",
+          "storeId": "1475810",
+          "name": "Ghostwire: Tokyo",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 10000,
-          "pricePrevious": 40000,
+          "priceCurrent": 45000,
+          "pricePrevious": 180000,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 10.000",
-          "pricePreviousLabel": "COL$ 40.000",
+          "priceCurrentLabel": "COL$ 45.000",
+          "pricePreviousLabel": "COL$ 180.000",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/350080/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg?t=1750784023",
+          "url": "https://store.steampowered.com/app/1475810/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg?t=1750779600",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1362,46 +1362,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1475810",
-          "storeId": "1475810",
-          "name": "Ghostwire: Tokyo",
+          "id": "steam-350080",
+          "storeId": "350080",
+          "name": "Wolfenstein: The Old Blood",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 45000,
-          "pricePrevious": 180000,
+          "priceCurrent": 10000,
+          "pricePrevious": 40000,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 45.000",
-          "pricePreviousLabel": "COL$ 180.000",
+          "priceCurrentLabel": "COL$ 10.000",
+          "pricePreviousLabel": "COL$ 40.000",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1475810/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg?t=1750779600",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
-          "id": "steam-1056960",
-          "storeId": "1056960",
-          "name": "Wolfenstein: Youngblood",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 15000,
-          "pricePrevious": 60000,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 15.000",
-          "pricePreviousLabel": "COL$ 60.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1056960/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056960/header.jpg?t=1761681484",
+          "url": "https://store.steampowered.com/app/350080/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg?t=1750784023",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1437,6 +1412,31 @@
           "isNew": false
         },
         {
+          "id": "steam-1056960",
+          "storeId": "1056960",
+          "name": "Wolfenstein: Youngblood",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 15000,
+          "pricePrevious": 60000,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 15.000",
+          "pricePreviousLabel": "COL$ 60.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1056960/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056960/header.jpg?t=1761681484",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
           "id": "steam-22300",
           "storeId": "22300",
           "name": "Fallout 3",
@@ -1452,6 +1452,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/22300/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-38400",
+          "storeId": "38400",
+          "name": "Fallout: A Post Nuclear Role Playing Game",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 5875,
+          "pricePrevious": 23500,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.875",
+          "pricePreviousLabel": "COL$ 23.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/38400/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg?t=1572025441",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1484,56 +1509,6 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-38400",
-          "storeId": "38400",
-          "name": "Fallout: A Post Nuclear Role Playing Game",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 5875,
-          "pricePrevious": 23500,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 5.875",
-          "pricePreviousLabel": "COL$ 23.500",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/38400/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg?t=1572025441",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
-          "id": "steam-3199630",
-          "storeId": "3199630",
-          "name": "Hellblade II: Senua’s Saga Soundtrack",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 6500,
-          "pricePrevious": 26000,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.500",
-          "pricePreviousLabel": "COL$ 26.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/3199630/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199630/header.jpg?t=1780855536",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Ninja Theory",
           "isNew": false
         },
         {
@@ -1552,6 +1527,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/862810/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Ninja Theory",
+          "isNew": false
+        },
+        {
+          "id": "steam-3199630",
+          "storeId": "3199630",
+          "name": "Hellblade II: Senua’s Saga Soundtrack",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 6500,
+          "pricePrevious": 26000,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.500",
+          "pricePreviousLabel": "COL$ 26.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3199630/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199630/header.jpg?t=1780855536",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1987,31 +1987,6 @@
           "isNew": false
         },
         {
-          "id": "steam-2210",
-          "storeId": "2210",
-          "name": "Quake 4",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 10857,
-          "pricePrevious": 32900,
-          "discountPercent": 67,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 10.857",
-          "pricePreviousLabel": "COL$ 32.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2210/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210/header.jpg?t=1664372514",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-1172620",
           "storeId": "1172620",
           "name": "Sea of Thieves: 2026 Edition",
@@ -2162,31 +2137,6 @@
           "isNew": false
         },
         {
-          "id": "steam-560130",
-          "storeId": "560130",
-          "name": "Pillars of Eternity II: Deadfire",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 19960,
-          "pricePrevious": 49900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 19.960",
-          "pricePreviousLabel": "COL$ 49.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/560130/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/header.jpg?t=1783357804",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": false
-        },
-        {
           "id": "steam-1920490",
           "storeId": "1920490",
           "name": "The Outer Worlds: Spacer's Choice Edition",
@@ -2209,6 +2159,31 @@
             "steam-watchlist"
           ],
           "publisher": "Private Division",
+          "isNew": false
+        },
+        {
+          "id": "steam-560130",
+          "storeId": "560130",
+          "name": "Pillars of Eternity II: Deadfire",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 19960,
+          "pricePrevious": 49900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 19.960",
+          "pricePreviousLabel": "COL$ 49.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/560130/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/header.jpg?t=1783357804",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
           "isNew": false
         },
         {
@@ -2235,31 +2210,6 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
-        },
-        {
-          "id": "steam-1613280",
-          "storeId": "1613280",
-          "name": "Forza Horizon 5: Hot Wheels",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 31960,
-          "pricePrevious": 79900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 31.960",
-          "pricePreviousLabel": "COL$ 79.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1613280/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613280/header.jpg?t=1703992111",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
         },
         {
           "id": "steam-1258740",
@@ -2387,21 +2337,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1148590",
-          "storeId": "1148590",
-          "name": "DOOM 64",
+          "id": "steam-2200",
+          "storeId": "2200",
+          "name": "Quake III Arena",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 5960,
-          "pricePrevious": 14900,
+          "priceCurrent": 13160,
+          "pricePrevious": 32900,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 5.960",
-          "pricePreviousLabel": "COL$ 14.900",
+          "priceCurrentLabel": "COL$ 13.160",
+          "pricePreviousLabel": "COL$ 32.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1148590/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/header.jpg?t=1750784988",
+          "url": "https://store.steampowered.com/app/2200/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg?t=1782164859",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -2409,7 +2359,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": false
+          "isNew": true
         },
         {
           "id": "steam-2320",
@@ -2427,6 +2377,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2320/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-1148590",
+          "storeId": "1148590",
+          "name": "DOOM 64",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 5960,
+          "pricePrevious": 14900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.960",
+          "pricePreviousLabel": "COL$ 14.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1148590/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/header.jpg?t=1750784988",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -2487,31 +2462,6 @@
           "isNew": false
         },
         {
-          "id": "steam-854290",
-          "storeId": "854290",
-          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 29960,
-          "pricePrevious": 74900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 29.960",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/854290/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": false
-        },
-        {
           "id": "steam-854220",
           "storeId": "854220",
           "name": "Pillars of Eternity II: Deadfire - Expansion Pass",
@@ -2527,6 +2477,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/854220/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854220/header.jpg?t=1783358009",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-854290",
+          "storeId": "854290",
+          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29960,
+          "pricePrevious": 74900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.960",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/854290/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -2837,31 +2812,6 @@
           "isNew": false
         },
         {
-          "id": "steam-1959430",
-          "storeId": "1959430",
-          "name": "Age of Empires IV:  The Sultans Ascend",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 22950,
-          "pricePrevious": 45900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 22.950",
-          "pricePreviousLabel": "COL$ 45.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1959430/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959430/header.jpg?t=1744752040",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-2141580",
           "storeId": "2141580",
           "name": "Age of Empires II: Definitive Edition - Return of Rome",
@@ -2877,6 +2827,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2141580/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141580/header.jpg?t=1779956620",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-1959430",
+          "storeId": "1959430",
+          "name": "Age of Empires IV:  The Sultans Ascend",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 22950,
+          "pricePrevious": 45900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 22.950",
+          "pricePreviousLabel": "COL$ 45.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1959430/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959430/header.jpg?t=1744752040",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -2910,6 +2885,31 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
+        },
+        {
+          "id": "steam-2991180",
+          "storeId": "2991180",
+          "name": "Age of Mythology: Retold - Heavenly Spear",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29950,
+          "pricePrevious": 59900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.950",
+          "pricePreviousLabel": "COL$ 59.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2991180/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991180/7ecfd8316a70240409a23f90341d36e6986cf421/header.jpg?t=1777996730",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-1746860",
@@ -3262,31 +3262,6 @@
           "isNew": false
         },
         {
-          "id": "steam-4197940",
-          "storeId": "4197940",
-          "name": "Age of Mythology: Retold - Obsidian Mirror",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 40133,
-          "pricePrevious": 59900,
-          "discountPercent": 33,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 40.133",
-          "pricePreviousLabel": "COL$ 59.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/4197940/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197940/312685e7b740571a3a96116fc21ce588c46f9924/header.jpg?t=1777938062",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-3793540",
           "storeId": "3793540",
           "name": "Age of Empires II: DE - Chronicles: Alexander the Great",
@@ -3302,6 +3277,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/3793540/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3793540/683dfb538eae5bfb79a82e08cf4a37a64145dbc5/header.jpg?t=1779956494",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-4197940",
+          "storeId": "4197940",
+          "name": "Age of Mythology: Retold - Obsidian Mirror",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 40133,
+          "pricePrevious": 59900,
+          "discountPercent": 33,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 40.133",
+          "pricePreviousLabel": "COL$ 59.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4197940/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197940/312685e7b740571a3a96116fc21ce588c46f9924/header.jpg?t=1777938062",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3637,31 +3637,6 @@
           "isNew": false
         },
         {
-          "id": "steam-3080080",
-          "storeId": "3080080",
-          "name": "Age of Empires II: DE - The Three Kingdoms ",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 47920,
-          "pricePrevious": 59900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 47.920",
-          "pricePreviousLabel": "COL$ 59.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/3080080/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080080/9f70cca2ecf66adaaf89488d680d3cbc160096a2/header.jpg?t=1779956515",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-3067190",
           "storeId": "3067190",
           "name": "Age of Empires IV: Dynasties of the East",
@@ -3677,6 +3652,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/3067190/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067190/e5a51a4de94d26876c658b59ca97cd62f278cd9d/header.jpg?t=1770056015",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-3080080",
+          "storeId": "3080080",
+          "name": "Age of Empires II: DE - The Three Kingdoms ",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 47920,
+          "pricePrevious": 59900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 47.920",
+          "pricePreviousLabel": "COL$ 59.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3080080/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080080/9f70cca2ecf66adaaf89488d680d3cbc160096a2/header.jpg?t=1779956515",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -6997,31 +6997,6 @@
           "isNew": false
         },
         {
-          "id": "steam-316790",
-          "storeId": "316790",
-          "name": "Grim Fandango Remastered",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 6400,
-          "pricePrevious": 32000,
-          "discountPercent": 80,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.400",
-          "pricePreviousLabel": "COL$ 32.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/316790/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Double Fine Productions",
-          "isNew": false
-        },
-        {
           "id": "steam-225260",
           "storeId": "225260",
           "name": "Brutal Legend",
@@ -7037,6 +7012,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/225260/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/header.jpg?t=1787713082",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Double Fine Productions",
+          "isNew": false
+        },
+        {
+          "id": "steam-316790",
+          "storeId": "316790",
+          "name": "Grim Fandango Remastered",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 6400,
+          "pricePrevious": 32000,
+          "discountPercent": 80,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.400",
+          "pricePreviousLabel": "COL$ 32.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/316790/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -7197,31 +7197,6 @@
           "isNew": false
         },
         {
-          "id": "steam-115120",
-          "storeId": "115120",
-          "name": "Iron Brigade",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 6400,
-          "pricePrevious": 32000,
-          "discountPercent": 80,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.400",
-          "pricePreviousLabel": "COL$ 32.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/115120/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115120/header.jpg?t=1776379597",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Double Fine Productions",
-          "isNew": false
-        },
-        {
           "id": "steam-115100",
           "storeId": "115100",
           "name": "Costume Quest",
@@ -7237,6 +7212,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/115100/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1787713161",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Double Fine Productions",
+          "isNew": false
+        },
+        {
+          "id": "steam-115120",
+          "storeId": "115120",
+          "name": "Iron Brigade",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 6400,
+          "pricePrevious": 32000,
+          "discountPercent": 80,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.400",
+          "pricePreviousLabel": "COL$ 32.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/115120/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115120/header.jpg?t=1776379597",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -7697,31 +7697,6 @@
           "isNew": false
         },
         {
-          "id": "steam-847370",
-          "storeId": "847370",
-          "name": "Sunset Overdrive",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 9975,
-          "pricePrevious": 39900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.975",
-          "pricePreviousLabel": "COL$ 39.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/847370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-287450",
           "storeId": "287450",
           "name": "Rise of Nations: Extended Edition",
@@ -7737,6 +7712,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/287450/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287450/header.jpg?t=1564604770",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-847370",
+          "storeId": "847370",
+          "name": "Sunset Overdrive",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 9975,
+          "pricePrevious": 39900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.975",
+          "pricePreviousLabel": "COL$ 39.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/847370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -7769,31 +7769,6 @@
             "steam-watchlist"
           ],
           "publisher": "Ninja Theory",
-          "isNew": false
-        },
-        {
-          "id": "steam-2625580",
-          "storeId": "2625580",
-          "name": "Killer Instinct: Anniversary Edition",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 32475,
-          "pricePrevious": 129900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 32.475",
-          "pricePreviousLabel": "COL$ 129.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2625580/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625580/header.jpg?t=1719434531",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
           "isNew": false
         },
         {
@@ -7837,6 +7812,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1341820/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341820/header.jpg?t=1718812917",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2625580",
+          "storeId": "2625580",
+          "name": "Killer Instinct: Anniversary Edition",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 32475,
+          "pricePrevious": 129900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 32.475",
+          "pricePreviousLabel": "COL$ 129.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2625580/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625580/header.jpg?t=1719434531",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -7972,21 +7972,21 @@
           "isNew": false
         },
         {
-          "id": "steam-350080",
-          "storeId": "350080",
-          "name": "Wolfenstein: The Old Blood",
+          "id": "steam-1475810",
+          "storeId": "1475810",
+          "name": "Ghostwire: Tokyo",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 10000,
-          "pricePrevious": 40000,
+          "priceCurrent": 45000,
+          "pricePrevious": 180000,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 10.000",
-          "pricePreviousLabel": "COL$ 40.000",
+          "priceCurrentLabel": "COL$ 45.000",
+          "pricePreviousLabel": "COL$ 180.000",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/350080/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg?t=1750784023",
+          "url": "https://store.steampowered.com/app/1475810/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg?t=1750779600",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8022,46 +8022,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1475810",
-          "storeId": "1475810",
-          "name": "Ghostwire: Tokyo",
+          "id": "steam-350080",
+          "storeId": "350080",
+          "name": "Wolfenstein: The Old Blood",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 45000,
-          "pricePrevious": 180000,
+          "priceCurrent": 10000,
+          "pricePrevious": 40000,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 45.000",
-          "pricePreviousLabel": "COL$ 180.000",
+          "priceCurrentLabel": "COL$ 10.000",
+          "pricePreviousLabel": "COL$ 40.000",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1475810/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg?t=1750779600",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
-          "id": "steam-1056960",
-          "storeId": "1056960",
-          "name": "Wolfenstein: Youngblood",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 15000,
-          "pricePrevious": 60000,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 15.000",
-          "pricePreviousLabel": "COL$ 60.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1056960/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056960/header.jpg?t=1761681484",
+          "url": "https://store.steampowered.com/app/350080/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg?t=1750784023",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8097,6 +8072,31 @@
           "isNew": false
         },
         {
+          "id": "steam-1056960",
+          "storeId": "1056960",
+          "name": "Wolfenstein: Youngblood",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 15000,
+          "pricePrevious": 60000,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 15.000",
+          "pricePreviousLabel": "COL$ 60.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1056960/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056960/header.jpg?t=1761681484",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
           "id": "steam-22300",
           "storeId": "22300",
           "name": "Fallout 3",
@@ -8112,6 +8112,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/22300/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-38400",
+          "storeId": "38400",
+          "name": "Fallout: A Post Nuclear Role Playing Game",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 5875,
+          "pricePrevious": 23500,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.875",
+          "pricePreviousLabel": "COL$ 23.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/38400/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg?t=1572025441",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8144,56 +8169,6 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-38400",
-          "storeId": "38400",
-          "name": "Fallout: A Post Nuclear Role Playing Game",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 5875,
-          "pricePrevious": 23500,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 5.875",
-          "pricePreviousLabel": "COL$ 23.500",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/38400/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg?t=1572025441",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
-          "id": "steam-3199630",
-          "storeId": "3199630",
-          "name": "Hellblade II: Senua’s Saga Soundtrack",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 6500,
-          "pricePrevious": 26000,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.500",
-          "pricePreviousLabel": "COL$ 26.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/3199630/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199630/header.jpg?t=1780855536",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Ninja Theory",
           "isNew": false
         },
         {
@@ -8212,6 +8187,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/862810/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862810/header.jpg?t=1646681906",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Ninja Theory",
+          "isNew": false
+        },
+        {
+          "id": "steam-3199630",
+          "storeId": "3199630",
+          "name": "Hellblade II: Senua’s Saga Soundtrack",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 6500,
+          "pricePrevious": 26000,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.500",
+          "pricePreviousLabel": "COL$ 26.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3199630/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199630/header.jpg?t=1780855536",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8647,31 +8647,6 @@
           "isNew": false
         },
         {
-          "id": "steam-2210",
-          "storeId": "2210",
-          "name": "Quake 4",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 10857,
-          "pricePrevious": 32900,
-          "discountPercent": 67,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 10.857",
-          "pricePreviousLabel": "COL$ 32.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2210/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210/header.jpg?t=1664372514",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-1172620",
           "storeId": "1172620",
           "name": "Sea of Thieves: 2026 Edition",
@@ -8822,31 +8797,6 @@
           "isNew": false
         },
         {
-          "id": "steam-560130",
-          "storeId": "560130",
-          "name": "Pillars of Eternity II: Deadfire",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 19960,
-          "pricePrevious": 49900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 19.960",
-          "pricePreviousLabel": "COL$ 49.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/560130/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/header.jpg?t=1783357804",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": false
-        },
-        {
           "id": "steam-1920490",
           "storeId": "1920490",
           "name": "The Outer Worlds: Spacer's Choice Edition",
@@ -8869,6 +8819,31 @@
             "steam-watchlist"
           ],
           "publisher": "Private Division",
+          "isNew": false
+        },
+        {
+          "id": "steam-560130",
+          "storeId": "560130",
+          "name": "Pillars of Eternity II: Deadfire",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 19960,
+          "pricePrevious": 49900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 19.960",
+          "pricePreviousLabel": "COL$ 49.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/560130/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/header.jpg?t=1783357804",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
           "isNew": false
         },
         {
@@ -8895,31 +8870,6 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
-        },
-        {
-          "id": "steam-1613280",
-          "storeId": "1613280",
-          "name": "Forza Horizon 5: Hot Wheels",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 31960,
-          "pricePrevious": 79900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 31.960",
-          "pricePreviousLabel": "COL$ 79.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1613280/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613280/header.jpg?t=1703992111",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
         },
         {
           "id": "steam-1258740",
@@ -9047,21 +8997,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1148590",
-          "storeId": "1148590",
-          "name": "DOOM 64",
+          "id": "steam-2200",
+          "storeId": "2200",
+          "name": "Quake III Arena",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 5960,
-          "pricePrevious": 14900,
+          "priceCurrent": 13160,
+          "pricePrevious": 32900,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 5.960",
-          "pricePreviousLabel": "COL$ 14.900",
+          "priceCurrentLabel": "COL$ 13.160",
+          "pricePreviousLabel": "COL$ 32.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1148590/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/header.jpg?t=1750784988",
+          "url": "https://store.steampowered.com/app/2200/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg?t=1782164859",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -9069,7 +9019,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": false
+          "isNew": true
         },
         {
           "id": "steam-2320",
@@ -9087,6 +9037,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2320/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-1148590",
+          "storeId": "1148590",
+          "name": "DOOM 64",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 5960,
+          "pricePrevious": 14900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.960",
+          "pricePreviousLabel": "COL$ 14.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1148590/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/header.jpg?t=1750784988",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -9147,31 +9122,6 @@
           "isNew": false
         },
         {
-          "id": "steam-854290",
-          "storeId": "854290",
-          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 29960,
-          "pricePrevious": 74900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 29.960",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/854290/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": false
-        },
-        {
           "id": "steam-854220",
           "storeId": "854220",
           "name": "Pillars of Eternity II: Deadfire - Expansion Pass",
@@ -9187,6 +9137,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/854220/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854220/header.jpg?t=1783358009",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-854290",
+          "storeId": "854290",
+          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29960,
+          "pricePrevious": 74900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.960",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/854290/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -9497,31 +9472,6 @@
           "isNew": false
         },
         {
-          "id": "steam-1959430",
-          "storeId": "1959430",
-          "name": "Age of Empires IV:  The Sultans Ascend",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 22950,
-          "pricePrevious": 45900,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 22.950",
-          "pricePreviousLabel": "COL$ 45.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1959430/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959430/header.jpg?t=1744752040",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-2141580",
           "storeId": "2141580",
           "name": "Age of Empires II: Definitive Edition - Return of Rome",
@@ -9537,6 +9487,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2141580/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141580/header.jpg?t=1779956620",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-1959430",
+          "storeId": "1959430",
+          "name": "Age of Empires IV:  The Sultans Ascend",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 22950,
+          "pricePrevious": 45900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 22.950",
+          "pricePreviousLabel": "COL$ 45.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1959430/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959430/header.jpg?t=1744752040",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -9570,6 +9545,31 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
+        },
+        {
+          "id": "steam-2991180",
+          "storeId": "2991180",
+          "name": "Age of Mythology: Retold - Heavenly Spear",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29950,
+          "pricePrevious": 59900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.950",
+          "pricePreviousLabel": "COL$ 59.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2991180/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991180/7ecfd8316a70240409a23f90341d36e6986cf421/header.jpg?t=1777996730",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-1746860",
@@ -9922,31 +9922,6 @@
           "isNew": false
         },
         {
-          "id": "steam-4197940",
-          "storeId": "4197940",
-          "name": "Age of Mythology: Retold - Obsidian Mirror",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 40133,
-          "pricePrevious": 59900,
-          "discountPercent": 33,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 40.133",
-          "pricePreviousLabel": "COL$ 59.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/4197940/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197940/312685e7b740571a3a96116fc21ce588c46f9924/header.jpg?t=1777938062",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-3793540",
           "storeId": "3793540",
           "name": "Age of Empires II: DE - Chronicles: Alexander the Great",
@@ -9962,6 +9937,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/3793540/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3793540/683dfb538eae5bfb79a82e08cf4a37a64145dbc5/header.jpg?t=1779956494",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-4197940",
+          "storeId": "4197940",
+          "name": "Age of Mythology: Retold - Obsidian Mirror",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 40133,
+          "pricePrevious": 59900,
+          "discountPercent": 33,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 40.133",
+          "pricePreviousLabel": "COL$ 59.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/4197940/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197940/312685e7b740571a3a96116fc21ce588c46f9924/header.jpg?t=1777938062",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -10297,31 +10297,6 @@
           "isNew": false
         },
         {
-          "id": "steam-3080080",
-          "storeId": "3080080",
-          "name": "Age of Empires II: DE - The Three Kingdoms ",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 47920,
-          "pricePrevious": 59900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 47.920",
-          "pricePreviousLabel": "COL$ 59.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/3080080/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080080/9f70cca2ecf66adaaf89488d680d3cbc160096a2/header.jpg?t=1779956515",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-3067190",
           "storeId": "3067190",
           "name": "Age of Empires IV: Dynasties of the East",
@@ -10337,6 +10312,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/3067190/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067190/e5a51a4de94d26876c658b59ca97cd62f278cd9d/header.jpg?t=1770056015",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-3080080",
+          "storeId": "3080080",
+          "name": "Age of Empires II: DE - The Three Kingdoms ",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 47920,
+          "pricePrevious": 59900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 47.920",
+          "pricePreviousLabel": "COL$ 59.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/3080080/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080080/9f70cca2ecf66adaaf89488d680d3cbc160096a2/header.jpg?t=1779956515",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
