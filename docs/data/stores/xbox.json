@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-06T19:59:12.499Z",
-  "updatedAtBogota": "2026-10-06 14:59",
+  "updatedAt": "2026-10-07T20:24:22.553Z",
+  "updatedAtBogota": "2026-10-07 15:24",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -1101,12 +1101,12 @@
       "name": "South of Midnight Weaver's Edition",
       "platform": "Xbox PC",
       "kind": "bundle",
-      "priceCurrent": 111920,
-      "pricePrevious": 139900,
+      "priceCurrent": 95999,
+      "pricePrevious": 119999,
       "discountPercent": 20,
       "currency": "COP",
-      "priceCurrentLabel": "$ 111.920",
-      "pricePreviousLabel": "$ 139.900",
+      "priceCurrentLabel": "$ 95.999",
+      "pricePreviousLabel": "$ 119.999",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1",
@@ -1118,7 +1118,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "xboxpc-9PLSBTJB87Q7",

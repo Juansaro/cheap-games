@@ -1,29 +1,54 @@
 {
-  "generatedAt": "2026-10-06 14:59",
+  "generatedAt": "2026-10-07 15:24",
   "deals": [
     {
-      "id": "steam-2200",
-      "storeId": "2200",
-      "name": "Quake III Arena",
+      "id": "steam-2991180",
+      "storeId": "2991180",
+      "name": "Age of Mythology: Retold - Heavenly Spear",
       "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 13160,
-      "pricePrevious": 32900,
-      "discountPercent": 60,
+      "kind": "dlc",
+      "priceCurrent": 29950,
+      "pricePrevious": 59900,
+      "discountPercent": 50,
       "currency": "COP",
-      "priceCurrentLabel": "COL$ 13.160",
-      "pricePreviousLabel": "COL$ 32.900",
+      "priceCurrentLabel": "COL$ 29.950",
+      "pricePreviousLabel": "COL$ 59.900",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/2200/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg?t=1782164859",
+      "url": "https://store.steampowered.com/app/2991180/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991180/7ecfd8316a70240409a23f90341d36e6986cf421/header.jpg?t=1777996730",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
         "steam-search-specials",
         "steam-watchlist"
       ],
-      "publisher": "Bethesda Softworks",
+      "publisher": "Xbox Game Studios",
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9PNX7LQ1SB8D",
+      "storeId": "9PNX7LQ1SB8D",
+      "name": "South of Midnight Weaver's Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 95999,
+      "pricePrevious": 119999,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 95.999",
+      "pricePreviousLabel": "$ 119.999",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.31103.14340290650177747.42141862-81a6-46e4-b449-e41f0e794821.fea196c0-c0b1-4a73-b33a-8c9107bc1e87",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
       "isNew": true
     }
   ]
