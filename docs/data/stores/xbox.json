@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-08T20:25:34.248Z",
-  "updatedAtBogota": "2026-10-08 15:25",
+  "updatedAt": "2026-10-09T19:57:52.076Z",
+  "updatedAtBogota": "2026-10-09 14:57",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -43,7 +43,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N9WZT3PJ27W",
@@ -68,7 +68,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NNLBL0T2Z43",
@@ -93,7 +93,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NBLGGH5WLR0",
@@ -118,7 +118,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NBLGGH515BD",
@@ -143,7 +143,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PLSBTJB87Q7",
@@ -168,6 +168,31 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": false,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9NF83PRZK6K3",
+      "storeId": "9NF83PRZK6K3",
+      "name": "Tell Me Why: Capítulo 1-3",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 22475,
+      "pricePrevious": 89900,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 22.475",
+      "pricePreviousLabel": "$ 89.900",
+      "dealEndsAt": "2026-10-15T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-10-15 04:59",
+      "url": "https://www.microsoft.com/store/productId/9NF83PRZK6K3?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.21560.13599353568798630.567fc0f9-a81e-456c-a9ee-55bb0bb153b5.d9345421-5f4f-4105-9a46-8116ee72535a",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios ",
+      "playAnywhere": true,
       "isNew": true
     },
     {
@@ -193,7 +218,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PDDRVKPF6KG",
@@ -218,7 +243,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PJTHRNVH62H",
@@ -243,7 +268,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NX6K9HN4F4K",
@@ -261,6 +286,31 @@
       "dealEndsAtBogota": "2026-10-15 04:59",
       "url": "https://www.microsoft.com/store/productId/9NX6K9HN4F4K?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.32118.14431229486160986.b3655366-4704-41dd-bb1b-0ea3f2425df6.808122ac-ca66-4ac7-8efc-134da0e929ca",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9P8RMKXRML7D",
+      "storeId": "9P8RMKXRML7D",
+      "name": "The Outer Worlds 2",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 139950,
+      "pricePrevious": 279900,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 139.950",
+      "pricePreviousLabel": "$ 279.900",
+      "dealEndsAt": "2026-10-15T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-10-15 04:59",
+      "url": "https://www.microsoft.com/store/productId/9P8RMKXRML7D?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.1625.14086924108488409.5098cc78-dcb3-4bc1-858f-48fa36bb7026.82fc166e-9b79-4523-90d9-560ddb388864",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -293,7 +343,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NFHQ2719J83",
@@ -318,7 +368,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P1HX37NMJLT",
@@ -343,7 +393,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MTLKM2DJMZ2",
@@ -368,7 +418,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N4XW3N02MNJ",
@@ -443,7 +493,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PN4DRJDLZT7",
@@ -468,7 +518,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MWNNM41MB6D",
@@ -543,7 +593,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NV2Q5P1L5CC",
@@ -793,7 +843,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NF62X1QH3CM",
@@ -818,7 +868,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PG0T8LFL7LH",
@@ -843,7 +893,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NFW7GND3WNZ",
@@ -868,7 +918,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PFRG44XZCFJ",
@@ -993,7 +1043,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PNX7LQ1SB8D",
@@ -1068,7 +1118,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N099DG3GHGW",

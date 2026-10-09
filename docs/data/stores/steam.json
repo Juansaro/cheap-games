@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-08T20:25:34.248Z",
-  "updatedAtBogota": "2026-10-08 15:25",
+  "updatedAt": "2026-10-09T19:57:52.076Z",
+  "updatedAtBogota": "2026-10-09 14:57",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -33,7 +33,7 @@
     "dealEndsAt": null,
     "dealEndsAtBogota": null,
     "url": "https://store.steampowered.com/app/976730/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1774466074",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1791569963",
     "confirmed": true,
     "sources": [
       "steam-appdetails",
@@ -242,7 +242,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1056990",
@@ -267,7 +267,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1057841",
@@ -292,7 +292,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-607080",
@@ -317,7 +317,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1726810",
@@ -342,7 +342,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1927960",
@@ -367,7 +367,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2155510",
@@ -392,7 +392,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-426820",
@@ -417,7 +417,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-3138470",
@@ -442,7 +442,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-224460",
@@ -467,7 +467,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-2677660",
@@ -517,7 +517,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1934570",
