@@ -1,6 +1,6 @@
-# Ofertas — 2026-10-09 14:57 (Bogotá)
+# Ofertas — 2026-10-10 14:06 (Bogotá)
 
-Última actualización: **2026-10-09 14:57** (America/Bogota).
+Última actualización: **2026-10-10 14:06** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -12,8 +12,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Psychonauts Original Soundtrack** (Steam PC, base) — COL$ 2.380 ~~COL$ 11.900~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/3838/)
 - **Psychonauts Original Score** (Steam PC, base) — COL$ 2.380 ~~COL$ 11.900~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/3839/)
 - **Wolfenstein: The New Order** (Steam PC, base) — COL$ 14.975 ~~COL$ 59.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/201810/)
-- **Wolfenstein: The Old Blood** (Steam PC, base) — COL$ 10.000 ~~COL$ 40.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/350080/)
 - **Wolfenstein: Youngblood** (Steam PC, base) — COL$ 15.000 ~~COL$ 60.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1056960/)
+- **Wolfenstein: The Old Blood** (Steam PC, base) — COL$ 10.000 ~~COL$ 40.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/350080/)
 - **Wolfenstein: Cyberpilot** (Steam PC, base) — COL$ 15.975 ~~COL$ 63.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1056970/)
 - **Wolfenstein: Youngblood - Deluxe Edition Upgrade** (Steam PC, dlc) — COL$ 8.750 ~~COL$ 35.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1056990/)
 - **Wolfenstein: Youngblood Deutsche Version - Deluxe Edition Contents** (Steam PC, dlc) — COL$ 8.750 ~~COL$ 35.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1057841/)
@@ -35,12 +35,12 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Halo Wars: Definitive Edition** (Xbox PC, bundle) — $ 9.975 ~~$ 39.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBLGGH5WLR0?rtc=1)
 - **Halo Wars 2: Standard Edition** (Xbox PC, bundle) — $ 49.975 ~~$ 199.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBLGGH515BD?rtc=1)
 - **Halo Wars 2: edición completa** (Xbox PC, base) — $ 58.725 ~~$ 234.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1)
-- 🆕 **Tell Me Why: Capítulo 1-3** (Xbox PC, base) — $ 22.475 ~~$ 89.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF83PRZK6K3?rtc=1)
+- **Tell Me Why: Capítulo 1-3** (Xbox PC, base) — $ 22.475 ~~$ 89.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF83PRZK6K3?rtc=1)
 - **Halo Infinite** (Xbox PC, base) — $ 85.767 ~~$ 259.900~~ (−67%) · [Ver oferta](https://www.microsoft.com/store/productId/9NP1P1WFS0LB?rtc=1)
 - **Ara History Untold: Anniversary Edition** (Xbox PC, bundle) — $ 59.960 ~~$ 149.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PDDRVKPF6KG?rtc=1)
 - **Grounded** (Xbox PC, base) — $ 89.950 ~~$ 179.900~~ (−50%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJTHRNVH62H?rtc=1)
 - **Pentiment** (Xbox PC, base) — $ 44.950 ~~$ 89.900~~ (−50%) · [Ver oferta](https://www.microsoft.com/store/productId/9NX6K9HN4F4K?rtc=1)
-- 🆕 **The Outer Worlds 2** (Xbox PC, base) — $ 139.950 ~~$ 279.900~~ (−50%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8RMKXRML7D?rtc=1)
+- **The Outer Worlds 2** (Xbox PC, base) — $ 139.950 ~~$ 279.900~~ (−50%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8RMKXRML7D?rtc=1)
 - **Avowed Standard Edition** (Xbox PC, bundle) — $ 119.940 ~~$ 199.900~~ (−40%) · [Ver oferta](https://www.microsoft.com/store/productId/9MSVPJCHHRPR?rtc=1)
 - **Edición Premium de Avowed** (Xbox PC, bundle) — $ 143.940 ~~$ 239.900~~ (−40%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFHQ2719J83?rtc=1)
 - **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 271.920 ~~$ 339.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
