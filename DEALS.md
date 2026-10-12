@@ -1,16 +1,21 @@
-# Ofertas — 2026-10-11 14:19 (Bogotá)
+# Ofertas — 2026-10-12 17:22 (Bogotá)
 
-Última actualización: **2026-10-11 14:19** (America/Bogota).
+Última actualización: **2026-10-12 17:22** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
-- Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
+- Precio actual (-75%): **COL$ 39.975** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
 - **Wolfenstein II: The New Colossus** (Steam PC, base) — COL$ 19.335 ~~COL$ 128.900~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/612880/)
 - **Psychonauts** (Steam PC, base) — COL$ 4.700 ~~COL$ 23.500~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/3830/)
 - **Psychonauts Original Soundtrack** (Steam PC, base) — COL$ 2.380 ~~COL$ 11.900~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/3838/)
 - **Psychonauts Original Score** (Steam PC, base) — COL$ 2.380 ~~COL$ 11.900~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/3839/)
+- 🆕 **Halo 2: Anniversary** (Steam PC, dlc) — COL$ 9.997 ~~COL$ 39.990~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1064270/)
+- 🆕 **Halo 3** (Steam PC, dlc) — COL$ 9.997 ~~COL$ 39.990~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1064271/)
+- 🆕 **Halo 3: ODST** (Steam PC, dlc) — COL$ 4.997 ~~COL$ 19.990~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1064272/)
+- 🆕 **Halo: Combat Evolved Anniversary** (Steam PC, dlc) — COL$ 9.997 ~~COL$ 39.990~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1064221/)
+- 🆕 **Halo 4** (Steam PC, dlc) — COL$ 9.997 ~~COL$ 39.990~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1064273/)
 - **Wolfenstein: The New Order** (Steam PC, base) — COL$ 14.975 ~~COL$ 59.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/201810/)
 - **Wolfenstein: Youngblood** (Steam PC, base) — COL$ 15.000 ~~COL$ 60.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1056960/)
 - **Wolfenstein: The Old Blood** (Steam PC, base) — COL$ 10.000 ~~COL$ 40.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/350080/)
@@ -27,6 +32,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Indiana Jones y el Gran Círculo ** (Steam PC, base) — COL$ 167.940 ~~COL$ 279.900~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/2677660/)
 - **Indiana Jones y el Gran Círculo™: La Orden de los Gigantes** (Steam PC, dlc) — COL$ 55.930 ~~COL$ 79.900~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/2830500/)
 - **South of Midnight** (Steam PC, base) — COL$ 83.999 ~~COL$ 119.999~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/1934570/)
+- 🆕 **Halo: Reach** (Steam PC, dlc) — COL$ 9.997 ~~COL$ 39.990~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1064220/)
 
 ## Microsoft Store / Xbox PC
 - **Halo: The Master Chief Collection** (Xbox PC, base) — $ 39.975 ~~$ 159.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NTM9HXNLSZX?rtc=1)
@@ -73,9 +79,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 95.999 ~~$ 119.999~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
 - **Grounded 2 (Game Preview)** (Xbox PC, base) — $ 107.910 ~~$ 119.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9P77PG7DK0W2?rtc=1)
+- **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
-- **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 

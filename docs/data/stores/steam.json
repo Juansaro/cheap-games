@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-11T19:19:26.723Z",
-  "updatedAtBogota": "2026-10-11 14:19",
+  "updatedAt": "2026-10-12T22:22:30.291Z",
+  "updatedAtBogota": "2026-10-12 17:22",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -24,12 +24,12 @@
     "name": "Halo: The Master Chief Collection",
     "platform": "Steam PC",
     "kind": "base",
-    "priceCurrent": 159900,
+    "priceCurrent": 39975,
     "pricePrevious": 159900,
-    "discountPercent": 0,
+    "discountPercent": 75,
     "currency": "COP",
-    "priceCurrentLabel": "COL$ 159.900",
-    "pricePreviousLabel": "$ 159.900",
+    "priceCurrentLabel": "COL$ 39.975",
+    "pricePreviousLabel": "COL$ 159.900",
     "dealEndsAt": null,
     "dealEndsAtBogota": null,
     "url": "https://store.steampowered.com/app/976730/",
@@ -40,8 +40,8 @@
       "steam-store"
     ],
     "publisher": "Xbox Game Studios",
-    "onSale": false,
-    "isNew": false
+    "onSale": true,
+    "isNew": true
   },
   "deals": [
     {
@@ -143,6 +143,131 @@
       ],
       "publisher": "Double Fine Productions",
       "isNew": false
+    },
+    {
+      "id": "steam-1064270",
+      "storeId": "1064270",
+      "name": "Halo 2: Anniversary",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9997,
+      "pricePrevious": 39990,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.997",
+      "pricePreviousLabel": "COL$ 39.990",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1064270/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064270/header.jpg?t=1634231273",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": true
+    },
+    {
+      "id": "steam-1064271",
+      "storeId": "1064271",
+      "name": "Halo 3",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9997,
+      "pricePrevious": 39990,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.997",
+      "pricePreviousLabel": "COL$ 39.990",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1064271/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064271/header.jpg?t=1634231304",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": true
+    },
+    {
+      "id": "steam-1064272",
+      "storeId": "1064272",
+      "name": "Halo 3: ODST",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 4997,
+      "pricePrevious": 19990,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 4.997",
+      "pricePreviousLabel": "COL$ 19.990",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1064272/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064272/header.jpg?t=1634231263",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": true
+    },
+    {
+      "id": "steam-1064221",
+      "storeId": "1064221",
+      "name": "Halo: Combat Evolved Anniversary",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9997,
+      "pricePrevious": 39990,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.997",
+      "pricePreviousLabel": "COL$ 39.990",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1064221/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064221/header.jpg?t=1634231276",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": true
+    },
+    {
+      "id": "steam-1064273",
+      "storeId": "1064273",
+      "name": "Halo 4",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9997,
+      "pricePrevious": 39990,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.997",
+      "pricePreviousLabel": "COL$ 39.990",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1064273/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064273/header.jpg?t=1634239399",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Xbox Game Studios",
+      "isNew": true
     },
     {
       "id": "steam-201810",
@@ -543,6 +668,30 @@
       ],
       "publisher": "Compulsion Games",
       "isNew": false
+    },
+    {
+      "id": "steam-1064220",
+      "storeId": "1064220",
+      "name": "Halo: Reach",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 9997,
+      "pricePrevious": 39990,
+      "discountPercent": 75,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 9.997",
+      "pricePreviousLabel": "COL$ 39.990",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1064220/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064220/header.jpg?t=1634231207",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-dlc-list"
+      ],
+      "publisher": "Xbox Games Studios",
+      "isNew": true
     }
   ]
 }
