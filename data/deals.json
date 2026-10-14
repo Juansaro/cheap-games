@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-13T20:30:07.733Z",
-  "updatedAtBogota": "2026-10-13 15:30",
-  "updatedAtDate": "2026-10-13",
+  "updatedAt": "2026-10-14T19:07:47.813Z",
+  "updatedAtBogota": "2026-10-14 14:07",
+  "updatedAtDate": "2026-10-14",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -59,7 +59,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-225270",
@@ -84,7 +84,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-314160",
@@ -109,7 +109,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1151340",
@@ -134,7 +134,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3830",
@@ -234,7 +234,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-22380",
@@ -259,7 +259,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1064270",
@@ -387,6 +387,31 @@
           "isNew": false
         },
         {
+          "id": "steam-22370",
+          "storeId": "22370",
+          "name": "Fallout 3: Game of the Year Edition",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 19975,
+          "pricePrevious": 79900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 19.975",
+          "pricePreviousLabel": "COL$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22370/header.jpg?t=1732208097",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
           "id": "steam-205100",
           "storeId": "205100",
           "name": "Dishonored",
@@ -409,7 +434,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-201810",
@@ -427,6 +452,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/201810/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg?t=1750784496",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-611660",
+          "storeId": "611660",
+          "name": "Fallout 4 VR",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 42499,
+          "pricePrevious": 169999,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 42.499",
+          "pricePreviousLabel": "COL$ 169.999",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/611660/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611660/header.jpg?t=1607445202",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -462,31 +512,6 @@
           "isNew": false
         },
         {
-          "id": "steam-22370",
-          "storeId": "22370",
-          "name": "Fallout 3: Game of the Year Edition",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 19975,
-          "pricePrevious": 79900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 19.975",
-          "pricePreviousLabel": "COL$ 79.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22370/header.jpg?t=1732208097",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
           "id": "steam-1056960",
           "storeId": "1056960",
           "name": "Wolfenstein: Youngblood",
@@ -512,31 +537,6 @@
           "isNew": false
         },
         {
-          "id": "steam-611660",
-          "storeId": "611660",
-          "name": "Fallout 4 VR",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 42499,
-          "pricePrevious": 169999,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 42.499",
-          "pricePreviousLabel": "COL$ 169.999",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/611660/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611660/header.jpg?t=1607445202",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
           "id": "steam-38420",
           "storeId": "38420",
           "name": "Fallout Tactics: Brotherhood of Steel",
@@ -559,32 +559,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-22300",
-          "storeId": "22300",
-          "name": "Fallout 3",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 9975,
-          "pricePrevious": 39900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.975",
-          "pricePreviousLabel": "COL$ 39.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22300/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-38410",
@@ -609,7 +584,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-38400",
@@ -634,7 +609,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-22300",
+          "storeId": "22300",
+          "name": "Fallout 3",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 9975,
+          "pricePrevious": 39900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.975",
+          "pricePreviousLabel": "COL$ 39.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22300/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-1056970",
@@ -734,7 +734,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-607080",
@@ -859,57 +859,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-435881",
-          "storeId": "435881",
-          "name": "Fallout 4 Far Harbor",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 18000,
-          "pricePrevious": 45000,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 18.000",
-          "pricePreviousLabel": "COL$ 45.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/435881/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435881/header.jpg?t=1533677062",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-490650",
-          "storeId": "490650",
-          "name": "Fallout 4 Nuka-World",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12000,
-          "pricePrevious": 30000,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.000",
-          "pricePreviousLabel": "COL$ 30.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/490650/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490650/header.jpg?t=1533677228",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4250650",
@@ -934,7 +884,57 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-435881",
+          "storeId": "435881",
+          "name": "Fallout 4 Far Harbor",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 18000,
+          "pricePrevious": 45000,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 18.000",
+          "pricePreviousLabel": "COL$ 45.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/435881/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435881/header.jpg?t=1533677062",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-490650",
+          "storeId": "490650",
+          "name": "Fallout 4 Nuka-World",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12000,
+          "pricePrevious": 30000,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.000",
+          "pricePreviousLabel": "COL$ 30.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/490650/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490650/header.jpg?t=1533677228",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-435870",
@@ -959,7 +959,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72760",
@@ -984,7 +984,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72740",
@@ -1009,7 +1009,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72750",
@@ -1034,7 +1034,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72730",
@@ -1059,32 +1059,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-22410",
-          "storeId": "22410",
-          "name": "Fallout 3 - Broken Steel",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22410/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22410/header.jpg?t=1447353326",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72840",
@@ -1109,57 +1084,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-22400",
-          "storeId": "22400",
-          "name": "Fallout 3 - Operation Anchorage",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22400/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22400/header.jpg?t=1447353325",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-22420",
-          "storeId": "22420",
-          "name": "Fallout 3 - The Pitt",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22420/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22420/header.jpg?t=1447353327",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-22440",
@@ -1184,7 +1109,82 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-22410",
+          "storeId": "22410",
+          "name": "Fallout 3 - Broken Steel",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22410/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22410/header.jpg?t=1447353326",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-22420",
+          "storeId": "22420",
+          "name": "Fallout 3 - The Pitt",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22420/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22420/header.jpg?t=1447353327",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-22400",
+          "storeId": "22400",
+          "name": "Fallout 3 - Operation Anchorage",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22400/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22400/header.jpg?t=1447353325",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-22430",
@@ -1209,7 +1209,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-435880",
@@ -1234,32 +1234,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-480631",
-          "storeId": "480631",
-          "name": "Fallout 4 Vault-Tec Workshop",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 6000,
-          "pricePrevious": 15000,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.000",
-          "pricePreviousLabel": "COL$ 15.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/480631/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480631/header.jpg?t=1533677484",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-480630",
@@ -1284,7 +1259,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-480631",
+          "storeId": "480631",
+          "name": "Fallout 4 Vault-Tec Workshop",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 6000,
+          "pricePrevious": 15000,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.000",
+          "pricePreviousLabel": "COL$ 15.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/480631/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480631/header.jpg?t=1533677484",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-461160",
@@ -1309,7 +1309,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-461150",
@@ -1334,7 +1334,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-426820",
@@ -1459,7 +1459,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-22470",
@@ -1484,7 +1484,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2537590",
@@ -1509,31 +1509,6 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-2830500",
-          "storeId": "2830500",
-          "name": "Indiana Jones y el Gran Círculo™: La Orden de los Gigantes",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 55930,
-          "pricePrevious": 79900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 55.930",
-          "pricePreviousLabel": "COL$ 79.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2830500/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830500/9d8fbe18f78ed348de14c681bcc7182d6a5bd996/header.jpg?t=1757603029",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
           "isNew": false
         },
         {
@@ -1559,7 +1534,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-2830500",
+          "storeId": "2830500",
+          "name": "Indiana Jones y el Gran Círculo™: La Orden de los Gigantes",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 55930,
+          "pricePrevious": 79900,
+          "discountPercent": 30,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 55.930",
+          "pricePreviousLabel": "COL$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2830500/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830500/9d8fbe18f78ed348de14c681bcc7182d6a5bd996/header.jpg?t=1757603029",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-1934570",
@@ -1737,7 +1737,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-C24SVX28PNWM",
@@ -1762,7 +1762,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MZR11JRF7BX",
@@ -1787,7 +1787,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NBLGGH5WLR0",
@@ -1937,32 +1937,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
-        },
-        {
-          "id": "xboxpc-C1MHJK6RKDVM",
-          "storeId": "C1MHJK6RKDVM",
-          "name": "Fallout 4: Far Harbor",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 23160,
-          "pricePrevious": 57900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 23.160",
-          "pricePreviousLabel": "$ 57.900",
-          "dealEndsAt": "2026-10-24T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-24 04:59",
-          "url": "https://www.microsoft.com/store/productId/C1MHJK6RKDVM?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.62805.14621119529978797.b140bdd5-991e-41c8-b41a-5923ca9f9600.9005c0a2-a6ad-4cfb-a409-8a3cab63273d",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-C3KQD0QJ215R",
@@ -1987,7 +1962,32 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-C1MHJK6RKDVM",
+          "storeId": "C1MHJK6RKDVM",
+          "name": "Fallout 4: Far Harbor",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 23160,
+          "pricePrevious": 57900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 23.160",
+          "pricePreviousLabel": "$ 57.900",
+          "dealEndsAt": "2026-10-24T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-10-24 04:59",
+          "url": "https://www.microsoft.com/store/productId/C1MHJK6RKDVM?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.62805.14621119529978797.b140bdd5-991e-41c8-b41a-5923ca9f9600.9005c0a2-a6ad-4cfb-a409-8a3cab63273d",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": true,
+          "isNew": false
         },
         {
           "id": "xboxpc-9MXR6TQ6FV7Z",
@@ -2012,7 +2012,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PDDRVKPF6KG",
@@ -2112,7 +2112,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P8RMKXRML7D",
@@ -2501,8 +2501,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 327.920",
           "pricePreviousLabel": "$ 409.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-10-29T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-10-29 18:59",
           "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
           "confirmed": true,
@@ -2526,8 +2526,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 279.920",
           "pricePreviousLabel": "$ 349.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-10-29T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-10-29 18:59",
           "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
           "confirmed": true,
@@ -3344,7 +3344,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-C24SVX28PNWM",
@@ -3369,7 +3369,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MZR11JRF7BX",
@@ -3394,7 +3394,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NBLGGH5WLR0",
@@ -3544,32 +3544,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
-        },
-        {
-          "id": "xboxpc-C1MHJK6RKDVM",
-          "storeId": "C1MHJK6RKDVM",
-          "name": "Fallout 4: Far Harbor",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 23160,
-          "pricePrevious": 57900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 23.160",
-          "pricePreviousLabel": "$ 57.900",
-          "dealEndsAt": "2026-10-24T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-24 04:59",
-          "url": "https://www.microsoft.com/store/productId/C1MHJK6RKDVM?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.62805.14621119529978797.b140bdd5-991e-41c8-b41a-5923ca9f9600.9005c0a2-a6ad-4cfb-a409-8a3cab63273d",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-C3KQD0QJ215R",
@@ -3594,7 +3569,32 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-C1MHJK6RKDVM",
+          "storeId": "C1MHJK6RKDVM",
+          "name": "Fallout 4: Far Harbor",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 23160,
+          "pricePrevious": 57900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 23.160",
+          "pricePreviousLabel": "$ 57.900",
+          "dealEndsAt": "2026-10-24T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-10-24 04:59",
+          "url": "https://www.microsoft.com/store/productId/C1MHJK6RKDVM?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.62805.14621119529978797.b140bdd5-991e-41c8-b41a-5923ca9f9600.9005c0a2-a6ad-4cfb-a409-8a3cab63273d",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": true,
+          "isNew": false
         },
         {
           "id": "xboxpc-9MXR6TQ6FV7Z",
@@ -3619,7 +3619,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PDDRVKPF6KG",
@@ -3719,7 +3719,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9P8RMKXRML7D",
@@ -4108,8 +4108,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 327.920",
           "pricePreviousLabel": "$ 409.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-10-29T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-10-29 18:59",
           "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
           "confirmed": true,
@@ -4133,8 +4133,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 279.920",
           "pricePreviousLabel": "$ 349.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-10-29T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-10-29 18:59",
           "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
           "confirmed": true,
@@ -4675,7 +4675,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-225270",
@@ -4700,7 +4700,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-314160",
@@ -4725,7 +4725,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1151340",
@@ -4750,7 +4750,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-3830",
@@ -4850,7 +4850,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-22380",
@@ -4875,7 +4875,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1064270",
@@ -5003,6 +5003,31 @@
           "isNew": false
         },
         {
+          "id": "steam-22370",
+          "storeId": "22370",
+          "name": "Fallout 3: Game of the Year Edition",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 19975,
+          "pricePrevious": 79900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 19.975",
+          "pricePreviousLabel": "COL$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22370/header.jpg?t=1732208097",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
           "id": "steam-205100",
           "storeId": "205100",
           "name": "Dishonored",
@@ -5025,7 +5050,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-201810",
@@ -5043,6 +5068,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/201810/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg?t=1750784496",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-611660",
+          "storeId": "611660",
+          "name": "Fallout 4 VR",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 42499,
+          "pricePrevious": 169999,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 42.499",
+          "pricePreviousLabel": "COL$ 169.999",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/611660/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611660/header.jpg?t=1607445202",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -5078,31 +5128,6 @@
           "isNew": false
         },
         {
-          "id": "steam-22370",
-          "storeId": "22370",
-          "name": "Fallout 3: Game of the Year Edition",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 19975,
-          "pricePrevious": 79900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 19.975",
-          "pricePreviousLabel": "COL$ 79.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22370/header.jpg?t=1732208097",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
           "id": "steam-1056960",
           "storeId": "1056960",
           "name": "Wolfenstein: Youngblood",
@@ -5128,31 +5153,6 @@
           "isNew": false
         },
         {
-          "id": "steam-611660",
-          "storeId": "611660",
-          "name": "Fallout 4 VR",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 42499,
-          "pricePrevious": 169999,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 42.499",
-          "pricePreviousLabel": "COL$ 169.999",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/611660/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611660/header.jpg?t=1607445202",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
           "id": "steam-38420",
           "storeId": "38420",
           "name": "Fallout Tactics: Brotherhood of Steel",
@@ -5175,32 +5175,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-22300",
-          "storeId": "22300",
-          "name": "Fallout 3",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 9975,
-          "pricePrevious": 39900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.975",
-          "pricePreviousLabel": "COL$ 39.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22300/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-38410",
@@ -5225,7 +5200,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-38400",
@@ -5250,7 +5225,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-22300",
+          "storeId": "22300",
+          "name": "Fallout 3",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 9975,
+          "pricePrevious": 39900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 9.975",
+          "pricePreviousLabel": "COL$ 39.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22300/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-1056970",
@@ -5350,7 +5350,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-607080",
@@ -5475,57 +5475,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-435881",
-          "storeId": "435881",
-          "name": "Fallout 4 Far Harbor",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 18000,
-          "pricePrevious": 45000,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 18.000",
-          "pricePreviousLabel": "COL$ 45.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/435881/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435881/header.jpg?t=1533677062",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-490650",
-          "storeId": "490650",
-          "name": "Fallout 4 Nuka-World",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12000,
-          "pricePrevious": 30000,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.000",
-          "pricePreviousLabel": "COL$ 30.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/490650/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490650/header.jpg?t=1533677228",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-4250650",
@@ -5550,7 +5500,57 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-435881",
+          "storeId": "435881",
+          "name": "Fallout 4 Far Harbor",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 18000,
+          "pricePrevious": 45000,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 18.000",
+          "pricePreviousLabel": "COL$ 45.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/435881/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435881/header.jpg?t=1533677062",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-490650",
+          "storeId": "490650",
+          "name": "Fallout 4 Nuka-World",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12000,
+          "pricePrevious": 30000,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.000",
+          "pricePreviousLabel": "COL$ 30.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/490650/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490650/header.jpg?t=1533677228",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-435870",
@@ -5575,7 +5575,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72760",
@@ -5600,7 +5600,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72740",
@@ -5625,7 +5625,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72750",
@@ -5650,7 +5650,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72730",
@@ -5675,32 +5675,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-22410",
-          "storeId": "22410",
-          "name": "Fallout 3 - Broken Steel",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22410/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22410/header.jpg?t=1447353326",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-72840",
@@ -5725,57 +5700,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-22400",
-          "storeId": "22400",
-          "name": "Fallout 3 - Operation Anchorage",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22400/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22400/header.jpg?t=1447353325",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-22420",
-          "storeId": "22420",
-          "name": "Fallout 3 - The Pitt",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22420/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22420/header.jpg?t=1447353327",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-22440",
@@ -5800,7 +5725,82 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-22410",
+          "storeId": "22410",
+          "name": "Fallout 3 - Broken Steel",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22410/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22410/header.jpg?t=1447353326",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-22420",
+          "storeId": "22420",
+          "name": "Fallout 3 - The Pitt",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22420/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22420/header.jpg?t=1447353327",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-22400",
+          "storeId": "22400",
+          "name": "Fallout 3 - Operation Anchorage",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22400/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22400/header.jpg?t=1447353325",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-22430",
@@ -5825,7 +5825,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-435880",
@@ -5850,32 +5850,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-480631",
-          "storeId": "480631",
-          "name": "Fallout 4 Vault-Tec Workshop",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 6000,
-          "pricePrevious": 15000,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.000",
-          "pricePreviousLabel": "COL$ 15.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/480631/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480631/header.jpg?t=1533677484",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-480630",
@@ -5900,7 +5875,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-480631",
+          "storeId": "480631",
+          "name": "Fallout 4 Vault-Tec Workshop",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 6000,
+          "pricePrevious": 15000,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.000",
+          "pricePreviousLabel": "COL$ 15.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/480631/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480631/header.jpg?t=1533677484",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-461160",
@@ -5925,7 +5925,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-461150",
@@ -5950,7 +5950,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-426820",
@@ -6075,7 +6075,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-22470",
@@ -6100,7 +6100,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2537590",
@@ -6125,31 +6125,6 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-2830500",
-          "storeId": "2830500",
-          "name": "Indiana Jones y el Gran Círculo™: La Orden de los Gigantes",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 55930,
-          "pricePrevious": 79900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 55.930",
-          "pricePreviousLabel": "COL$ 79.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2830500/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830500/9d8fbe18f78ed348de14c681bcc7182d6a5bd996/header.jpg?t=1757603029",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
           "isNew": false
         },
         {
@@ -6175,7 +6150,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-2830500",
+          "storeId": "2830500",
+          "name": "Indiana Jones y el Gran Círculo™: La Orden de los Gigantes",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 55930,
+          "pricePrevious": 79900,
+          "discountPercent": 30,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 55.930",
+          "pricePreviousLabel": "COL$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2830500/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830500/9d8fbe18f78ed348de14c681bcc7182d6a5bd996/header.jpg?t=1757603029",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-1934570",
