@@ -1,4 +1,55 @@
 {
-  "generatedAt": "2026-10-14 14:07",
-  "deals": []
+  "generatedAt": "2026-10-15 13:49",
+  "deals": [
+    {
+      "id": "xboxpc-9NFHQ2719J83",
+      "storeId": "9NFHQ2719J83",
+      "name": "Edición Premium de Avowed",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 191920,
+      "pricePrevious": 239900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 191.920",
+      "pricePreviousLabel": "$ 239.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9NFHQ2719J83?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.54988.13594600110987132.5376950b-9493-4428-9d55-8d6df3956a11.4c4f796b-ac3a-4272-af0d-2b7d861b2fb7",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9PLSBTJB87Q7",
+      "storeId": "9PLSBTJB87Q7",
+      "name": "Halo Wars 2: edición completa",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 187920,
+      "pricePrevious": 234900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 187.920",
+      "pricePreviousLabel": "$ 234.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.46821.14307168999728048.1152921504738970858.d4f2c0a6-7d8b-4924-a973-4b6991eab64b",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Microsoft Studios",
+      "playAnywhere": false,
+      "isNew": true
+    }
+  ]
 }
