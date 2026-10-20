@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-19T20:21:30.849Z",
-  "updatedAtBogota": "2026-10-19 15:21",
+  "updatedAt": "2026-10-20T18:53:00.909Z",
+  "updatedAtBogota": "2026-10-20 13:53",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -41,59 +41,9 @@
     ],
     "publisher": "Xbox Game Studios",
     "onSale": false,
-    "isNew": true
+    "isNew": false
   },
   "deals": [
-    {
-      "id": "steam-225260",
-      "storeId": "225260",
-      "name": "Brutal Legend",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 4800,
-      "pricePrevious": 32000,
-      "discountPercent": 85,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 4.800",
-      "pricePreviousLabel": "COL$ 32.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/225260/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/header.jpg?t=1787713082",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Double Fine Productions",
-      "isNew": false
-    },
-    {
-      "id": "steam-225270",
-      "storeId": "225270",
-      "name": "Brutal Legend Soundtrack",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 2505,
-      "pricePrevious": 16700,
-      "discountPercent": 85,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 2.505",
-      "pricePreviousLabel": "COL$ 16.700",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/225270/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225270/header.jpg?t=1646681459",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Double Fine Productions",
-      "isNew": false
-    },
     {
       "id": "steam-314160",
       "storeId": "314160",
@@ -260,31 +210,6 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/611660/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611660/header.jpg?t=1607445202",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": false
-    },
-    {
-      "id": "steam-205100",
-      "storeId": "205100",
-      "name": "Dishonored",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 7725,
-      "pricePrevious": 30900,
-      "discountPercent": 75,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 7.725",
-      "pricePreviousLabel": "COL$ 30.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/205100/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/08e23dc25023aac81f2b40e35785e01de64dd171/header.jpg?t=1789050056",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -520,31 +445,6 @@
       "isNew": false
     },
     {
-      "id": "steam-72740",
-      "storeId": "72740",
-      "name": "Fallout New Vegas: Honest Hearts",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 7560,
-      "pricePrevious": 18900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 7.560",
-      "pricePreviousLabel": "COL$ 18.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/72740/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72740/header.jpg?t=1497933810",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": false
-    },
-    {
       "id": "steam-72760",
       "storeId": "72760",
       "name": "Fallout New Vegas®: Lonesome Road™",
@@ -560,6 +460,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/72760/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72760/header.jpg?t=1497933936",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
+    },
+    {
+      "id": "steam-72740",
+      "storeId": "72740",
+      "name": "Fallout New Vegas: Honest Hearts",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 7560,
+      "pricePrevious": 18900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 7.560",
+      "pricePreviousLabel": "COL$ 18.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/72740/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72740/header.jpg?t=1497933810",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -595,31 +520,6 @@
       "isNew": false
     },
     {
-      "id": "steam-22410",
-      "storeId": "22410",
-      "name": "Fallout 3 - Broken Steel",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 7560,
-      "pricePrevious": 18900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 7.560",
-      "pricePreviousLabel": "COL$ 18.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/22410/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22410/header.jpg?t=1447353326",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": false
-    },
-    {
       "id": "steam-22420",
       "storeId": "22420",
       "name": "Fallout 3 - The Pitt",
@@ -635,31 +535,6 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/22420/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22420/header.jpg?t=1447353327",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": false
-    },
-    {
-      "id": "steam-22400",
-      "storeId": "22400",
-      "name": "Fallout 3 - Operation Anchorage",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 7560,
-      "pricePrevious": 18900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 7.560",
-      "pricePreviousLabel": "COL$ 18.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/22400/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22400/header.jpg?t=1447353325",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -695,6 +570,56 @@
       "isNew": false
     },
     {
+      "id": "steam-22410",
+      "storeId": "22410",
+      "name": "Fallout 3 - Broken Steel",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 7560,
+      "pricePrevious": 18900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 7.560",
+      "pricePreviousLabel": "COL$ 18.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/22410/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22410/header.jpg?t=1447353326",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
+    },
+    {
+      "id": "steam-22400",
+      "storeId": "22400",
+      "name": "Fallout 3 - Operation Anchorage",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 7560,
+      "pricePrevious": 18900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 7.560",
+      "pricePreviousLabel": "COL$ 18.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/22400/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22400/header.jpg?t=1447353325",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
+    },
+    {
       "id": "steam-72730",
       "storeId": "72730",
       "name": "Fallout New Vegas: Dead Money",
@@ -710,6 +635,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/72730/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72730/header.jpg?t=1497934235",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
+    },
+    {
+      "id": "steam-22430",
+      "storeId": "22430",
+      "name": "Fallout 3 - Mothership Zeta",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 7560,
+      "pricePrevious": 18900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 7.560",
+      "pricePreviousLabel": "COL$ 18.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/22430/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22430/header.jpg?t=1447353328",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -745,21 +695,21 @@
       "isNew": false
     },
     {
-      "id": "steam-22430",
-      "storeId": "22430",
-      "name": "Fallout 3 - Mothership Zeta",
+      "id": "steam-480630",
+      "storeId": "480630",
+      "name": "Fallout 4 - Contraptions Workshop",
       "platform": "Steam PC",
       "kind": "dlc",
-      "priceCurrent": 7560,
-      "pricePrevious": 18900,
+      "priceCurrent": 6000,
+      "pricePrevious": 15000,
       "discountPercent": 60,
       "currency": "COP",
-      "priceCurrentLabel": "COL$ 7.560",
-      "pricePreviousLabel": "COL$ 18.900",
+      "priceCurrentLabel": "COL$ 6.000",
+      "pricePreviousLabel": "COL$ 15.000",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/22430/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22430/header.jpg?t=1447353328",
+      "url": "https://store.steampowered.com/app/480630/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480630/header.jpg?t=1533677523",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -810,31 +760,6 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/435880/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435880/header.jpg?t=1588614707",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": false
-    },
-    {
-      "id": "steam-480630",
-      "storeId": "480630",
-      "name": "Fallout 4 - Contraptions Workshop",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 6000,
-      "pricePrevious": 15000,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 6.000",
-      "pricePreviousLabel": "COL$ 15.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/480630/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480630/header.jpg?t=1533677523",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
