@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-20T18:53:00.909Z",
-  "updatedAtBogota": "2026-10-20 13:53",
+  "updatedAt": "2026-10-21T19:05:47.127Z",
+  "updatedAtBogota": "2026-10-21 14:05",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -243,7 +243,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NV2Q5P1L5CC",
@@ -268,7 +268,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N7J4DKK7V15",
@@ -293,7 +293,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N7MNF1QC3X4",
@@ -318,7 +318,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P1HX37NMJLT",
