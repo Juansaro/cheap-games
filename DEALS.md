@@ -1,6 +1,6 @@
-# Ofertas — 2026-10-21 14:05 (Bogotá)
+# Ofertas — 2026-10-22 14:01 (Bogotá)
 
-Última actualización: **2026-10-21 14:05** (America/Bogota).
+Última actualización: **2026-10-22 14:01** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -24,45 +24,47 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Fallout New Vegas: Honest Hearts** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/72740/)
 - **Fallout New Vegas: Old World Blues** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/72750/)
 - **Fallout New Vegas®: Lonesome Road™** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/72760/)
-- **Fallout New Vegas: Dead Money** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/72730/)
 - **Fallout 3 - Broken Steel** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/22410/)
+- **Fallout 3 - Point Lookout** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/22440/)
+- **Fallout New Vegas: Dead Money** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/72730/)
 - **Fallout 3 - The Pitt** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/22420/)
 - **Fallout 3 - Operation Anchorage** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/22400/)
-- **Fallout 3 - Point Lookout** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/22440/)
 - **Fallout New Vegas®: Gun Runners’ Arsenal™** (Steam PC, dlc) — COL$ 3.024 ~~COL$ 7.560~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/72840/)
 - **Fallout 3 - Mothership Zeta** (Steam PC, dlc) — COL$ 7.560 ~~COL$ 18.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/22430/)
-- **Fallout 4 - Wasteland Workshop** (Steam PC, dlc) — COL$ 6.564 ~~COL$ 16.410~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/435880/)
-- **Fallout 4 Vault-Tec Workshop** (Steam PC, dlc) — COL$ 6.000 ~~COL$ 15.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/480631/)
 - **Fallout 4 - Contraptions Workshop** (Steam PC, dlc) — COL$ 6.000 ~~COL$ 15.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/480630/)
+- **Fallout 4 Vault-Tec Workshop** (Steam PC, dlc) — COL$ 6.000 ~~COL$ 15.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/480631/)
+- **Fallout 4 - Wasteland Workshop** (Steam PC, dlc) — COL$ 6.564 ~~COL$ 16.410~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/435880/)
 - **Fallout New Vegas - Soundtrack** (Steam PC, base) — COL$ 19.801 ~~COL$ 39.603~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/461160/)
 - **Fallout 3 - Soundtrack** (Steam PC, base) — COL$ 19.801 ~~COL$ 39.603~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/461150/)
-- **Contrast** (Steam PC, base) — COL$ 16.000 ~~COL$ 32.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/224460/)
 - **Fallout 76 - Deathclaw Pet Bundle** (Steam PC, bundle) — COL$ 71.940 ~~COL$ 119.900~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/4712160/)
 - **Fallout New Vegas: Courier's Stash** (Steam PC, dlc) — COL$ 2.457 ~~COL$ 3.780~~ (−35%) · [Ver oferta](https://store.steampowered.com/app/22470/)
 - **Fallout 4 - Creations Bundle** (Steam PC, bundle) — COL$ 55.930 ~~COL$ 79.900~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/3868650/)
-- **South of Midnight** (Steam PC, base) — COL$ 83.999 ~~COL$ 119.999~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/1934570/)
 
 ## Microsoft Store / Xbox PC
 - **Fallout 4** (Xbox PC, base) — $ 19.725 ~~$ 78.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/C3KLDKZBHNCZ?rtc=1)
 - **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 39.725 ~~$ 158.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
 - **Fallout: New Vegas Ultimate Edition** (Xbox PC, bundle) — $ 19.725 ~~$ 78.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9MZR11JRF7BX?rtc=1)
+- 🆕 **State of Decay 2: Juggernaut Edition** (Xbox PC, bundle) — $ 32.475 ~~$ 129.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NT4X7P8B9NB?rtc=1)
 - **Fallout 76: Deathclaw Pet Bundle (PC)** (Xbox PC, bundle) — $ 39.237 ~~$ 118.900~~ (−67%) · [Ver oferta](https://www.microsoft.com/store/productId/9MXF5W465V83?rtc=1)
+- 🆕 **DOOM Eternal Standard Edition (PC)** (Xbox PC, bundle) — $ 39.237 ~~$ 118.900~~ (−67%) · [Ver oferta](https://www.microsoft.com/store/productId/9PK09BL31FK1?rtc=1)
+- 🆕 **Sea of Thieves: X Edition** (Xbox PC, bundle) — $ 111.615 ~~$ 318.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1)
+- 🆕 **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 76.965 ~~$ 219.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
 - **Fallout 4: Far Harbor** (Xbox PC, base) — $ 23.160 ~~$ 57.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/C1MHJK6RKDVM?rtc=1)
 - **Fallout 4: Wasteland Workshop** (Xbox PC, base) — $ 7.560 ~~$ 18.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/C3KQD0QJ215R?rtc=1)
 - **Fallout 76: Mojave Bundle (PC)** (Xbox PC, bundle) — $ 47.560 ~~$ 118.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MXR6TQ6FV7Z?rtc=1)
+- 🆕 **DOOM 64** (Xbox PC, base) — $ 5.960 ~~$ 14.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MXND4PQLK3W?rtc=1)
 - **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 119.450 ~~$ 238.900~~ (−50%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **Microsoft Flight Simulator 2024 - Standard Edition** (Xbox PC, bundle) — $ 195.930 ~~$ 279.900~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9P2VGCTBMM52?rtc=1)
 - **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 531.860 ~~$ 759.800~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
 - **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 335.930 ~~$ 479.900~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
 - **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 265.930 ~~$ 379.900~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
+- 🆕 **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 55.930 ~~$ 79.900~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 271.920 ~~$ 339.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
 - **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
 - **Forza Horizon 6 Premium Edition** (Xbox PC, bundle) — $ 383.200 ~~$ 479.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1)
 - **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 320.000 ~~$ 400.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
 - **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 367.920 ~~$ 459.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
 - **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
-- **Sea of Thieves: X Edition** (Xbox PC, bundle) — $ 255.120 ~~$ 318.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1)
-- **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 175.920 ~~$ 219.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
 - **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
 - **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 327.920 ~~$ 409.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
 - **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 279.920 ~~$ 349.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
@@ -81,14 +83,13 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 95.999 ~~$ 119.999~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
 - **Halo Wars 2: edición completa** (Xbox PC, base) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
-- **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 
 ## SteamVR
-- 🆕 **The Light Brigade: Definitive Edition** (SteamVR, base) — COL$ 29.400 ~~COL$ 58.800~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1579880/)
+- **The Light Brigade: Definitive Edition** (SteamVR, base) — COL$ 29.400 ~~COL$ 58.800~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1579880/)
 
 ## Meta Quest Store
 - Sin ofertas hoy

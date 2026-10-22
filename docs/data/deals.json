@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-21T19:05:47.127Z",
-  "updatedAtBogota": "2026-10-21 14:05",
-  "updatedAtDate": "2026-10-21",
+  "updatedAt": "2026-10-22T19:01:26.067Z",
+  "updatedAtBogota": "2026-10-22 14:01",
+  "updatedAtDate": "2026-10-22",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -437,31 +437,6 @@
           "isNew": false
         },
         {
-          "id": "steam-72730",
-          "storeId": "72730",
-          "name": "Fallout New Vegas: Dead Money",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/72730/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72730/header.jpg?t=1497934235",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-22410",
           "storeId": "22410",
           "name": "Fallout 3 - Broken Steel",
@@ -477,6 +452,56 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/22410/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22410/header.jpg?t=1447353326",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-22440",
+          "storeId": "22440",
+          "name": "Fallout 3 - Point Lookout",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22440/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22440/header.jpg?t=1447353329",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-72730",
+          "storeId": "72730",
+          "name": "Fallout New Vegas: Dead Money",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/72730/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72730/header.jpg?t=1497934235",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -537,31 +562,6 @@
           "isNew": false
         },
         {
-          "id": "steam-22440",
-          "storeId": "22440",
-          "name": "Fallout 3 - Point Lookout",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22440/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22440/header.jpg?t=1447353329",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-72840",
           "storeId": "72840",
           "name": "Fallout New Vegas®: Gun Runners’ Arsenal™",
@@ -612,21 +612,21 @@
           "isNew": false
         },
         {
-          "id": "steam-435880",
-          "storeId": "435880",
-          "name": "Fallout 4 - Wasteland Workshop",
+          "id": "steam-480630",
+          "storeId": "480630",
+          "name": "Fallout 4 - Contraptions Workshop",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 6564,
-          "pricePrevious": 16410,
+          "priceCurrent": 6000,
+          "pricePrevious": 15000,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.564",
-          "pricePreviousLabel": "COL$ 16.410",
+          "priceCurrentLabel": "COL$ 6.000",
+          "pricePreviousLabel": "COL$ 15.000",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/435880/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435880/header.jpg?t=1588614707",
+          "url": "https://store.steampowered.com/app/480630/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480630/header.jpg?t=1533677523",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -662,21 +662,21 @@
           "isNew": false
         },
         {
-          "id": "steam-480630",
-          "storeId": "480630",
-          "name": "Fallout 4 - Contraptions Workshop",
+          "id": "steam-435880",
+          "storeId": "435880",
+          "name": "Fallout 4 - Wasteland Workshop",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 6000,
-          "pricePrevious": 15000,
+          "priceCurrent": 6564,
+          "pricePrevious": 16410,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.000",
-          "pricePreviousLabel": "COL$ 15.000",
+          "priceCurrentLabel": "COL$ 6.564",
+          "pricePreviousLabel": "COL$ 16.410",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/480630/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480630/header.jpg?t=1533677523",
+          "url": "https://store.steampowered.com/app/435880/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435880/header.jpg?t=1588614707",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -734,31 +734,6 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
-          "id": "steam-224460",
-          "storeId": "224460",
-          "name": "Contrast",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 16000,
-          "pricePrevious": 32000,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 16.000",
-          "pricePreviousLabel": "COL$ 32.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/224460/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224460/header.jpg?t=1791208946",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
           "isNew": false
         },
         {
@@ -834,31 +809,6 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
-          "id": "steam-1934570",
-          "storeId": "1934570",
-          "name": "South of Midnight",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 83999,
-          "pricePrevious": 119999,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 83.999",
-          "pricePreviousLabel": "COL$ 119.999",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1934570/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934570/56f64e713504dd2558077d038eb7470c8689a559/header.jpg?t=1791208700",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
           "isNew": false
         }
       ],
@@ -966,6 +916,31 @@
           "isNew": false
         },
         {
+          "id": "xboxpc-9NT4X7P8B9NB",
+          "storeId": "9NT4X7P8B9NB",
+          "name": "State of Decay 2: Juggernaut Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 32475,
+          "pricePrevious": 129900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 32.475",
+          "pricePreviousLabel": "$ 129.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NT4X7P8B9NB?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.45572.14425140369408817.14846606-f5bc-4fb1-b355-26ef6a25e847.ca79acfc-0a9a-4e61-a626-d7623bb12248",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
           "id": "xboxpc-9MXF5W465V83",
           "storeId": "9MXF5W465V83",
           "name": "Fallout 76: Deathclaw Pet Bundle (PC)",
@@ -989,6 +964,81 @@
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9PK09BL31FK1",
+          "storeId": "9PK09BL31FK1",
+          "name": "DOOM Eternal Standard Edition (PC)",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 39237,
+          "pricePrevious": 118900,
+          "discountPercent": 67,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 39.237",
+          "pricePreviousLabel": "$ 118.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9PK09BL31FK1?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.447.14607483449828807.1bf8995c-7221-490e-a6d4-8718054337ce.45c5c13d-7a5c-4a3d-8b78-8db811dad69d",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9MWNNM41MB6D",
+          "storeId": "9MWNNM41MB6D",
+          "name": "Sea of Thieves: X Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 111615,
+          "pricePrevious": 318900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 111.615",
+          "pricePreviousLabel": "$ 318.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N1WWHGKBX3P",
+          "storeId": "9N1WWHGKBX3P",
+          "name": "Sea of Thieves: 2026 Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 76965,
+          "pricePrevious": 219900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 76.965",
+          "pricePreviousLabel": "$ 219.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-C1MHJK6RKDVM",
@@ -1064,6 +1114,31 @@
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9MXND4PQLK3W",
+          "storeId": "9MXND4PQLK3W",
+          "name": "DOOM 64",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 5960,
+          "pricePrevious": 14900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 5.960",
+          "pricePreviousLabel": "$ 14.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9MXND4PQLK3W?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.37742.13886780434132750.58497d0f-3220-4d2f-a7ff-96dcff27bc5f.e10ab652-fd3c-4438-94fc-0d7f958d5609",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9PFRG44XZCFJ",
@@ -1189,6 +1264,31 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9N099DG3GHGW",
+          "storeId": "9N099DG3GHGW",
+          "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
+          "platform": "Xbox PC",
+          "kind": "dlc",
+          "priceCurrent": 55930,
+          "pricePrevious": 79900,
+          "discountPercent": 30,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 55.930",
+          "pricePreviousLabel": "$ 79.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
         },
         {
           "id": "xboxpc-9P1HX37NMJLT",
@@ -1337,56 +1437,6 @@
             "ms-store-search"
           ],
           "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9MWNNM41MB6D",
-          "storeId": "9MWNNM41MB6D",
-          "name": "Sea of Thieves: X Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 255120,
-          "pricePrevious": 318900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 255.120",
-          "pricePreviousLabel": "$ 318.900",
-          "dealEndsAt": "2026-10-21T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-21 18:59",
-          "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N1WWHGKBX3P",
-          "storeId": "9N1WWHGKBX3P",
-          "name": "Sea of Thieves: 2026 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 175920,
-          "pricePrevious": 219900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 175.920",
-          "pricePreviousLabel": "$ 219.900",
-          "dealEndsAt": "2026-10-21T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-21 18:59",
-          "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
           "playAnywhere": true,
           "isNew": false
         },
@@ -1841,31 +1891,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9N099DG3GHGW",
-          "storeId": "9N099DG3GHGW",
-          "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
-          "platform": "Xbox PC",
-          "kind": "dlc",
-          "priceCurrent": 71910,
-          "pricePrevious": 79900,
-          "discountPercent": 10,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 71.910",
-          "pricePreviousLabel": "$ 79.900",
-          "dealEndsAt": "2026-10-21T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-21 18:59",
-          "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9PLHDCMXH1TL",
           "storeId": "9PLHDCMXH1TL",
           "name": "DOOM Eternal: The Ancient Gods - primera parte (PC)",
@@ -1992,7 +2017,7 @@
             "steam-appdetails"
           ],
           "publisher": "Funktronic Labs",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": null
@@ -2129,6 +2154,31 @@
           "isNew": false
         },
         {
+          "id": "xboxpc-9NT4X7P8B9NB",
+          "storeId": "9NT4X7P8B9NB",
+          "name": "State of Decay 2: Juggernaut Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 32475,
+          "pricePrevious": 129900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 32.475",
+          "pricePreviousLabel": "$ 129.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NT4X7P8B9NB?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.45572.14425140369408817.14846606-f5bc-4fb1-b355-26ef6a25e847.ca79acfc-0a9a-4e61-a626-d7623bb12248",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
           "id": "xboxpc-9MXF5W465V83",
           "storeId": "9MXF5W465V83",
           "name": "Fallout 76: Deathclaw Pet Bundle (PC)",
@@ -2152,6 +2202,81 @@
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9PK09BL31FK1",
+          "storeId": "9PK09BL31FK1",
+          "name": "DOOM Eternal Standard Edition (PC)",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 39237,
+          "pricePrevious": 118900,
+          "discountPercent": 67,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 39.237",
+          "pricePreviousLabel": "$ 118.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9PK09BL31FK1?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.447.14607483449828807.1bf8995c-7221-490e-a6d4-8718054337ce.45c5c13d-7a5c-4a3d-8b78-8db811dad69d",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9MWNNM41MB6D",
+          "storeId": "9MWNNM41MB6D",
+          "name": "Sea of Thieves: X Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 111615,
+          "pricePrevious": 318900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 111.615",
+          "pricePreviousLabel": "$ 318.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N1WWHGKBX3P",
+          "storeId": "9N1WWHGKBX3P",
+          "name": "Sea of Thieves: 2026 Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 76965,
+          "pricePrevious": 219900,
+          "discountPercent": 65,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 76.965",
+          "pricePreviousLabel": "$ 219.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-C1MHJK6RKDVM",
@@ -2227,6 +2352,31 @@
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9MXND4PQLK3W",
+          "storeId": "9MXND4PQLK3W",
+          "name": "DOOM 64",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 5960,
+          "pricePrevious": 14900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 5.960",
+          "pricePreviousLabel": "$ 14.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9MXND4PQLK3W?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.37742.13886780434132750.58497d0f-3220-4d2f-a7ff-96dcff27bc5f.e10ab652-fd3c-4438-94fc-0d7f958d5609",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9PFRG44XZCFJ",
@@ -2352,6 +2502,31 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9N099DG3GHGW",
+          "storeId": "9N099DG3GHGW",
+          "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
+          "platform": "Xbox PC",
+          "kind": "dlc",
+          "priceCurrent": 55930,
+          "pricePrevious": 79900,
+          "discountPercent": 30,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 55.930",
+          "pricePreviousLabel": "$ 79.900",
+          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-05 04:59",
+          "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
         },
         {
           "id": "xboxpc-9P1HX37NMJLT",
@@ -2500,56 +2675,6 @@
             "ms-store-search"
           ],
           "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9MWNNM41MB6D",
-          "storeId": "9MWNNM41MB6D",
-          "name": "Sea of Thieves: X Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 255120,
-          "pricePrevious": 318900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 255.120",
-          "pricePreviousLabel": "$ 318.900",
-          "dealEndsAt": "2026-10-21T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-21 18:59",
-          "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N1WWHGKBX3P",
-          "storeId": "9N1WWHGKBX3P",
-          "name": "Sea of Thieves: 2026 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 175920,
-          "pricePrevious": 219900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 175.920",
-          "pricePreviousLabel": "$ 219.900",
-          "dealEndsAt": "2026-10-21T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-21 18:59",
-          "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
           "playAnywhere": true,
           "isNew": false
         },
@@ -3000,31 +3125,6 @@
             "ms-store-search"
           ],
           "publisher": "Xbox Game Studios",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N099DG3GHGW",
-          "storeId": "9N099DG3GHGW",
-          "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
-          "platform": "Xbox PC",
-          "kind": "dlc",
-          "priceCurrent": 71910,
-          "pricePrevious": 79900,
-          "discountPercent": 10,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 71.910",
-          "pricePreviousLabel": "$ 79.900",
-          "dealEndsAt": "2026-10-21T23:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-21 18:59",
-          "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
           "playAnywhere": false,
           "isNew": false
         },
@@ -3560,31 +3660,6 @@
           "isNew": false
         },
         {
-          "id": "steam-72730",
-          "storeId": "72730",
-          "name": "Fallout New Vegas: Dead Money",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/72730/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72730/header.jpg?t=1497934235",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-22410",
           "storeId": "22410",
           "name": "Fallout 3 - Broken Steel",
@@ -3600,6 +3675,56 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/22410/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22410/header.jpg?t=1447353326",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-22440",
+          "storeId": "22440",
+          "name": "Fallout 3 - Point Lookout",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/22440/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22440/header.jpg?t=1447353329",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-72730",
+          "storeId": "72730",
+          "name": "Fallout New Vegas: Dead Money",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 7560,
+          "pricePrevious": 18900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 7.560",
+          "pricePreviousLabel": "COL$ 18.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/72730/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72730/header.jpg?t=1497934235",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3660,31 +3785,6 @@
           "isNew": false
         },
         {
-          "id": "steam-22440",
-          "storeId": "22440",
-          "name": "Fallout 3 - Point Lookout",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 7560,
-          "pricePrevious": 18900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 7.560",
-          "pricePreviousLabel": "COL$ 18.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/22440/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22440/header.jpg?t=1447353329",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-72840",
           "storeId": "72840",
           "name": "Fallout New Vegas®: Gun Runners’ Arsenal™",
@@ -3735,21 +3835,21 @@
           "isNew": false
         },
         {
-          "id": "steam-435880",
-          "storeId": "435880",
-          "name": "Fallout 4 - Wasteland Workshop",
+          "id": "steam-480630",
+          "storeId": "480630",
+          "name": "Fallout 4 - Contraptions Workshop",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 6564,
-          "pricePrevious": 16410,
+          "priceCurrent": 6000,
+          "pricePrevious": 15000,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.564",
-          "pricePreviousLabel": "COL$ 16.410",
+          "priceCurrentLabel": "COL$ 6.000",
+          "pricePreviousLabel": "COL$ 15.000",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/435880/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435880/header.jpg?t=1588614707",
+          "url": "https://store.steampowered.com/app/480630/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480630/header.jpg?t=1533677523",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3785,21 +3885,21 @@
           "isNew": false
         },
         {
-          "id": "steam-480630",
-          "storeId": "480630",
-          "name": "Fallout 4 - Contraptions Workshop",
+          "id": "steam-435880",
+          "storeId": "435880",
+          "name": "Fallout 4 - Wasteland Workshop",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 6000,
-          "pricePrevious": 15000,
+          "priceCurrent": 6564,
+          "pricePrevious": 16410,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 6.000",
-          "pricePreviousLabel": "COL$ 15.000",
+          "priceCurrentLabel": "COL$ 6.564",
+          "pricePreviousLabel": "COL$ 16.410",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/480630/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480630/header.jpg?t=1533677523",
+          "url": "https://store.steampowered.com/app/435880/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435880/header.jpg?t=1588614707",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3857,31 +3957,6 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
-          "id": "steam-224460",
-          "storeId": "224460",
-          "name": "Contrast",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 16000,
-          "pricePrevious": 32000,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 16.000",
-          "pricePreviousLabel": "COL$ 32.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/224460/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224460/header.jpg?t=1791208946",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
           "isNew": false
         },
         {
@@ -3958,31 +4033,6 @@
           ],
           "publisher": "Bethesda Softworks",
           "isNew": false
-        },
-        {
-          "id": "steam-1934570",
-          "storeId": "1934570",
-          "name": "South of Midnight",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 83999,
-          "pricePrevious": 119999,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 83.999",
-          "pricePreviousLabel": "COL$ 119.999",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1934570/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934570/56f64e713504dd2558077d038eb7470c8689a559/header.jpg?t=1791208700",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": false
         }
       ]
     },
@@ -4012,7 +4062,7 @@
             "steam-appdetails"
           ],
           "publisher": "Funktronic Labs",
-          "isNew": true
+          "isNew": false
         }
       ]
     }
