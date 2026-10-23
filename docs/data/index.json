@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T19:01:26.067Z",
-  "updatedAtBogota": "2026-10-22 14:01",
-  "updatedAtDate": "2026-10-22",
+  "updatedAt": "2026-10-23T18:50:53.219Z",
+  "updatedAtBogota": "2026-10-23 13:50",
+  "updatedAtDate": "2026-10-23",
   "timezone": "America/Bogota",
-  "liveDealCount": 79,
+  "liveDealCount": 47,
   "stores": [
     {
       "id": "steam",
@@ -19,7 +19,7 @@
       "blurb": "Ofertas oficiales de Steam. Windows y Linux (nativo o Proton). Sin keys de terceros.",
       "reason": null,
       "href": "./store.html#steam",
-      "dealCount": 32,
+      "dealCount": 0,
       "spotlightLabel": "COL$ 159.900"
     },
     {
