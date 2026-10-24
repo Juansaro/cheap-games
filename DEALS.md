@@ -1,6 +1,6 @@
-# Ofertas — 2026-10-23 13:50 (Bogotá)
+# Ofertas — 2026-10-24 12:45 (Bogotá)
 
-Última actualización: **2026-10-23 13:50** (America/Bogota).
+Última actualización: **2026-10-24 12:45** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -10,19 +10,11 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - Sin ofertas hoy
 
 ## Microsoft Store / Xbox PC
-- **Fallout 4** (Xbox PC, base) — $ 19.725 ~~$ 78.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/C3KLDKZBHNCZ?rtc=1)
-- **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 39.725 ~~$ 158.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
-- **Fallout: New Vegas Ultimate Edition** (Xbox PC, bundle) — $ 19.725 ~~$ 78.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9MZR11JRF7BX?rtc=1)
 - **State of Decay 2: Juggernaut Edition** (Xbox PC, bundle) — $ 32.475 ~~$ 129.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NT4X7P8B9NB?rtc=1)
-- **Fallout 76: Deathclaw Pet Bundle (PC)** (Xbox PC, bundle) — $ 39.237 ~~$ 118.900~~ (−67%) · [Ver oferta](https://www.microsoft.com/store/productId/9MXF5W465V83?rtc=1)
 - **DOOM Eternal Standard Edition (PC)** (Xbox PC, bundle) — $ 39.237 ~~$ 118.900~~ (−67%) · [Ver oferta](https://www.microsoft.com/store/productId/9PK09BL31FK1?rtc=1)
 - **Sea of Thieves: X Edition** (Xbox PC, bundle) — $ 111.615 ~~$ 318.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1)
 - **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 76.965 ~~$ 219.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
-- **Fallout 4: Far Harbor** (Xbox PC, base) — $ 23.160 ~~$ 57.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/C1MHJK6RKDVM?rtc=1)
-- **Fallout 4: Wasteland Workshop** (Xbox PC, base) — $ 7.560 ~~$ 18.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/C3KQD0QJ215R?rtc=1)
-- **Fallout 76: Mojave Bundle (PC)** (Xbox PC, bundle) — $ 47.560 ~~$ 118.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MXR6TQ6FV7Z?rtc=1)
 - **DOOM 64** (Xbox PC, base) — $ 5.960 ~~$ 14.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MXND4PQLK3W?rtc=1)
-- **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 119.450 ~~$ 238.900~~ (−50%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **Microsoft Flight Simulator 2024 - Standard Edition** (Xbox PC, bundle) — $ 195.930 ~~$ 279.900~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9P2VGCTBMM52?rtc=1)
 - **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 531.860 ~~$ 759.800~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
 - **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 335.930 ~~$ 479.900~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
@@ -45,6 +37,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
 - **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
+- 🆕 **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
+- 🆕 **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
 - **DOOM Eternal Deluxe Edition (PC)** (Xbox PC, bundle) — $ 159.120 ~~$ 198.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N8TRM7F6KGC?rtc=1)
 - **DOOM: The Dark Ages Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NP0PC87KBTD?rtc=1)
 - **Indiana Jones y el Gran Círculo™: Edición Prémium Digital** (Xbox PC, base) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1)

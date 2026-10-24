@@ -1,4 +1,55 @@
 {
-  "generatedAt": "2026-10-23 13:50",
-  "deals": []
+  "generatedAt": "2026-10-24 12:45",
+  "deals": [
+    {
+      "id": "xboxpc-9PFRG44XZCFJ",
+      "storeId": "9PFRG44XZCFJ",
+      "name": "Fallout 4: Anniversary Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 191120,
+      "pricePrevious": 238900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 191.120",
+      "pricePreviousLabel": "$ 238.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.61178.14199495301608061.222a9c4b-4b6c-4b60-bd5a-27c78c53c08a.6505cf67-b346-4060-8922-a83dbf9b9d74",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-C24SVX28PNWM",
+      "storeId": "C24SVX28PNWM",
+      "name": "Fallout 4: Game of the Year Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 127120,
+      "pricePrevious": 158900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 127.120",
+      "pricePreviousLabel": "$ 158.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.43525.65812291288120258.78db0a4c-6279-4de9-b89c-0e62cd3d55c7.8c1aabc2-4501-44a1-a9db-5f0de4dcad0a",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": true,
+      "isNew": true
+    }
+  ]
 }
