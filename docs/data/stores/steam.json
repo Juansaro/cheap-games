@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-24T17:45:51.553Z",
-  "updatedAtBogota": "2026-10-24 12:45",
+  "updatedAt": "2026-10-25T18:02:31.756Z",
+  "updatedAtBogota": "2026-10-25 13:02",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -43,5 +43,31 @@
     "onSale": false,
     "isNew": false
   },
-  "deals": []
+  "deals": [
+    {
+      "id": "steam-316790",
+      "storeId": "316790",
+      "name": "Grim Fandango Remastered",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 4800,
+      "pricePrevious": 32000,
+      "discountPercent": 85,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 4.800",
+      "pricePreviousLabel": "COL$ 32.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/316790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Double Fine Productions",
+      "isNew": true
+    }
+  ]
 }

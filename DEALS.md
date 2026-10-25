@@ -1,13 +1,13 @@
-# Ofertas — 2026-10-24 12:45 (Bogotá)
+# Ofertas — 2026-10-25 13:02 (Bogotá)
 
-Última actualización: **2026-10-24 12:45** (America/Bogota).
+Última actualización: **2026-10-25 13:02** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- Sin ofertas hoy
+- 🆕 **Grim Fandango Remastered** (Steam PC, base) — COL$ 4.800 ~~COL$ 32.000~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/316790/)
 
 ## Microsoft Store / Xbox PC
 - **State of Decay 2: Juggernaut Edition** (Xbox PC, bundle) — $ 32.475 ~~$ 129.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NT4X7P8B9NB?rtc=1)
@@ -37,8 +37,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
 - **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
-- 🆕 **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
-- 🆕 **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
+- 🆕 **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
+- **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
+- **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
 - **DOOM Eternal Deluxe Edition (PC)** (Xbox PC, bundle) — $ 159.120 ~~$ 198.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N8TRM7F6KGC?rtc=1)
 - **DOOM: The Dark Ages Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NP0PC87KBTD?rtc=1)
 - **Indiana Jones y el Gran Círculo™: Edición Prémium Digital** (Xbox PC, base) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1)

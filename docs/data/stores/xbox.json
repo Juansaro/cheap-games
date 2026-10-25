@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-24T17:45:51.553Z",
-  "updatedAtBogota": "2026-10-24 12:45",
+  "updatedAt": "2026-10-25T18:02:31.756Z",
+  "updatedAtBogota": "2026-10-25 13:02",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -696,6 +696,31 @@
       "isNew": false
     },
     {
+      "id": "xboxpc-9P1MLQ9QR8S8",
+      "storeId": "9P1MLQ9QR8S8",
+      "name": "The Elder Scrolls Online: Deluxe Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 191120,
+      "pricePrevious": 238900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 191.120",
+      "pricePreviousLabel": "$ 238.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.57985.14508755531047399.1b205e29-62e5-4b5e-b043-7e715476333b.2324acc1-08e3-40c6-bd21-35e243c83f64",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
       "id": "xboxpc-9PFRG44XZCFJ",
       "storeId": "9PFRG44XZCFJ",
       "name": "Fallout 4: Anniversary Edition",
@@ -718,7 +743,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-C24SVX28PNWM",
@@ -743,7 +768,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N8TRM7F6KGC",
