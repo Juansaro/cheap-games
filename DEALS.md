@@ -1,13 +1,37 @@
-# Ofertas — 2026-10-25 13:02 (Bogotá)
+# Ofertas — 2026-10-26 15:17 (Bogotá)
 
-Última actualización: **2026-10-25 13:02** (America/Bogota).
+Última actualización: **2026-10-26 15:17** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- 🆕 **Grim Fandango Remastered** (Steam PC, base) — COL$ 4.800 ~~COL$ 32.000~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/316790/)
+- **Grim Fandango Remastered** (Steam PC, base) — COL$ 4.800 ~~COL$ 32.000~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/316790/)
+- 🆕 **Costume Quest** (Steam PC, base) — COL$ 3.525 ~~COL$ 23.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/115100/)
+- 🆕 **Super Lucky's Tale** (Steam PC, base) — COL$ 8.500 ~~COL$ 42.500~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/847360/)
+- 🆕 **Prey** (Steam PC, base) — COL$ 18.000 ~~COL$ 90.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/480490/)
+- 🆕 **The Evil Within 2** (Steam PC, base) — COL$ 25.780 ~~COL$ 128.900~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/601430/)
+- 🆕 **The Evil Within** (Steam PC, base) — COL$ 14.975 ~~COL$ 59.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/268050/)
+- 🆕 **Ghostwire: Tokyo** (Steam PC, base) — COL$ 45.000 ~~COL$ 180.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1475810/)
+- 🆕 **DOOM VFR** (Steam PC, base) — COL$ 11.250 ~~COL$ 45.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/650000/)
+- 🆕 **We Happy Few** (Steam PC, base) — COL$ 39.975 ~~COL$ 159.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/320240/)
+- 🆕 **Call of Cthulhu®: Dark Corners of the Earth** (Steam PC, base) — COL$ 4.917 ~~COL$ 14.900~~ (−67%) · [Ver oferta](https://store.steampowered.com/app/22340/)
+- 🆕 **DOOM 3** (Steam PC, base) — COL$ 12.000 ~~COL$ 30.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/208200/)
+- 🆕 **The Evil Within: The Executioner** (Steam PC, dlc) — COL$ 3.560 ~~COL$ 8.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/359930/)
+- 🆕 **The Evil Within: The Assignment** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/345980/)
+- 🆕 **The Evil Within - The Consequence** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/354710/)
+- 🆕 **The Evil Within Season Pass** (Steam PC, dlc) — COL$ 11.960 ~~COL$ 29.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/318750/)
+- 🆕 **Ghostwire: Tokyo - Deluxe Upgrade** (Steam PC, dlc) — COL$ 30.000 ~~COL$ 60.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1702820/)
+- 🆕 **The Evil Within - Soundtrack** (Steam PC, base) — COL$ 16.723 ~~COL$ 33.447~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/446950/)
+- 🆕 **Ghostwire: Tokyo Original Game Soundtrack** (Steam PC, base) — COL$ 15.000 ~~COL$ 30.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1944840/)
+- 🆕 **Prey (Original Game Soundtrack)** (Steam PC, base) — COL$ 15.000 ~~COL$ 30.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1967880/)
+- 🆕 **We Happy Few - Roger & James in They Came From Below** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974570/)
+- 🆕 **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
+- 🆕 **We Happy Few - Lightbearer** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974580/)
+- 🆕 **We Happy Few - Season Pass** (Steam PC, dlc) — COL$ 34.490 ~~COL$ 68.981~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/919000/)
+- 🆕 **We Happy Few - Soundtrack and Digital Goods Bundle** (Steam PC, bundle) — COL$ 7.450 ~~COL$ 14.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/908420/)
+- 🆕 **South of Midnight** (Steam PC, base) — COL$ 62.999 ~~COL$ 89.999~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/1934570/)
 
 ## Microsoft Store / Xbox PC
 - **State of Decay 2: Juggernaut Edition** (Xbox PC, bundle) — $ 32.475 ~~$ 129.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NT4X7P8B9NB?rtc=1)
@@ -37,7 +61,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
 - **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
-- 🆕 **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
+- **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
 - **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
 - **DOOM Eternal Deluxe Edition (PC)** (Xbox PC, bundle) — $ 159.120 ~~$ 198.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N8TRM7F6KGC?rtc=1)
@@ -53,6 +77,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 
 ## SteamVR
+- 🆕 **The Walking Dead: Saints & Sinners** (SteamVR, base) — COL$ 23.750 ~~COL$ 47.500~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/916840/)
 - **The Light Brigade: Definitive Edition** (SteamVR, base) — COL$ 29.400 ~~COL$ 58.800~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1579880/)
 
 ## Meta Quest Store
