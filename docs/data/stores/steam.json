@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-26T20:17:08.475Z",
-  "updatedAtBogota": "2026-10-26 15:17",
+  "updatedAt": "2026-10-27T19:48:31.341Z",
+  "updatedAtBogota": "2026-10-27 14:48",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -59,7 +59,7 @@
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/316790/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1793062640",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -84,7 +84,7 @@
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/115100/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1787713161",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1793062706",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -92,7 +92,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-847360",
@@ -117,32 +117,7 @@
         "steam-watchlist"
       ],
       "publisher": "Xbox Game Studios",
-      "isNew": true
-    },
-    {
-      "id": "steam-480490",
-      "storeId": "480490",
-      "name": "Prey",
-      "platform": "Steam PC",
-      "kind": "base",
-      "priceCurrent": 18000,
-      "pricePrevious": 90000,
-      "discountPercent": 80,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 18.000",
-      "pricePreviousLabel": "COL$ 90.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/480490/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/9ed715575a2205350e937e5e6d25b3e8a494605e/header.jpg?t=1784141088",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-601430",
@@ -167,7 +142,32 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-480490",
+      "storeId": "480490",
+      "name": "Prey",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 18000,
+      "pricePrevious": 90000,
+      "discountPercent": 80,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 18.000",
+      "pricePreviousLabel": "COL$ 90.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/480490/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/9ed715575a2205350e937e5e6d25b3e8a494605e/header.jpg?t=1784141088",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
     },
     {
       "id": "steam-268050",
@@ -192,7 +192,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1475810",
@@ -217,7 +217,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-650000",
@@ -242,7 +242,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-320240",
@@ -267,7 +267,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-22340",
@@ -292,7 +292,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-208200",
@@ -317,32 +317,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-359930",
-      "storeId": "359930",
-      "name": "The Evil Within: The Executioner",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 3560,
-      "pricePrevious": 8900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 3.560",
-      "pricePreviousLabel": "COL$ 8.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/359930/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359930/header.jpg?t=1447371663",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-345980",
@@ -367,7 +342,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-354710",
@@ -392,7 +367,32 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-359930",
+      "storeId": "359930",
+      "name": "The Evil Within: The Executioner",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 3560,
+      "pricePrevious": 8900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 3.560",
+      "pricePreviousLabel": "COL$ 8.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/359930/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359930/header.jpg?t=1447371663",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
     },
     {
       "id": "steam-318750",
@@ -417,32 +417,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-1702820",
-      "storeId": "1702820",
-      "name": "Ghostwire: Tokyo - Deluxe Upgrade",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 30000,
-      "pricePrevious": 60000,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 30.000",
-      "pricePreviousLabel": "COL$ 60.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1702820/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-446950",
@@ -467,7 +442,32 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-1702820",
+      "storeId": "1702820",
+      "name": "Ghostwire: Tokyo - Deluxe Upgrade",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 30000,
+      "pricePrevious": 60000,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 30.000",
+      "pricePreviousLabel": "COL$ 60.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1702820/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
     },
     {
       "id": "steam-1944840",
@@ -492,7 +492,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1967880",
@@ -517,32 +517,7 @@
         "steam-watchlist"
       ],
       "publisher": "Bethesda Softworks",
-      "isNew": true
-    },
-    {
-      "id": "steam-974570",
-      "storeId": "974570",
-      "name": "We Happy Few - Roger & James in They Came From Below",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 12715,
-      "pricePrevious": 25430,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 12.715",
-      "pricePreviousLabel": "COL$ 25.430",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/974570/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1024770",
@@ -567,7 +542,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-974580",
@@ -592,7 +567,32 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "steam-974570",
+      "storeId": "974570",
+      "name": "We Happy Few - Roger & James in They Came From Below",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 12715,
+      "pricePrevious": 25430,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 12.715",
+      "pricePreviousLabel": "COL$ 25.430",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/974570/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Compulsion Games",
+      "isNew": false
     },
     {
       "id": "steam-919000",
@@ -617,7 +617,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-908420",
@@ -642,7 +642,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-1934570",
@@ -667,7 +667,7 @@
         "steam-watchlist"
       ],
       "publisher": "Compulsion Games",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

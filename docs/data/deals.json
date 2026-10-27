@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-26T20:17:08.475Z",
-  "updatedAtBogota": "2026-10-26 15:17",
-  "updatedAtDate": "2026-10-26",
+  "updatedAt": "2026-10-27T19:48:31.341Z",
+  "updatedAtBogota": "2026-10-27 14:48",
+  "updatedAtDate": "2026-10-27",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -26,7 +26,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/316790/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1793062640",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -51,7 +51,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/115100/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1787713161",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1793062706",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -59,7 +59,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-847360",
@@ -84,32 +84,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-480490",
-          "storeId": "480490",
-          "name": "Prey",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 18000,
-          "pricePrevious": 90000,
-          "discountPercent": 80,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 18.000",
-          "pricePreviousLabel": "COL$ 90.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/480490/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/9ed715575a2205350e937e5e6d25b3e8a494605e/header.jpg?t=1784141088",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-601430",
@@ -134,7 +109,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-480490",
+          "storeId": "480490",
+          "name": "Prey",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 18000,
+          "pricePrevious": 90000,
+          "discountPercent": 80,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 18.000",
+          "pricePreviousLabel": "COL$ 90.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/480490/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/9ed715575a2205350e937e5e6d25b3e8a494605e/header.jpg?t=1784141088",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-268050",
@@ -159,7 +159,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1475810",
@@ -184,7 +184,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-650000",
@@ -209,7 +209,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-320240",
@@ -234,7 +234,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-22340",
@@ -259,7 +259,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-208200",
@@ -284,32 +284,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-359930",
-          "storeId": "359930",
-          "name": "The Evil Within: The Executioner",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 3560,
-          "pricePrevious": 8900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 3.560",
-          "pricePreviousLabel": "COL$ 8.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/359930/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359930/header.jpg?t=1447371663",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-345980",
@@ -334,7 +309,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-354710",
@@ -359,7 +334,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-359930",
+          "storeId": "359930",
+          "name": "The Evil Within: The Executioner",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 3560,
+          "pricePrevious": 8900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 3.560",
+          "pricePreviousLabel": "COL$ 8.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/359930/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359930/header.jpg?t=1447371663",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-318750",
@@ -384,32 +384,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-1702820",
-          "storeId": "1702820",
-          "name": "Ghostwire: Tokyo - Deluxe Upgrade",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 30000,
-          "pricePrevious": 60000,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 30.000",
-          "pricePreviousLabel": "COL$ 60.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1702820/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-446950",
@@ -434,7 +409,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-1702820",
+          "storeId": "1702820",
+          "name": "Ghostwire: Tokyo - Deluxe Upgrade",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 30000,
+          "pricePrevious": 60000,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 30.000",
+          "pricePreviousLabel": "COL$ 60.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1702820/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-1944840",
@@ -459,7 +459,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1967880",
@@ -484,32 +484,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-974570",
-          "storeId": "974570",
-          "name": "We Happy Few - Roger & James in They Came From Below",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12715,
-          "pricePrevious": 25430,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.715",
-          "pricePreviousLabel": "COL$ 25.430",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/974570/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1024770",
@@ -534,7 +509,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-974580",
@@ -559,7 +534,32 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-974570",
+          "storeId": "974570",
+          "name": "We Happy Few - Roger & James in They Came From Below",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12715,
+          "pricePrevious": 25430,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.715",
+          "pricePreviousLabel": "COL$ 25.430",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/974570/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": false
         },
         {
           "id": "steam-919000",
@@ -584,7 +584,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-908420",
@@ -609,7 +609,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1934570",
@@ -634,7 +634,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": {
@@ -791,106 +791,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9P2VGCTBMM52",
-          "storeId": "9P2VGCTBMM52",
-          "name": "Microsoft Flight Simulator 2024 - Standard Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 195930,
-          "pricePrevious": 279900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 195.930",
-          "pricePreviousLabel": "$ 279.900",
-          "dealEndsAt": "2026-10-27T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-27 04:59",
-          "url": "https://www.microsoft.com/store/productId/9P2VGCTBMM52?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.59000.14550648823552491.458517e5-6b50-4124-b28b-b87004bdb3d1.961d2dcc-23a2-4997-a317-7237e2d47bbc",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9NV2Q5P1L5CC",
-          "storeId": "9NV2Q5P1L5CC",
-          "name": "Microsoft Flight Simulator 2024 - Aviator Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 531860,
-          "pricePrevious": 759800,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 531.860",
-          "pricePreviousLabel": "$ 759.800",
-          "dealEndsAt": "2026-10-27T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-27 04:59",
-          "url": "https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.51609.14406935353956462.3e5ea973-8477-49b6-97a0-33b4d669d86c.56a5977b-8285-4894-8266-7f400f59dcbd",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N7J4DKK7V15",
-          "storeId": "9N7J4DKK7V15",
-          "name": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 335930,
-          "pricePrevious": 479900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 335.930",
-          "pricePreviousLabel": "$ 479.900",
-          "dealEndsAt": "2026-10-27T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-27 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.39847.14068704152123556.d31c769e-21e4-479a-b5e4-a027fa3af233.d3c9f927-c39d-487a-8bba-e1398c343baa",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N7MNF1QC3X4",
-          "storeId": "9N7MNF1QC3X4",
-          "name": "Microsoft Flight Simulator 2024 - Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 265930,
-          "pricePrevious": 379900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 265.930",
-          "pricePreviousLabel": "$ 379.900",
-          "dealEndsAt": "2026-10-27T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-27 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.51634.14061677204079335.ea8cd46e-0327-464c-b53a-4212ba44ea8d.adb44e70-6c91-4aec-b964-18dd95090a73",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9N099DG3GHGW",
           "storeId": "9N099DG3GHGW",
           "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
@@ -977,8 +877,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 383.200",
           "pricePreviousLabel": "$ 479.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.60342.13547047233571036.013c5ec3-a5d7-4e8a-83e7-470299116376.2346f664-c01a-4b06-a92c-4819a43e8f75",
           "confirmed": true,
@@ -1002,8 +902,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 320.000",
           "pricePreviousLabel": "$ 400.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
           "confirmed": true,
@@ -1077,8 +977,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 207.920",
           "pricePreviousLabel": "$ 259.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
           "confirmed": true,
@@ -1089,6 +989,81 @@
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9NV2Q5P1L5CC",
+          "storeId": "9NV2Q5P1L5CC",
+          "name": "Microsoft Flight Simulator 2024 - Aviator Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 607840,
+          "pricePrevious": 759800,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 607.840",
+          "pricePreviousLabel": "$ 759.800",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.51609.14406935353956462.3e5ea973-8477-49b6-97a0-33b4d669d86c.56a5977b-8285-4894-8266-7f400f59dcbd",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N7J4DKK7V15",
+          "storeId": "9N7J4DKK7V15",
+          "name": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 383920,
+          "pricePrevious": 479900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 383.920",
+          "pricePreviousLabel": "$ 479.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.39847.14068704152123556.d31c769e-21e4-479a-b5e4-a027fa3af233.d3c9f927-c39d-487a-8bba-e1398c343baa",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N7MNF1QC3X4",
+          "storeId": "9N7MNF1QC3X4",
+          "name": "Microsoft Flight Simulator 2024 - Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 303920,
+          "pricePrevious": 379900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 303.920",
+          "pricePreviousLabel": "$ 379.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.51634.14061677204079335.ea8cd46e-0327-464c-b53a-4212ba44ea8d.adb44e70-6c91-4aec-b964-18dd95090a73",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9PJ15D3RDXMV",
@@ -1227,8 +1202,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 119.920",
           "pricePreviousLabel": "$ 149.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NN144QSW0T0?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.11424.13752337963608113.3c47c041-f989-44b0-87bf-b7fd43360a66.e07102a4-ad1e-4312-a9b6-404362943ce4",
           "confirmed": true,
@@ -1252,8 +1227,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 223.120",
           "pricePreviousLabel": "$ 278.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.35303.14316786733461812.bb5a977a-c90a-4411-a25d-25a3b96c55d8.8680717f-accb-432e-b597-0a6a1082d23e",
           "confirmed": true,
@@ -1277,8 +1252,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 187.920",
           "pricePreviousLabel": "$ 234.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.2491.13600922562511446.33e2012a-753e-4784-941b-7dea06df4293.921917ad-a736-4257-a023-f0ed4a0b7f92",
           "confirmed": true,
@@ -1302,8 +1277,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 32.720",
           "pricePreviousLabel": "$ 40.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
           "confirmed": true,
@@ -1352,8 +1327,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 191.120",
           "pricePreviousLabel": "$ 238.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.57985.14508755531047399.1b205e29-62e5-4b5e-b043-7e715476333b.2324acc1-08e3-40c6-bd21-35e243c83f64",
           "confirmed": true,
@@ -1377,8 +1352,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 191.120",
           "pricePreviousLabel": "$ 238.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.61178.14199495301608061.222a9c4b-4b6c-4b60-bd5a-27c78c53c08a.6505cf67-b346-4060-8922-a83dbf9b9d74",
           "confirmed": true,
@@ -1402,8 +1377,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 127.120",
           "pricePreviousLabel": "$ 158.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.43525.65812291288120258.78db0a4c-6279-4de9-b89c-0e62cd3d55c7.8c1aabc2-4501-44a1-a9db-5f0de4dcad0a",
           "confirmed": true,
@@ -1452,8 +1427,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 223.120",
           "pricePreviousLabel": "$ 278.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NP0PC87KBTD?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.3479.13728467728881069.7404643f-07f2-4d25-9b69-7abe8564d7a4.b698a66e-f570-4850-b9b9-1a6e68ca5bbd",
           "confirmed": true,
@@ -1477,8 +1452,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 383.920",
           "pricePreviousLabel": "$ 479.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.41337.14524964047097043.d9c9d5af-d2c8-4c6b-b3b9-a50b9e78a0b1.a270a8c9-fa30-4cce-9a26-757d80ce2965",
           "confirmed": true,
@@ -1502,8 +1477,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 191.920",
           "pricePreviousLabel": "$ 239.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NFHQ2719J83?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.54988.13594600110987132.5376950b-9493-4428-9d55-8d6df3956a11.4c4f796b-ac3a-4272-af0d-2b7d861b2fb7",
           "confirmed": true,
@@ -1717,7 +1692,7 @@
             "steam-appdetails"
           ],
           "publisher": "Skydance Interactive",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1579880",
@@ -1928,106 +1903,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9P2VGCTBMM52",
-          "storeId": "9P2VGCTBMM52",
-          "name": "Microsoft Flight Simulator 2024 - Standard Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 195930,
-          "pricePrevious": 279900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 195.930",
-          "pricePreviousLabel": "$ 279.900",
-          "dealEndsAt": "2026-10-27T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-27 04:59",
-          "url": "https://www.microsoft.com/store/productId/9P2VGCTBMM52?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.59000.14550648823552491.458517e5-6b50-4124-b28b-b87004bdb3d1.961d2dcc-23a2-4997-a317-7237e2d47bbc",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9NV2Q5P1L5CC",
-          "storeId": "9NV2Q5P1L5CC",
-          "name": "Microsoft Flight Simulator 2024 - Aviator Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 531860,
-          "pricePrevious": 759800,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 531.860",
-          "pricePreviousLabel": "$ 759.800",
-          "dealEndsAt": "2026-10-27T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-27 04:59",
-          "url": "https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.51609.14406935353956462.3e5ea973-8477-49b6-97a0-33b4d669d86c.56a5977b-8285-4894-8266-7f400f59dcbd",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N7J4DKK7V15",
-          "storeId": "9N7J4DKK7V15",
-          "name": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 335930,
-          "pricePrevious": 479900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 335.930",
-          "pricePreviousLabel": "$ 479.900",
-          "dealEndsAt": "2026-10-27T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-27 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.39847.14068704152123556.d31c769e-21e4-479a-b5e4-a027fa3af233.d3c9f927-c39d-487a-8bba-e1398c343baa",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N7MNF1QC3X4",
-          "storeId": "9N7MNF1QC3X4",
-          "name": "Microsoft Flight Simulator 2024 - Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 265930,
-          "pricePrevious": 379900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 265.930",
-          "pricePreviousLabel": "$ 379.900",
-          "dealEndsAt": "2026-10-27T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-10-27 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.51634.14061677204079335.ea8cd46e-0327-464c-b53a-4212ba44ea8d.adb44e70-6c91-4aec-b964-18dd95090a73",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9N099DG3GHGW",
           "storeId": "9N099DG3GHGW",
           "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
@@ -2114,8 +1989,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 383.200",
           "pricePreviousLabel": "$ 479.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.60342.13547047233571036.013c5ec3-a5d7-4e8a-83e7-470299116376.2346f664-c01a-4b06-a92c-4819a43e8f75",
           "confirmed": true,
@@ -2139,8 +2014,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 320.000",
           "pricePreviousLabel": "$ 400.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.1471.13782753939064744.ecc264a7-2365-4110-b06e-a6f978c761d7.e0760a01-ad9a-4fce-bb5a-bbe691096d01",
           "confirmed": true,
@@ -2214,8 +2089,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 207.920",
           "pricePreviousLabel": "$ 259.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
           "confirmed": true,
@@ -2226,6 +2101,81 @@
           "publisher": "Microsoft Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9NV2Q5P1L5CC",
+          "storeId": "9NV2Q5P1L5CC",
+          "name": "Microsoft Flight Simulator 2024 - Aviator Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 607840,
+          "pricePrevious": 759800,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 607.840",
+          "pricePreviousLabel": "$ 759.800",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.51609.14406935353956462.3e5ea973-8477-49b6-97a0-33b4d669d86c.56a5977b-8285-4894-8266-7f400f59dcbd",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N7J4DKK7V15",
+          "storeId": "9N7J4DKK7V15",
+          "name": "Microsoft Flight Simulator 2024 - Premium Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 383920,
+          "pricePrevious": 479900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 383.920",
+          "pricePreviousLabel": "$ 479.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.39847.14068704152123556.d31c769e-21e4-479a-b5e4-a027fa3af233.d3c9f927-c39d-487a-8bba-e1398c343baa",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N7MNF1QC3X4",
+          "storeId": "9N7MNF1QC3X4",
+          "name": "Microsoft Flight Simulator 2024 - Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 303920,
+          "pricePrevious": 379900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 303.920",
+          "pricePreviousLabel": "$ 379.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.51634.14061677204079335.ea8cd46e-0327-464c-b53a-4212ba44ea8d.adb44e70-6c91-4aec-b964-18dd95090a73",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9PJ15D3RDXMV",
@@ -2364,8 +2314,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 119.920",
           "pricePreviousLabel": "$ 149.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NN144QSW0T0?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.11424.13752337963608113.3c47c041-f989-44b0-87bf-b7fd43360a66.e07102a4-ad1e-4312-a9b6-404362943ce4",
           "confirmed": true,
@@ -2389,8 +2339,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 223.120",
           "pricePreviousLabel": "$ 278.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.35303.14316786733461812.bb5a977a-c90a-4411-a25d-25a3b96c55d8.8680717f-accb-432e-b597-0a6a1082d23e",
           "confirmed": true,
@@ -2414,8 +2364,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 187.920",
           "pricePreviousLabel": "$ 234.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.2491.13600922562511446.33e2012a-753e-4784-941b-7dea06df4293.921917ad-a736-4257-a023-f0ed4a0b7f92",
           "confirmed": true,
@@ -2439,8 +2389,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 32.720",
           "pricePreviousLabel": "$ 40.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
           "confirmed": true,
@@ -2489,8 +2439,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 191.120",
           "pricePreviousLabel": "$ 238.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.57985.14508755531047399.1b205e29-62e5-4b5e-b043-7e715476333b.2324acc1-08e3-40c6-bd21-35e243c83f64",
           "confirmed": true,
@@ -2514,8 +2464,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 191.120",
           "pricePreviousLabel": "$ 238.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.61178.14199495301608061.222a9c4b-4b6c-4b60-bd5a-27c78c53c08a.6505cf67-b346-4060-8922-a83dbf9b9d74",
           "confirmed": true,
@@ -2539,8 +2489,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 127.120",
           "pricePreviousLabel": "$ 158.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.43525.65812291288120258.78db0a4c-6279-4de9-b89c-0e62cd3d55c7.8c1aabc2-4501-44a1-a9db-5f0de4dcad0a",
           "confirmed": true,
@@ -2589,8 +2539,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 223.120",
           "pricePreviousLabel": "$ 278.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NP0PC87KBTD?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.3479.13728467728881069.7404643f-07f2-4d25-9b69-7abe8564d7a4.b698a66e-f570-4850-b9b9-1a6e68ca5bbd",
           "confirmed": true,
@@ -2614,8 +2564,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 383.920",
           "pricePreviousLabel": "$ 479.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9P0SWLC2F1XJ?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.41337.14524964047097043.d9c9d5af-d2c8-4c6b-b3b9-a50b9e78a0b1.a270a8c9-fa30-4cce-9a26-757d80ce2965",
           "confirmed": true,
@@ -2639,8 +2589,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 191.920",
           "pricePreviousLabel": "$ 239.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
           "url": "https://www.microsoft.com/store/productId/9NFHQ2719J83?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.54988.13594600110987132.5376950b-9493-4428-9d55-8d6df3956a11.4c4f796b-ac3a-4272-af0d-2b7d861b2fb7",
           "confirmed": true,
@@ -2848,7 +2798,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/316790/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1793062640",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -2873,7 +2823,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/115100/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1787713161",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1793062706",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -2881,7 +2831,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-847360",
@@ -2906,32 +2856,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-480490",
-          "storeId": "480490",
-          "name": "Prey",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 18000,
-          "pricePrevious": 90000,
-          "discountPercent": 80,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 18.000",
-          "pricePreviousLabel": "COL$ 90.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/480490/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/9ed715575a2205350e937e5e6d25b3e8a494605e/header.jpg?t=1784141088",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-601430",
@@ -2956,7 +2881,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-480490",
+          "storeId": "480490",
+          "name": "Prey",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 18000,
+          "pricePrevious": 90000,
+          "discountPercent": 80,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 18.000",
+          "pricePreviousLabel": "COL$ 90.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/480490/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/9ed715575a2205350e937e5e6d25b3e8a494605e/header.jpg?t=1784141088",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-268050",
@@ -2981,7 +2931,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1475810",
@@ -3006,7 +2956,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-650000",
@@ -3031,7 +2981,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-320240",
@@ -3056,7 +3006,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-22340",
@@ -3081,7 +3031,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-208200",
@@ -3106,32 +3056,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-359930",
-          "storeId": "359930",
-          "name": "The Evil Within: The Executioner",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 3560,
-          "pricePrevious": 8900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 3.560",
-          "pricePreviousLabel": "COL$ 8.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/359930/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359930/header.jpg?t=1447371663",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-345980",
@@ -3156,7 +3081,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-354710",
@@ -3181,7 +3106,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-359930",
+          "storeId": "359930",
+          "name": "The Evil Within: The Executioner",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 3560,
+          "pricePrevious": 8900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 3.560",
+          "pricePreviousLabel": "COL$ 8.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/359930/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359930/header.jpg?t=1447371663",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-318750",
@@ -3206,32 +3156,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-1702820",
-          "storeId": "1702820",
-          "name": "Ghostwire: Tokyo - Deluxe Upgrade",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 30000,
-          "pricePrevious": 60000,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 30.000",
-          "pricePreviousLabel": "COL$ 60.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1702820/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-446950",
@@ -3256,7 +3181,32 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-1702820",
+          "storeId": "1702820",
+          "name": "Ghostwire: Tokyo - Deluxe Upgrade",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 30000,
+          "pricePrevious": 60000,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 30.000",
+          "pricePreviousLabel": "COL$ 60.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1702820/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
         },
         {
           "id": "steam-1944840",
@@ -3281,7 +3231,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1967880",
@@ -3306,32 +3256,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
-        },
-        {
-          "id": "steam-974570",
-          "storeId": "974570",
-          "name": "We Happy Few - Roger & James in They Came From Below",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12715,
-          "pricePrevious": 25430,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.715",
-          "pricePreviousLabel": "COL$ 25.430",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/974570/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1024770",
@@ -3356,7 +3281,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-974580",
@@ -3381,7 +3306,32 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
+        },
+        {
+          "id": "steam-974570",
+          "storeId": "974570",
+          "name": "We Happy Few - Roger & James in They Came From Below",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12715,
+          "pricePrevious": 25430,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.715",
+          "pricePreviousLabel": "COL$ 25.430",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/974570/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": false
         },
         {
           "id": "steam-919000",
@@ -3406,7 +3356,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-908420",
@@ -3431,7 +3381,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1934570",
@@ -3456,7 +3406,7 @@
             "steam-watchlist"
           ],
           "publisher": "Compulsion Games",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
@@ -3486,7 +3436,7 @@
             "steam-appdetails"
           ],
           "publisher": "Skydance Interactive",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1579880",
