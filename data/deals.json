@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-27T19:48:31.341Z",
-  "updatedAtBogota": "2026-10-27 14:48",
-  "updatedAtDate": "2026-10-27",
+  "updatedAt": "2026-10-28T20:02:36.371Z",
+  "updatedAtBogota": "2026-10-28 15:02",
+  "updatedAtDate": "2026-10-28",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -26,7 +26,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/316790/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1793062640",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1793138379",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -287,31 +287,6 @@
           "isNew": false
         },
         {
-          "id": "steam-345980",
-          "storeId": "345980",
-          "name": "The Evil Within: The Assignment",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 5960,
-          "pricePrevious": 14900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 5.960",
-          "pricePreviousLabel": "COL$ 14.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/345980/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-354710",
           "storeId": "354710",
           "name": "The Evil Within - The Consequence",
@@ -327,6 +302,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/354710/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354710/header.jpg?t=1447370385",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-345980",
+          "storeId": "345980",
+          "name": "The Evil Within: The Assignment",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 5960,
+          "pricePrevious": 14900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.960",
+          "pricePreviousLabel": "COL$ 14.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/345980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -387,31 +387,6 @@
           "isNew": false
         },
         {
-          "id": "steam-446950",
-          "storeId": "446950",
-          "name": "The Evil Within - Soundtrack",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 16723,
-          "pricePrevious": 33447,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 16.723",
-          "pricePreviousLabel": "COL$ 33.447",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/446950/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/446950/header.jpg?t=1581549402",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-1702820",
           "storeId": "1702820",
           "name": "Ghostwire: Tokyo - Deluxe Upgrade",
@@ -427,6 +402,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1702820/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-446950",
+          "storeId": "446950",
+          "name": "The Evil Within - Soundtrack",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 16723,
+          "pricePrevious": 33447,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 16.723",
+          "pricePreviousLabel": "COL$ 33.447",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/446950/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/446950/header.jpg?t=1581549402",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -487,31 +487,6 @@
           "isNew": false
         },
         {
-          "id": "steam-1024770",
-          "storeId": "1024770",
-          "name": "We Happy Few - We All Fall Down",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12715,
-          "pricePrevious": 25430,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.715",
-          "pricePreviousLabel": "COL$ 25.430",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1024770/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": false
-        },
-        {
           "id": "steam-974580",
           "storeId": "974580",
           "name": "We Happy Few - Lightbearer",
@@ -552,6 +527,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/974570/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": false
+        },
+        {
+          "id": "steam-1024770",
+          "storeId": "1024770",
+          "name": "We Happy Few - We All Fall Down",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12715,
+          "pricePrevious": 25430,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.715",
+          "pricePreviousLabel": "COL$ 25.430",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1024770/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -827,8 +827,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 271.920",
           "pricePreviousLabel": "$ 339.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.30953.14506879174941978.138d3eab-0b06-443b-a252-c99592521394.14d1c0fa-a49d-46bb-b177-7173e55078c7",
           "confirmed": true,
@@ -852,8 +852,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 335.920",
           "pricePreviousLabel": "$ 419.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.33953.13806078025361171.9723cf5e-1e29-4d9d-ad0a-cc37a95bb75d.afabb748-2c30-4a7e-8072-2809a222192d",
           "confirmed": true,
@@ -927,8 +927,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 367.920",
           "pricePreviousLabel": "$ 459.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
           "confirmed": true,
@@ -952,8 +952,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 335.920",
           "pricePreviousLabel": "$ 419.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
           "confirmed": true,
@@ -1013,7 +1013,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N7J4DKK7V15",
@@ -1038,7 +1038,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N7MNF1QC3X4",
@@ -1063,7 +1063,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PJ15D3RDXMV",
@@ -1939,8 +1939,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 271.920",
           "pricePreviousLabel": "$ 339.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.30953.14506879174941978.138d3eab-0b06-443b-a252-c99592521394.14d1c0fa-a49d-46bb-b177-7173e55078c7",
           "confirmed": true,
@@ -1964,8 +1964,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 335.920",
           "pricePreviousLabel": "$ 419.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.33953.13806078025361171.9723cf5e-1e29-4d9d-ad0a-cc37a95bb75d.afabb748-2c30-4a7e-8072-2809a222192d",
           "confirmed": true,
@@ -2039,8 +2039,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 367.920",
           "pricePreviousLabel": "$ 459.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.23691.14083713035901346.16619c9c-f1cb-4fd8-93b8-e5754d238bfe.4052cbaa-13c5-47d9-b436-27e536e0a197",
           "confirmed": true,
@@ -2064,8 +2064,8 @@
           "currency": "COP",
           "priceCurrentLabel": "$ 335.920",
           "pricePreviousLabel": "$ 419.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
+          "dealEndsAt": "2026-11-12T23:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-12 18:59",
           "url": "https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1",
           "image": "//store-images.s-microsoft.com/image/apps.46025.14351182556820670.6ebc5ba2-47c4-4eaf-9672-c9ba92ad71f9.4d2219c4-1d62-4021-8446-6520f8bcaa22",
           "confirmed": true,
@@ -2125,7 +2125,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N7J4DKK7V15",
@@ -2150,7 +2150,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9N7MNF1QC3X4",
@@ -2175,7 +2175,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PJ15D3RDXMV",
@@ -2798,7 +2798,7 @@
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/316790/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1793062640",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1793138379",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3059,31 +3059,6 @@
           "isNew": false
         },
         {
-          "id": "steam-345980",
-          "storeId": "345980",
-          "name": "The Evil Within: The Assignment",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 5960,
-          "pricePrevious": 14900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 5.960",
-          "pricePreviousLabel": "COL$ 14.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/345980/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-354710",
           "storeId": "354710",
           "name": "The Evil Within - The Consequence",
@@ -3099,6 +3074,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/354710/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354710/header.jpg?t=1447370385",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-345980",
+          "storeId": "345980",
+          "name": "The Evil Within: The Assignment",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 5960,
+          "pricePrevious": 14900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.960",
+          "pricePreviousLabel": "COL$ 14.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/345980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3159,31 +3159,6 @@
           "isNew": false
         },
         {
-          "id": "steam-446950",
-          "storeId": "446950",
-          "name": "The Evil Within - Soundtrack",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 16723,
-          "pricePrevious": 33447,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 16.723",
-          "pricePreviousLabel": "COL$ 33.447",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/446950/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/446950/header.jpg?t=1581549402",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-1702820",
           "storeId": "1702820",
           "name": "Ghostwire: Tokyo - Deluxe Upgrade",
@@ -3199,6 +3174,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1702820/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-446950",
+          "storeId": "446950",
+          "name": "The Evil Within - Soundtrack",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 16723,
+          "pricePrevious": 33447,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 16.723",
+          "pricePreviousLabel": "COL$ 33.447",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/446950/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/446950/header.jpg?t=1581549402",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3259,31 +3259,6 @@
           "isNew": false
         },
         {
-          "id": "steam-1024770",
-          "storeId": "1024770",
-          "name": "We Happy Few - We All Fall Down",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12715,
-          "pricePrevious": 25430,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.715",
-          "pricePreviousLabel": "COL$ 25.430",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1024770/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": false
-        },
-        {
           "id": "steam-974580",
           "storeId": "974580",
           "name": "We Happy Few - Lightbearer",
@@ -3324,6 +3299,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/974570/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": false
+        },
+        {
+          "id": "steam-1024770",
+          "storeId": "1024770",
+          "name": "We Happy Few - We All Fall Down",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12715,
+          "pricePrevious": 25430,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.715",
+          "pricePreviousLabel": "COL$ 25.430",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1024770/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
           "confirmed": true,
           "sources": [
             "steam-appdetails",

@@ -1,6 +1,6 @@
-# Ofertas — 2026-10-27 14:48 (Bogotá)
+# Ofertas — 2026-10-28 15:02 (Bogotá)
 
-Última actualización: **2026-10-27 14:48** (America/Bogota).
+Última actualización: **2026-10-28 15:02** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -18,17 +18,17 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **We Happy Few** (Steam PC, base) — COL$ 39.975 ~~COL$ 159.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/320240/)
 - **Call of Cthulhu®: Dark Corners of the Earth** (Steam PC, base) — COL$ 4.917 ~~COL$ 14.900~~ (−67%) · [Ver oferta](https://store.steampowered.com/app/22340/)
 - **DOOM 3** (Steam PC, base) — COL$ 12.000 ~~COL$ 30.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/208200/)
-- **The Evil Within: The Assignment** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/345980/)
 - **The Evil Within - The Consequence** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/354710/)
+- **The Evil Within: The Assignment** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/345980/)
 - **The Evil Within: The Executioner** (Steam PC, dlc) — COL$ 3.560 ~~COL$ 8.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/359930/)
 - **The Evil Within Season Pass** (Steam PC, dlc) — COL$ 11.960 ~~COL$ 29.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/318750/)
-- **The Evil Within - Soundtrack** (Steam PC, base) — COL$ 16.723 ~~COL$ 33.447~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/446950/)
 - **Ghostwire: Tokyo - Deluxe Upgrade** (Steam PC, dlc) — COL$ 30.000 ~~COL$ 60.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1702820/)
+- **The Evil Within - Soundtrack** (Steam PC, base) — COL$ 16.723 ~~COL$ 33.447~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/446950/)
 - **Ghostwire: Tokyo Original Game Soundtrack** (Steam PC, base) — COL$ 15.000 ~~COL$ 30.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1944840/)
 - **Prey (Original Game Soundtrack)** (Steam PC, base) — COL$ 15.000 ~~COL$ 30.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1967880/)
-- **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
 - **We Happy Few - Lightbearer** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974580/)
 - **We Happy Few - Roger & James in They Came From Below** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974570/)
+- **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
 - **We Happy Few - Season Pass** (Steam PC, dlc) — COL$ 34.490 ~~COL$ 68.981~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/919000/)
 - **We Happy Few - Soundtrack and Digital Goods Bundle** (Steam PC, bundle) — COL$ 7.450 ~~COL$ 14.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/908420/)
 - **South of Midnight** (Steam PC, base) — COL$ 62.999 ~~COL$ 89.999~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/1934570/)
@@ -47,9 +47,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 367.920 ~~$ 459.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
 - **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
 - **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
-- 🆕 **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 607.840 ~~$ 759.800~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
-- 🆕 **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
-- 🆕 **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 303.920 ~~$ 379.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
+- **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 607.840 ~~$ 759.800~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
+- **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
+- **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 303.920 ~~$ 379.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
 - **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 327.920 ~~$ 409.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
 - **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 279.920 ~~$ 349.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
 - **Age of Empires: colección definitiva** (Xbox PC, base) — $ 71.920 ~~$ 89.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P4S0R97R36S?rtc=1)
