@@ -1,4 +1,55 @@
 {
-  "generatedAt": "2026-10-28 15:02",
-  "deals": []
+  "generatedAt": "2026-10-29 15:00",
+  "deals": [
+    {
+      "id": "steam-246090",
+      "storeId": "246090",
+      "name": "Spacebase DF-9",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 3525,
+      "pricePrevious": 23500,
+      "discountPercent": 85,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 3.525",
+      "pricePreviousLabel": "COL$ 23.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/246090/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246090/header.jpg?t=1793102322",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Double Fine Productions",
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9MZV840NDMBM",
+      "storeId": "9MZV840NDMBM",
+      "name": "Minecraft Dungeons II Edición Deluxe",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 179910,
+      "pricePrevious": 199900,
+      "discountPercent": 10,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 179.910",
+      "pricePreviousLabel": "$ 199.900",
+      "dealEndsAt": "2026-12-28T07:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-28 02:59",
+      "url": "https://www.microsoft.com/store/productId/9MZV840NDMBM?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.20471.13596461372408012.94cfead7-27a0-44f4-8127-77eac62fa825.cce7ba30-0903-4148-b84d-6837755204a9",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    }
+  ]
 }

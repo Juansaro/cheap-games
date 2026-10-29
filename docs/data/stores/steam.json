@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-28T20:02:36.371Z",
-  "updatedAtBogota": "2026-10-28 15:02",
+  "updatedAt": "2026-10-29T20:00:55.750Z",
+  "updatedAtBogota": "2026-10-29 15:00",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -93,6 +93,31 @@
       ],
       "publisher": "Double Fine Productions",
       "isNew": false
+    },
+    {
+      "id": "steam-246090",
+      "storeId": "246090",
+      "name": "Spacebase DF-9",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 3525,
+      "pricePrevious": 23500,
+      "discountPercent": 85,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 3.525",
+      "pricePreviousLabel": "COL$ 23.500",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/246090/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246090/header.jpg?t=1793102322",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Double Fine Productions",
+      "isNew": true
     },
     {
       "id": "steam-847360",
@@ -520,9 +545,9 @@
       "isNew": false
     },
     {
-      "id": "steam-974580",
-      "storeId": "974580",
-      "name": "We Happy Few - Lightbearer",
+      "id": "steam-1024770",
+      "storeId": "1024770",
+      "name": "We Happy Few - We All Fall Down",
       "platform": "Steam PC",
       "kind": "dlc",
       "priceCurrent": 12715,
@@ -533,8 +558,8 @@
       "pricePreviousLabel": "COL$ 25.430",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/974580/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
+      "url": "https://store.steampowered.com/app/1024770/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -570,9 +595,9 @@
       "isNew": false
     },
     {
-      "id": "steam-1024770",
-      "storeId": "1024770",
-      "name": "We Happy Few - We All Fall Down",
+      "id": "steam-974580",
+      "storeId": "974580",
+      "name": "We Happy Few - Lightbearer",
       "platform": "Steam PC",
       "kind": "dlc",
       "priceCurrent": 12715,
@@ -583,8 +608,8 @@
       "pricePreviousLabel": "COL$ 25.430",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1024770/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
+      "url": "https://store.steampowered.com/app/974580/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
       "confirmed": true,
       "sources": [
         "steam-appdetails",

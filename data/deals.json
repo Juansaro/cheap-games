@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-28T20:02:36.371Z",
-  "updatedAtBogota": "2026-10-28 15:02",
-  "updatedAtDate": "2026-10-28",
+  "updatedAt": "2026-10-29T20:00:55.750Z",
+  "updatedAtBogota": "2026-10-29 15:00",
+  "updatedAtDate": "2026-10-29",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -60,6 +60,31 @@
           ],
           "publisher": "Double Fine Productions",
           "isNew": false
+        },
+        {
+          "id": "steam-246090",
+          "storeId": "246090",
+          "name": "Spacebase DF-9",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 3525,
+          "pricePrevious": 23500,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 3.525",
+          "pricePreviousLabel": "COL$ 23.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/246090/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246090/header.jpg?t=1793102322",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Double Fine Productions",
+          "isNew": true
         },
         {
           "id": "steam-847360",
@@ -487,9 +512,9 @@
           "isNew": false
         },
         {
-          "id": "steam-974580",
-          "storeId": "974580",
-          "name": "We Happy Few - Lightbearer",
+          "id": "steam-1024770",
+          "storeId": "1024770",
+          "name": "We Happy Few - We All Fall Down",
           "platform": "Steam PC",
           "kind": "dlc",
           "priceCurrent": 12715,
@@ -500,8 +525,8 @@
           "pricePreviousLabel": "COL$ 25.430",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/974580/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
+          "url": "https://store.steampowered.com/app/1024770/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -537,9 +562,9 @@
           "isNew": false
         },
         {
-          "id": "steam-1024770",
-          "storeId": "1024770",
-          "name": "We Happy Few - We All Fall Down",
+          "id": "steam-974580",
+          "storeId": "974580",
+          "name": "We Happy Few - Lightbearer",
           "platform": "Steam PC",
           "kind": "dlc",
           "priceCurrent": 12715,
@@ -550,8 +575,8 @@
           "pricePreviousLabel": "COL$ 25.430",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1024770/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
+          "url": "https://store.steampowered.com/app/974580/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1639,6 +1664,31 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9MZV840NDMBM",
+          "storeId": "9MZV840NDMBM",
+          "name": "Minecraft Dungeons II Edición Deluxe",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 179910,
+          "pricePrevious": 199900,
+          "discountPercent": 10,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 179.910",
+          "pricePreviousLabel": "$ 199.900",
+          "dealEndsAt": "2026-12-28T07:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-12-28 02:59",
+          "url": "https://www.microsoft.com/store/productId/9MZV840NDMBM?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.20471.13596461372408012.94cfead7-27a0-44f4-8127-77eac62fa825.cce7ba30-0903-4148-b84d-6837755204a9",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9N5KX36SQJ9Q",
@@ -2753,6 +2803,31 @@
           "isNew": false
         },
         {
+          "id": "xboxpc-9MZV840NDMBM",
+          "storeId": "9MZV840NDMBM",
+          "name": "Minecraft Dungeons II Edición Deluxe",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 179910,
+          "pricePrevious": 199900,
+          "discountPercent": 10,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 179.910",
+          "pricePreviousLabel": "$ 199.900",
+          "dealEndsAt": "2026-12-28T07:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-12-28 02:59",
+          "url": "https://www.microsoft.com/store/productId/9MZV840NDMBM?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.20471.13596461372408012.94cfead7-27a0-44f4-8127-77eac62fa825.cce7ba30-0903-4148-b84d-6837755204a9",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Xbox Game Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
           "id": "xboxpc-9N5KX36SQJ9Q",
           "storeId": "9N5KX36SQJ9Q",
           "name": "Minecraft Dungeons paquete de DLC definitivo - Windows 10",
@@ -2832,6 +2907,31 @@
           ],
           "publisher": "Double Fine Productions",
           "isNew": false
+        },
+        {
+          "id": "steam-246090",
+          "storeId": "246090",
+          "name": "Spacebase DF-9",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 3525,
+          "pricePrevious": 23500,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 3.525",
+          "pricePreviousLabel": "COL$ 23.500",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/246090/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246090/header.jpg?t=1793102322",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Double Fine Productions",
+          "isNew": true
         },
         {
           "id": "steam-847360",
@@ -3259,9 +3359,9 @@
           "isNew": false
         },
         {
-          "id": "steam-974580",
-          "storeId": "974580",
-          "name": "We Happy Few - Lightbearer",
+          "id": "steam-1024770",
+          "storeId": "1024770",
+          "name": "We Happy Few - We All Fall Down",
           "platform": "Steam PC",
           "kind": "dlc",
           "priceCurrent": 12715,
@@ -3272,8 +3372,8 @@
           "pricePreviousLabel": "COL$ 25.430",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/974580/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
+          "url": "https://store.steampowered.com/app/1024770/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3309,9 +3409,9 @@
           "isNew": false
         },
         {
-          "id": "steam-1024770",
-          "storeId": "1024770",
-          "name": "We Happy Few - We All Fall Down",
+          "id": "steam-974580",
+          "storeId": "974580",
+          "name": "We Happy Few - Lightbearer",
           "platform": "Steam PC",
           "kind": "dlc",
           "priceCurrent": 12715,
@@ -3322,8 +3422,8 @@
           "pricePreviousLabel": "COL$ 25.430",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1024770/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
+          "url": "https://store.steampowered.com/app/974580/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
