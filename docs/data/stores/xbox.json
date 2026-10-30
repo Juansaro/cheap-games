@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-29T20:00:55.750Z",
-  "updatedAtBogota": "2026-10-29 15:00",
+  "updatedAt": "2026-10-30T19:49:53.691Z",
+  "updatedAtBogota": "2026-10-30 14:49",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -119,6 +119,81 @@
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
       "isNew": false
+    },
+    {
+      "id": "xboxpc-9PMQDM08SNK9",
+      "storeId": "9PMQDM08SNK9",
+      "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 87465,
+      "pricePrevious": 249900,
+      "discountPercent": 65,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 87.465",
+      "pricePreviousLabel": "$ 249.900",
+      "dealEndsAt": "2026-11-13T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-13 04:59",
+      "url": "https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.37136.14293123921570736.739af26b-0b56-4d3a-8d57-149d26c2cc05.73830409-618c-48cc-a4fc-4f6fbc18b7f9",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9PJ15D3RDXMV",
+      "storeId": "9PJ15D3RDXMV",
+      "name": "Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 143465,
+      "pricePrevious": 409900,
+      "discountPercent": 65,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 143.465",
+      "pricePreviousLabel": "$ 409.900",
+      "dealEndsAt": "2026-11-13T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-13 04:59",
+      "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9NH8N0M7CWLN",
+      "storeId": "9NH8N0M7CWLN",
+      "name": "Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 122465,
+      "pricePrevious": 349900,
+      "discountPercent": 65,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 122.465",
+      "pricePreviousLabel": "$ 349.900",
+      "dealEndsAt": "2026-11-13T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-13 04:59",
+      "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
     },
     {
       "id": "xboxpc-9MXND4PQLK3W",
@@ -411,56 +486,6 @@
       "dealEndsAtBogota": "2026-11-19 14:59",
       "url": "https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.51634.14061677204079335.ea8cd46e-0327-464c-b53a-4212ba44ea8d.adb44e70-6c91-4aec-b964-18dd95090a73",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9PJ15D3RDXMV",
-      "storeId": "9PJ15D3RDXMV",
-      "name": "Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 327920,
-      "pricePrevious": 409900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 327.920",
-      "pricePreviousLabel": "$ 409.900",
-      "dealEndsAt": "2026-10-29T23:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-10-29 18:59",
-      "url": "https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.5176.14225646405929875.ed2b05a2-f9fd-4a33-b808-807366c017bf.ec671c43-7121-4f72-b10a-85e5c4b83540",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9NH8N0M7CWLN",
-      "storeId": "9NH8N0M7CWLN",
-      "name": "Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 279920,
-      "pricePrevious": 349900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 279.920",
-      "pricePreviousLabel": "$ 349.900",
-      "dealEndsAt": "2026-10-29T23:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-10-29 18:59",
-      "url": "https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.57274.13630274674230323.ef522ebd-e0ea-449e-b0c8-3271887caa67.2e92ae62-cd3e-458f-a8f8-3927865645e2",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -1018,7 +1043,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N5KX36SQJ9Q",

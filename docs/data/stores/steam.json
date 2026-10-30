@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-10-29T20:00:55.750Z",
-  "updatedAtBogota": "2026-10-29 15:00",
+  "updatedAt": "2026-10-30T19:49:53.691Z",
+  "updatedAtBogota": "2026-10-30 14:49",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": {
@@ -117,7 +117,7 @@
         "steam-watchlist"
       ],
       "publisher": "Double Fine Productions",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "steam-847360",
@@ -345,31 +345,6 @@
       "isNew": false
     },
     {
-      "id": "steam-354710",
-      "storeId": "354710",
-      "name": "The Evil Within - The Consequence",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 5960,
-      "pricePrevious": 14900,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 5.960",
-      "pricePreviousLabel": "COL$ 14.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/354710/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354710/header.jpg?t=1447370385",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": false
-    },
-    {
       "id": "steam-345980",
       "storeId": "345980",
       "name": "The Evil Within: The Assignment",
@@ -385,6 +360,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/345980/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
+    },
+    {
+      "id": "steam-354710",
+      "storeId": "354710",
+      "name": "The Evil Within - The Consequence",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 5960,
+      "pricePrevious": 14900,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 5.960",
+      "pricePreviousLabel": "COL$ 14.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/354710/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354710/header.jpg?t=1447370385",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -445,31 +445,6 @@
       "isNew": false
     },
     {
-      "id": "steam-1702820",
-      "storeId": "1702820",
-      "name": "Ghostwire: Tokyo - Deluxe Upgrade",
-      "platform": "Steam PC",
-      "kind": "dlc",
-      "priceCurrent": 30000,
-      "pricePrevious": 60000,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "COL$ 30.000",
-      "pricePreviousLabel": "COL$ 60.000",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1702820/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
-      "confirmed": true,
-      "sources": [
-        "steam-appdetails",
-        "steam-search-specials",
-        "steam-watchlist"
-      ],
-      "publisher": "Bethesda Softworks",
-      "isNew": false
-    },
-    {
       "id": "steam-446950",
       "storeId": "446950",
       "name": "The Evil Within - Soundtrack",
@@ -485,6 +460,31 @@
       "dealEndsAtBogota": null,
       "url": "https://store.steampowered.com/app/446950/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/446950/header.jpg?t=1581549402",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": false
+    },
+    {
+      "id": "steam-1702820",
+      "storeId": "1702820",
+      "name": "Ghostwire: Tokyo - Deluxe Upgrade",
+      "platform": "Steam PC",
+      "kind": "dlc",
+      "priceCurrent": 30000,
+      "pricePrevious": 60000,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 30.000",
+      "pricePreviousLabel": "COL$ 60.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/1702820/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702820/header_spanish.jpg?t=1654709882",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -545,9 +545,9 @@
       "isNew": false
     },
     {
-      "id": "steam-1024770",
-      "storeId": "1024770",
-      "name": "We Happy Few - We All Fall Down",
+      "id": "steam-974580",
+      "storeId": "974580",
+      "name": "We Happy Few - Lightbearer",
       "platform": "Steam PC",
       "kind": "dlc",
       "priceCurrent": 12715,
@@ -558,8 +558,8 @@
       "pricePreviousLabel": "COL$ 25.430",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/1024770/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
+      "url": "https://store.steampowered.com/app/974580/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
       "confirmed": true,
       "sources": [
         "steam-appdetails",
@@ -595,9 +595,9 @@
       "isNew": false
     },
     {
-      "id": "steam-974580",
-      "storeId": "974580",
-      "name": "We Happy Few - Lightbearer",
+      "id": "steam-1024770",
+      "storeId": "1024770",
+      "name": "We Happy Few - We All Fall Down",
       "platform": "Steam PC",
       "kind": "dlc",
       "priceCurrent": 12715,
@@ -608,8 +608,8 @@
       "pricePreviousLabel": "COL$ 25.430",
       "dealEndsAt": null,
       "dealEndsAtBogota": null,
-      "url": "https://store.steampowered.com/app/974580/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
+      "url": "https://store.steampowered.com/app/1024770/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
       "confirmed": true,
       "sources": [
         "steam-appdetails",

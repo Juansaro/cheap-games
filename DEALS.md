@@ -1,6 +1,6 @@
-# Ofertas — 2026-10-29 15:00 (Bogotá)
+# Ofertas — 2026-10-30 14:49 (Bogotá)
 
-Última actualización: **2026-10-29 15:00** (America/Bogota).
+Última actualización: **2026-10-30 14:49** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -9,7 +9,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 ## Steam
 - **Grim Fandango Remastered** (Steam PC, base) — COL$ 4.800 ~~COL$ 32.000~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/316790/)
 - **Costume Quest** (Steam PC, base) — COL$ 3.525 ~~COL$ 23.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/115100/)
-- 🆕 **Spacebase DF-9** (Steam PC, base) — COL$ 3.525 ~~COL$ 23.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/246090/)
+- **Spacebase DF-9** (Steam PC, base) — COL$ 3.525 ~~COL$ 23.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/246090/)
 - **Super Lucky's Tale** (Steam PC, base) — COL$ 8.500 ~~COL$ 42.500~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/847360/)
 - **The Evil Within 2** (Steam PC, base) — COL$ 25.780 ~~COL$ 128.900~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/601430/)
 - **Prey** (Steam PC, base) — COL$ 18.000 ~~COL$ 90.000~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/480490/)
@@ -19,17 +19,17 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **We Happy Few** (Steam PC, base) — COL$ 39.975 ~~COL$ 159.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/320240/)
 - **Call of Cthulhu®: Dark Corners of the Earth** (Steam PC, base) — COL$ 4.917 ~~COL$ 14.900~~ (−67%) · [Ver oferta](https://store.steampowered.com/app/22340/)
 - **DOOM 3** (Steam PC, base) — COL$ 12.000 ~~COL$ 30.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/208200/)
-- **The Evil Within - The Consequence** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/354710/)
 - **The Evil Within: The Assignment** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/345980/)
+- **The Evil Within - The Consequence** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/354710/)
 - **The Evil Within: The Executioner** (Steam PC, dlc) — COL$ 3.560 ~~COL$ 8.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/359930/)
 - **The Evil Within Season Pass** (Steam PC, dlc) — COL$ 11.960 ~~COL$ 29.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/318750/)
-- **Ghostwire: Tokyo - Deluxe Upgrade** (Steam PC, dlc) — COL$ 30.000 ~~COL$ 60.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1702820/)
 - **The Evil Within - Soundtrack** (Steam PC, base) — COL$ 16.723 ~~COL$ 33.447~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/446950/)
+- **Ghostwire: Tokyo - Deluxe Upgrade** (Steam PC, dlc) — COL$ 30.000 ~~COL$ 60.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1702820/)
 - **Ghostwire: Tokyo Original Game Soundtrack** (Steam PC, base) — COL$ 15.000 ~~COL$ 30.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1944840/)
 - **Prey (Original Game Soundtrack)** (Steam PC, base) — COL$ 15.000 ~~COL$ 30.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1967880/)
-- **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
-- **We Happy Few - Roger & James in They Came From Below** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974570/)
 - **We Happy Few - Lightbearer** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974580/)
+- **We Happy Few - Roger & James in They Came From Below** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974570/)
+- **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
 - **We Happy Few - Season Pass** (Steam PC, dlc) — COL$ 34.490 ~~COL$ 68.981~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/919000/)
 - **We Happy Few - Soundtrack and Digital Goods Bundle** (Steam PC, bundle) — COL$ 7.450 ~~COL$ 14.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/908420/)
 - **South of Midnight** (Steam PC, base) — COL$ 62.999 ~~COL$ 89.999~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/1934570/)
@@ -39,6 +39,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **DOOM Eternal Standard Edition (PC)** (Xbox PC, bundle) — $ 39.237 ~~$ 118.900~~ (−67%) · [Ver oferta](https://www.microsoft.com/store/productId/9PK09BL31FK1?rtc=1)
 - **Sea of Thieves: X Edition** (Xbox PC, bundle) — $ 111.615 ~~$ 318.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1)
 - **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 76.965 ~~$ 219.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
+- 🆕 **Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition** (Xbox PC, bundle) — $ 87.465 ~~$ 249.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1)
+- 🆕 **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 143.465 ~~$ 409.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
+- 🆕 **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 122.465 ~~$ 349.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
 - **DOOM 64** (Xbox PC, base) — $ 5.960 ~~$ 14.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MXND4PQLK3W?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 55.930 ~~$ 79.900~~ (−30%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
 - **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 271.920 ~~$ 339.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
@@ -51,8 +54,6 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 607.840 ~~$ 759.800~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
 - **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
 - **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 303.920 ~~$ 379.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
-- **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 327.920 ~~$ 409.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
-- **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 279.920 ~~$ 349.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
 - **Age of Empires: colección definitiva** (Xbox PC, base) — $ 71.920 ~~$ 89.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P4S0R97R36S?rtc=1)
 - **Age of Empires III: Definitive Edition - The Complete History** (Xbox PC, bundle) — $ 109.520 ~~$ 136.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1)
 - **Colección del 25to aniversario de Age of Empires** (Xbox PC, base) — $ 291.920 ~~$ 364.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1)
@@ -74,7 +75,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
-- 🆕 **Minecraft Dungeons II Edición Deluxe** (Xbox PC, bundle) — $ 179.910 ~~$ 199.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9MZV840NDMBM?rtc=1)
+- **Minecraft Dungeons II Edición Deluxe** (Xbox PC, bundle) — $ 179.910 ~~$ 199.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9MZV840NDMBM?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 
 ## SteamVR
