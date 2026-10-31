@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T19:49:53.691Z",
-  "updatedAtBogota": "2026-10-30 14:49",
-  "updatedAtDate": "2026-10-30",
+  "updatedAt": "2026-10-31T18:58:54.498Z",
+  "updatedAtBogota": "2026-10-31 13:58",
+  "updatedAtDate": "2026-10-31",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -312,31 +312,6 @@
           "isNew": false
         },
         {
-          "id": "steam-345980",
-          "storeId": "345980",
-          "name": "The Evil Within: The Assignment",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 5960,
-          "pricePrevious": 14900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 5.960",
-          "pricePreviousLabel": "COL$ 14.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/345980/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-354710",
           "storeId": "354710",
           "name": "The Evil Within - The Consequence",
@@ -352,6 +327,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/354710/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354710/header.jpg?t=1447370385",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-345980",
+          "storeId": "345980",
+          "name": "The Evil Within: The Assignment",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 5960,
+          "pricePrevious": 14900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.960",
+          "pricePreviousLabel": "COL$ 14.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/345980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -512,6 +512,31 @@
           "isNew": false
         },
         {
+          "id": "steam-1024770",
+          "storeId": "1024770",
+          "name": "We Happy Few - We All Fall Down",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12715,
+          "pricePrevious": 25430,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.715",
+          "pricePreviousLabel": "COL$ 25.430",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1024770/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": false
+        },
+        {
           "id": "steam-974580",
           "storeId": "974580",
           "name": "We Happy Few - Lightbearer",
@@ -552,31 +577,6 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/974570/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": false
-        },
-        {
-          "id": "steam-1024770",
-          "storeId": "1024770",
-          "name": "We Happy Few - We All Fall Down",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12715,
-          "pricePrevious": 25430,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.715",
-          "pricePreviousLabel": "COL$ 25.430",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1024770/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -813,7 +813,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PJ15D3RDXMV",
@@ -838,7 +838,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NH8N0M7CWLN",
@@ -863,7 +863,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MXND4PQLK3W",
@@ -1975,7 +1975,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PJ15D3RDXMV",
@@ -2000,7 +2000,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NH8N0M7CWLN",
@@ -2025,7 +2025,7 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9MXND4PQLK3W",
@@ -3209,31 +3209,6 @@
           "isNew": false
         },
         {
-          "id": "steam-345980",
-          "storeId": "345980",
-          "name": "The Evil Within: The Assignment",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 5960,
-          "pricePrevious": 14900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 5.960",
-          "pricePreviousLabel": "COL$ 14.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/345980/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-354710",
           "storeId": "354710",
           "name": "The Evil Within - The Consequence",
@@ -3249,6 +3224,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/354710/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/354710/header.jpg?t=1447370385",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-345980",
+          "storeId": "345980",
+          "name": "The Evil Within: The Assignment",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 5960,
+          "pricePrevious": 14900,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 5.960",
+          "pricePreviousLabel": "COL$ 14.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/345980/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345980/header.jpg?t=1447368040",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -3409,6 +3409,31 @@
           "isNew": false
         },
         {
+          "id": "steam-1024770",
+          "storeId": "1024770",
+          "name": "We Happy Few - We All Fall Down",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12715,
+          "pricePrevious": 25430,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.715",
+          "pricePreviousLabel": "COL$ 25.430",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1024770/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": false
+        },
+        {
           "id": "steam-974580",
           "storeId": "974580",
           "name": "We Happy Few - Lightbearer",
@@ -3449,31 +3474,6 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/974570/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974570/header.jpg?t=1786471405",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": false
-        },
-        {
-          "id": "steam-1024770",
-          "storeId": "1024770",
-          "name": "We Happy Few - We All Fall Down",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12715,
-          "pricePrevious": 25430,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.715",
-          "pricePreviousLabel": "COL$ 25.430",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1024770/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
