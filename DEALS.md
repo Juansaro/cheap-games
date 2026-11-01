@@ -1,13 +1,12 @@
-# Ofertas — 2026-10-31 13:58 (Bogotá)
+# Ofertas — 2026-11-01 14:20 (Bogotá)
 
-Última actualización: **2026-10-31 13:58** (America/Bogota).
+Última actualización: **2026-11-01 14:20** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- **Grim Fandango Remastered** (Steam PC, base) — COL$ 4.800 ~~COL$ 32.000~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/316790/)
 - **Costume Quest** (Steam PC, base) — COL$ 3.525 ~~COL$ 23.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/115100/)
 - **Spacebase DF-9** (Steam PC, base) — COL$ 3.525 ~~COL$ 23.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/246090/)
 - **Super Lucky's Tale** (Steam PC, base) — COL$ 8.500 ~~COL$ 42.500~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/847360/)
@@ -19,12 +18,12 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **We Happy Few** (Steam PC, base) — COL$ 39.975 ~~COL$ 159.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/320240/)
 - **Call of Cthulhu®: Dark Corners of the Earth** (Steam PC, base) — COL$ 4.917 ~~COL$ 14.900~~ (−67%) · [Ver oferta](https://store.steampowered.com/app/22340/)
 - **DOOM 3** (Steam PC, base) — COL$ 12.000 ~~COL$ 30.000~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/208200/)
-- **The Evil Within - The Consequence** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/354710/)
 - **The Evil Within: The Assignment** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/345980/)
+- **The Evil Within - The Consequence** (Steam PC, dlc) — COL$ 5.960 ~~COL$ 14.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/354710/)
 - **The Evil Within: The Executioner** (Steam PC, dlc) — COL$ 3.560 ~~COL$ 8.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/359930/)
 - **The Evil Within Season Pass** (Steam PC, dlc) — COL$ 11.960 ~~COL$ 29.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/318750/)
-- **The Evil Within - Soundtrack** (Steam PC, base) — COL$ 16.723 ~~COL$ 33.447~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/446950/)
 - **Ghostwire: Tokyo - Deluxe Upgrade** (Steam PC, dlc) — COL$ 30.000 ~~COL$ 60.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1702820/)
+- **The Evil Within - Soundtrack** (Steam PC, base) — COL$ 16.723 ~~COL$ 33.447~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/446950/)
 - **Ghostwire: Tokyo Original Game Soundtrack** (Steam PC, base) — COL$ 15.000 ~~COL$ 30.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1944840/)
 - **Prey (Original Game Soundtrack)** (Steam PC, base) — COL$ 15.000 ~~COL$ 30.000~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1967880/)
 - **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
@@ -32,6 +31,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **We Happy Few - Roger & James in They Came From Below** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974570/)
 - **We Happy Few - Season Pass** (Steam PC, dlc) — COL$ 34.490 ~~COL$ 68.981~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/919000/)
 - **We Happy Few - Soundtrack and Digital Goods Bundle** (Steam PC, bundle) — COL$ 7.450 ~~COL$ 14.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/908420/)
+- 🆕 **Keeper** (Steam PC, base) — COL$ 29.399 ~~COL$ 48.999~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/3043580/)
 - **South of Midnight** (Steam PC, base) — COL$ 62.999 ~~COL$ 89.999~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/1934570/)
 
 ## Microsoft Store / Xbox PC
