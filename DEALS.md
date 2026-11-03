@@ -1,6 +1,6 @@
-# Ofertas — 2026-11-02 17:59 (Bogotá)
+# Ofertas — 2026-11-03 15:46 (Bogotá)
 
-Última actualización: **2026-11-02 17:59** (America/Bogota).
+Última actualización: **2026-11-03 15:46** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -8,9 +8,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Steam
 - **Spacebase DF-9** (Steam PC, base) — COL$ 3.525 ~~COL$ 23.500~~ (−85%) · [Ver oferta](https://store.steampowered.com/app/246090/)
+- **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
 - **We Happy Few - Lightbearer** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974580/)
 - **We Happy Few - Roger & James in They Came From Below** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974570/)
-- **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
 - **We Happy Few - Season Pass** (Steam PC, dlc) — COL$ 34.490 ~~COL$ 68.981~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/919000/)
 - **We Happy Few - Soundtrack and Digital Goods Bundle** (Steam PC, bundle) — COL$ 7.450 ~~COL$ 14.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/908420/)
 - **Keeper** (Steam PC, base) — COL$ 29.399 ~~COL$ 48.999~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/3043580/)
@@ -61,7 +61,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
 
 ## SteamVR
-- **The Light Brigade: Definitive Edition** (SteamVR, base) — COL$ 29.400 ~~COL$ 58.800~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1579880/)
+- Sin ofertas hoy
 
 ## Meta Quest Store
 - Sin ofertas hoy
