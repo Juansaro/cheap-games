@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-04T21:02:17.524Z",
-  "updatedAtBogota": "2026-11-04 16:02",
-  "updatedAtDate": "2026-11-04",
+  "updatedAt": "2026-11-05T21:19:37.878Z",
+  "updatedAtBogota": "2026-11-05 16:19",
+  "updatedAtDate": "2026-11-05",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -11,31 +11,6 @@
   "stores": {
     "steam": {
       "deals": [
-        {
-          "id": "steam-246090",
-          "storeId": "246090",
-          "name": "Spacebase DF-9",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 3525,
-          "pricePrevious": 23500,
-          "discountPercent": 85,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 3.525",
-          "pricePreviousLabel": "COL$ 23.500",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/246090/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246090/header.jpg?t=1793102322",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Double Fine Productions",
-          "isNew": false
-        },
         {
           "id": "steam-974570",
           "storeId": "974570",
@@ -62,31 +37,6 @@
           "isNew": false
         },
         {
-          "id": "steam-974580",
-          "storeId": "974580",
-          "name": "We Happy Few - Lightbearer",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12715,
-          "pricePrevious": 25430,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.715",
-          "pricePreviousLabel": "COL$ 25.430",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/974580/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": false
-        },
-        {
           "id": "steam-1024770",
           "storeId": "1024770",
           "name": "We Happy Few - We All Fall Down",
@@ -102,6 +52,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1024770/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": false
+        },
+        {
+          "id": "steam-974580",
+          "storeId": "974580",
+          "name": "We Happy Few - Lightbearer",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12715,
+          "pricePrevious": 25430,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.715",
+          "pricePreviousLabel": "COL$ 25.430",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/974580/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -241,106 +216,6 @@
     "xbox": {
       "deals": [
         {
-          "id": "xboxpc-9NT4X7P8B9NB",
-          "storeId": "9NT4X7P8B9NB",
-          "name": "State of Decay 2: Juggernaut Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 32475,
-          "pricePrevious": 129900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 32.475",
-          "pricePreviousLabel": "$ 129.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9NT4X7P8B9NB?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.45572.14425140369408817.14846606-f5bc-4fb1-b355-26ef6a25e847.ca79acfc-0a9a-4e61-a626-d7623bb12248",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9PK09BL31FK1",
-          "storeId": "9PK09BL31FK1",
-          "name": "DOOM Eternal Standard Edition (PC)",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 39237,
-          "pricePrevious": 118900,
-          "discountPercent": 67,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 39.237",
-          "pricePreviousLabel": "$ 118.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9PK09BL31FK1?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.447.14607483449828807.1bf8995c-7221-490e-a6d4-8718054337ce.45c5c13d-7a5c-4a3d-8b78-8db811dad69d",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9MWNNM41MB6D",
-          "storeId": "9MWNNM41MB6D",
-          "name": "Sea of Thieves: X Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 111615,
-          "pricePrevious": 318900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 111.615",
-          "pricePreviousLabel": "$ 318.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N1WWHGKBX3P",
-          "storeId": "9N1WWHGKBX3P",
-          "name": "Sea of Thieves: 2026 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 76965,
-          "pricePrevious": 219900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 76.965",
-          "pricePreviousLabel": "$ 219.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9PMQDM08SNK9",
           "storeId": "9PMQDM08SNK9",
           "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
@@ -413,56 +288,6 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9MXND4PQLK3W",
-          "storeId": "9MXND4PQLK3W",
-          "name": "DOOM 64",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 5960,
-          "pricePrevious": 14900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 5.960",
-          "pricePreviousLabel": "$ 14.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9MXND4PQLK3W?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.37742.13886780434132750.58497d0f-3220-4d2f-a7ff-96dcff27bc5f.e10ab652-fd3c-4438-94fc-0d7f958d5609",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N099DG3GHGW",
-          "storeId": "9N099DG3GHGW",
-          "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
-          "platform": "Xbox PC",
-          "kind": "dlc",
-          "priceCurrent": 55930,
-          "pricePrevious": 79900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 55.930",
-          "pricePreviousLabel": "$ 79.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
           "isNew": false
         },
         {
@@ -614,6 +439,56 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9MWNNM41MB6D",
+          "storeId": "9MWNNM41MB6D",
+          "name": "Sea of Thieves: X Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 255120,
+          "pricePrevious": 318900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 255.120",
+          "pricePreviousLabel": "$ 318.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N1WWHGKBX3P",
+          "storeId": "9N1WWHGKBX3P",
+          "name": "Sea of Thieves: 2026 Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 175920,
+          "pricePrevious": 219900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 175.920",
+          "pricePreviousLabel": "$ 219.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9NKD5GJTS6FH",
@@ -1164,6 +1039,31 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": false,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9N099DG3GHGW",
+          "storeId": "9N099DG3GHGW",
+          "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
+          "platform": "Xbox PC",
+          "kind": "dlc",
+          "priceCurrent": 71910,
+          "pricePrevious": 79900,
+          "discountPercent": 10,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 71.910",
+          "pricePreviousLabel": "$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
         },
         {
           "id": "xboxpc-9PLHDCMXH1TL",
@@ -1354,106 +1254,6 @@
       "emptyMessage": "Sin ofertas hoy",
       "deals": [
         {
-          "id": "xboxpc-9NT4X7P8B9NB",
-          "storeId": "9NT4X7P8B9NB",
-          "name": "State of Decay 2: Juggernaut Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 32475,
-          "pricePrevious": 129900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 32.475",
-          "pricePreviousLabel": "$ 129.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9NT4X7P8B9NB?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.45572.14425140369408817.14846606-f5bc-4fb1-b355-26ef6a25e847.ca79acfc-0a9a-4e61-a626-d7623bb12248",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Xbox Game Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9PK09BL31FK1",
-          "storeId": "9PK09BL31FK1",
-          "name": "DOOM Eternal Standard Edition (PC)",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 39237,
-          "pricePrevious": 118900,
-          "discountPercent": 67,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 39.237",
-          "pricePreviousLabel": "$ 118.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9PK09BL31FK1?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.447.14607483449828807.1bf8995c-7221-490e-a6d4-8718054337ce.45c5c13d-7a5c-4a3d-8b78-8db811dad69d",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9MWNNM41MB6D",
-          "storeId": "9MWNNM41MB6D",
-          "name": "Sea of Thieves: X Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 111615,
-          "pricePrevious": 318900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 111.615",
-          "pricePreviousLabel": "$ 318.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N1WWHGKBX3P",
-          "storeId": "9N1WWHGKBX3P",
-          "name": "Sea of Thieves: 2026 Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 76965,
-          "pricePrevious": 219900,
-          "discountPercent": 65,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 76.965",
-          "pricePreviousLabel": "$ 219.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Microsoft Studios",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9PMQDM08SNK9",
           "storeId": "9PMQDM08SNK9",
           "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
@@ -1526,56 +1326,6 @@
           ],
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9MXND4PQLK3W",
-          "storeId": "9MXND4PQLK3W",
-          "name": "DOOM 64",
-          "platform": "Xbox PC",
-          "kind": "base",
-          "priceCurrent": 5960,
-          "pricePrevious": 14900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 5.960",
-          "pricePreviousLabel": "$ 14.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9MXND4PQLK3W?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.37742.13886780434132750.58497d0f-3220-4d2f-a7ff-96dcff27bc5f.e10ab652-fd3c-4438-94fc-0d7f958d5609",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9N099DG3GHGW",
-          "storeId": "9N099DG3GHGW",
-          "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
-          "platform": "Xbox PC",
-          "kind": "dlc",
-          "priceCurrent": 55930,
-          "pricePrevious": 79900,
-          "discountPercent": 30,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 55.930",
-          "pricePreviousLabel": "$ 79.900",
-          "dealEndsAt": "2026-11-05T09:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-05 04:59",
-          "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": false,
           "isNew": false
         },
         {
@@ -1727,6 +1477,56 @@
           "publisher": "Xbox Game Studios",
           "playAnywhere": true,
           "isNew": false
+        },
+        {
+          "id": "xboxpc-9MWNNM41MB6D",
+          "storeId": "9MWNNM41MB6D",
+          "name": "Sea of Thieves: X Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 255120,
+          "pricePrevious": 318900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 255.120",
+          "pricePreviousLabel": "$ 318.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
+        },
+        {
+          "id": "xboxpc-9N1WWHGKBX3P",
+          "storeId": "9N1WWHGKBX3P",
+          "name": "Sea of Thieves: 2026 Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 175920,
+          "pricePrevious": 219900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 175.920",
+          "pricePreviousLabel": "$ 219.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Microsoft Studios",
+          "playAnywhere": true,
+          "isNew": true
         },
         {
           "id": "xboxpc-9NKD5GJTS6FH",
@@ -2279,6 +2079,31 @@
           "isNew": false
         },
         {
+          "id": "xboxpc-9N099DG3GHGW",
+          "storeId": "9N099DG3GHGW",
+          "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
+          "platform": "Xbox PC",
+          "kind": "dlc",
+          "priceCurrent": 71910,
+          "pricePrevious": 79900,
+          "discountPercent": 10,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 71.910",
+          "pricePreviousLabel": "$ 79.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
+        },
+        {
           "id": "xboxpc-9PLHDCMXH1TL",
           "storeId": "9PLHDCMXH1TL",
           "name": "DOOM Eternal: The Ancient Gods - primera parte (PC)",
@@ -2410,31 +2235,6 @@
       "emptyMessage": "Sin ofertas hoy",
       "deals": [
         {
-          "id": "steam-246090",
-          "storeId": "246090",
-          "name": "Spacebase DF-9",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 3525,
-          "pricePrevious": 23500,
-          "discountPercent": 85,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 3.525",
-          "pricePreviousLabel": "COL$ 23.500",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/246090/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246090/header.jpg?t=1793102322",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Double Fine Productions",
-          "isNew": false
-        },
-        {
           "id": "steam-974570",
           "storeId": "974570",
           "name": "We Happy Few - Roger & James in They Came From Below",
@@ -2460,31 +2260,6 @@
           "isNew": false
         },
         {
-          "id": "steam-974580",
-          "storeId": "974580",
-          "name": "We Happy Few - Lightbearer",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 12715,
-          "pricePrevious": 25430,
-          "discountPercent": 50,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.715",
-          "pricePreviousLabel": "COL$ 25.430",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/974580/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Compulsion Games",
-          "isNew": false
-        },
-        {
           "id": "steam-1024770",
           "storeId": "1024770",
           "name": "We Happy Few - We All Fall Down",
@@ -2500,6 +2275,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1024770/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024770/header.jpg?t=1786471328",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Compulsion Games",
+          "isNew": false
+        },
+        {
+          "id": "steam-974580",
+          "storeId": "974580",
+          "name": "We Happy Few - Lightbearer",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 12715,
+          "pricePrevious": 25430,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.715",
+          "pricePreviousLabel": "COL$ 25.430",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/974580/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974580/header.jpg?t=1786471484",
           "confirmed": true,
           "sources": [
             "steam-appdetails",

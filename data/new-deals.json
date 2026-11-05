@@ -1,4 +1,80 @@
 {
-  "generatedAt": "2026-11-04 16:02",
-  "deals": []
+  "generatedAt": "2026-11-05 16:19",
+  "deals": [
+    {
+      "id": "xboxpc-9MWNNM41MB6D",
+      "storeId": "9MWNNM41MB6D",
+      "name": "Sea of Thieves: X Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 255120,
+      "pricePrevious": 318900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 255.120",
+      "pricePreviousLabel": "$ 318.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.7882.13840377073141063.357a179e-5729-40b7-8689-0efa7ea7e423.7e34bd0d-211b-49f8-96f1-4b9d0f87c232",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Microsoft Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9N1WWHGKBX3P",
+      "storeId": "9N1WWHGKBX3P",
+      "name": "Sea of Thieves: 2026 Deluxe Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 175920,
+      "pricePrevious": 219900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 175.920",
+      "pricePreviousLabel": "$ 219.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.60597.13967663488775544.509c7068-af09-4098-9b3b-00abbd68d1f4.44d913b9-c074-410c-be6b-9c2587a23524",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Microsoft Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9N099DG3GHGW",
+      "storeId": "9N099DG3GHGW",
+      "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
+      "platform": "Xbox PC",
+      "kind": "dlc",
+      "priceCurrent": 71910,
+      "pricePrevious": 79900,
+      "discountPercent": 10,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 71.910",
+      "pricePreviousLabel": "$ 79.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": true
+    }
+  ]
 }
