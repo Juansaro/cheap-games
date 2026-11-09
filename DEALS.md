@@ -1,18 +1,13 @@
-# Ofertas — 2026-11-08 14:17 (Bogotá)
+# Ofertas — 2026-11-09 18:41 (Bogotá)
 
-Última actualización: **2026-11-08 14:17** (America/Bogota).
+Última actualización: **2026-11-09 18:41** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- **We Happy Few - Lightbearer** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974580/)
-- **We Happy Few - We All Fall Down** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1024770/)
-- **We Happy Few - Roger & James in They Came From Below** (Steam PC, dlc) — COL$ 12.715 ~~COL$ 25.430~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/974570/)
-- **We Happy Few - Season Pass** (Steam PC, dlc) — COL$ 34.490 ~~COL$ 68.981~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/919000/)
-- **We Happy Few - Soundtrack and Digital Goods Bundle** (Steam PC, bundle) — COL$ 7.450 ~~COL$ 14.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/908420/)
-- **South of Midnight** (Steam PC, base) — COL$ 62.999 ~~COL$ 89.999~~ (−30%) · [Ver oferta](https://store.steampowered.com/app/1934570/)
+- Sin ofertas hoy
 
 ## Microsoft Store / Xbox PC
 - **Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition** (Xbox PC, bundle) — $ 87.465 ~~$ 249.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1)
