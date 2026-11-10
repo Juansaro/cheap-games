@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-09T23:41:26.564Z",
-  "updatedAtBogota": "2026-11-09 18:41",
-  "updatedAtDate": "2026-11-09",
+  "updatedAt": "2026-11-10T21:09:00.582Z",
+  "updatedAtBogota": "2026-11-10 16:09",
+  "updatedAtDate": "2026-11-10",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -540,56 +540,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9NF62X1QH3CM",
-          "storeId": "9NF62X1QH3CM",
-          "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 187920,
-          "pricePrevious": 234900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 187.920",
-          "pricePreviousLabel": "$ 234.900",
-          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-19 14:59",
-          "url": "https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.2491.13600922562511446.33e2012a-753e-4784-941b-7dea06df4293.921917ad-a736-4257-a023-f0ed4a0b7f92",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9PG0T8LFL7LH",
-          "storeId": "9PG0T8LFL7LH",
-          "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 32720,
-          "pricePrevious": 40900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 32.720",
-          "pricePreviousLabel": "$ 40.900",
-          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-19 14:59",
-          "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9NFW7GND3WNZ",
           "storeId": "9NFW7GND3WNZ",
           "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
@@ -612,6 +562,31 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-9NF62X1QH3CM",
+          "storeId": "9NF62X1QH3CM",
+          "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 187920,
+          "pricePrevious": 234900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 187.920",
+          "pricePreviousLabel": "$ 234.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.2491.13600922562511446.33e2012a-753e-4784-941b-7dea06df4293.921917ad-a736-4257-a023-f0ed4a0b7f92",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": true,
           "isNew": false
         },
         {
@@ -1578,56 +1553,6 @@
           "isNew": false
         },
         {
-          "id": "xboxpc-9NF62X1QH3CM",
-          "storeId": "9NF62X1QH3CM",
-          "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 187920,
-          "pricePrevious": 234900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 187.920",
-          "pricePreviousLabel": "$ 234.900",
-          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-19 14:59",
-          "url": "https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.2491.13600922562511446.33e2012a-753e-4784-941b-7dea06df4293.921917ad-a736-4257-a023-f0ed4a0b7f92",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
-          "id": "xboxpc-9PG0T8LFL7LH",
-          "storeId": "9PG0T8LFL7LH",
-          "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade",
-          "platform": "Xbox PC",
-          "kind": "bundle",
-          "priceCurrent": 32720,
-          "pricePrevious": 40900,
-          "discountPercent": 20,
-          "currency": "COP",
-          "priceCurrentLabel": "$ 32.720",
-          "pricePreviousLabel": "$ 40.900",
-          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-          "dealEndsAtBogota": "2026-11-19 14:59",
-          "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
-          "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
-          "confirmed": true,
-          "sources": [
-            "ms-display-catalog",
-            "ms-store-search"
-          ],
-          "publisher": "Bethesda Softworks",
-          "playAnywhere": true,
-          "isNew": false
-        },
-        {
           "id": "xboxpc-9NFW7GND3WNZ",
           "storeId": "9NFW7GND3WNZ",
           "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
@@ -1650,6 +1575,31 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
+          "isNew": false
+        },
+        {
+          "id": "xboxpc-9NF62X1QH3CM",
+          "storeId": "9NF62X1QH3CM",
+          "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
+          "platform": "Xbox PC",
+          "kind": "bundle",
+          "priceCurrent": 187920,
+          "pricePrevious": 234900,
+          "discountPercent": 20,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 187.920",
+          "pricePreviousLabel": "$ 234.900",
+          "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-11-19 14:59",
+          "url": "https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.2491.13600922562511446.33e2012a-753e-4784-941b-7dea06df4293.921917ad-a736-4257-a023-f0ed4a0b7f92",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": true,
           "isNew": false
         },
         {
