@@ -14,12 +14,37 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-11-10T21:09:00.582Z",
-  "updatedAtBogota": "2026-11-10 16:09",
+  "updatedAt": "2026-11-11T21:42:31.540Z",
+  "updatedAtBogota": "2026-11-11 16:42",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
   "deals": [
+    {
+      "id": "xboxpc-9P03JGQ4S1GC",
+      "storeId": "9P03JGQ4S1GC",
+      "name": "The Elder Scrolls V: Skyrim Special Edition (PC)",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 24180,
+      "pricePrevious": 120900,
+      "discountPercent": 80,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 24.180",
+      "pricePreviousLabel": "$ 120.900",
+      "dealEndsAt": "2026-11-20T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-20 04:59",
+      "url": "https://www.microsoft.com/store/productId/9P03JGQ4S1GC?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.64810.14468615562328340.fdd2a6d3-ed01-4e8e-805a-630a8e7dcd61.315b57ba-4b6c-43ee-9535-dff8ad090355",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": true
+    },
     {
       "id": "xboxpc-9PMQDM08SNK9",
       "storeId": "9PMQDM08SNK9",
@@ -521,31 +546,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9NFW7GND3WNZ",
-      "storeId": "9NFW7GND3WNZ",
-      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 119920,
-      "pricePrevious": 149900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 119.920",
-      "pricePreviousLabel": "$ 149.900",
-      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-11-19 14:59",
-      "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9NF62X1QH3CM",
       "storeId": "9NF62X1QH3CM",
       "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
@@ -568,6 +568,56 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9PG0T8LFL7LH",
+      "storeId": "9PG0T8LFL7LH",
+      "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 32720,
+      "pricePrevious": 40900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 32.720",
+      "pricePreviousLabel": "$ 40.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9NFW7GND3WNZ",
+      "storeId": "9NFW7GND3WNZ",
+      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 119920,
+      "pricePrevious": 149900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 119.920",
+      "pricePreviousLabel": "$ 149.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
       "isNew": false
     },
     {

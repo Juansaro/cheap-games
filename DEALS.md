@@ -1,15 +1,16 @@
-# Ofertas — 2026-11-10 16:09 (Bogotá)
+# Ofertas — 2026-11-11 16:42 (Bogotá)
 
-Última actualización: **2026-11-10 16:09** (America/Bogota).
+Última actualización: **2026-11-11 16:42** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- Sin ofertas hoy
+- 🆕 **The Elder Scrolls V: Skyrim Special Edition** (Steam PC, base) — COL$ 23.999 ~~COL$ 119.999~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/489830/)
 
 ## Microsoft Store / Xbox PC
+- 🆕 **The Elder Scrolls V: Skyrim Special Edition (PC)** (Xbox PC, bundle) — $ 24.180 ~~$ 120.900~~ (−80%) · [Ver oferta](https://www.microsoft.com/store/productId/9P03JGQ4S1GC?rtc=1)
 - **Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition** (Xbox PC, bundle) — $ 87.465 ~~$ 249.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1)
 - **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 143.465 ~~$ 409.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
 - **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 122.465 ~~$ 349.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
@@ -30,8 +31,9 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Colección del 25to aniversario de Age of Empires** (Xbox PC, base) — $ 291.920 ~~$ 364.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1)
 - **Age of Mythology Premium Edition** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NN144QSW0T0?rtc=1)
 - **Starfield Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1)
-- **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
+- 🆕 **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
+- **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
 - **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
 - **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)

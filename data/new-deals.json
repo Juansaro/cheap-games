@@ -1,4 +1,80 @@
 {
-  "generatedAt": "2026-11-10 16:09",
-  "deals": []
+  "generatedAt": "2026-11-11 16:42",
+  "deals": [
+    {
+      "id": "steam-489830",
+      "storeId": "489830",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "platform": "Steam PC",
+      "kind": "base",
+      "priceCurrent": 23999,
+      "pricePrevious": 119999,
+      "discountPercent": 80,
+      "currency": "COP",
+      "priceCurrentLabel": "COL$ 23.999",
+      "pricePreviousLabel": "COL$ 119.999",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://store.steampowered.com/app/489830/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+      "confirmed": true,
+      "sources": [
+        "steam-appdetails",
+        "steam-search-specials",
+        "steam-watchlist"
+      ],
+      "publisher": "Bethesda Softworks",
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9P03JGQ4S1GC",
+      "storeId": "9P03JGQ4S1GC",
+      "name": "The Elder Scrolls V: Skyrim Special Edition (PC)",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 24180,
+      "pricePrevious": 120900,
+      "discountPercent": 80,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 24.180",
+      "pricePreviousLabel": "$ 120.900",
+      "dealEndsAt": "2026-11-20T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-20 04:59",
+      "url": "https://www.microsoft.com/store/productId/9P03JGQ4S1GC?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.64810.14468615562328340.fdd2a6d3-ed01-4e8e-805a-630a8e7dcd61.315b57ba-4b6c-43ee-9535-dff8ad090355",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9PG0T8LFL7LH",
+      "storeId": "9PG0T8LFL7LH",
+      "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 32720,
+      "pricePrevious": 40900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 32.720",
+      "pricePreviousLabel": "$ 40.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": true,
+      "isNew": true
+    }
+  ]
 }
