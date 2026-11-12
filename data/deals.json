@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-11T21:42:31.540Z",
-  "updatedAtBogota": "2026-11-11 16:42",
-  "updatedAtDate": "2026-11-11",
+  "updatedAt": "2026-11-12T21:42:10.690Z",
+  "updatedAtBogota": "2026-11-12 16:42",
+  "updatedAtDate": "2026-11-12",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -34,7 +34,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         }
       ],
       "spotlight": {
@@ -88,7 +88,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PMQDM08SNK9",
@@ -638,7 +638,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NFW7GND3WNZ",
@@ -1151,7 +1151,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PMQDM08SNK9",
@@ -1701,7 +1701,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": true,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NFW7GND3WNZ",
@@ -2157,7 +2157,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         }
       ]
     },
