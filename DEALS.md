@@ -1,6 +1,6 @@
-# Ofertas — 2026-11-12 16:42 (Bogotá)
+# Ofertas — 2026-11-13 16:08 (Bogotá)
 
-Última actualización: **2026-11-12 16:42** (America/Bogota).
+Última actualización: **2026-11-13 16:08** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -11,29 +11,32 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Microsoft Store / Xbox PC
 - **The Elder Scrolls V: Skyrim Special Edition (PC)** (Xbox PC, bundle) — $ 24.180 ~~$ 120.900~~ (−80%) · [Ver oferta](https://www.microsoft.com/store/productId/9P03JGQ4S1GC?rtc=1)
-- **Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition** (Xbox PC, bundle) — $ 87.465 ~~$ 249.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PMQDM08SNK9?rtc=1)
-- **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 143.465 ~~$ 409.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
-- **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 122.465 ~~$ 349.900~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
-- **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 271.920 ~~$ 339.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
-- **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
-- **Forza Horizon 6 Premium Edition** (Xbox PC, bundle) — $ 383.200 ~~$ 479.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1)
-- **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 320.000 ~~$ 400.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
-- **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 367.920 ~~$ 459.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
-- **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 335.920 ~~$ 419.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
+- 🆕 **Forza Motorsport and Forza Horizon 5 Premium Add-Ons Bundle** (Xbox PC, bundle) — $ 132.930 ~~$ 379.800~~ (−65%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGKMPB3S10P?rtc=1)
+- 🆕 **Forza Horizon 5: Edición Estándar** (Xbox PC, base) — $ 103.960 ~~$ 259.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKX70BBCDRN?rtc=1)
+- 🆕 **Forza Horizon 5 Deluxe Edition** (Xbox PC, bundle) — $ 135.960 ~~$ 339.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1HX37NMJLT?rtc=1)
+- 🆕 **Forza Horizon 5 Premium Edition** (Xbox PC, bundle) — $ 167.960 ~~$ 419.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MTLKM2DJMZ2?rtc=1)
+- 🆕 **Paquete de complementos Premium de Forza Horizon 5** (Xbox PC, dlc) — $ 79.960 ~~$ 199.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9MZ0SR207MG8?rtc=1)
+- 🆕 **Forza Motorsport Premium Edition** (Xbox PC, bundle) — $ 183.960 ~~$ 459.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8PGC771MLP?rtc=1)
+- 🆕 **Forza Motorsport Standard Edition** (Xbox PC, bundle) — $ 135.960 ~~$ 339.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLKVSWR299F?rtc=1)
+- 🆕 **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 167.960 ~~$ 419.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
+- 🆕 **Forza Motorsport Premium Add-Ons Bundle** (Xbox PC, bundle) — $ 71.960 ~~$ 179.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5MZM3J3LCQ?rtc=1)
+- 🆕 **Forza Horizon 6 Premium Edition** (Xbox PC, bundle) — $ 359.250 ~~$ 479.000~~ (−25%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1)
+- 🆕 **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 300.000 ~~$ 400.000~~ (−25%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
 - **Sea of Thieves: X Edition** (Xbox PC, bundle) — $ 255.120 ~~$ 318.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1)
 - **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 175.920 ~~$ 219.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
 - **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
 - **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 607.840 ~~$ 759.800~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
 - **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
 - **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 303.920 ~~$ 379.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
+- 🆕 **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 327.920 ~~$ 409.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
+- 🆕 **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 279.920 ~~$ 349.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
 - **Age of Empires: colección definitiva** (Xbox PC, base) — $ 71.920 ~~$ 89.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P4S0R97R36S?rtc=1)
 - **Age of Empires III: Definitive Edition - The Complete History** (Xbox PC, bundle) — $ 109.520 ~~$ 136.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1)
 - **Colección del 25to aniversario de Age of Empires** (Xbox PC, base) — $ 291.920 ~~$ 364.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1)
 - **Age of Mythology Premium Edition** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NN144QSW0T0?rtc=1)
 - **Starfield Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1)
-- **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
-- **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
 - **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
+- **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
 - **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
