@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-11-13T21:08:21.746Z",
-  "updatedAtBogota": "2026-11-13 16:08",
+  "updatedAt": "2026-11-14T19:39:26.037Z",
+  "updatedAtBogota": "2026-11-14 14:39",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -68,7 +68,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NKX70BBCDRN",
@@ -93,7 +93,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P1HX37NMJLT",
@@ -118,7 +118,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MTLKM2DJMZ2",
@@ -143,7 +143,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MZ0SR207MG8",
@@ -168,7 +168,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P8PGC771MLP",
@@ -193,7 +193,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PLKVSWR299F",
@@ -218,7 +218,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PN4DRJDLZT7",
@@ -243,7 +243,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N5MZM3J3LCQ",
@@ -268,7 +268,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N4XW3N02MNJ",
@@ -293,7 +293,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N03HPMVD65G",
@@ -318,7 +318,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MWNNM41MB6D",
@@ -493,7 +493,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NH8N0M7CWLN",
@@ -518,7 +518,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P4S0R97R36S",
@@ -646,31 +646,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9NFW7GND3WNZ",
-      "storeId": "9NFW7GND3WNZ",
-      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 119920,
-      "pricePrevious": 149900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 119.920",
-      "pricePreviousLabel": "$ 149.900",
-      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-11-19 14:59",
-      "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9NF62X1QH3CM",
       "storeId": "9NF62X1QH3CM",
       "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
@@ -693,6 +668,56 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9PG0T8LFL7LH",
+      "storeId": "9PG0T8LFL7LH",
+      "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 32720,
+      "pricePrevious": 40900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 32.720",
+      "pricePreviousLabel": "$ 40.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
+      "id": "xboxpc-9NFW7GND3WNZ",
+      "storeId": "9NFW7GND3WNZ",
+      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 119920,
+      "pricePrevious": 149900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 119.920",
+      "pricePreviousLabel": "$ 149.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
       "isNew": false
     },
     {
