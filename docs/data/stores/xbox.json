@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-11-14T19:39:26.037Z",
-  "updatedAtBogota": "2026-11-14 14:39",
+  "updatedAt": "2026-11-15T20:05:17.407Z",
+  "updatedAtBogota": "2026-11-15 15:05",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -371,31 +371,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9NKD5GJTS6FH",
-      "storeId": "9NKD5GJTS6FH",
-      "name": "Sea of Thieves: 2026 Premium Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 207920,
-      "pricePrevious": 259900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 207.920",
-      "pricePreviousLabel": "$ 259.900",
-      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-11-19 14:59",
-      "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Microsoft Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9NV2Q5P1L5CC",
       "storeId": "9NV2Q5P1L5CC",
       "name": "Microsoft Flight Simulator 2024 - Aviator Edition",
@@ -693,7 +668,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NFW7GND3WNZ",
