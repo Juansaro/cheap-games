@@ -14,8 +14,8 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-11-15T20:05:17.407Z",
-  "updatedAtBogota": "2026-11-15 15:05",
+  "updatedAt": "2026-11-16T23:38:22.110Z",
+  "updatedAtBogota": "2026-11-16 18:38",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
@@ -371,6 +371,31 @@
       "isNew": false
     },
     {
+      "id": "xboxpc-9NKD5GJTS6FH",
+      "storeId": "9NKD5GJTS6FH",
+      "name": "Sea of Thieves: 2026 Premium Edition",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 207920,
+      "pricePrevious": 259900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 207.920",
+      "pricePreviousLabel": "$ 259.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Microsoft Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
       "id": "xboxpc-9NV2Q5P1L5CC",
       "storeId": "9NV2Q5P1L5CC",
       "name": "Microsoft Flight Simulator 2024 - Aviator Edition",
@@ -496,6 +521,31 @@
       "isNew": false
     },
     {
+      "id": "xboxpc-9NBH81H3VB7P",
+      "storeId": "9NBH81H3VB7P",
+      "name": "Colección del 25to aniversario de Age of Empires",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 291920,
+      "pricePrevious": 364900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 291.920",
+      "pricePreviousLabel": "$ 364.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": false,
+      "isNew": false
+    },
+    {
       "id": "xboxpc-9P4S0R97R36S",
       "storeId": "9P4S0R97R36S",
       "name": "Age of Empires: colección definitiva",
@@ -546,31 +596,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9NBH81H3VB7P",
-      "storeId": "9NBH81H3VB7P",
-      "name": "Colección del 25to aniversario de Age of Empires",
-      "platform": "Xbox PC",
-      "kind": "base",
-      "priceCurrent": 291920,
-      "pricePrevious": 364900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 291.920",
-      "pricePreviousLabel": "$ 364.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.65195.13517649525046440.c95bfc94-b547-4de0-b0c6-33c56c2c1635.fd6cc280-07a5-44ee-95d1-40480106199e",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9NN144QSW0T0",
       "storeId": "9NN144QSW0T0",
       "name": "Age of Mythology Premium Edition",
@@ -596,6 +621,31 @@
       "isNew": false
     },
     {
+      "id": "xboxpc-9NKHWG572L31",
+      "storeId": "9NKHWG572L31",
+      "name": "Minecraft: Java & Bedrock Edition Ultimate Collection",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 152000,
+      "pricePrevious": 190000,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 152.000",
+      "pricePreviousLabel": "$ 190.000",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9NKHWG572L31?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.385.13656245865233924.ebf14550-256f-4664-80ff-ed702db2a15a.8f34f26b-7db1-43c9-8b00-c16c89061077",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": false,
+      "isNew": true
+    },
+    {
       "id": "xboxpc-9PL9P3QZMRBM",
       "storeId": "9PL9P3QZMRBM",
       "name": "Starfield Premium Edition",
@@ -618,6 +668,31 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9NFW7GND3WNZ",
+      "storeId": "9NFW7GND3WNZ",
+      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 119920,
+      "pricePrevious": 149900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 119.920",
+      "pricePreviousLabel": "$ 149.900",
+      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-11-19 14:59",
+      "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
       "isNew": false
     },
     {
@@ -661,56 +736,6 @@
       "dealEndsAtBogota": "2026-11-19 14:59",
       "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9NFW7GND3WNZ",
-      "storeId": "9NFW7GND3WNZ",
-      "name": "The Elder Scrolls V: Skyrim Anniversary Edition (PC)",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 119920,
-      "pricePrevious": 149900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 119.920",
-      "pricePreviousLabel": "$ 149.900",
-      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-11-19 14:59",
-      "url": "https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.36531.13586736676110446.c8b376ae-5aab-4806-b3fc-2e7fb6cba918.db85c2c8-625c-4baf-ae60-eb3eb93eef06",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9P1MLQ9QR8S8",
-      "storeId": "9P1MLQ9QR8S8",
-      "name": "The Elder Scrolls Online: Deluxe Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 191120,
-      "pricePrevious": 238900,
-      "discountPercent": 20,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 191.120",
-      "pricePreviousLabel": "$ 238.900",
-      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-11-19 14:59",
-      "url": "https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.57985.14508755531047399.1b205e29-62e5-4b5e-b043-7e715476333b.2324acc1-08e3-40c6-bd21-35e243c83f64",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -946,6 +971,31 @@
       "isNew": false
     },
     {
+      "id": "xboxpc-9MV69L4JSD31",
+      "storeId": "9MV69L4JSD31",
+      "name": "Minecraft Legends Edición Deluxe",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 207920,
+      "pricePrevious": 259900,
+      "discountPercent": 20,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 207.920",
+      "pricePreviousLabel": "$ 259.900",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.7120.13799013845909804.d667b16a-f72a-44c6-913e-e9ab0a88905b.19e2302b-ffbb-46eb-bd03-5475765cbdda",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": false,
+      "isNew": true
+    },
+    {
       "id": "xboxpc-9N099DG3GHGW",
       "storeId": "9N099DG3GHGW",
       "name": "Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)",
@@ -971,31 +1021,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9PLHDCMXH1TL",
-      "storeId": "9PLHDCMXH1TL",
-      "name": "DOOM Eternal: The Ancient Gods - primera parte (PC)",
-      "platform": "Xbox PC",
-      "kind": "base",
-      "priceCurrent": 35820,
-      "pricePrevious": 39800,
-      "discountPercent": 10,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 35.820",
-      "pricePreviousLabel": "$ 39.800",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
-      "url": "https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.28578.14450105286512512.cab7ef72-07af-4401-aca5-e8636b61cce0.e691415c-d99e-4a5b-bebd-3d23a3701aab",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9N9LXX68LKWF",
       "storeId": "9N9LXX68LKWF",
       "name": "DOOM Eternal: The Ancient Gods, segunda parte (PC)",
@@ -1011,6 +1036,31 @@
       "dealEndsAtBogota": null,
       "url": "https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.37270.14243883824176739.cbcfff65-214f-42eb-bf4d-f8e2d55d6f9e.cf597e85-bf9e-45f8-955c-b053cd9a810d",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": false
+    },
+    {
+      "id": "xboxpc-9PLHDCMXH1TL",
+      "storeId": "9PLHDCMXH1TL",
+      "name": "DOOM Eternal: The Ancient Gods - primera parte (PC)",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 35820,
+      "pricePrevious": 39800,
+      "discountPercent": 10,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 35.820",
+      "pricePreviousLabel": "$ 39.800",
+      "dealEndsAt": null,
+      "dealEndsAtBogota": null,
+      "url": "https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.28578.14450105286512512.cab7ef72-07af-4401-aca5-e8636b61cce0.e691415c-d99e-4a5b-bebd-3d23a3701aab",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",

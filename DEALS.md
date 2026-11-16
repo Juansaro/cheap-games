@@ -1,6 +1,6 @@
-# Ofertas — 2026-11-15 15:05 (Bogotá)
+# Ofertas — 2026-11-16 18:38 (Bogotá)
 
-Última actualización: **2026-11-15 15:05** (America/Bogota).
+Última actualización: **2026-11-16 18:38** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -24,20 +24,21 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 300.000 ~~$ 400.000~~ (−25%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
 - **Sea of Thieves: X Edition** (Xbox PC, bundle) — $ 255.120 ~~$ 318.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1)
 - **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 175.920 ~~$ 219.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
+- 🆕 **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
 - **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 607.840 ~~$ 759.800~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
 - **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
 - **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 303.920 ~~$ 379.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
 - **Microsoft Flight Simulator (2020) Premium Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 327.920 ~~$ 409.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PJ15D3RDXMV?rtc=1)
 - **Microsoft Flight Simulator (2020) Deluxe 40th Anniversary Edition** (Xbox PC, bundle) — $ 279.920 ~~$ 349.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NH8N0M7CWLN?rtc=1)
+- **Colección del 25to aniversario de Age of Empires** (Xbox PC, base) — $ 291.920 ~~$ 364.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1)
 - **Age of Empires: colección definitiva** (Xbox PC, base) — $ 71.920 ~~$ 89.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P4S0R97R36S?rtc=1)
 - **Age of Empires III: Definitive Edition - The Complete History** (Xbox PC, bundle) — $ 109.520 ~~$ 136.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PD9ZXP630NW?rtc=1)
-- **Colección del 25to aniversario de Age of Empires** (Xbox PC, base) — $ 291.920 ~~$ 364.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NBH81H3VB7P?rtc=1)
 - **Age of Mythology Premium Edition** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NN144QSW0T0?rtc=1)
+- 🆕 **Minecraft: Java & Bedrock Edition Ultimate Collection** (Xbox PC, bundle) — $ 152.000 ~~$ 190.000~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKHWG572L31?rtc=1)
 - **Starfield Premium Edition** (Xbox PC, bundle) — $ 223.120 ~~$ 278.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PL9P3QZMRBM?rtc=1)
+- **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
-- **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
-- **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
 - **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
 - **DOOM Eternal Deluxe Edition (PC)** (Xbox PC, bundle) — $ 159.120 ~~$ 198.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N8TRM7F6KGC?rtc=1)
@@ -47,9 +48,10 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **South of Midnight Weaver's Edition** (Xbox PC, bundle) — $ 95.999 ~~$ 119.999~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PNX7LQ1SB8D?rtc=1)
 - **Halo Wars 2: edición completa** (Xbox PC, base) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1)
 - **Minecraft Dungeons: Edición definitiva para Windows** (Xbox PC, base) — $ 97.520 ~~$ 121.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1)
+- 🆕 **Minecraft Legends Edición Deluxe** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1)
 - **Paquete de expansión de DOOM Eternal: The Ancient Gods (PC)** (Xbox PC, dlc) — $ 71.910 ~~$ 79.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1)
-- **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **DOOM Eternal: The Ancient Gods, segunda parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9LXX68LKWF?rtc=1)
+- **DOOM Eternal: The Ancient Gods - primera parte (PC)** (Xbox PC, base) — $ 35.820 ~~$ 39.800~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLHDCMXH1TL?rtc=1)
 - **South of Midnight Premium Upgrade Edition** (Xbox PC, bundle) — $ 36.000 ~~$ 40.000~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9NGT91FHPSRD?rtc=1)
 - **Minecraft Dungeons II Edición Deluxe** (Xbox PC, bundle) — $ 179.910 ~~$ 199.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9MZV840NDMBM?rtc=1)
 - **Minecraft Dungeons paquete de DLC definitivo - Windows 10** (Xbox PC, dlc) — $ 54.810 ~~$ 60.900~~ (−10%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1)
