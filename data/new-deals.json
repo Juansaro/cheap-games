@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-11-17 17:46",
+  "generatedAt": "2026-11-18 17:28",
   "deals": [
     {
-      "id": "xboxpc-9P1MLQ9QR8S8",
-      "storeId": "9P1MLQ9QR8S8",
-      "name": "The Elder Scrolls Online: Deluxe Edition",
+      "id": "xboxpc-9P8RMKXRML7D",
+      "storeId": "9P8RMKXRML7D",
+      "name": "The Outer Worlds 2",
       "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 191120,
-      "pricePrevious": 238900,
-      "discountPercent": 20,
+      "kind": "base",
+      "priceCurrent": 111960,
+      "pricePrevious": 279900,
+      "discountPercent": 60,
       "currency": "COP",
-      "priceCurrentLabel": "$ 191.120",
-      "pricePreviousLabel": "$ 238.900",
-      "dealEndsAt": "2026-11-19T19:59:59.0000000Z",
+      "priceCurrentLabel": "$ 111.960",
+      "pricePreviousLabel": "$ 279.900",
+      "dealEndsAt": "2026-11-19T19:59:59Z",
       "dealEndsAtBogota": "2026-11-19 14:59",
-      "url": "https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.57985.14508755531047399.1b205e29-62e5-4b5e-b043-7e715476333b.2324acc1-08e3-40c6-bd21-35e243c83f64",
+      "url": "https://www.microsoft.com/store/productId/9P8RMKXRML7D?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.1625.14086924108488409.5098cc78-dcb3-4bc1-858f-48fa36bb7026.82fc166e-9b79-4523-90d9-560ddb388864",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
         "ms-store-search"
       ],
-      "publisher": "Bethesda Softworks",
+      "publisher": "Xbox Game Studios",
       "playAnywhere": true,
       "isNew": true
     }

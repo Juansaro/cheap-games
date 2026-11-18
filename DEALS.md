@@ -1,13 +1,13 @@
-# Ofertas — 2026-11-17 17:46 (Bogotá)
+# Ofertas — 2026-11-18 17:28 (Bogotá)
 
-Última actualización: **2026-11-17 17:46** (America/Bogota).
+Última actualización: **2026-11-18 17:28** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
 - Precio actual (sin oferta): **COL$ 159.900** · [Steam](https://store.steampowered.com/app/976730/)
 
 ## Steam
-- **The Elder Scrolls V: Skyrim Special Edition** (Steam PC, base) — COL$ 23.999 ~~COL$ 119.999~~ (−80%) · [Ver oferta](https://store.steampowered.com/app/489830/)
+- Sin ofertas hoy
 
 ## Microsoft Store / Xbox PC
 - **The Elder Scrolls V: Skyrim Special Edition (PC)** (Xbox PC, bundle) — $ 24.180 ~~$ 120.900~~ (−80%) · [Ver oferta](https://www.microsoft.com/store/productId/9P03JGQ4S1GC?rtc=1)
@@ -20,11 +20,11 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Motorsport Standard Edition** (Xbox PC, bundle) — $ 135.960 ~~$ 339.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PLKVSWR299F?rtc=1)
 - **Forza Motorsport Deluxe Edition** (Xbox PC, bundle) — $ 167.960 ~~$ 419.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9PN4DRJDLZT7?rtc=1)
 - **Forza Motorsport Premium Add-Ons Bundle** (Xbox PC, bundle) — $ 71.960 ~~$ 179.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9N5MZM3J3LCQ?rtc=1)
+- 🆕 **The Outer Worlds 2** (Xbox PC, base) — $ 111.960 ~~$ 279.900~~ (−60%) · [Ver oferta](https://www.microsoft.com/store/productId/9P8RMKXRML7D?rtc=1)
 - **Forza Horizon 6 Premium Edition** (Xbox PC, bundle) — $ 359.250 ~~$ 479.000~~ (−25%) · [Ver oferta](https://www.microsoft.com/store/productId/9N4XW3N02MNJ?rtc=1)
 - **Forza Horizon 6 Deluxe Edition** (Xbox PC, bundle) — $ 300.000 ~~$ 400.000~~ (−25%) · [Ver oferta](https://www.microsoft.com/store/productId/9N03HPMVD65G?rtc=1)
 - **Sea of Thieves: X Edition** (Xbox PC, bundle) — $ 255.120 ~~$ 318.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9MWNNM41MB6D?rtc=1)
 - **Sea of Thieves: 2026 Deluxe Edition** (Xbox PC, bundle) — $ 175.920 ~~$ 219.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N1WWHGKBX3P?rtc=1)
-- **Sea of Thieves: 2026 Premium Edition** (Xbox PC, bundle) — $ 207.920 ~~$ 259.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1)
 - **Microsoft Flight Simulator 2024 - Aviator Edition** (Xbox PC, bundle) — $ 607.840 ~~$ 759.800~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NV2Q5P1L5CC?rtc=1)
 - **Microsoft Flight Simulator 2024 - Premium Deluxe Edition** (Xbox PC, bundle) — $ 383.920 ~~$ 479.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7J4DKK7V15?rtc=1)
 - **Microsoft Flight Simulator 2024 - Deluxe Edition** (Xbox PC, bundle) — $ 303.920 ~~$ 379.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N7MNF1QC3X4?rtc=1)
@@ -38,7 +38,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition** (Xbox PC, bundle) — $ 187.920 ~~$ 234.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NF62X1QH3CM?rtc=1)
 - **The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade** (Xbox PC, bundle) — $ 32.720 ~~$ 40.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1)
 - **The Elder Scrolls V: Skyrim Anniversary Edition (PC)** (Xbox PC, bundle) — $ 119.920 ~~$ 149.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9NFW7GND3WNZ?rtc=1)
-- 🆕 **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
+- **The Elder Scrolls Online: Deluxe Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9P1MLQ9QR8S8?rtc=1)
 - **Fallout 4: Anniversary Edition** (Xbox PC, bundle) — $ 191.120 ~~$ 238.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9PFRG44XZCFJ?rtc=1)
 - **Fallout 4: Game of the Year Edition** (Xbox PC, bundle) — $ 127.120 ~~$ 158.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/C24SVX28PNWM?rtc=1)
 - **DOOM Eternal Deluxe Edition (PC)** (Xbox PC, bundle) — $ 159.120 ~~$ 198.900~~ (−20%) · [Ver oferta](https://www.microsoft.com/store/productId/9N8TRM7F6KGC?rtc=1)
