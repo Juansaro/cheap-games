@@ -14,28 +14,28 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-11-19T22:33:13.997Z",
-  "updatedAtBogota": "2026-11-19 17:33",
+  "updatedAt": "2026-11-20T22:06:55.469Z",
+  "updatedAtBogota": "2026-11-20 17:06",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
   "deals": [
     {
-      "id": "xboxpc-9P03JGQ4S1GC",
-      "storeId": "9P03JGQ4S1GC",
-      "name": "The Elder Scrolls V: Skyrim Special Edition (PC)",
+      "id": "xboxpc-9NDBKK9G0FHL",
+      "storeId": "9NDBKK9G0FHL",
+      "name": "Wolfenstein II: The New Colossus",
       "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 24180,
-      "pricePrevious": 120900,
-      "discountPercent": 80,
+      "kind": "base",
+      "priceCurrent": 19185,
+      "pricePrevious": 127900,
+      "discountPercent": 85,
       "currency": "COP",
-      "priceCurrentLabel": "$ 24.180",
-      "pricePreviousLabel": "$ 120.900",
-      "dealEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-11-20 04:59",
-      "url": "https://www.microsoft.com/store/productId/9P03JGQ4S1GC?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.64810.14468615562328340.fdd2a6d3-ed01-4e8e-805a-630a8e7dcd61.315b57ba-4b6c-43ee-9535-dff8ad090355",
+      "priceCurrentLabel": "$ 19.185",
+      "pricePreviousLabel": "$ 127.900",
+      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-03 04:59",
+      "url": "https://www.microsoft.com/store/productId/9NDBKK9G0FHL?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.16870.13962055139666078.986125ff-0b8d-449b-b456-2db23128a1e6.39d8fa0d-79c2-4691-85cb-b61ede864f59",
       "confirmed": true,
       "sources": [
         "ms-display-catalog",
@@ -43,7 +43,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "xboxpc-9NTM9HXNLSZX",
@@ -68,7 +68,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NWQMVSB63N4",
@@ -93,7 +93,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N9WZT3PJ27W",
@@ -118,7 +118,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P5739G419LD",
@@ -143,7 +143,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P6VZCRGXFMX",
@@ -168,7 +168,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-C2KDNLT2H7DM",
@@ -193,7 +193,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PGL2Z1H9M4R",
@@ -218,7 +218,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NX6K9HN4F4K",
@@ -243,7 +243,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NF83PRZK6K3",
@@ -268,7 +268,7 @@
       ],
       "publisher": "Xbox Game Studios ",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NNLBL0T2Z43",
@@ -293,7 +293,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-C3KLDKZBHNCZ",
@@ -318,7 +318,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-C24SVX28PNWM",
@@ -343,7 +343,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MZR11JRF7BX",
@@ -368,7 +368,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P4KMR76PLLQ",
@@ -393,7 +393,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NN3HCKW5TPC",
@@ -418,7 +418,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NBLGGH4PBBM",
@@ -443,7 +443,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PCVN6LRVV13",
@@ -468,7 +468,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N8CD0XZKLP4",
@@ -493,7 +493,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NBLGGH1Z6FB",
@@ -518,7 +518,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NR7XDNVP5SW",
@@ -543,7 +543,7 @@
       ],
       "publisher": "Xbox Game Studios ",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NP1P1WFS0LB",
@@ -568,7 +568,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NFW7GND3WNZ",
@@ -593,7 +593,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P1MLQ9QR8S8",
@@ -618,7 +618,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MXF5W465V83",
@@ -643,7 +643,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N8TRM7F6KGC",
@@ -668,7 +668,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NGKMPB3S10P",
@@ -718,7 +718,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MWNNM41MB6D",
@@ -743,7 +743,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N1WWHGKBX3P",
@@ -768,7 +768,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NKD5GJTS6FH",
@@ -793,7 +793,7 @@
       ],
       "publisher": "Microsoft Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PMQDM08SNK9",
@@ -818,7 +818,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PJ15D3RDXMV",
@@ -843,7 +843,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NH8N0M7CWLN",
@@ -868,7 +868,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NTH1K5RT43P",
@@ -893,7 +893,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N94NCGM1Q2N",
@@ -918,7 +918,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P20K049MHT5",
@@ -932,8 +932,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 16.065",
       "pricePreviousLabel": "$ 45.900",
-      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-03 04:59",
+      "dealEndsAt": "2026-12-02T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-02 18:59",
       "url": "https://www.microsoft.com/store/productId/9P20K049MHT5?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.44617.14497247123206720.b7fc5081-6943-49b5-a7cf-4e45a818b0f5.7b49cb2f-cbf6-4379-a677-2943b7290d66",
       "confirmed": true,
@@ -943,7 +943,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NQMNQDS4QQL",
@@ -957,8 +957,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 16.065",
       "pricePreviousLabel": "$ 45.900",
-      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-03 04:59",
+      "dealEndsAt": "2026-12-02T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-02 18:59",
       "url": "https://www.microsoft.com/store/productId/9NQMNQDS4QQL?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.35033.13859394436838945.0f49eb73-d405-4046-a6c7-893d2b69a967.bd7105f1-a457-426d-bb59-1d7aa341ebec",
       "confirmed": true,
@@ -968,7 +968,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NKX70BBCDRN",
@@ -1193,7 +1193,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P8RMKXRML7D",
@@ -1221,6 +1221,31 @@
       "isNew": false
     },
     {
+      "id": "xboxpc-9PPDC1GHF831",
+      "storeId": "9PPDC1GHF831",
+      "name": "The Outer Worlds 2 Premium Upgrade",
+      "platform": "Xbox PC",
+      "kind": "bundle",
+      "priceCurrent": 72000,
+      "pricePrevious": 180000,
+      "discountPercent": 60,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 72.000",
+      "pricePreviousLabel": "$ 180.000",
+      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-03 04:59",
+      "url": "https://www.microsoft.com/store/productId/9PPDC1GHF831?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.53888.14267264656419288.70f5edb8-5a78-42b5-8147-332f24b065bc.c10522b3-d79a-4e74-a6e1-8aacbab900b6",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Xbox Game Studios",
+      "playAnywhere": true,
+      "isNew": true
+    },
+    {
       "id": "xboxpc-9PDDRVKPF6KG",
       "storeId": "9PDDRVKPF6KG",
       "name": "Ara History Untold: Anniversary Edition",
@@ -1243,7 +1268,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NPKGVXPFRSX",
@@ -1268,7 +1293,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NN144QSW0T0",
@@ -1293,7 +1318,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PL9P3QZMRBM",
@@ -1318,7 +1343,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NCJSXWZTP88",
@@ -1343,7 +1368,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P460GXR9ZVW",
@@ -1368,7 +1393,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PFRG44XZCFJ",
@@ -1393,7 +1418,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MXR6TQ6FV7Z",
@@ -1418,7 +1443,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NP0PC87KBTD",
@@ -1443,7 +1468,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PH9X0760B0T",
@@ -1468,7 +1493,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P0SWLC2F1XJ",
@@ -1493,7 +1518,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9MSVPJCHHRPR",
@@ -1518,7 +1543,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NFHQ2719J83",
@@ -1543,7 +1568,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NNS5CDB6CVM",
@@ -1568,7 +1593,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NQR437K7PQH",
@@ -1593,7 +1618,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NF62X1QH3CM",
@@ -1618,7 +1643,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N8FQ28Z6QX3",
@@ -1643,7 +1668,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N42SSSX2MTG",
@@ -1668,7 +1693,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NJWTJSVGVLJ",
@@ -1693,7 +1718,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P2VGCTBMM52",
@@ -1718,7 +1743,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9NV2Q5P1L5CC",
@@ -1743,7 +1768,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N7J4DKK7V15",
@@ -1768,7 +1793,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N7MNF1QC3X4",
@@ -1793,7 +1818,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PG0T8LFL7LH",
@@ -1818,7 +1843,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P3JTWQ3D7KH",
@@ -1843,7 +1868,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P2T5HJ4BQ90",
@@ -1868,7 +1893,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P1W94SB1ZVN",
@@ -1893,7 +1918,7 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PHPXPZ0JQ4T",
@@ -1918,7 +1943,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9N4XW3N02MNJ",
@@ -1982,8 +2007,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 49.520",
       "pricePreviousLabel": "$ 61.900",
-      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-03 04:59",
+      "dealEndsAt": "2026-12-02T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-02 18:59",
       "url": "https://www.microsoft.com/store/productId/9N759W6RB0J7?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.14754.14071092845553632.aeaf1684-7ce0-40ba-90fc-36797ac07e32.f4f4019a-d0e3-496b-aefd-bbf481293a9e",
       "confirmed": true,
@@ -1993,7 +2018,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P91FNMH1GG0",
@@ -2018,7 +2043,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PD9ZXP630NW",
@@ -2118,7 +2143,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9P4TTSFQG27V",
@@ -2143,7 +2168,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PL14MJJ8N0P",
@@ -2168,7 +2193,7 @@
       ],
       "publisher": "Xbox Game Studios",
       "playAnywhere": true,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "xboxpc-9PNX7LQ1SB8D",
@@ -2207,8 +2232,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 187.920",
       "pricePreviousLabel": "$ 234.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
+      "dealEndsAt": "2026-12-16T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-16 14:59",
       "url": "https://www.microsoft.com/store/productId/9PLSBTJB87Q7?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.46821.14307168999728048.1152921504738970858.d4f2c0a6-7d8b-4924-a973-4b6991eab64b",
       "confirmed": true,
@@ -2232,8 +2257,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 97.520",
       "pricePreviousLabel": "$ 121.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
+      "dealEndsAt": "2026-12-16T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-16 14:59",
       "url": "https://www.microsoft.com/store/productId/9NZ12RV7B7R3?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.52875.14489670829682582.4394fb4f-353b-4a04-8af6-acf0c6f33900.31e55001-361c-48a2-8cf2-e47fd4ff20aa",
       "confirmed": true,
@@ -2257,8 +2282,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 207.920",
       "pricePreviousLabel": "$ 259.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
+      "dealEndsAt": "2026-12-16T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-16 14:59",
       "url": "https://www.microsoft.com/store/productId/9MV69L4JSD31?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.7120.13799013845909804.d667b16a-f72a-44c6-913e-e9ab0a88905b.19e2302b-ffbb-46eb-bd03-5475765cbdda",
       "confirmed": true,
@@ -2282,8 +2307,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 71.910",
       "pricePreviousLabel": "$ 79.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
+      "dealEndsAt": "2026-12-02T23:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-02 18:59",
       "url": "https://www.microsoft.com/store/productId/9N099DG3GHGW?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.25655.14463384356800651.4d1962a2-4e49-47f0-83d3-6601998caa6b.b1a039ee-16e4-40f4-8d45-1462cb4fb4a7",
       "confirmed": true,
@@ -2382,8 +2407,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 179.910",
       "pricePreviousLabel": "$ 199.900",
-      "dealEndsAt": "2026-12-28T07:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-28 02:59",
+      "dealEndsAt": "2026-12-16T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-16 14:59",
       "url": "https://www.microsoft.com/store/productId/9MZV840NDMBM?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.20471.13596461372408012.94cfead7-27a0-44f4-8127-77eac62fa825.cce7ba30-0903-4148-b84d-6837755204a9",
       "confirmed": true,
@@ -2407,8 +2432,8 @@
       "currency": "COP",
       "priceCurrentLabel": "$ 54.810",
       "pricePreviousLabel": "$ 60.900",
-      "dealEndsAt": null,
-      "dealEndsAtBogota": null,
+      "dealEndsAt": "2026-12-16T19:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-16 14:59",
       "url": "https://www.microsoft.com/store/productId/9N5KX36SQJ9Q?rtc=1",
       "image": "//store-images.s-microsoft.com/image/apps.52266.14036561572099411.9198ec1b-109d-4098-9766-c53cb2eca8cf.7b40b276-d64f-4802-906b-084656e58a19",
       "confirmed": true,
