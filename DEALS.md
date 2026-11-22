@@ -1,6 +1,6 @@
-# Ofertas — 2026-11-21 15:46 (Bogotá)
+# Ofertas — 2026-11-22 15:56 (Bogotá)
 
-Última actualización: **2026-11-21 15:46** (America/Bogota).
+Última actualización: **2026-11-22 15:56** (America/Bogota).
 Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 
 ## Halo: The Master Chief Collection
@@ -24,8 +24,8 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Rise of Nations: Extended Edition** (Steam PC, base) — COL$ 10.000 ~~COL$ 40.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/287450/)
 - **As Dusk Falls** (Steam PC, base) — COL$ 32.250 ~~COL$ 129.000~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1341820/)
 - **Pillars of Eternity II: Deadfire - The Forgotten Sanctum** (Steam PC, dlc) — COL$ 18.725 ~~COL$ 74.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/821950/)
-- **Pillars of Eternity II: Deadfire - Explorer's Pack** (Steam PC, dlc) — COL$ 18.725 ~~COL$ 74.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/854290/)
 - **Pillars of Eternity II: Deadfire - Expansion Pass** (Steam PC, dlc) — COL$ 6.225 ~~COL$ 24.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/854220/)
+- **Pillars of Eternity II: Deadfire - Explorer's Pack** (Steam PC, dlc) — COL$ 18.725 ~~COL$ 74.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/854290/)
 - **Pillars of Eternity II: Deadfire - Beast of Winter** (Steam PC, dlc) — COL$ 18.725 ~~COL$ 74.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/821940/)
 - **Pillars of Eternity II: Deadfire - Seeker, Slayer, Survivor** (Steam PC, dlc) — COL$ 18.725 ~~COL$ 74.900~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/734830/)
 - **Wasteland 2: Director's Cut** (Steam PC, base) — COL$ 9.875 ~~COL$ 39.500~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/240760/)
@@ -51,15 +51,15 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Forza Motorsport** (Steam PC, base) — COL$ 111.960 ~~COL$ 279.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2440510/)
 - **Grounded** (Steam PC, base) — COL$ 63.960 ~~COL$ 159.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/962130/)
 - **The Outer Worlds 2** (Steam PC, base) — COL$ 111.960 ~~COL$ 279.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1449110/)
-- 🆕 **Forza Horizon 5: Hot Wheels** (Steam PC, dlc) — COL$ 31.960 ~~COL$ 79.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613280/)
-- 🆕 **Ara History Untold: Anniversary Edition ** (Steam PC, base) — COL$ 59.960 ~~COL$ 149.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/2021880/)
-- 🆕 **Forza Horizon 5 Rally Adventure** (Steam PC, dlc) — COL$ 31.960 ~~COL$ 79.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613281/)
+- **Forza Horizon 5: Hot Wheels** (Steam PC, dlc) — COL$ 31.960 ~~COL$ 79.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613280/)
+- **Forza Horizon 5 Rally Adventure** (Steam PC, dlc) — COL$ 31.960 ~~COL$ 79.900~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/1613281/)
 - **Quantum Break - Original Game Soundtrack** (Steam PC, base) — COL$ 9.400 ~~COL$ 23.500~~ (−60%) · [Ver oferta](https://store.steampowered.com/app/514800/)
 - **Age of Mythology: Retold** (Steam PC, base) — COL$ 44.950 ~~COL$ 89.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/1934680/)
 - **Avowed** (Steam PC, base) — COL$ 99.950 ~~COL$ 199.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2457220/)
 - **NINJA GAIDEN 4** (Steam PC, base) — COL$ 139.950 ~~COL$ 279.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2627260/)
 - **Age of Empires II: Definitive Edition - Return of Rome** (Steam PC, dlc) — COL$ 14.950 ~~COL$ 29.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2141580/)
 - **Age of Empires II: Definitive Edition - The Mountain Royals** (Steam PC, dlc) — COL$ 22.950 ~~COL$ 45.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2555420/)
+- 🆕 **Age of Mythology: Retold - Heavenly Spear** (Steam PC, dlc) — COL$ 29.950 ~~COL$ 59.900~~ (−50%) · [Ver oferta](https://store.steampowered.com/app/2991180/)
 - **Halo: Campaign Evolved** (Steam PC, base) — COL$ 119.940 ~~COL$ 199.900~~ (−40%) · [Ver oferta](https://store.steampowered.com/app/2806050/)
 - **Age of Empires II: Definitive Edition** (Steam PC, base) — COL$ 53.533 ~~COL$ 79.900~~ (−33%) · [Ver oferta](https://store.steampowered.com/app/813780/)
 - **Age of Empires II: DE - Chronicles: Alexander the Great** (Steam PC, dlc) — COL$ 30.753 ~~COL$ 45.900~~ (−33%) · [Ver oferta](https://store.steampowered.com/app/3793540/)
@@ -82,6 +82,7 @@ Solo precios verificados. Si una ficha no se pudo confirmar, no aparece.
 - **Halo 4** (Steam PC, dlc) — COL$ 9.997 ~~COL$ 39.990~~ (−75%) · [Ver oferta](https://store.steampowered.com/app/1064273/)
 
 ## Microsoft Store / Xbox PC
+- 🆕 **Wolfenstein II: The New Colossus** (Xbox PC, base) — $ 19.185 ~~$ 127.900~~ (−85%) · [Ver oferta](https://www.microsoft.com/store/productId/9NDBKK9G0FHL?rtc=1)
 - **Halo: The Master Chief Collection** (Xbox PC, base) — $ 39.975 ~~$ 159.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NTM9HXNLSZX?rtc=1)
 - **Halo: Combat Evolved Anniversary** (Xbox PC, base) — $ 9.975 ~~$ 39.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9NWQMVSB63N4?rtc=1)
 - **Halo REACH** (Xbox PC, base) — $ 9.975 ~~$ 39.900~~ (−75%) · [Ver oferta](https://www.microsoft.com/store/productId/9N9WZT3PJ27W?rtc=1)

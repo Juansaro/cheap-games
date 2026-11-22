@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-21T20:46:17.840Z",
-  "updatedAtBogota": "2026-11-21 15:46",
-  "updatedAtDate": "2026-11-21",
+  "updatedAt": "2026-11-22T20:56:32.703Z",
+  "updatedAtBogota": "2026-11-22 15:56",
+  "updatedAtDate": "2026-11-22",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -437,31 +437,6 @@
           "isNew": false
         },
         {
-          "id": "steam-854290",
-          "storeId": "854290",
-          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 18725,
-          "pricePrevious": 74900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 18.725",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/854290/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": false
-        },
-        {
           "id": "steam-854220",
           "storeId": "854220",
           "name": "Pillars of Eternity II: Deadfire - Expansion Pass",
@@ -477,6 +452,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/854220/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854220/header.jpg?t=1783358009",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-854290",
+          "storeId": "854290",
+          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 18725,
+          "pricePrevious": 74900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 18.725",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/854290/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1134,32 +1134,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-2021880",
-          "storeId": "2021880",
-          "name": "Ara History Untold: Anniversary Edition ",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 59960,
-          "pricePrevious": 149900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 59.960",
-          "pricePreviousLabel": "COL$ 149.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2021880/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021880/38cf019ae19bfda2cdec5426fe6c8918056a694a/header.jpg?t=1758910354",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613281",
@@ -1184,7 +1159,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-514800",
@@ -1335,6 +1310,31 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
+        },
+        {
+          "id": "steam-2991180",
+          "storeId": "2991180",
+          "name": "Age of Mythology: Retold - Heavenly Spear",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29950,
+          "pricePrevious": 59900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.950",
+          "pricePreviousLabel": "COL$ 59.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2991180/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991180/7ecfd8316a70240409a23f90341d36e6986cf421/header.jpg?t=1777996730",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-2806050",
@@ -1859,6 +1859,31 @@
     },
     "xbox": {
       "deals": [
+        {
+          "id": "xboxpc-9NDBKK9G0FHL",
+          "storeId": "9NDBKK9G0FHL",
+          "name": "Wolfenstein II: The New Colossus",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 19185,
+          "pricePrevious": 127900,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 19.185",
+          "pricePreviousLabel": "$ 127.900",
+          "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-12-03 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NDBKK9G0FHL?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.16870.13962055139666078.986125ff-0b8d-449b-b456-2db23128a1e6.39d8fa0d-79c2-4691-85cb-b61ede864f59",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
+        },
         {
           "id": "xboxpc-9NTM9HXNLSZX",
           "storeId": "9NTM9HXNLSZX",
@@ -4491,6 +4516,31 @@
       "title": "Xbox en PC",
       "emptyMessage": "Sin ofertas hoy",
       "deals": [
+        {
+          "id": "xboxpc-9NDBKK9G0FHL",
+          "storeId": "9NDBKK9G0FHL",
+          "name": "Wolfenstein II: The New Colossus",
+          "platform": "Xbox PC",
+          "kind": "base",
+          "priceCurrent": 19185,
+          "pricePrevious": 127900,
+          "discountPercent": 85,
+          "currency": "COP",
+          "priceCurrentLabel": "$ 19.185",
+          "pricePreviousLabel": "$ 127.900",
+          "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
+          "dealEndsAtBogota": "2026-12-03 04:59",
+          "url": "https://www.microsoft.com/store/productId/9NDBKK9G0FHL?rtc=1",
+          "image": "//store-images.s-microsoft.com/image/apps.16870.13962055139666078.986125ff-0b8d-449b-b456-2db23128a1e6.39d8fa0d-79c2-4691-85cb-b61ede864f59",
+          "confirmed": true,
+          "sources": [
+            "ms-display-catalog",
+            "ms-store-search"
+          ],
+          "publisher": "Bethesda Softworks",
+          "playAnywhere": false,
+          "isNew": true
+        },
         {
           "id": "xboxpc-9NTM9HXNLSZX",
           "storeId": "9NTM9HXNLSZX",
@@ -7323,31 +7373,6 @@
           "isNew": false
         },
         {
-          "id": "steam-854290",
-          "storeId": "854290",
-          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 18725,
-          "pricePrevious": 74900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 18.725",
-          "pricePreviousLabel": "COL$ 74.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/854290/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Versus Evil",
-          "isNew": false
-        },
-        {
           "id": "steam-854220",
           "storeId": "854220",
           "name": "Pillars of Eternity II: Deadfire - Expansion Pass",
@@ -7363,6 +7388,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/854220/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854220/header.jpg?t=1783358009",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Versus Evil",
+          "isNew": false
+        },
+        {
+          "id": "steam-854290",
+          "storeId": "854290",
+          "name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 18725,
+          "pricePrevious": 74900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 18.725",
+          "pricePreviousLabel": "COL$ 74.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/854290/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854290/header.jpg?t=1776383431",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8020,32 +8070,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
-        },
-        {
-          "id": "steam-2021880",
-          "storeId": "2021880",
-          "name": "Ara History Untold: Anniversary Edition ",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 59960,
-          "pricePrevious": 149900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 59.960",
-          "pricePreviousLabel": "COL$ 149.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2021880/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021880/38cf019ae19bfda2cdec5426fe6c8918056a694a/header.jpg?t=1758910354",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-1613281",
@@ -8070,7 +8095,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-514800",
@@ -8221,6 +8246,31 @@
           ],
           "publisher": "Xbox Game Studios",
           "isNew": false
+        },
+        {
+          "id": "steam-2991180",
+          "storeId": "2991180",
+          "name": "Age of Mythology: Retold - Heavenly Spear",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 29950,
+          "pricePrevious": 59900,
+          "discountPercent": 50,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 29.950",
+          "pricePreviousLabel": "COL$ 59.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2991180/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991180/7ecfd8316a70240409a23f90341d36e6986cf421/header.jpg?t=1777996730",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-2806050",
