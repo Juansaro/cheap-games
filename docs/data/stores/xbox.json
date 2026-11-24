@@ -14,12 +14,37 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-11-24T02:01:20.364Z",
-  "updatedAtBogota": "2026-11-23 21:01",
+  "updatedAt": "2026-11-24T23:45:31.332Z",
+  "updatedAtBogota": "2026-11-24 18:45",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
   "deals": [
+    {
+      "id": "xboxpc-9NDBKK9G0FHL",
+      "storeId": "9NDBKK9G0FHL",
+      "name": "Wolfenstein II: The New Colossus",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 19185,
+      "pricePrevious": 127900,
+      "discountPercent": 85,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 19.185",
+      "pricePreviousLabel": "$ 127.900",
+      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-03 04:59",
+      "url": "https://www.microsoft.com/store/productId/9NDBKK9G0FHL?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.16870.13962055139666078.986125ff-0b8d-449b-b456-2db23128a1e6.39d8fa0d-79c2-4691-85cb-b61ede864f59",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": true
+    },
     {
       "id": "xboxpc-9NTM9HXNLSZX",
       "storeId": "9NTM9HXNLSZX",
