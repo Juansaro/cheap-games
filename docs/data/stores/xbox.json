@@ -14,37 +14,12 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-11-24T23:45:31.332Z",
-  "updatedAtBogota": "2026-11-24 18:45",
+  "updatedAt": "2026-11-25T23:29:01.054Z",
+  "updatedAtBogota": "2026-11-25 18:29",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
   "deals": [
-    {
-      "id": "xboxpc-9NDBKK9G0FHL",
-      "storeId": "9NDBKK9G0FHL",
-      "name": "Wolfenstein II: The New Colossus",
-      "platform": "Xbox PC",
-      "kind": "base",
-      "priceCurrent": 19185,
-      "pricePrevious": 127900,
-      "discountPercent": 85,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 19.185",
-      "pricePreviousLabel": "$ 127.900",
-      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-03 04:59",
-      "url": "https://www.microsoft.com/store/productId/9NDBKK9G0FHL?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.16870.13962055139666078.986125ff-0b8d-449b-b456-2db23128a1e6.39d8fa0d-79c2-4691-85cb-b61ede864f59",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
-      "isNew": true
-    },
     {
       "id": "xboxpc-9NTM9HXNLSZX",
       "storeId": "9NTM9HXNLSZX",
@@ -771,31 +746,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9NKD5GJTS6FH",
-      "storeId": "9NKD5GJTS6FH",
-      "name": "Sea of Thieves: 2026 Premium Edition",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 90965,
-      "pricePrevious": 259900,
-      "discountPercent": 65,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 90.965",
-      "pricePreviousLabel": "$ 259.900",
-      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-03 04:59",
-      "url": "https://www.microsoft.com/store/productId/9NKD5GJTS6FH?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.21866.13663299324798234.a7493622-f0f3-472b-8980-d90f064020c6.a709d5e4-bf98-4a09-a76a-9510798c5531",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Microsoft Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9PMQDM08SNK9",
       "storeId": "9PMQDM08SNK9",
       "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
@@ -1368,31 +1318,6 @@
       ],
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9P460GXR9ZVW",
-      "storeId": "9P460GXR9ZVW",
-      "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade (PC)",
-      "platform": "Xbox PC",
-      "kind": "base",
-      "priceCurrent": 29950,
-      "pricePrevious": 59900,
-      "discountPercent": 50,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 29.950",
-      "pricePreviousLabel": "$ 59.900",
-      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-03 04:59",
-      "url": "https://www.microsoft.com/store/productId/9P460GXR9ZVW?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.38432.14594732668559524.b556ac33-8bda-4b99-96c5-074063c78980.6bf00142-d86c-40dd-b0fc-9da8af0cb5c9",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
-      "playAnywhere": false,
       "isNew": false
     },
     {
