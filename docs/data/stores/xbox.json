@@ -14,12 +14,37 @@
   "sources": [
     "official"
   ],
-  "updatedAt": "2026-11-25T23:29:01.054Z",
-  "updatedAtBogota": "2026-11-25 18:29",
+  "updatedAt": "2026-11-26T23:28:51.309Z",
+  "updatedAtBogota": "2026-11-26 18:28",
   "timezone": "America/Bogota",
   "emptyMessage": "Sin ofertas hoy",
   "spotlight": null,
   "deals": [
+    {
+      "id": "xboxpc-9NDBKK9G0FHL",
+      "storeId": "9NDBKK9G0FHL",
+      "name": "Wolfenstein II: The New Colossus",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 19185,
+      "pricePrevious": 127900,
+      "discountPercent": 85,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 19.185",
+      "pricePreviousLabel": "$ 127.900",
+      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-03 04:59",
+      "url": "https://www.microsoft.com/store/productId/9NDBKK9G0FHL?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.16870.13962055139666078.986125ff-0b8d-449b-b456-2db23128a1e6.39d8fa0d-79c2-4691-85cb-b61ede864f59",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": true
+    },
     {
       "id": "xboxpc-9NTM9HXNLSZX",
       "storeId": "9NTM9HXNLSZX",
@@ -1171,31 +1196,6 @@
       "isNew": false
     },
     {
-      "id": "xboxpc-9PPDC1GHF831",
-      "storeId": "9PPDC1GHF831",
-      "name": "The Outer Worlds 2 Premium Upgrade",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 72000,
-      "pricePrevious": 180000,
-      "discountPercent": 60,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 72.000",
-      "pricePreviousLabel": "$ 180.000",
-      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-03 04:59",
-      "url": "https://www.microsoft.com/store/productId/9PPDC1GHF831?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.53888.14267264656419288.70f5edb8-5a78-42b5-8147-332f24b065bc.c10522b3-d79a-4e74-a6e1-8aacbab900b6",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
       "id": "xboxpc-9PDDRVKPF6KG",
       "storeId": "9PDDRVKPF6KG",
       "name": "Ara History Untold: Anniversary Edition",
@@ -1319,6 +1319,31 @@
       "publisher": "Bethesda Softworks",
       "playAnywhere": true,
       "isNew": false
+    },
+    {
+      "id": "xboxpc-9P460GXR9ZVW",
+      "storeId": "9P460GXR9ZVW",
+      "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade (PC)",
+      "platform": "Xbox PC",
+      "kind": "base",
+      "priceCurrent": 29950,
+      "pricePrevious": 59900,
+      "discountPercent": 50,
+      "currency": "COP",
+      "priceCurrentLabel": "$ 29.950",
+      "pricePreviousLabel": "$ 59.900",
+      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
+      "dealEndsAtBogota": "2026-12-03 04:59",
+      "url": "https://www.microsoft.com/store/productId/9P460GXR9ZVW?rtc=1",
+      "image": "//store-images.s-microsoft.com/image/apps.38432.14594732668559524.b556ac33-8bda-4b99-96c5-074063c78980.6bf00142-d86c-40dd-b0fc-9da8af0cb5c9",
+      "confirmed": true,
+      "sources": [
+        "ms-display-catalog",
+        "ms-store-search"
+      ],
+      "publisher": "Bethesda Softworks",
+      "playAnywhere": false,
+      "isNew": true
     },
     {
       "id": "xboxpc-9PFRG44XZCFJ",
@@ -1742,31 +1767,6 @@
         "ms-store-search"
       ],
       "publisher": "Xbox Game Studios",
-      "playAnywhere": true,
-      "isNew": false
-    },
-    {
-      "id": "xboxpc-9PG0T8LFL7LH",
-      "storeId": "9PG0T8LFL7LH",
-      "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade",
-      "platform": "Xbox PC",
-      "kind": "bundle",
-      "priceCurrent": 28630,
-      "pricePrevious": 40900,
-      "discountPercent": 30,
-      "currency": "COP",
-      "priceCurrentLabel": "$ 28.630",
-      "pricePreviousLabel": "$ 40.900",
-      "dealEndsAt": "2026-12-03T09:59:59.0000000Z",
-      "dealEndsAtBogota": "2026-12-03 04:59",
-      "url": "https://www.microsoft.com/store/productId/9PG0T8LFL7LH?rtc=1",
-      "image": "//store-images.s-microsoft.com/image/apps.47556.14194863827211296.8ece0823-63c3-48de-9e5e-327bdd6a2f6f.0a337eb5-117f-4845-8414-fbc01b4c93f4",
-      "confirmed": true,
-      "sources": [
-        "ms-display-catalog",
-        "ms-store-search"
-      ],
-      "publisher": "Bethesda Softworks",
       "playAnywhere": true,
       "isNew": false
     },
