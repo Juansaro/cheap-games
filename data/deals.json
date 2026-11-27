@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-26T23:28:51.309Z",
-  "updatedAtBogota": "2026-11-26 18:28",
-  "updatedAtDate": "2026-11-26",
+  "updatedAt": "2026-11-27T23:08:55.450Z",
+  "updatedAtBogota": "2026-11-27 18:08",
+  "updatedAtDate": "2026-11-27",
   "timezone": "America/Bogota",
   "currencyPreference": "COP",
   "notes": [
@@ -135,6 +135,31 @@
           ],
           "publisher": "Bethesda Softworks",
           "isNew": false
+        },
+        {
+          "id": "steam-236090",
+          "storeId": "236090",
+          "name": "Dust: An Elysian Tail",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 6400,
+          "pricePrevious": 32000,
+          "discountPercent": 80,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.400",
+          "pricePreviousLabel": "COL$ 32.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/236090/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/header.jpg?t=1667838728",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
         },
         {
           "id": "steam-611670",
@@ -462,31 +487,6 @@
           "isNew": false
         },
         {
-          "id": "steam-1097840",
-          "storeId": "1097840",
-          "name": "Gears 5",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 32475,
-          "pricePrevious": 129900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 32.475",
-          "pricePreviousLabel": "COL$ 129.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1097840/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/header.jpg?t=1780003997",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-1920490",
           "storeId": "1920490",
           "name": "The Outer Worlds: Spacer's Choice Edition",
@@ -502,6 +502,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1920490/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920490/header.jpg?t=1794362429",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-1097840",
+          "storeId": "1097840",
+          "name": "Gears 5",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 32475,
+          "pricePrevious": 129900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 32.475",
+          "pricePreviousLabel": "COL$ 129.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1097840/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/header.jpg?t=1780003997",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -562,21 +587,21 @@
           "isNew": false
         },
         {
-          "id": "steam-474960",
-          "storeId": "474960",
-          "name": "Quantum Break",
+          "id": "steam-847370",
+          "storeId": "847370",
+          "name": "Sunset Overdrive",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 18750,
-          "pricePrevious": 75000,
+          "priceCurrent": 9975,
+          "pricePrevious": 39900,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 18.750",
-          "pricePreviousLabel": "COL$ 75.000",
+          "priceCurrentLabel": "COL$ 9.975",
+          "pricePreviousLabel": "COL$ 39.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/474960/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg?t=1773351175",
+          "url": "https://store.steampowered.com/app/847370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -612,21 +637,21 @@
           "isNew": false
         },
         {
-          "id": "steam-847370",
-          "storeId": "847370",
-          "name": "Sunset Overdrive",
+          "id": "steam-474960",
+          "storeId": "474960",
+          "name": "Quantum Break",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 9975,
-          "pricePrevious": 39900,
+          "priceCurrent": 18750,
+          "pricePrevious": 75000,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.975",
-          "pricePreviousLabel": "COL$ 39.900",
+          "priceCurrentLabel": "COL$ 18.750",
+          "pricePreviousLabel": "COL$ 75.000",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/847370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
+          "url": "https://store.steampowered.com/app/474960/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg?t=1773351175",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -712,21 +737,21 @@
           "isNew": false
         },
         {
-          "id": "steam-2625580",
-          "storeId": "2625580",
-          "name": "Killer Instinct: Anniversary Edition",
+          "id": "steam-1415070",
+          "storeId": "1415070",
+          "name": "Gears 5 - Hivebusters",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 32475,
-          "pricePrevious": 129900,
+          "priceCurrent": 22475,
+          "pricePrevious": 89900,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 32.475",
-          "pricePreviousLabel": "COL$ 129.900",
+          "priceCurrentLabel": "COL$ 22.475",
+          "pricePreviousLabel": "COL$ 89.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2625580/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625580/header.jpg?t=1719434531",
+          "url": "https://store.steampowered.com/app/1415070/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415070/header.jpg?t=1611611271",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -734,7 +759,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
         },
         {
           "id": "steam-306130",
@@ -887,31 +912,6 @@
           "isNew": false
         },
         {
-          "id": "steam-268050",
-          "storeId": "268050",
-          "name": "The Evil Within",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 17499,
-          "pricePrevious": 69999,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 17.499",
-          "pricePreviousLabel": "COL$ 69.999",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/268050/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg?t=1750783780",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-350080",
           "storeId": "350080",
           "name": "Wolfenstein: The Old Blood",
@@ -927,6 +927,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/350080/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg?t=1750784023",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-268050",
+          "storeId": "268050",
+          "name": "The Evil Within",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 17499,
+          "pricePrevious": 69999,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 17.499",
+          "pricePreviousLabel": "COL$ 69.999",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/268050/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg?t=1750783780",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1209,7 +1234,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-240760",
@@ -1962,21 +1987,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1613280",
-          "storeId": "1613280",
-          "name": "Forza Horizon 5: Hot Wheels",
+          "id": "steam-2021880",
+          "storeId": "2021880",
+          "name": "Ara History Untold: Anniversary Edition ",
           "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 31960,
-          "pricePrevious": 79900,
+          "kind": "base",
+          "priceCurrent": 59960,
+          "pricePrevious": 149900,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 31.960",
-          "pricePreviousLabel": "COL$ 79.900",
+          "priceCurrentLabel": "COL$ 59.960",
+          "pricePreviousLabel": "COL$ 149.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1613280/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613280/header.jpg?t=1703992111",
+          "url": "https://store.steampowered.com/app/2021880/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021880/38cf019ae19bfda2cdec5426fe6c8918056a694a/header.jpg?t=1758910354",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -1984,32 +2009,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
-          "id": "steam-1613281",
-          "storeId": "1613281",
-          "name": "Forza Horizon 5 Rally Adventure",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 31960,
-          "pricePrevious": 79900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 31.960",
-          "pricePreviousLabel": "COL$ 79.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1613281/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613281/header.jpg?t=1703992121",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
         },
         {
           "id": "steam-2280",
@@ -2062,31 +2062,6 @@
           "isNew": false
         },
         {
-          "id": "steam-2320",
-          "storeId": "2320",
-          "name": "Quake II",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 12000,
-          "pricePrevious": 30000,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.000",
-          "pricePreviousLabel": "COL$ 30.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2320/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-2200",
           "storeId": "2200",
           "name": "Quake III Arena",
@@ -2102,6 +2077,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2200/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg?t=1782164859",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-2320",
+          "storeId": "2320",
+          "name": "Quake II",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 12000,
+          "pricePrevious": 30000,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.000",
+          "pricePreviousLabel": "COL$ 30.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2320/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -2562,31 +2562,6 @@
           "isNew": false
         },
         {
-          "id": "steam-2805520",
-          "storeId": "2805520",
-          "name": "Age of Empires II: DE - Chronicles: Battle for Greece",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 30753,
-          "pricePrevious": 45900,
-          "discountPercent": 33,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 30.753",
-          "pricePreviousLabel": "COL$ 45.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2805520/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805520/header.jpg?t=1779956537",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-1017900",
           "storeId": "1017900",
           "name": "Age of Empires: Definitive Edition",
@@ -2602,6 +2577,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1017900/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1017900/header.jpg?t=1763053714",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2805520",
+          "storeId": "2805520",
+          "name": "Age of Empires II: DE - Chronicles: Battle for Greece",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 30753,
+          "pricePrevious": 45900,
+          "discountPercent": 33,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 30.753",
+          "pricePreviousLabel": "COL$ 45.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2805520/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805520/header.jpg?t=1779956537",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -2659,7 +2659,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2537590",
@@ -3082,7 +3082,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NTM9HXNLSZX",
@@ -4382,7 +4382,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PFRG44XZCFJ",
@@ -5664,7 +5664,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9NTM9HXNLSZX",
@@ -6964,7 +6964,7 @@
           ],
           "publisher": "Bethesda Softworks",
           "playAnywhere": false,
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "xboxpc-9PFRG44XZCFJ",
@@ -8123,6 +8123,31 @@
           "isNew": false
         },
         {
+          "id": "steam-236090",
+          "storeId": "236090",
+          "name": "Dust: An Elysian Tail",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 6400,
+          "pricePrevious": 32000,
+          "discountPercent": 80,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 6.400",
+          "pricePreviousLabel": "COL$ 32.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/236090/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/header.jpg?t=1667838728",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": true
+        },
+        {
           "id": "steam-611670",
           "storeId": "611670",
           "name": "The Elder Scrolls V: Skyrim VR",
@@ -8448,31 +8473,6 @@
           "isNew": false
         },
         {
-          "id": "steam-1097840",
-          "storeId": "1097840",
-          "name": "Gears 5",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 32475,
-          "pricePrevious": 129900,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 32.475",
-          "pricePreviousLabel": "COL$ 129.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1097840/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/header.jpg?t=1780003997",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-1920490",
           "storeId": "1920490",
           "name": "The Outer Worlds: Spacer's Choice Edition",
@@ -8488,6 +8488,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1920490/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920490/header.jpg?t=1794362429",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-1097840",
+          "storeId": "1097840",
+          "name": "Gears 5",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 32475,
+          "pricePrevious": 129900,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 32.475",
+          "pricePreviousLabel": "COL$ 129.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/1097840/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/header.jpg?t=1780003997",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8548,21 +8573,21 @@
           "isNew": false
         },
         {
-          "id": "steam-474960",
-          "storeId": "474960",
-          "name": "Quantum Break",
+          "id": "steam-847370",
+          "storeId": "847370",
+          "name": "Sunset Overdrive",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 18750,
-          "pricePrevious": 75000,
+          "priceCurrent": 9975,
+          "pricePrevious": 39900,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 18.750",
-          "pricePreviousLabel": "COL$ 75.000",
+          "priceCurrentLabel": "COL$ 9.975",
+          "pricePreviousLabel": "COL$ 39.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/474960/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg?t=1773351175",
+          "url": "https://store.steampowered.com/app/847370/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8598,21 +8623,21 @@
           "isNew": false
         },
         {
-          "id": "steam-847370",
-          "storeId": "847370",
-          "name": "Sunset Overdrive",
+          "id": "steam-474960",
+          "storeId": "474960",
+          "name": "Quantum Break",
           "platform": "Steam PC",
           "kind": "base",
-          "priceCurrent": 9975,
-          "pricePrevious": 39900,
+          "priceCurrent": 18750,
+          "pricePrevious": 75000,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 9.975",
-          "pricePreviousLabel": "COL$ 39.900",
+          "priceCurrentLabel": "COL$ 18.750",
+          "pricePreviousLabel": "COL$ 75.000",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/847370/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg?t=1667851405",
+          "url": "https://store.steampowered.com/app/474960/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg?t=1773351175",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8698,21 +8723,21 @@
           "isNew": false
         },
         {
-          "id": "steam-2625580",
-          "storeId": "2625580",
-          "name": "Killer Instinct: Anniversary Edition",
+          "id": "steam-1415070",
+          "storeId": "1415070",
+          "name": "Gears 5 - Hivebusters",
           "platform": "Steam PC",
           "kind": "dlc",
-          "priceCurrent": 32475,
-          "pricePrevious": 129900,
+          "priceCurrent": 22475,
+          "pricePrevious": 89900,
           "discountPercent": 75,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 32.475",
-          "pricePreviousLabel": "COL$ 129.900",
+          "priceCurrentLabel": "COL$ 22.475",
+          "pricePreviousLabel": "COL$ 89.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2625580/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625580/header.jpg?t=1719434531",
+          "url": "https://store.steampowered.com/app/1415070/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1415070/header.jpg?t=1611611271",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -8720,7 +8745,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
         },
         {
           "id": "steam-306130",
@@ -8873,31 +8898,6 @@
           "isNew": false
         },
         {
-          "id": "steam-268050",
-          "storeId": "268050",
-          "name": "The Evil Within",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 17499,
-          "pricePrevious": 69999,
-          "discountPercent": 75,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 17.499",
-          "pricePreviousLabel": "COL$ 69.999",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/268050/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg?t=1750783780",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-350080",
           "storeId": "350080",
           "name": "Wolfenstein: The Old Blood",
@@ -8913,6 +8913,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/350080/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg?t=1750784023",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-268050",
+          "storeId": "268050",
+          "name": "The Evil Within",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 17499,
+          "pricePrevious": 69999,
+          "discountPercent": 75,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 17.499",
+          "pricePreviousLabel": "COL$ 69.999",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/268050/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg?t=1750783780",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -9195,7 +9220,7 @@
             "steam-watchlist"
           ],
           "publisher": "Double Fine Productions",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-240760",
@@ -9948,21 +9973,21 @@
           "isNew": false
         },
         {
-          "id": "steam-1613280",
-          "storeId": "1613280",
-          "name": "Forza Horizon 5: Hot Wheels",
+          "id": "steam-2021880",
+          "storeId": "2021880",
+          "name": "Ara History Untold: Anniversary Edition ",
           "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 31960,
-          "pricePrevious": 79900,
+          "kind": "base",
+          "priceCurrent": 59960,
+          "pricePrevious": 149900,
           "discountPercent": 60,
           "currency": "COP",
-          "priceCurrentLabel": "COL$ 31.960",
-          "pricePreviousLabel": "COL$ 79.900",
+          "priceCurrentLabel": "COL$ 59.960",
+          "pricePreviousLabel": "COL$ 149.900",
           "dealEndsAt": null,
           "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1613280/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613280/header.jpg?t=1703992111",
+          "url": "https://store.steampowered.com/app/2021880/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021880/38cf019ae19bfda2cdec5426fe6c8918056a694a/header.jpg?t=1758910354",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -9970,32 +9995,7 @@
             "steam-watchlist"
           ],
           "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
-          "id": "steam-1613281",
-          "storeId": "1613281",
-          "name": "Forza Horizon 5 Rally Adventure",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 31960,
-          "pricePrevious": 79900,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 31.960",
-          "pricePreviousLabel": "COL$ 79.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/1613281/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613281/header.jpg?t=1703992121",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
+          "isNew": true
         },
         {
           "id": "steam-2280",
@@ -10048,31 +10048,6 @@
           "isNew": false
         },
         {
-          "id": "steam-2320",
-          "storeId": "2320",
-          "name": "Quake II",
-          "platform": "Steam PC",
-          "kind": "base",
-          "priceCurrent": 12000,
-          "pricePrevious": 30000,
-          "discountPercent": 60,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 12.000",
-          "pricePreviousLabel": "COL$ 30.000",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2320/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Bethesda Softworks",
-          "isNew": false
-        },
-        {
           "id": "steam-2200",
           "storeId": "2200",
           "name": "Quake III Arena",
@@ -10088,6 +10063,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/2200/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg?t=1782164859",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Bethesda Softworks",
+          "isNew": false
+        },
+        {
+          "id": "steam-2320",
+          "storeId": "2320",
+          "name": "Quake II",
+          "platform": "Steam PC",
+          "kind": "base",
+          "priceCurrent": 12000,
+          "pricePrevious": 30000,
+          "discountPercent": 60,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 12.000",
+          "pricePreviousLabel": "COL$ 30.000",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2320/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -10548,31 +10548,6 @@
           "isNew": false
         },
         {
-          "id": "steam-2805520",
-          "storeId": "2805520",
-          "name": "Age of Empires II: DE - Chronicles: Battle for Greece",
-          "platform": "Steam PC",
-          "kind": "dlc",
-          "priceCurrent": 30753,
-          "pricePrevious": 45900,
-          "discountPercent": 33,
-          "currency": "COP",
-          "priceCurrentLabel": "COL$ 30.753",
-          "pricePreviousLabel": "COL$ 45.900",
-          "dealEndsAt": null,
-          "dealEndsAtBogota": null,
-          "url": "https://store.steampowered.com/app/2805520/",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805520/header.jpg?t=1779956537",
-          "confirmed": true,
-          "sources": [
-            "steam-appdetails",
-            "steam-search-specials",
-            "steam-watchlist"
-          ],
-          "publisher": "Xbox Game Studios",
-          "isNew": false
-        },
-        {
           "id": "steam-1017900",
           "storeId": "1017900",
           "name": "Age of Empires: Definitive Edition",
@@ -10588,6 +10563,31 @@
           "dealEndsAtBogota": null,
           "url": "https://store.steampowered.com/app/1017900/",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1017900/header.jpg?t=1763053714",
+          "confirmed": true,
+          "sources": [
+            "steam-appdetails",
+            "steam-search-specials",
+            "steam-watchlist"
+          ],
+          "publisher": "Xbox Game Studios",
+          "isNew": false
+        },
+        {
+          "id": "steam-2805520",
+          "storeId": "2805520",
+          "name": "Age of Empires II: DE - Chronicles: Battle for Greece",
+          "platform": "Steam PC",
+          "kind": "dlc",
+          "priceCurrent": 30753,
+          "pricePrevious": 45900,
+          "discountPercent": 33,
+          "currency": "COP",
+          "priceCurrentLabel": "COL$ 30.753",
+          "pricePreviousLabel": "COL$ 45.900",
+          "dealEndsAt": null,
+          "dealEndsAtBogota": null,
+          "url": "https://store.steampowered.com/app/2805520/",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805520/header.jpg?t=1779956537",
           "confirmed": true,
           "sources": [
             "steam-appdetails",
@@ -10645,7 +10645,7 @@
             "steam-watchlist"
           ],
           "publisher": "Bethesda Softworks",
-          "isNew": true
+          "isNew": false
         },
         {
           "id": "steam-2537590",
